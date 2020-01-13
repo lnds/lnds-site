@@ -61,10 +61,10 @@ emprendimiento centrado en soluciones que usaran la
 biometría.
 
 
-Nuestra propuesta de valor era más o menos la siguiente: \"siempre que
+Nuestra propuesta de valor era más o menos la siguiente: "siempre que
 necesites identificar a alguien, en alguna parte de tus procesos de
 negocios, nosotros te entregamos la tecnología para responder tres
-preguntas: **Quién, Dónde y Cuándo**\".
+preguntas: **Quién, Dónde y Cuándo**".
 
 
 Así nació Biokey Technologies. A propósito decidimos usar un nombre en
@@ -133,8 +133,8 @@ parte de los dispositivos biométricos funcionaban en Windows, además
 tendríamos que desplegarlos en computadores con Windows. Había otra
 razón estratégica, queríamos formar alianza con Microsoft, algo que
 logramos por cierto. La tercera, la más importante, era que tanto Gus y
-yo teníamos ganas de aprender C\#. \"Si no es divertido, ¿para qué
-hacerlo?\"
+yo teníamos ganas de aprender C\#. "Si no es divertido, ¿para qué
+hacerlo?"
 
 ![Si no es divertido, ¿para qué
 hacerlo?](https://d2dspjyoh5c79p.cloudfront.net/86468c74-5f0b-11e9-8e69-21c4c306beae-aa9f18b7)
@@ -316,7 +316,7 @@ convenio con las universidades chilenas en 2007 para
 
 Ejecutamos varios proyectos en ese tiempo. Pero la ansiedad empezó a
 comernos también. Uno de los errores que cometimos también ha sido
-identificado por Roberto Camhi, es lo que él denomina [\"foco producto\"](http://robertocamhi.com/que-el-foco-producto-no-termine-matando-tu-producto/).
+identificado por Roberto Camhi, es lo que él denomina ["foco producto"](http://robertocamhi.com/que-el-foco-producto-no-termine-matando-tu-producto/).
 Teníamos una solución tan robusta que insistíamos en que era en eso lo
 que debíamos enfocarnos. Pero vender una solución, más que resolver el
 problema del cliente, es la razón de que muchos emprendimientos
@@ -354,7 +354,7 @@ en la octava parte.
 \[1\] Software Systems Architecture,  Nick Rozanski, Eóin
 Woods [[https://amzn.to/2Xc8F4i](https://amzn.to/2Xc8F4i)
 
-\[2\] \"Enhancing security and privacy in biometrics based authentication\", [N.
+\[2\] "Enhancing security and privacy in biometrics based authentication", [N.
 K. Ratha, J. H. Connell, R. M. Bolle]<https://www.researchgate.net/profile/Jonathan_Connell/publication/220353130_Enhancing_Security_and_Privacy_in_Biometrics-Based_Authentication_Systems/links/555a010508ae6fd2d8281b10/Enhancing-Security-and-Privacy-in-Biometrics-Based-Authentication-Systems.pdf>
 
 La primera parte de esta serie se encuentra

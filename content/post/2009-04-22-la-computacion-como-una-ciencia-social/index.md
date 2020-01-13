@@ -8,17 +8,17 @@ draft: false
 
 En el último número de la CACM, leo el testimonio de [Michael Buckley](http://www.cse.buffalo.edu/faculty/mikeb/), profesor de
 computación en la [universidad de Buffalo](http://www.cse.buffalo.edu/),
-quién, en su artículo \"Computing as Social Science\" se pregunta sobre
+quién, en su artículo "Computing as Social Science" se pregunta sobre
 cómo encantar a los jóvenes para optar por ciencias de la computación.
 
-> \"Estoy preocupado porque con cada nueva clase pocos estudiantes están
+> "Estoy preocupado porque con cada nueva clase pocos estudiantes están
 > escogiendo una carrera en ciencias de la computación, y no es forzar
 > mucho la imaginación pensar que se trata de un problema de imagen. No
 > sólo no estamos alcanzando a los jóvenes de secundaria, sino que creo
 > que también estamos perdiendo a los jóvenes en primer año de la
 > universidad. Y es porque no les ofrecemos a los estudiantes la noción
 > de que la ciencia de la computación es social, relevante e importante
-> y en consecuencia perdemos su interés.\"
+> y en consecuencia perdemos su interés."
 
 
 ![](/images/2009/04/pic8.jpg)
@@ -26,7 +26,7 @@ cómo encantar a los jóvenes para optar por ciencias de la computación.
 Sus preocupaciones empezaron preparando su currículo para el último
 semestre:
 
-> \"Enseño Java, que es más que adecuado para que los nuevos
+> "Enseño Java, que es más que adecuado para que los nuevos
 > programadores aprendan todo lo bueno y malo sobre dirigir un
 > computador. Lo que aprenden es que los computadores nunca hacen lo que
 > queremos, sólo lo que les decimos que hagan. Y lo que les decimos que
@@ -34,7 +34,7 @@ semestre:
 > demasiado insípido. Escribir un mensaje al operador, imprimir los
 > resultados de un cálculo, ordenar algunas listas, y demasiado a menudo
 > el mensaje, los cálculos o las listas son irrelevantes. Entonces, como
-> los mantengo interesados.\"
+> los mantengo interesados."
 
 
 Buscando en libros de texto para enseñar programación, se dió cuenta de
@@ -44,21 +44,21 @@ teoría, al parecer, la práctica que se da en la universidad, es bastante
 poco realista. Ninguno, de los 60 libros que consultó Buckley le hizo
 pensar que la computación era socialmente relevante.
 
-> \"\[Esto es importante\] porque para muchos estudiantes, sus primeras
+> "\[Esto es importante\] porque para muchos estudiantes, sus primeras
 > experiencias con los computadores es a través de la música y sus
 > teléfonos celulares y la imagen que se proyecta, y que es reforzada
 > con lo que se enseña, es que la computación es una cosa banal, o
 > propia de geeks, y no ven que si se dedican a esto van a tener un gran
-> impacto\".
+> impacto".
 
 Fue entonces que dirigió su mirada a dos cursos seniors en la
 universidad de Buffalo, que requieren que los alumnos desarrollen
 sistemas reales, para clientes reales. Pero no cualquier cliente, sino
 que a la comunidad de gente con discapacidades físicas.
 
-Las instrucciones son simples: \"para aprobar este curso debes mejorar
+Las instrucciones son simples: "para aprobar este curso debes mejorar
 la calidad de vida de alguien con menos habilidades que tú, y si no
-puedes, entonces fallas. Así que no falles.\"
+puedes, entonces fallas. Así que no falles."
 
 
 Este proyecto, desarrollado en conjunto con la universidad de Rice, y
@@ -70,7 +70,7 @@ El programa se llama [Socially Relevant Computing](https://www.sociallyrelevantc
 
 Los casos son impactantes:
 
-> \"David, de 43 años, que había sufrido un ataque a los 27, y que no
+> "David, de 43 años, que había sufrido un ataque a los 27, y que no
 > podía comunicarse desde entonces. Se comunicaba con sus enfermeras
 > apuntando una hoja de papel atada a su silla de ruedas. La hoja tenía
 > letras, algunas palabras y frases cortas, las que después de mucha
@@ -82,7 +82,7 @@ Los casos son impactantes:
 > liberaron el sistema, David me llamó a casa con su nueva voz y me dió
 > las gracias, me dijo que había esperado 15 años para hablar por
 > teléfono. Las fotografías que vi más tarde cláramente mostraban a los
-> estudiantes llorando.\"
+> estudiantes llorando."
 
 Los proyectos incluyen sillas de rueda a control remoto, video
 conferencia para niños que no pueden abandonar sus casas o el hospital,

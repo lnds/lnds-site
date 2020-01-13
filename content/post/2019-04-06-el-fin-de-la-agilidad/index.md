@@ -28,7 +28,7 @@ En abril de 2003 estaba sin trabajo, arruinado porque llevaba varios
 meses sin recibir sueldo. Estaba angustiado, mi cuerpo y mi mente no
 respondían. Agotado y cansado. 
 
-La salida desde la CCS había sido un completo fracaso. *\"Paraba la olla\"*[, como decimos
+La salida desde la CCS había sido un completo fracaso. *"Paraba la olla"*, como decimos
 en Chile, en base a pitutos. La historia de cómo llegué a esto aún me da
 rabia, porque fui engañado, estafado como muchos ciudadanos, como el
 mismo estado de Chile.
@@ -151,7 +151,7 @@ de inversiones de riesgo en Sausalito, California. Pero en esos años él
 estaba a cargo de un importante área en Motorola. Visitó Chile porque
 esta compañía quería instalar un centro de I+D en nuestro país. Fue en
 ese almuerzo que varios nos dimos cuenta que el futuro era lo que se
-llamaba en ese tiempo \"la web móvil\".
+llamaba en ese tiempo "la web móvil".
 
 En Europa, producto de la moda de los reality shows y el auge de los SMS
 ya habían experiencias de televisión interactiva. 

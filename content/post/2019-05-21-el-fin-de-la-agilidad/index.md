@@ -260,7 +260,7 @@ cosas no se mueven. No quieres estar en este cuadrante.
 
 El cuadrante inferior derecho es la zona de la ansiedad, la angustia, es
 a donde empujamos a nuestro equipo al extremo y los llevamos al
-\"[burnout](/blog/lnds/2018/09/02/noalburnout)\", es
+"[burnout](/blog/lnds/2018/09/02/noalburnout)", es
 la zona en que quemas a tu equipo. Puedes tener grandes logros, pero a
 un costo muy alto. Es la zona en la que empiezan muchas empresas.
 Nosotros pasamos muchas veces por ahí, al inicio de nuestra travesía
@@ -336,11 +336,11 @@ que nos integramos totalmente a la compañía. Fue en ese tiempo que llegó
 Claudio Sepúlveda a asumir la gerencia, que cambió el nombre a Gerencia
 de Apoyo al Giro. 
 
-Recuerdo que Claudio nos regaló a cada subgerente el libro \"La Meta\"
+Recuerdo que Claudio nos regaló a cada subgerente el libro "La Meta"
 de Eliyahu Goldratt. Fue así como aprendí sobre la teoría de las
 restricciones de este pensador. Claudio nos trajo un estilo de liderazgo
 diferente. Su definición de equipo también se me quedó grabada, para él
-un equipo es ***\"un conjunto de conversaciones recurrentes\"***.
+un equipo es ***"un conjunto de conversaciones recurrentes"***.
 
 Claudio nos desafiaba a intercambiar nuestras opiniones libremente,
 sobretodo a Rubén y a mí. Sospechaba que en varios aspectos no
@@ -376,8 +376,8 @@ presentando en distintas partes, y que ahora les voy a compartir:
     gusta.
 -   Hay que cumplir, más que prometer.
 -   La confianza es un valor fundamental para nosotros, siempre
-    partiremos confiando, pero como dicen por ahí: \"confía, pero
-    controla\"
+    partiremos confiando, pero como dicen por ahí: "confía, pero
+    controla"
 
 Nadie puso esto en piedra al principio de nuestra jornada de diez años,
 estos principios los fuimos adoptando gradualmente. Pero la cultura no

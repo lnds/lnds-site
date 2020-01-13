@@ -13,8 +13,8 @@ image:
 **(para escuchar la banda sonora de este post haz click [en este
 enlace](https://open.spotify.com/user/ediazlnds/playlist/7yfpyhyQ0QtajwIzfAXEcc?si=MsUgk62ZQB2nTOUiPD4KEQ))**
 
-> \"Mission First\
-> People Alway\"\
+> "Mission First\
+> People Alway"\
 > --- Us Air Force Mantra
 
 [CBGB OMFUG](https://es.wikipedia.org/wiki/CBGB) era un Club ubicado en
@@ -23,12 +23,12 @@ Manhattan, en Nueva York, que se convirtió en el epicentro del Punk y el
 New Wave en los primeros años de la década del ochenta. En CBGB hicieron
 su estreno Talking Heads, The Ramones y Blondie.
 
-En su libro [\"How Music Works\"](https://amzn.to/2xBpoTU) David Byrne, 
+En su libro ["How Music Works"](https://amzn.to/2xBpoTU) David Byrne, 
 músico y fundador de The Talking Heads, cuenta que él consideraba a CBGB
-como un sistema auto organizativo. \"Una entidad emergente gobernada por
+como un sistema auto organizativo. "Una entidad emergente gobernada por
 pocas reglas que Hilly Kristal estableció al principio, reglas que
 permitieron que toda una escena emergiera en Nueva York a fines de la
-década de los 70\".
+década de los 70".
 
 Mi unidad se desarrollaba de la misma forma que la escena Punk en CBGB,
 de una manera orgánica, emergiendo a partir de muy pocas reglas. No
@@ -72,14 +72,14 @@ necesidad de los usuarios.
 Así fue que los chicos empezaron a realizar pequeñas mejoras. Recuerdo
 que teníamos más de 400 tickets en Jira que se resolvieron en 4 meses de
 trabajo. Un día me encontré con Rosita en el ascensor a las 5 de la
-tarde, \"¿tan temprano te vas hoy?\", le pregunté.  \"Sí\", me dijo, no
+tarde, "¿tan temprano te vas hoy?", le pregunté.  "Sí", me dijo, no
 sólo había terminado su labor, además su jefa le había dado además el
-siguiente día libre. Me dijo algo como: \"ya no me quedo hasta tarde
-gracias a las mejoras que hicieron tus chiquillos\". Fue así que me
+siguiente día libre. Me dijo algo como: "ya no me quedo hasta tarde
+gracias a las mejoras que hicieron tus chiquillos". Fue así que me
 sentí orgulloso de mi equipo, y se los agradecí. 
 
-Por ese tiempo construyeron otra herramienta que denominaron \"Ejecutor
-de Procesos\", que seguimos usando hasta hoy. Un sistema que ha resuelto
+Por ese tiempo construyeron otra herramienta que denominaron "Ejecutor
+de Procesos", que seguimos usando hasta hoy. Un sistema que ha resuelto
 muchos problemas y ha facilitado la vida de nuestros usuarios. Una
 aplicación cuyo diseño no me convencía mucho al principio, debo
 confesar. Contábamos con un equipo con mucho potencial, pero todo eso
@@ -174,9 +174,8 @@ en otro momento.
 > Please don\'t push me aside \
 > --- Blondie
 
-En su libro [\"Radical Candor: How to Get What You Want By Saying What
-You Mean\"](https://amzn.to/2LFlCBi), Kim Scott nos ilustra con el
-siguiente gráfico:
+En su libro ["Radical Candor: How to Get What You Want By Saying What You Mean"](https://amzn.to/2LFlCBi), 
+Kim Scott nos ilustra con el ssiguiente gráfico:
 
 
 ![](https://d2dspjyoh5c79p.cloudfront.net/db50780d-a0d6-11e9-8e69-21c4c306beae-aa9f18b7)
@@ -249,7 +248,7 @@ en el equipo de Elizabeth, eran Contardo y Gustavo, que habían llegado
 cuando reorganizamos al equipo de explotación y lo transformamos en el
 equipo de Control de Calidad y Soporte. Con ellos intentamos implantar
 integración continua, sin mucho éxito, debido a un fenómeno que yo llamo
-\"materia oscura\", del que les hablaré más adelante en esta serie. No
+"materia oscura", del que les hablaré más adelante en esta serie. No
 pudimos retenerlos, les hicieron una oferta laboral que no podíamos
 igualar. 
 

@@ -6,8 +6,8 @@ tags: ["diversidad", "mujeres en tecnología", "desarrollo", "gestión"]
 draft: false
 ---
 
-\"Que los hombres son de marte, y las mujeres de venus\", \"¡viva la
-diferencia!\". Al final del día todos los debates sobre equidad de
+"Que los hombres son de marte, y las mujeres de venus", "¡viva la
+diferencia!". Al final del día todos los debates sobre equidad de
 género y participación femenina en la vida laboral terminan derivando en
 los estereotipos clásicos que permiten vender millones de libros y
 enriquecer a sicólogos de segunda.
@@ -32,22 +32,22 @@ Se ha tratado de explicar este fenómeno de diversas formas, pero aún no
 existe una explicación que convenza a todos ([ni la habrá](/blog/lnds/2011/07/05/decisiones-irracionales)).
 
 Sin embargo, esto que observamos en la ingeniería tradicional es
-inexplicable para mí en informática, y más en el caso del \"desarrollo
-de software\". Mis lectores más antiguos saben que tengo una visión
-crítica sobre la idea de \"ingeniería informática\", reconozco que
+inexplicable para mí en informática, y más en el caso del "desarrollo
+de software". Mis lectores más antiguos saben que tengo una visión
+crítica sobre la idea de "ingeniería informática", reconozco que
 existe la ingeniería de sistemas, o de comunicaciones, pero en el ámbito
-del desarrollo de software, lo que hemos denominado \"ingeniería de
-software\" está, en mi visión, bastante alejado de lo que entendemos
+del desarrollo de software, lo que hemos denominado "ingeniería de
+software" está, en mi visión, bastante alejado de lo que entendemos
 como ingeniería.
 
 Hay estudios que muestran que las mujeres sienten mayor afinidad por
 actividades o profesiones que promuevan las interacciones sociales, es
 por esto que se las ve en medicina, sicología, sociología, y todas la
-llamadas \"ciencias sociales\". Las ciencias duras, y las técnicas, por
+llamadas "ciencias sociales". Las ciencias duras, y las técnicas, por
 su naturaleza más individualista, y más centrada en los conocimientos
 estructurados, no es del gusto femenino. Si es ese el caso, el hecho de
 que haya menos mujeres desarrollando software es una gran incógnita,
-porque el desarrollo de software es una [\"ciencia social\"](/blog/lnds/2009/04/22/la-computacion-como-una-ciencia-social).
+porque el desarrollo de software es una ["ciencia social"](/blog/lnds/2009/04/22/la-computacion-como-una-ciencia-social).
 
 Despejemos de una vez por todas el mito de que las mujeres no tienen la
 capacidad para estudiar ciencias duras, es un estereotipo que debe ser
@@ -75,8 +75,8 @@ trabajo?, ¿qué efecto pueden tener sobre el desempeño de los mismos?, ¿o
 da lo mismo?
 
 En 2007 la [London Business School](http://www.london.edu/index.html)
-publicó un studio titulado \"Innovative Potential: Men and Women in
-Teams\" (pueden bajarlo
+publicó un studio titulado "Innovative Potential: Men and Women in
+Teams" (pueden bajarlo
 [aquí](/docs/grattonreportinnovative_potential_nov_2007.pdf)).
 
 Este estudio encontró importantes hallazgos sobre el impacto en las
@@ -85,11 +85,11 @@ hombres y mujeres. La principal conclusión que se desprende es que a
 nivel de equipos la innovación se ve fuertemente influenciada cuando se
 tiene un equipo con una proporción del 50:50 entre hombres y mujeres.
 
-> \"On a team level it was interesting to note that the key levers and
+> "On a team level it was interesting to note that the key levers and
 > drivers for innovative processes are positively influenced by having a
 > 50:50 proportions of men and women in teams. This clearly shows that
 > equal gender representation can help to unlock the innovative
-> potential of teams.\"
+> potential of teams."
 
 El estudio abarcó diversas industrias, tecnológicas, de manufacturas,
 educación, consultoría, servicios financieros, telecomunicaciones, etc.
@@ -179,7 +179,7 @@ StartechConf 2013](http://www.startechconf.com/speakers), donde estaré
 hablando de estos temas.
 
 Así que espero que el mensaje quede claro, no es sólo por razones de
-\"justicia\" con el género femenino que necesitamos mayor participación
+"justicia" con el género femenino que necesitamos mayor participación
 de ellas, es porque es el medio de fomentar más innovación en nuestro
 equipos, y eso es lo que diferenciará a las empresas/equipos que tendrán
 éxito en el futuro. Y ustedes, ¿promueven una mayor integración de las

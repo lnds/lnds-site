@@ -65,8 +65,8 @@ mucho con mi padre, lo nuestro era escuchar radio juntos.
 > solitude]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
 
 Un domingo, yo tendría unos nueve o diez años, mi papá hacía turno en
-Radio El Loa, en Chuquicamata. Estábamos solos. \"Vamos a buscar
-discos\", me dijo. Nos metimos en una sala inmensa, para mi, llena de
+Radio El Loa, en Chuquicamata. Estábamos solos. "Vamos a buscar
+discos", me dijo. Nos metimos en una sala inmensa, para mi, llena de
 discos. Buscamos canciones, mi viejo quería temas folclóricos, pero no
 buscaba las típicas sonatas conocidas. Fuimos juntando los discos, al
 lado de la consola y de los tornamesas. Empezó a anotar el orden de los
@@ -74,12 +74,12 @@ temas,  estaba inventando un programa de radio. Recuerdo que tenía un
 libro, seguramente  de Oreste Plath, o de la historia de Chuquicamata. 
 
 Empezó el programa, entre canción y canción, leía algo del libro. Mi
-viejo tenía una buena voz, \"educada\" como dicen en la radio. Juan
+viejo tenía una buena voz, "educada" como dicen en la radio. Juan
 Carlos Gil, un antofagastino, que después se convirtió en famoso locutor
 de radio en Santiago, le enseñó a usarla. Cuidaba su dicción, buscaba
 las palabras adecuadas, como los locutores antiguos, como [Don Petronio
 Romo](//www.youtube.com/watch?v=L2-WLsaeiIk), a quién admiraba  y con
-quién trabajó, grabando \"cuñas\" o avisos para la radio oficial de
+quién trabajó, grabando "cuñas" o avisos para la radio oficial de
 Codelco Chuquicamata.
 
 > Invisible airwaves crackle with life\
@@ -114,7 +114,7 @@ También pude conseguir discos originales. Una vez gané un concurso, y
 recibí como premio un disco a mi elección, fuimos con mis compañeros,
 que también habían ganado, a la tienda de música, uno eligió un disco de
 Electric Light Ochestra, probablemente Discovery,  yo me llevé  el
-vinilo de  Kilroy Was Here, de Styx, los \"*lentos*\" de ese álbum eran
+vinilo de  Kilroy Was Here, de Styx, los "*lentos*" de ese álbum eran
 muy solicitados por mis amigos, especialmente para colocarlos durante
 las fiestas. Con el tiempo con algunos de esos amigos empezamos a tocar
 en nuestra propia banda y yo tocaba la batería.

@@ -235,7 +235,7 @@ Sherryl Crow no pertenece al movimiento Garage Rock Revival, pero su
 canción Leaving Las Vegas tiene el verso adecuado, así que perdón a los
 puristas.
 
-La primer parte de esta \"autobiografía no autorizada la encuentras
+La primer parte de esta "autobiografía no autorizada" la encuentras
 acá: [https://www.lnds.net/blog/lnds/2019/03/17/el-fin-de-la-agilidad](/blog/lnds/2019/03/17/el-fin-de-la-agilidad).
 
 La segunda parte: [https://www.lnds.net/blog/lnds/2019/03/18/el-fin-de-la-agilidad](/blog/lnds/2019/03/18/el-fin-de-la-agilidad).

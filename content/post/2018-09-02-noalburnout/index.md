@@ -13,7 +13,7 @@ image:
 
 
 Trabajar muchas horas, sobre tiempo, aunque te lo traten de vender como
-algo \"bacán\", e innovador, no lo es. Eso no es ni agilidad ni
+algo "bacán", e innovador, no lo es. Eso no es ni agilidad ni
 transformación, es todo lo contrario de lean.
 
 El burnout \[1\] corresponde al desgaste físico, mental o emocional
@@ -63,7 +63,7 @@ dejo por si les interesa el tema:
 ## ¿Cómo puedes detectar esto?
 
 
-En su libro \"Accelerate\"\[3\], los autores muestran que ellos midieron
+En su libro "Accelerate"\[3\], los autores muestran que ellos midieron
 el grado de burnout mediante las siguientes preguntas:
 
 
@@ -118,14 +118,14 @@ evitarlo: [https://www.meetup.com/Santiago-Devops-and-Continuous-Delivery-Meetu
 ### **NOTAS:**
 
 
-\[1\] Burnout se traduce literalmente como \"estar quemado\", pero se
+\[1\] Burnout se traduce literalmente como "estar quemado", pero se
 refiere a ese estado de fatiga total que experimentas con tu trabajo,
 esa sensación que te lleva a considerar abandonarlo, o simplemente
 mandarlo al diablo.
 
 
-\[2\] \"Early Predictors of Job Burnout and Engagement\", Leiter and
+\[2\] "Early Predictors of Job Burnout and Engagement", Leiter and
 Maslach, Journal of Applied Psychology 93. 
 
-\[3\] \"Accelerate. Building and Scaling High Performing Technology
-Organizations.\", Nicole Forsgreen, Jez Humble and Gene Kim.
+\[3\] "Accelerate. Building and Scaling High Performing Technology
+Organizations.", Nicole Forsgreen, Jez Humble and Gene Kim.

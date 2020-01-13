@@ -6,8 +6,8 @@ tags: ["música"]
 draft: false
 ---
 Gracias a todos los que me han enviado comentarios y han dado likes a
-los últimos tres posts, una serie que he titulado \"El Fin de la
-Agilidad\". 
+los últimos tres posts, una serie que he titulado "El Fin de la
+Agilidad". 
 
 Es la serie más personal que he escrito, y para escribirla he rememorado
 los momentos musicales de los años que corresponden al relato. No se
@@ -19,7 +19,7 @@ tengan alguna relación.
 
 Soy una persona que ama mucho la música, hijo de un hombre radio (algo
 que [relaté en otra parte](/blog/lnds/2015/06/21/el-espiritu-de-la-radio)).
-Así que he decidido que esta sea una \"experiencia multimedia\", y por
+Así que he decidido que esta sea una "experiencia multimedia", y por
 lo tanto de ahora en adelante cada post irá acompañado de una banda
 sonora, la que consiste en una mini lista en Spotify con una muestra de
 unas 10 canciones o temas musicales representativos.

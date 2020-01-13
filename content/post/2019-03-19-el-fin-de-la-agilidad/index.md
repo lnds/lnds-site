@@ -138,8 +138,8 @@ esta fascinante mujer del chat.  Me gustó su voz. Ella estaba en el
 campo, y mientras sus hijos dormían, ella estaba mirando las estrellas
 conversando conmigo. Hablamos por horas, decidimos que debíamos
 conocernos en persona. Nos juntamos un viernes de diciembre en la noche,
-fuimos a cenar a un lugar que ya no existe, que se llamaba \"Agua Na
-Boca\", en Tobalaba. Fue ahí, ese mismo día que nos conocimos, que nos
+fuimos a cenar a un lugar que ya no existe, que se llamaba "Agua Na
+Boca", en Tobalaba. Fue ahí, ese mismo día que nos conocimos, que nos
 dimos nuestro primer beso.
 
 > We'll spend the night together\
@@ -175,7 +175,7 @@ debes descartarlos totalmente. Esta técnica tan sencilla es muy
 De este modo, empecé a organizar el trabajo de mi equipo, y así podía
 liberar tiempo para escaparme a almorzar con mi negrita. Con mi equipo
 teníamos una reunión semanal donde revisábamos los proyectos, el resto
-era resolver los problemas como llegaban siguiendo este \"triage\" que
+era resolver los problemas como llegaban siguiendo este "triage" que
 te da la matriz de Eisenhower. Puedes dibujarlo en una pizarra, y
 colocar las tareas usando post it, o simplemente llevarla en un
 cuaderno, como lo hacía yo. Años después abandoné esta técnica para usar

@@ -61,14 +61,14 @@ hacer. Lo mismo pasa con la posición contraria.
 
 Tanto el sesgo de confirmación, como el razonamiento motivado impiden en
 gran medida que podamos resolver disputas, porque las partes miran al
-mismo conjunto de \"hechos\" y desprenden de ellos diferentes
+mismo conjunto de "hechos" y desprenden de ellos diferentes
 impresiones de la realidad. Esto se da incluso en la ciencia, donde los
 científicos tienden a cuestionar la evidencia que contradice sus
 creencias pre existentes, al respecto,  Max Planck apuntó:
 
-> \"Una nueva verdad científica no triunfa convenciendo a sus
+> "Una nueva verdad científica no triunfa convenciendo a sus
 > oponentes y haciéndoles verla luz, sino más bien porque sus
-> oponentes eventualmente mueren\"
+> oponentes eventualmente mueren"
 
 Así que existen una gran cantidad de factores relevantes que afectan
 nuestro comportamiento, y nuestras decisiones, de una manera realmente

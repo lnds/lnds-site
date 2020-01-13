@@ -18,8 +18,8 @@ primero entregaba la respuesta extremadamente rápido, y el otro se
 demoraba una eternidad. El programador llevó una copia de la base de
 datos a su PC y empezó a depurar. Cuando me puse a ayudarlo noté algo,
 al ejecutar el procedimiento con problemas el  computador se ponía
-ruidoso. \"¿Por qué suena tu computador?\" \"Porque se activa el
-ventilador\". \"Sí, pero hay algo más\". Efectivamente, el disco también
+ruidoso. "¿Por qué suena tu computador?" "Porque se activa el
+ventilador". "Sí, pero hay algo más". Efectivamente, el disco también
 sonaba porque empezaba a girar más de lo normal. Con el procedimiento
 almacenado más rápido no había ruido alguno y el disco apenas se movía.
 Ese ruido nos llevó a la pista correcta, el problema estaba en la tabla
@@ -30,8 +30,8 @@ que depuré de oido.
 
 La otra historia que tengo para contarles es más épica ;)
 
-Hace años, teníamos un contrato para implementar un sistema \"hot
-backup\". Era un trabajo poco frecuente y desafiante, este módulo era
+Hace años, teníamos un contrato para implementar un sistema "hot
+backup". Era un trabajo poco frecuente y desafiante, este módulo era
 una pieza  auxiliar de un sistema
 [SCADA](https://es.wikipedia.org/wiki/SCADA) más grande.
 
@@ -40,7 +40,7 @@ colocado el producto como sistema de control de una planta automatizada
 de cementos en  Talcahuano. Como parte del servicio se incluía nuestra
 componente de hot backup, lo que garantizaba la tolerancia a fallas.
 
-Este módulo *\"hot backup\"* fue un bonito desafío técnico. El sistema
+Este módulo *"hot backup"* fue un bonito desafío técnico. El sistema
 se implementaba en una modalidad  activo/pasivo, es decir, se instalaba
 en dos instancias sobre servidores distintos. El módulo hot backup
 monitoreaba el servidor activo, se preocupaba de mantener sincronizada
@@ -54,8 +54,8 @@ Yo estaba a cargo del desarrollo. Fueron varios meses de programación
 distribuidos en la escuela lo apliqué en ese proyecto, y de paso aprendí
 varias cosas más.
 
-El problema es que desde Talcahuano reportaban que el Sistema SCADA \"se
-caía\" ante una demanda alta y activando el sistema secundario, sin una
+El problema es que desde Talcahuano reportaban que el Sistema SCADA "se
+caía" ante una demanda alta y activando el sistema secundario, sin una
 razón que lo justificara. Las sospechas cayeron sobre mi módulo hot
 backup. Montamos un laboratorio y llegué a la conclusión que no había
 nada malo en mi código. Como no nos creyeron, fuimos a una reunión con
@@ -79,7 +79,7 @@ días, y el sistema no fallaba y no conseguíamos reproducir la situación
 
 Antes de seguir, déjenme contarles como funcionaba la planta. Esta era
 una planta totalmente automatizada que preparaba sacos de cemento
-*\"just in time\"*,  es decir, según la demanda. El cemento estaba en
+*"just in time"*,  es decir, según la demanda. El cemento estaba en
 silos. El sistema SCADA permitía que un operador eligiera los silos
 fuente, y la cantidad de sacos a producir. Apretaba un botón y se
 activaban las máquinas, el cemento empezaba a desplazarse por correas
@@ -109,7 +109,7 @@ De repente notamos que el operador empezaba a programar una gran
 cantidad de cargas. Un click tras otro, en rápida secuencia. Y ahí,
 frente a nuestros ojos, el servidor principal se cae, y empieza a operar
 mi módulo hot backup, tomando el control y activando el secundario.
-\"Ahí está, ¿vé? así se cae\".  Pasaron los segundos y el segundo
+"Ahí está, ¿vé? así se cae".  Pasaron los segundos y el segundo
 servidor tomaba el control, pero algunas de las tareas programadas no
 estaban, se habían perdido.
 

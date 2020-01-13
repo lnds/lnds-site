@@ -227,8 +227,7 @@ los ingenieros tienden a desestimar, o ignorar otros fenómenos externos
 al proyecto, los que pueden poner en peligro la ejecución del mismo.
 Desde la posibilidad de enfermarse, hasta el hecho de estar usando una
 biblioteca de software que no es compatible con el ambiente productivo
-del cliente. El "overhead", suele ser ignorado por los ingenieros.[*\
-*]{style="letter-spacing: 0.01rem;"}
+del cliente. El "overhead", suele ser ignorado por los ingenieros.
 
 ### Tres: los directores de proyectos estiman mejor
 

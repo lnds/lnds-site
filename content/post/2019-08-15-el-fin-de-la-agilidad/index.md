@@ -51,8 +51,8 @@ batería" *(tomen nota de esto porque es importante).
 A fines de 2015, como [relaté en la parte 11](/blog/lnds/2019/07/07/el-fin-de-la-agilidad),
 estábamos en crisis. Ese mismo año, en la
 [StartechConf](https://2015.starsconf.com/), presenté una charla que
-titulé [\"El viaje del agente de
-cambio\"](https://es.slideshare.net/EduardoDiazCortes/el-viaje-del-agente-de-cambio-54912695),
+titulé 
+["El viaje del agente de cambio"](https://es.slideshare.net/EduardoDiazCortes/el-viaje-del-agente-de-cambio-54912695),
 donde reflexioné sobre mi intento por cambiar como persona y hacer
 cambios en mi organización. Pero había pecado de soberbia al tratar de
 llevar el cambio con pura voluntad y sin involucrar demasiado a mis
@@ -213,7 +213,7 @@ organización.
 
 ## Ritmo y Rito
 
-> \"Rhythm is the soul of life. The whole universe revolves in rhythm.
+> "Rhythm is the soul of life. The whole universe revolves in rhythm.
 > Every thing and every human action revolves in rhythm." \
 > --― Baba Tunji
 
@@ -278,7 +278,7 @@ problema con la calidad y la entrega.
 
 ## Calidad
 
-> \"I don\'t think there\'s such a thing as a \'best\' drummer\"\
+> "I don\'t think there\'s such a thing as a \'best\' drummer"\
 > ― Mike Portnoy
 
 Esta viñeta cómica de [Geek & Poke](http://geek-and-poke.com/) refleja
@@ -383,8 +383,8 @@ tiempo. El espíritu del equipo cambió. 
 
 ## Nuestro viaje de transformación 
 
-> \"It´s nice when somebody says that you\'re their \'favorite\'
-> drummer\" 
+> "It´s nice when somebody says that you\'re their \'favorite\'
+> drummer" 
 > --― Mike Portnoy
 
 Todo es lo contamos a la comunidad ágil de nuestro país,  en un Meetup

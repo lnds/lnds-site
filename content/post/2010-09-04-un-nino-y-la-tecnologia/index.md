@@ -26,7 +26,7 @@ día final del plazo y junto a él la idea; no escribiré sobre algo
 relacionado con el contenido del blog, escribiré sobre lo que la
 tecnología ha significado para mi a lo largo de mis 21 años y cómo el
 autor de este blog ha formado parte esencial en dicho proceso de
-\"crecimiento tecnológico\".
+"crecimiento tecnológico".
 
 Para este propósito es necesario remontarme al momento en el que mi vida
 dio un vuelco. Recuerdo que mi madre salía con Eduardo y nos llevó, por

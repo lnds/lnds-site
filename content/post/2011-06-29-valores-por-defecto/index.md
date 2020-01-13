@@ -69,15 +69,15 @@ de por qué se da este fenómeno, y la explicación es absurdamente simple:
 > órganos.*
 
 Esto explica esta enorme diferencia entre todos estos países. Los
-detalles están en el estudio: \"Do defaults save lives?\" de Eric
+detalles están en el estudio: "Do defaults save lives?" de Eric
 Johnson y Daniel Goldstein (disponible en esta dirección: <https://webs.wofford.edu/pechwj/Do%20Defaults%20Save%20Lives.pdf>)
 
-\"En el caso de la donación de órganos, los países europeos tienen una
+"En el caso de la donación de órganos, los países europeos tienen una
 de dos políticas por defecto. En los estados con consentimiento
 presumido, la gente es donante de órganos a menos que ellos se registren
 para no ser donante de órganos, y en los países con consentimiento
 explícito, nadie es donante de órganos sin que previamente se registre
-para serlo\". Y adivinen que pasa. Todos los países con un mecanismo
+para serlo". Y adivinen que pasa. Todos los países con un mecanismo
 opt-out de donación de órganos tienen tasas de donación más alta. (\*)
 
 Entender la influencia de las opciones por defecto es importante, porque
@@ -90,9 +90,9 @@ toman decisiones racionales. En general las teorías de las decisiones
 racionales asumen que la gente prefiere lo que es mejor para ellos. Esta
 opinión es muy atractiva, porque sus implicaciones son que todo el
 comportamiento humano puede ser entendido en términos de intentos
-individuales para satisfacer sus preferencias: \"Yo voto porque me
+individuales para satisfacer sus preferencias: "Yo voto porque me
 preocupa participar en política, y cuando voto escojo al candidato que
-mejor servirá mis intereses.\" Aunque sabemos que no es así, al menos no
+mejor servirá mis intereses." Aunque sabemos que no es así, al menos no
 en Chile ;) Pero igual es posible encontrar una razón por la que aún hay
 gente que vota.
 
@@ -111,17 +111,17 @@ el sentido que usaría un economista tradicional.
 
 Cuando estudiamos por qué la gente toma las decisiones que toma debemos
 analizar los incentivos que enfrentan al tomar una decisión. De este
-modo podremos encontrar una explicación \"racional\" de porque se
+modo podremos encontrar una explicación "racional" de porque se
 comportan de una manera. El problema es que lo que hemos hecho es
-precisamente \"racionalizar\" el comportamiento, pero racionalizar algo
+precisamente "racionalizar" el comportamiento, pero racionalizar algo
 no es lo mismo que entenderlo, o explicarlo.
 
-> *\"Racionalizar el comportamiento humano es un ejercicio de
+> *"Racionalizar el comportamiento humano es un ejercicio de
 > simulación. En nuestra mente simulamos lo que sería ser la persona
 > cuyo comportamiento queremos entender. Sólo cuando podemos imaginar a
 > esta versión simulada de nosotros mismos respondiendo de la manera del
 > individuo en cuestión realmente sentimos que hemos entendido el
-> comportamiento estudiado.\" \[1\]*
+> comportamiento estudiado." \[1\]*
 
 Y sin embargo, como el ejemplo de los donante de órganos, nuestras
 simulaciones mentales tienden  a ignorar ciertos tipos de factores que

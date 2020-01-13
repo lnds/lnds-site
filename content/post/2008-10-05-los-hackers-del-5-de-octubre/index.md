@@ -42,7 +42,7 @@ Es la mañana del 5 de **octubre**:
 
 > Tenemos que tener cuidado con patear el coaxial de la red \... No hay
 > tiempo para hacer respaldos, pero por si acaso se llevaron un juego de
-> diskettes de 5 1/4\" con los fuentes y las bases de datos \...
+> diskettes de 5 1/4" con los fuentes y las bases de datos \...
 >
 > Nunca se sabe \... ¿A qué hora me toca ir a votar? ¿Quién me va a
 > llevar? \... Tenemos problemas con los operadores de los FAX \... Puta
@@ -153,9 +153,9 @@ Hay que volver:
 > ver números y procesar **archivos** \... Pero comenzaron a llegar
 > nuevos resultados \... En muchas partes el NO empezaba a subir y a
 > ganar \... La tendencia se revertía \... Vimos a Cardemil dar el
-> primer cómputo, y en su discurso indicaba como \"tendencia
-> irrevocable\" la ganancia del SI con una cantidad ridícula de mesas
-> \... \"Nos van a borrar\" pienso para mí, y sé que varios en mi
+> primer cómputo, y en su discurso indicaba como "tendencia
+> irrevocable" la ganancia del SI con una cantidad ridícula de mesas
+> \... "Nos van a borrar" pienso para mí, y sé que varios en mi
 > entorno sienten lo mismo, pero tenemos que seguir \... Nosotros a las
 > 19:30 teníamos mas del 25% de los cómputos \... Y los números nos
 > daban otros resultados .
@@ -170,11 +170,11 @@ Y la tensión empieza a crecer
 > nuestro país lo que durante muchos años hicimos y denunciamos? ¿Qué
 > hemos hecho mal?\... No importa \... Hay que procesar \... Hay que
 > seguir \... Y hay que enviar lo que tengamos para que otros lo puedan
-> analizar y perpetuar \... \"Cabros, cerraron el Centro \... Hay una
+> analizar y perpetuar \... "Cabros, cerraron el Centro \... Hay una
 > alta probabilidad de que vuelen el Comando Central al lado del Diego
-> Portales \... Sólo lo protege la cobertura internacional de prensa\"
-> \... Las otras líneas son más débiles \... \"Prepárense porque podemos
-> ser la única alternativa que quede\" ..
+> Portales \... Sólo lo protege la cobertura internacional de prensa"
+> \... Las otras líneas son más débiles \... "Prepárense porque podemos
+> ser la única alternativa que quede" ..
 
 REM estaba de cumpleaños ese mismo día, al final, la amistad es más
 importante que cualquier revolución política, no me equivoco, lo piensan
@@ -183,10 +183,10 @@ también estos jóvenes:
 
 > REM: Lo otro que tengo presente es que durante ese día y esa noche no
 > había tiempo para nada más que para trabajar. Había que sacara informe
-> tras informe y enviar todos nuestros recuentos a \"la piscina\". Qué
+> tras informe y enviar todos nuestros recuentos a "la piscina". Qué
 > cresta era la famosa piscina? Nunca he tenido 100% de certeza, unos
 > dicen que era una embajada, otros que era la iglesia, el hecho es que
-> era \"algo\" a donde fueron a parar todos nuestros resultados. Bueno,
+> era "algo" a donde fueron a parar todos nuestros resultados. Bueno,
 > el asunto es que en algún momento nos detuviste a todos y les contaste
 > que yo estaba de cumpleaños y me cantaron y hubo abrazos y mucha
 > emoción y\... y todo el mundo volvió a lo suyo\... todos, incluso yo

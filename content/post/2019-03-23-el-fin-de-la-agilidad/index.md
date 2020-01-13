@@ -81,10 +81,10 @@ esta anécdota.
 
 ## Ingeniería de Software
 
-> \"Working hard to get my fill\
+> "Working hard to get my fill\
 Everybody wants a thrill\
 Payin\' anything to roll the dice\
-Just one more time\" --- Journey
+Just one more time" --- Journey
 
 
 Con mi equipo en la CCS, cuyo núcleo central estaba compuestoa por 6 a 8
@@ -147,9 +147,9 @@ así:
 
 ![](https://d2dspjyoh5c79p.cloudfront.net/ab76a602-4d76-11e9-8e69-21c4c306beae-aa9f18b7)
 
-Este es famoso \"desarrollo en cascada\", conocido también como *\"la
+Este es famoso "desarrollo en cascada", conocido también como *"la
 forma más ineficiente de organizar el proceso de desarrollo de
-software\"*.
+software"*.
 
 No sé que viene primero, si el proceso es el que conforma la estructura
 del equipo, o es el equipo el que estructura la forma del proceso, pero
@@ -234,7 +234,7 @@ informaciones comerciales. Y la CCS decidió adoptar una estrategia nueva
 en la manera en que prestaba algunos de sus servicios de información. Se
 imitó el modelo de la distribución de energía. En la industria eléctrica
 están las generadoras y las distribuidoras. La Cámara asumiría un rol de
-\"generador\", como la fuente oficial de información sobre morosidades y
+"generador", como la fuente oficial de información sobre morosidades y
 deudas. Otras empresas, como DataBussiness, Equifax (DICOM), Sinacofi y
 otros tendrían el rol de
 distribuidoras.

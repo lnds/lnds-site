@@ -3,6 +3,7 @@ title: "Avanzar"
 featured_image: "https://d2dspjyoh5c79p.cloudfront.net/b4eb05bb-0ddf-11e9-a030-2b5831f8ecb5-aa9f18b7"
 date: 2019-01-01T08:25:11-03:00
 slug: "avanzar"
+tags: ["año nuevo", "reflexiones"]
 draft: false
 ---
 
@@ -17,7 +18,7 @@ Escribo esto desde uno de los lugares favoritos de mi casa, rodeado de
 árboles y plantas, la mañana de año nuevo de dos mil diecinueve.
 
 Dos mil dieciocho, ¡qué año! Ayer leí en redes sociales como varios
-conocidos pedían que se fuera el \"año de mierda\", y por esas extrañas
+conocidos pedían que se fuera el "año de mierda", y por esas extrañas
 e irónicas casualidades, en la playlist aleatoria de mi teléfono escuché
 una canción, de Ervin Drake, interpretada por Frank Sinatra que se
 titula "It Was a Very Good Year" (una canción romántica que recuerda
