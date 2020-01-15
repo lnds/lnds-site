@@ -2,6 +2,7 @@
 title: "The Chain"
 date: 2018-01-06T08:25:11-03:00
 slug: "the-chain"
+tags: ['blockchain', 'arquitectura', 'OOP', 'patrones', 'encadenamiento', 'inmutabilidad']
 draft: false
 image:
   placement: 3
@@ -10,7 +11,7 @@ image:
 > "Chain, keep us together\
 > Running in the shadows\
 > Chain, keep us together\
-> Running in the shadows\
+> Running in the shadows
 
 [The Chain](https://en.wikipedia.org/wiki/The_Chain) tiene la
 peculiaridad de ser la única canción de Fleetwood Mac firmada por todos

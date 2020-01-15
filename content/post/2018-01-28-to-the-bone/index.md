@@ -4,6 +4,7 @@ subtitle: "(The Chain, parte 2)"
 date: 2018-01-28T08:25:11-03:00
 slug: "to-the-bone"
 draft: false
+tags: ['blockchain', 'teorema cap', consenso', 'sistemas distribuidos']
 image:
   placement: 3
 ---
@@ -240,7 +241,7 @@ cosas:
 
 A estas tres garantias se les llama CAP por sus siglas en inglés
 (Consistency, Availability, Partitio Tolerance). He hablado antes de
-este tema en [este artículo](http://www.lnds.net/blog/lnds/2012/5/25/dos-de-tres-el-teorema-cap).
+este tema en [este artículo](/blog/lnds/2012/05/25/dos-de-tres-el-teorema-cap).
 
 Lo importante a recordar acá es que existe un resultado que nos dice que
 no podemos contar con las tres garantías al mismo tiempo en un sistema
