@@ -24,13 +24,10 @@ mezclas con algunos amigos. Sé que otros de mis propios amigos hacían lo
 mismo. ¿Cuándo fue esto? Probablemente en 1982 ó1983,  yo tendría unos
 16 años.
 
-::: {.medium-insert-images .medium-insert-active .medium-insert-images-right}
 ![](//d2dspjyoh5c79p.cloudfront.net/9a1595dd-180f-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
-> Plays that song that\'s so elusive\
-> [And the magic music makes your morning
-> mood]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Plays that song that's so elusive\
+> And the magic music makes your morning mood
 
 Mi padre también cuando fue adolescente instaló su primera emisora de
  radio, de hecho mi estación funcionaba con un transmisor que él me
@@ -43,16 +40,13 @@ duraban hasta que la mamá de su amigo decidía tender la ropa recién
 lavada\...
 
 > Off on your way, hit the open road\
-> [There is magic at your
-> fingers]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> There is magic at your fingers
 
 También recuerdo un largo viaje desde Santiago hasta nuestra casa en
 Chuquicamata. Todos dormían en la parte de atrás del auto, solo
 seguíamos despiertos mi viejo y yo. 
 
-::: {.medium-insert-images .medium-insert-images-left}
 ![](//d2dspjyoh5c79p.cloudfront.net/ad35d35e-180f-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
 Animado por él movía  el dial, buscando una señal am o quizás en onda
 corta. Sólo nos acompañaba el ruido blanco del receptor,  nuestro
@@ -61,8 +55,7 @@ luciérnagas pegadas a los cielos del desierto nortino. No hablábamos
 mucho con mi padre, lo nuestro era escuchar radio juntos.
 
 > For the Spirit ever linger\
-> [Undemanding contact in your happy
-> solitude]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Undemanding contact in your happysolitude
 
 Un domingo, yo tendría unos nueve o diez años, mi papá hacía turno en
 Radio El Loa, en Chuquicamata. Estábamos solos. "Vamos a buscar
@@ -77,14 +70,13 @@ Empezó el programa, entre canción y canción, leía algo del libro. Mi
 viejo tenía una buena voz, "educada" como dicen en la radio. Juan
 Carlos Gil, un antofagastino, que después se convirtió en famoso locutor
 de radio en Santiago, le enseñó a usarla. Cuidaba su dicción, buscaba
-las palabras adecuadas, como los locutores antiguos, como [Don Petronio
-Romo](//www.youtube.com/watch?v=L2-WLsaeiIk), a quién admiraba  y con
+las palabras adecuadas, como los locutores antiguos, como 
+[Don Petronio Romo](//www.youtube.com/watch?v=L2-WLsaeiIk), a quién admiraba  y con
 quién trabajó, grabando "cuñas" o avisos para la radio oficial de
 Codelco Chuquicamata.
 
 > Invisible airwaves crackle with life\
-> [Bright antennae bristle with the
-> energy]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Bright antennae bristle with the energy
 
 No sé cuantos años estuvo su programa dominical al aire, pero si sé que
 tuvo un moderado éxito. A la gente le gusta que le cuenten historias, y
@@ -95,8 +87,7 @@ dedos. ¿Qué cosas habría hecho hoy en día? ¿Tendría un podcast? Eso es
 casi seguro.
 
 > Emotional feedback on timeless wavelength\
-> [Bearing a gift beyond price, almost
-> free]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Bearing a gift beyond price, almost free
 
 Mezclar canciones fue el primer paso, buscarlas en mis cassettes. Estaba
 *pirateando*, porque grababa los viernes en la noche desde las radios fm
@@ -106,9 +97,7 @@ diciendo el nombre de la radio, o algunas, cada un minuto un beep. El
 truco para saltar esas marcas  era la consola, que me permitía mezclar
 dos o tres canales.
 
-::: {.medium-insert-images .medium-insert-images-right}
 ![](//d2dspjyoh5c79p.cloudfront.net/ea1f3d6f-180f-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
 También pude conseguir discos originales. Una vez gané un concurso, y
 recibí como premio un disco a mi elección, fuimos con mis compañeros,
@@ -120,25 +109,22 @@ las fiestas. Con el tiempo con algunos de esos amigos empezamos a tocar
 en nuestra propia banda y yo tocaba la batería.
 
 > All this machinery making modern music\
-> [Can still be open hearted\
-> ]{style="letter-spacing: 0.01rem; line-height: 1.5;"}[Not so coldly
-> charted]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Can still be open hearted\
+> Not so coldly charted
 
 The Spirit of Radio es el primer tema del álbum Permanent Waves, de
 Rush, que salió a l mercado el 1 de enero de 1980, así que esta canción
 es la primera de los \'80, la década en que viví mi adolescencia, cuando
 empecé a vivir mi juventud.
 
-::: {.medium-insert-images .medium-insert-images-left}
 ![](//d2dspjyoh5c79p.cloudfront.net/f700f830-180f-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
 No recuerdo cuando empecé a escuchar a Rush, quizás en la universidad,
 de seguro recién a fines de esa década. Como baterista, Neil Peart no
 era un referente para mi todavía, cuando empezamos a tocar.
 
-> It\'s really just a question of your honesty, yeah\
-> [Your honesty]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> It's really just a question of your honesty, yeah\
+> Your honesty
 
 Nos juntábamos a tocar fines de semana enteros. Partíamos temprano en la
 mañana, como las ocho y terminábamos exhaustos, pasada las once de la
@@ -156,23 +142,20 @@ tiempo en que jugué RockBand, pero ese juego apenas es un pálido reflejo
 del placer que sentía tocando en la banda con mis amigos. 
 
 No añoro esas horas sólo en mi pieza, *perillando*, mezclando canciones,
-pero era entretenido y es un bonito recuerdo. [No soy un nostálgico,
+pero era entretenido y es un bonito recuerdo. No soy un nostálgico,
 pero quería recordar, recordar esas cosas, y recordar  a mi viejo. Su
 amor por la radio, su pasión, que a lo mejor lo llevó a la
-muerte.]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+muerte.
 
 > But glittering prizes and endless compromises\
-> [Shatter the illusion of
-> integrity]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Shatter the illusion of integrity
 
 No sé si ustedes saben, pero esas luces rojas que están en lo alto de
 las antenas de radio, como faros parpadeando todas las noches. Bueno,
 esas luces también se  queman y hay que cambiarlas. Enormes focos, de
 cientos de watts, deben ser reemplazados  por alguien.
 
-::: {.medium-insert-images .medium-insert-images-right}
 ![](//d2dspjyoh5c79p.cloudfront.net/14350361-1810-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
 Una serie de desafortunados sucesos alejaron a mi padre de las consolas,
 y de los micrófonos. Lo alejaron a la fuerza, en realidad, porque él
@@ -198,8 +181,7 @@ la torre, y también como al otro día se quedaba en casa descansando
 agotado por la tarea, mientras yo tenía que ir al colegio.
 
 > Invisible airwaves crackle with life\
-> [Bright antennae bristle with the
-> energy]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Bright antennae bristle with the energy
 
 Una vez acompañe a mi padre a reparar un transmisor de radio Calama. Ese
 día aprendí el inmenso poder de la radio frecuencia, mi padre me
@@ -213,8 +195,7 @@ que lo tuvo en cama varios días. Meses después le diagnosticaron cancer,
 tenía treinta y nueve años.
 
 > Emotional feedback on timeless wavelength\
-> [Bearing a gift beyond price, almost
-> free]{style="letter-spacing: 0.01rem; line-height: 1.5;"}
+> Bearing a gift beyond price, almost free
 
 Yo no sé si las ondas de radio le causaron cancer, pero sí estuvo
 expuesto a fuertes fuentes de radiación electro magnética por su
@@ -228,38 +209,5 @@ Me quedo con su espíritu, y el espíritu de la radio, ese espíritu que
 tenía en esa época, y que representaban personas como mi padre, ese
 espíritu al que le cantan  Alex, Geddy y por supuesto a Neil.
 
-::: {.medium-insert-images .medium-insert-images-wide}
 ![](//d2dspjyoh5c79p.cloudfront.net/21a25c52-1810-11e5-a640-83ed6ac97527-aa9f18b7)
-:::
 
-\
-:::
-
-::: {.comments}
-
-------------------------------------------------------------------------
-
-¿Te gustó? Danos tu auspicio en [Patreon](https://www.patreon.com/lnds)
-[Become a Patron!](https://www.patreon.com/bePatron?u=6503283)
-:::
-
-::: {.comments}
-### Comentarios
-
-::: {#disqus_thread aria-live="polite"}
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)
-:::
-:::
-:::
-:::
-
-::: {.row}
-::: {.col-sm-offset-1 .col-sm-10}
-[La Naturaleza Del Software]{.small} [© Eduardo Diaz Cortes]{.small}
-
-[Publicado usando Prosa - release 0.3.9]{.small}
-:::
-:::
-:::
-:::
