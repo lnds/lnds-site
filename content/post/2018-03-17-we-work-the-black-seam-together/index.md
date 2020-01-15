@@ -1,14 +1,13 @@
 ---
 title: "We work the black seam together"
 subtitle: "(The Chain parte final)"
-date: 2018-01-28T08:25:11-03:00
+date: 2018-03-17T08:25:11-03:00
 slug: "we-work-the-black-seam-together"
 draft: false
 tags: ['blockchain', 'proof of work']
 image:
   placement: 3
 ---
-
 
 > This place has changed for good\
 > Your economic theory said it would
