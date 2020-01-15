@@ -8,6 +8,7 @@ tags: ['blockchain', 'teorema cap', consenso', 'sistemas distribuidos']
 image:
   placement: 3
 ---
+
 > *"Once we've made sense of our world,\
 we wanna go fuck up everybody else's\
 because his or her truth doesn't match mine.\
