@@ -11,7 +11,7 @@ image:
 > Si me gustan las canciones de amor\
 > y me gustan esos raros peinados nuevos,\
 > ya no quiero criticar,\
-> sólo quiero ser un enfermero.
+> sólo quiero ser un enfermero.\
 > -- Charly García
 
 Siempre me pregunté qué quería decir Charly con eso de "sólo quiero
