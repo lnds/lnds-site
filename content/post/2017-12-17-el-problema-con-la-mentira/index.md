@@ -3,7 +3,7 @@ title: "El problema con la mentira"
 date: 2017-12-17T08:25:11-03:00
 slug: "el-problema-con-la-mentira"
 draft: false
-tags: ['mentira', 'sociología', 'reflexiones', 'maldad']
+tags: ['mentira', 'sicología', 'reflexiones', 'maldad']
 image:
   placement: 3
 ---
