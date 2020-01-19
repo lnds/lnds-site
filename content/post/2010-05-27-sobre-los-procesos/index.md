@@ -3,7 +3,7 @@ title: "Sobre los procesos"
 date: 2010-05-27T08:25:11-03:00
 slug: "sobre-los-procesos"
 draft: false
-tags: ['proceso', 'flujo']
+tags: ['proceso', 'flujo', 'citas']
 image:
   placement: 3
 ---
