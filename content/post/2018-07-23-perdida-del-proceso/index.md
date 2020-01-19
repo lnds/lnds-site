@@ -3,7 +3,7 @@ title: "Pérdida del Proceso"
 date: 2018-07-23T08:25:11-03:00
 slug: "perdidad-del-proceso"
 draft: false
-tags: ['procesos', 'trabajo en equipo', 'sicología', 'comportamiento', 'colaboración']
+tags: ['procesos', 'trabajo en equipo', 'sicología', 'comportamiento', 'colaboración', 'sociología']
 image:
   placement: 3
 ---
