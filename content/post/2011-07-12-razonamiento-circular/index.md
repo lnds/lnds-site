@@ -1,6 +1,6 @@
 ---
 title: "Razonamiento circular"
-date: 2011-07-20T08:25:11-03:00
+date: 2011-07-12T08:25:11-03:00
 slug: "razonamiento-circular"
 draft: false
 tags: ['sentido común', 'sicología', 'sesgos', 'sociología', 'complejidad']
