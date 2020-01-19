@@ -1,6 +1,6 @@
 ---
 title: "Fraude con tarjetas de crédito"
-date: 2018-08-09T08:25:11-03:00
+date: 2018-07-29T08:25:11-03:00
 slug: "fraude-con-tarjetas-de-credito"
 draft: false
 tags: ['seguridad']
