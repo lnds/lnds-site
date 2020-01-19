@@ -1,7 +1,7 @@
 ---
 title: "Vectores"
 subtitle: "9 desafíos en 9 lenguajes (3 de 9)"
-date: 2011-07-20T08:25:11-03:00
+date: 2017-01-02T08:25:11-03:00
 slug: "vectores"
 draft: false
 tags: ['programación', 'lenguajes de programación', 'desafíos']
