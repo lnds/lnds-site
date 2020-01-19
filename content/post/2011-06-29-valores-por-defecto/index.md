@@ -1,7 +1,7 @@
 ---
 title: "Valores por defecto"
 date: 2011-06-29T08:25:11-03:00
-slug: "valores-por-defectos"
+slug: "valores-por-defecto"
 tags: ['sesgos cognitivos', 'prejuicios', 'sicología']
 draft: false
 ---

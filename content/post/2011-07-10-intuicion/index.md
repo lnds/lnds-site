@@ -12,7 +12,7 @@ En los últimos artículos no sólo hemos [cuestionando al sentido común](/blo
 si no que además hemos visto que no somo muy racionales al momento de
 tomar decisiones
 ([1](/blog/lnds/2011/07/05/decisiones-irracionales) y
-[2](/blog/lnds/2011/06/valores-por-defecto)).
+[2](/blog/lnds/2011/06/29/valores-por-defecto)).
 
 Si el sentido común es tan malo para lidiar con los fenómenos sociales
 complejos, ¿por qué no es más evidente esta limitación? Después de todo

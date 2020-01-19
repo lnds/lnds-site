@@ -1,6 +1,6 @@
 ---
 title: "La paradoja del sentido común"
-date: 2011-06-29T08:25:11-03:00
+date: 2011-06-28T08:25:11-03:00
 slug: "la-paradoja-del-sentido-comun"
 draft: false
 tags: ['sentido común', 'sicología', 'sesgos', 'sociología']
