@@ -215,7 +215,7 @@ madre insistió por muchos años en que fue un accidente.
 
 -   Una historia sobre la máquina Enigma se encuentra en este sitio: [Kriptópolis la máquina Enigma](https://www.kriptopolis.org/la-maquina-enigma)
 
--   [Este video](/blog/lnds/2010/06/la-maquina-de-turing-explicada-por-el-mismo-turing.html)
+-   [Este video](/blog/lnds/2010/06/12/la-maquina-de-turing-explicada-por-el-mismo-turing)
     es un fragmento de la película [Breaking The Code](http://www.imdb.com/title/tt0115749/), donde Turing explica el concepto detrás de la máquina de Turing.
 
 -   Una biografía de Von Neumman se encuentra [en este sitio](http://www.astroseti.org/articulo/4101/biografia-de-john-von-neumann), de donde sacamos algunas citas.
