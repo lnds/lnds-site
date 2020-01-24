@@ -194,7 +194,7 @@ siempre en el pasado. Johnny von Neumann, que supo como vivir tan
 plenamente, no supo como morir."
 
 Alan Turing siguió investigando en diversos temas, en 1952 escribió 
-[un programa de ajedrez](/blog/lnds/2008/01/ajedrez),
+[un programa de ajedrez](/blog/lnds/2008/01/18/ajedrez),
 pero era imposible correrlo en ningún computador de esa época, y el
 actuaba como CPU humana. Sus últimos años los dedicó a la biología
 matemática, tratando de entender por que se daban secuencias de números
