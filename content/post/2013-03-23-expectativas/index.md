@@ -1,7 +1,9 @@
 ---
 title: "Expectativas"
+subtile: "lo quiere vs lo que necesita el usuario"
 date: 2013-03-23T08:25:11-03:00
 slug: "expectativas"
+aliases: [/blog/lnds/2013/3/23/expectativas]
 draft: false
 tags: ['análisis', 'desarrollo', 'casos de uso']
 image:
@@ -22,7 +24,7 @@ factura tuviera fecha de vencimiento menor a la fecha de emisión, y
 contemplada en el caso de uso! ¡¿Sabés que podés hacer con tus casos de
 uso?! le contesté..."
 
-![](http://d2dspjyoh5c79p.cloudfront.net/026209e4-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/026209e4-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
 
 :smile:  Suele suceder, con bastante frecuencia en realidad, hasta yo mismo
 en alguna ocasión he usado ese argumento, si no está en el caso de uso,
@@ -94,7 +96,7 @@ cliente, "responder al cambio por sobre seguir un plan". Construimos
 software, el usuario lo prueba, no es lo que esperaba, iteramos
 nuevamente....
 
-![](http://d2dspjyoh5c79p.cloudfront.net/82655706-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/82655706-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
 
 No es que esté en contra del movimiento ágil, pero después de años de
 intentar adherirme a sus principios, y observando los resultados
@@ -135,7 +137,7 @@ descripción por si misma no nos dice mucho sobre cómo serán usadas estas
 funciones, o por qué se usarán.
 
 Una lección que aprendieron los autores del libro [Lean
-Architecture](http://amzn.to/11uAEJX) fue la siguiente:
+Architecture](https://amzn.to/11uAEJX) fue la siguiente:
 
 > "Aprendimos una lección sobre las expectativas de los usuarios a
 > partir de un cliente nuestro. El cliente construye sistemas de
@@ -268,4 +270,4 @@ preguntarán, bueno, de eso vamos a hablar en los próximos posts ;-)
 
 [^1]: <https://www.inc.com/magazine/19890401/5602.html>
 
-[^2]: [Lean Architecture, for Agile Software Development](http://amzn.to/11uAEJX), James Coplien & Gertrud Bjornvig.
+[^2]: [Lean Architecture, for Agile Software Development](https://amzn.to/11uAEJX), James Coplien & Gertrud Bjornvig.

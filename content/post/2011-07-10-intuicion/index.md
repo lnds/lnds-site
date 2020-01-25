@@ -2,6 +2,7 @@
 title: "Intuición"
 date: 2011-07-10T08:25:11-03:00
 slug: "intuicion"
+aliases: [/blog/lnds/2011/7/10/intuicion]
 draft: false
 tags: ['sentido común', 'intuición', 'sicología', 'sesgos', 'sociología']
 image:

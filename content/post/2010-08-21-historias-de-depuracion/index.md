@@ -89,7 +89,9 @@ sistema controlaba esas máquinas, software escrito por un grupo de
 jóvenes ingenieros, con los que trabajé varios meses. El módulo que
 elegía la ruta más óptima para mover el cemento fue escrito por uno de
 mis socios, así que también era un orgullo para
-mí.[![](http://www.lnds.net/blog/wp-content/uploads/2010/08/planta.jpg)](http://www.lnds.net/blog/wp-content/uploads/2010/08/planta.jpg)
+mí.
+
+![](planta.jpg)
 
 Faltaban dos días para que se cumpliera el plazo,
 y estábamos frustrados. Ese día nos quedamos hasta mas tarde, notamos

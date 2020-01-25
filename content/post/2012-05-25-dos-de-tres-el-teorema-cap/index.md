@@ -2,6 +2,7 @@
 title: "Dos de Tres: El Teorema CAP"
 date: 2012-05-25T08:25:11-03:00
 slug: "dos-de-tres-el-teorema-cap"
+aliases: [/blog/lnds/2012/5/25/dos-de-tres-el-teorema-cap]
 draft: false
 tags: ['teorema cap', 'consistencia', 'disponibilidad', 'arquitectura', 'sistemas distribuidios']
 image:
@@ -9,7 +10,7 @@ image:
 ---
 
 
-Mi amiga ISA [reclama por sus papitas](http://idelabar.blogspot.com/2012/04/quiero-mis-papitas-d.html),
+Mi amiga ISA [reclama por sus papitas](https://idelabar.blogspot.com/2012/04/quiero-mis-papitas-d.html),
 se refiere a un problema que tuvo al tratar de adquirir objetos con su
 tarjeta de crédito para un juego online. Este es un problema común, lo
 que todos esperamos es que si el dinero ha sido descontado de nuestra
@@ -23,7 +24,7 @@ servicios que pagamos estén disponibles. O cuando pagamos una cuenta en
 linea, esperamos que todo esté acreditado y no tengamos problemas
 posteriores.
 
-En [su artículo](http://idelabar.blogspot.com/2012/04/quiero-mis-papitas-d.html)
+En [su artículo](https://idelabar.blogspot.com/2012/04/quiero-mis-papitas-d.html)
 Isabel menciona  las propiedades que deben cumplir las bases de datos
 transaccionales, el famoso acrónimo ACID: Atomicity (Atomicidad),
 Consistency (Consistencia), Isolation (Aislamiento) y Durability
@@ -36,17 +37,17 @@ El problema es que implementar sistemas que respeten estas propiedades
 en sistemas distribuidos ¡es muy difícil! Es más, existe un importante
 resultado que nos dice que en sistemas distribuidos hacer esto requiere
 ciertos compromisos. Ese resultado es conocido como el 
-[Teorema CAP](http://en.wikipedia.org/wiki/CAP_Theorem), y sospecho que no muchos
+[Teorema CAP](https://en.wikipedia.org/wiki/CAP_Theorem), y sospecho que no muchos
 de ustedes lo conocen, y si se dedican a la arquitectura de sistemas
 deberían.
 
 # El Teorema CAP 
 
-El 19 de julio de 2000 el profesor [Eric Brewer](http://www.cs.berkeley.edu/~brewer/), 
+El 19 de julio de 2000 el profesor [Eric Brewer](https://www.cs.berkeley.edu/~brewer/), 
 planteó una conjetura en
 base a su trabajo implementando Inktomi.
 
-![](http://www.lnds.net/blog/wp-content/uploads/2012/05/Inktomi.png)
+![](Inktomi.png)
 
 Inktomi era la gran promesa de ese tiempo, se consideraba que sería el
 buscador que terminaría desplazando a  AltaVista, bueno, eso fue antes
@@ -69,7 +70,7 @@ la ACM planteó la siguiente conjetura:
 >     la falla de parte del sistema.
 
 Dos años más tarde Seth Gilbert y Nancy Lynch del MIT publicaron
-[una demostración](http://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf)
+[una demostración](https://lpd.epfl.ch/sgilbert/pubs/BrewersConjecture-SigAct.pdf)
 de la conjetura de Brewer, estableciéndolo como un teorema,
 probablemente uno de los teoremas más importantes de las ciencias de la
 computación, y uno de gran importancia para todos los que nos dedicamos
@@ -91,7 +92,7 @@ elegir dos.
 
 Como la demostración del teorema es muy técnica, voy a explicarles en
 términos simples usando 
-[un bonito ejemplo](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
+[un bonito ejemplo](https://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 escrito por Kaushik Sathupadi.
 
 ### **Capítulo 1: Un nuevo emprendimiento**

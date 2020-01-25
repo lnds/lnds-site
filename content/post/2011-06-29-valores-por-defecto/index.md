@@ -2,6 +2,7 @@
 title: "Valores por defecto"
 date: 2011-06-29T08:25:11-03:00
 slug: "valores-por-defecto"
+aliases: [/blog/lnds/2011/6/29/valores-por-defecto]
 tags: ['sesgos cognitivos', 'prejuicios', 'sicología']
 draft: false
 ---
@@ -148,8 +149,8 @@ opt-out (desde el 2010), es decir, la gente es donante de órganos a
 menos que explícitamente se niegue a que sus órganos sean donados. Otra
 cosa es que la donación se haga efectiva, la principal causa de no
 donación de órganos en Chile es la negativa de los familiares
-(ver <http://www.trasplante.cl/noticias/2011/img/memoria_corporacion.pdf>)
+(ver <https://www.trasplante.cl/noticias/2011/img/memoria_corporacion.pdf>)
 
 
 \[1\] Tomado del libro [Everything Is Obvious: \*Once You Know the
-Answer](http://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0385531680&camp=217145&creative=399373) de Duncan Watts.
+Answer](https://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)s de Duncan Watts.

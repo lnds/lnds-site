@@ -2,6 +2,7 @@
 title: "La paradoja del sentido común"
 date: 2011-06-28T08:25:11-03:00
 slug: "la-paradoja-del-sentido-comun"
+aliases: [/blog/lnds/2011/6/28/la-paradoja-del-sentido-comun]
 draft: false
 tags: ['sentido común', 'sicología', 'sesgos', 'sociología']
 image:
@@ -12,7 +13,7 @@ image:
 En 1941 el ejército norteamericano reportó que había una gran cantidad
 de deserciones en los puntos de embarque en Nueva York. Se le pidió a la
 división de investigación que hiciera un estudio sobre lo que pasaba. El
-encargado fue el sociologo [Samuel A. Stouffer](http://www2.asanet.org/governance/stouffer.html). Después de
+encargado fue el sociologo [Samuel A. Stouffer](https://www2.asanet.org/governance/stouffer.html). Después de
 un rápido estudio descubrió que cuando los soldados eran enviados a sus
 hogares, para despedirse, lo hacían vestidos de civil. La recomendación
 fue que se les enviara a casa vestidos con sus uniformes. La tasa de
@@ -32,7 +33,7 @@ Así empezó su trabajo en el departamento de guerra, durante el cual su
 equipo de investigación sostuvo más de 500.000 entrevistas a
 combatientes norteamericanos de la Segunda Guerra Mundial, un trabajo
 que plasmó en los cuatro volúmenes de 
-[American Soldier, Studies in Social Psychology in World War II](http://openlibrary.org/books/OL6044939M/Studies_in_social_psychology_in_World_War_II_...).
+[American Soldier, Studies in Social Psychology in World War II](https://openlibrary.org/books/OL6044939M/Studies_in_social_psychology_in_World_War_II_...).
 
 ¿Cómo Stouffer comprendió la solución al problema de la deserción
 descrito al principio? Gracias a la aplicación sistemática de las ideas
@@ -131,17 +132,17 @@ respuestas son obvias están en problemas.
 
 [^1]: "Samuel A. Stouffer and The American Soldier", Joseph W. Ryan
 disponible en
-PDF [http://www.ufv.ca/jhb/Volume*7/Volume*7\_Ryan.pdf](http://www.ufv.ca/jhb/Volume_7/Volume_7_Ryan.pdf)
+PDF [https://www.ufv.ca/jhb/Volume*7/Volume*7\_Ryan.pdf](https://www.ufv.ca/jhb/Volume_7/Volume_7_Ryan.pdf)
 interesante para entender el aporte de Stouffer a la sociología.
 
 [^2]: Citado por Duncan Watts en [^3].
 
-[^3]: Tomado del libro [Everything Is Obvious: \*Once You Know the Answer](http://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0385531680&camp=217145&creative=399373)
+[^3]: Tomado del libro [Everything Is Obvious: \*Once You Know the Answer](https://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)
 de Duncan Watts.
 Este libro es uno de los más interesantes que he leido en el último
 tiempo, lo recomiendo a todos los interesados en estos temas, y es la
 base de esta serie de artículos que estoy escribiendo.
 
-[^4]: La frase es citada por Duncan Watts, pero se encuentra completa en:  <http://en.wikiquote.org/wiki/Sociology>
+[^4]: La frase es citada por Duncan Watts, pero se encuentra completa en:  <https://en.wikiquote.org/wiki/Sociology>
 
 

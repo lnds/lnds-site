@@ -2,6 +2,7 @@
 title: "Condiciones necesarias"
 date: 2011-07-20T08:25:11-03:00
 slug: "condiciones-necesarias"
+aliases: [/blog/lnds/2011/7/20/condiciones-necesarias]
 draft: false
 tags: ['sentido común', 'sicología', 'sesgos', 'sociología']
 image:
@@ -71,7 +72,7 @@ atributos.
 > el éxito cuando en realidad están igualmente relacionados con el
 > fracaso." \-- Duncan Watts[^1]
 
-Esto es  [sesgo muestral](http://es.wikipedia.org/wiki/Sesgo_muestral).
+Esto es  [sesgo muestral](https://es.wikipedia.org/wiki/Sesgo_muestral).
 Para entender los problemas que este tipo de distorsiones producen vamos
 a ver un ejemplo. En un importante accidente aéreo, producido en el
 momento del aterrizaje, la comisión investigadora determinó cinco
@@ -120,7 +121,7 @@ para un accidente deja muy mal parada a nuestra intuición para explicar
 los accidentes.
 
 Y lo mismo pasa con todo tipo de eventos raros, como cuando 
-[una persona armada  entra al metro y mata a sus pasajeros](http://www.biobiochile.cl/2011/07/17/al-menos-4-heridos-en-tiroteo-en-estacion-de-metro-plaza-de-maipu-en-santiago.shtml).
+[una persona armada  entra al metro y mata a sus pasajeros](https://www.biobiochile.cl/2011/07/17/al-menos-4-heridos-en-tiroteo-en-estacion-de-metro-plaza-de-maipu-en-santiago.shtml).
 Podremos encontrar todos los atributos que explican el comportamiento de
 esta persona, su perfil sicológico, su pasado, su historia, problemas
 siquiátricos, o de alcohol, depresión, etc. Un montón de condiciones
@@ -130,5 +131,5 @@ metro. Simplemente, no podemos explicar las razones que llevan a una
 persona a actuar así.
 
 
-[^1]: Tomado del libro [Everything Is Obvious: \*Once You Know the  Answer](http://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0385531680&camp=217145&creative=399373)
+[^1]: Tomado del libro [Everything Is Obvious: \*Once You Know the  Answer](https://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)
 de Duncan Watts.
