@@ -5,7 +5,7 @@ date: 2016-03-31T08:25:11-03:00
 slug: "reporte-del-clima"
 aliases: [/blog/lnds/2016/3/31/reporte-del-clima]
 draft: false
-tags: ['desafíos', 'lenguajes de progrmación', 'programación']
+tags: ['desafíos', 'lenguajes de programación', 'programación']
 image:
   placement: 3
 ---
