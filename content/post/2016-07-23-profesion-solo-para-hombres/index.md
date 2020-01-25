@@ -1,5 +1,6 @@
 ---
 title: "Profesión sólo para hombres"
+subtilte: "Las mujeres siempre han estado en tecnología"
 date: 2016-07-23T08:25:11-03:00
 slug: "profesion-solo-para-hombres"
 draft: false

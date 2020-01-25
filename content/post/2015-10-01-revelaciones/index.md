@@ -2,10 +2,10 @@
 title: "Revelaciones"
 subtitle: "epifanía sobre la programación funcional"
 date: 2015-10-01T08:25:11-03:00
-slug: "revelacione"
+slug: "revelaciones"
 aliases: [/lnds/2015/10/1/revelaciones]
 draft: false
-tags: ['revelación', 'programción funcional', 'funciones', 'monadas', 'humor']
+tags: ['revelación', 'revelaciones', 'programción funcional', 'funciones', 'monadas', 'humor']
 image:
   placement: 3
 ---
