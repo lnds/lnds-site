@@ -18,18 +18,16 @@ celebrarlo les dejaré una selección de doce artículos, uno por año,
 espero que los disfrute, y espero seguir doce años más con esto:
 
 -   2017: [Paseando con Dromedarios, reflexiones sobre la Ley de Conway](/blog/lnds/2017/06/26/paseando-con-dromedarios)
--   2016: [Toda empresa es de software, o lo
-    será](http://www.prosa.io/blog/lnds/2016/8/30/toda-empresa-es-de-software-o-lo-sera),
+-   2016: [Toda empresa es de software, o lo será](/blog/lnds/2016/8/30/toda-empresa-es-de-software-o-lo-sera),
     una reflexión sobre las leyes de la computación, la complejidad y el
     emprendimiento. O de otra manera, cómo el teorema de Gödel garantiza
     que siempre habrá algo para emprender.
--   2015:
-    [Revelaciones](http://www.prosa.io/blog/lnds/2015/10/1/revelaciones),
+-   2015: [Revelaciones](/blog/lnds/2015/10/1/revelaciones),
     una noche recibí una visita y fui arrebatado a un estado de
     iluminación apocalíptico.
 -   2014: [VICA](http://www.prosa.io/blog/lnds/2014/10/21/vica),
     Volatilidad, Incerteza, Complejidad y Ambigüedad.
--   2013: [Marte necesita mujeres](https://www.lnds.net/blog/lnds/2013/9/8/marte-necesita-mujeres),
+-   2013: [Marte necesita mujeres](/blog/lnds/2013/9/8/marte-necesita-mujeres),
     por qué los equipos mixtos son mejores.
 -   2012: [Dichos, locos y trenes](http://www.prosa.io/blog/lnds/2012/12/29/dichos-locos-y-trenes),
     donde cuento un par de chistes.

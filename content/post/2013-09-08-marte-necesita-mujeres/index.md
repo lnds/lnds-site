@@ -3,6 +3,7 @@ title: "Marte Necesita Mujeres"
 subtitle: "por qué deben haber más mujeres en tecnología"
 date: 2013-09-08T08:25:11-03:00
 slug: "marte-necesita-mujeres"
+aliases: [/blog/lnds/2013/9/8/marte-necesita-mujeres]
 tags: ["diversidad", "mujeres en tecnología", "desarrollo", "gestión"]
 draft: false
 ---
