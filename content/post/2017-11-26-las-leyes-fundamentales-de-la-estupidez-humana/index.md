@@ -39,20 +39,6 @@ las peores pesadillas de Foucault.
 Pero por otro lado, estas mismas redes se han convertido en un medio de
 difusión de la estupidez humana.
 
-En su libro "Sapiens", el autor Yuval Harrari, nos informa sobre el
-sorprendente hecho de que el tamaño de nuestro cerebro, como especie, ha
-ido disminuyendo en volumen, a lo largo de los años.
-
-> "Existen algunas pruebas de que el tamaño del cerebro del sapiens
-> medio se ha reducido desde la época de los cazadores-recolectores. En
-> aquella época, la supervivencia requería capacidades mentales
-> soberbias de todos. Cuando aparecieron la agricultura y la industria,
-> la gente pudo basarse cada vez más en las habilidades de los demás
-> para sobrevivir, y se abrieron nuevos «nichos para imbéciles». Uno
-> podía sobrevivir y transmitir sus genes nada especiales a la siguiente
-> generación trabajando como aguador o como obrero de una cadena de
-> montaje."[^2]
-
 A pesar del tono despectivo de Harari, lo cierto es que un imbécil es
 probable que tuviera pocas posibilidades de sobrevivir en el mundo de
 los cazadores-recolectores. En ese tiempo se requería una gran destreza
@@ -246,6 +232,3 @@ el poder de los estúpidos y conduce al país a la ruina.
 
 [^1]: Carlo M. Cipolla, Allegro Ma Non Troppo, versión en PDF en este
 enlace: <https://koralieucm.files.wordpress.com/2010/09/carlo-m-cipolla-allegro-ma-non-troppo.pdf>
-
-[^2]: Yuval Noah Harari, Sapiens. De animales a
-dioses. <https://www.amazon.com/Sapiens-animales-dioses-Sapiens-Humankind/dp/8499926223>
