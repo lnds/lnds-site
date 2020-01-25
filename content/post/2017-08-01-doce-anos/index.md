@@ -31,7 +31,7 @@ espero que los disfrute, y espero seguir doce años más con esto:
     por qué los equipos mixtos son mejores.
 -   2012: [Dichos, locos y trenes](http://www.prosa.io/blog/lnds/2012/12/29/dichos-locos-y-trenes),
     donde cuento un par de chistes.
--   2011: [Comprensión de lectura](http://www.prosa.io/blog/lnds/2011/11/12/comprension-de-lectura),
+-   2011: [Comprensión de lectura](/blog/lnds/2011/11/12/comprension-de-lectura),
     un error que ha generado muchos dolores de cabeza
 -   2010: [Cómo contratar malabaristas](http://www.prosa.io/blog/lnds/2010/12/26/como-contratar-malabaristas)
 -   2009: [Las Técnicas de Deystradt](http://www.prosa.io/blog/lnds/2009/11/14/las-tecnicas-de-dreystadt),
