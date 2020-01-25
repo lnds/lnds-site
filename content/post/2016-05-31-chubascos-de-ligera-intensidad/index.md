@@ -5,7 +5,7 @@ date: 2016-05-31T08:25:11-03:00
 slug: "chubascos-de-ligera-intensidad"
 aliases: [/blog/lnds/2016/5/31/chubascos-de-ligera-intensidad]
 draft: false
-tags: ['desafíos', 'lenguajes de programación', 'programación']
+tags: ['desafíos', 'lenguajes de programación', 'programación', 'go', 'rust','erlang','haskell','scala','kotlin', 'clojure','fsharp','swift']
 image:
   placement: 3
 ---
