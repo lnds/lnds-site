@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 2: Britpop"
 date: 2019-03-18T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/3/18/el-fin-de-la-agilidad]
 draft: false
 tags: ["agilidad", "integración continua", "DevOps", "emprendimiento"]
 image:

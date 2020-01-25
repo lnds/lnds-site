@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 6: Funk Metal"
 date: 2019-04-06T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/4/6/el-fin-de-la-agilidad]
 draft: false
 tags: ["agilidad", "trabajo", "principios", "fracasos"]
 image:

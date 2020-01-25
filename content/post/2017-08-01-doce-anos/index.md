@@ -3,6 +3,7 @@ title: "Doce años"
 date: 2017-08-01T08:25:11-03:00
 slug: "doce-anos"
 draft: false
+aliases: [/blog/lnds/2017/8/1/doce-anos]    
 tags: ['aniversario', 'la naturaleza del software', 'blogging']
 image:
   placement: 3

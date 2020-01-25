@@ -3,6 +3,7 @@ title: "Avanzar"
 featured_image: "https://d2dspjyoh5c79p.cloudfront.net/b4eb05bb-0ddf-11e9-a030-2b5831f8ecb5-aa9f18b7"
 date: 2019-01-01T08:25:11-03:00
 slug: "avanzar"
+aliases: [/blog/lnds/2018/1/1/avanzar]
 tags: ["año nuevo", "reflexiones"]
 draft: false
 ---

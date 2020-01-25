@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 12: Modern Drummer"
 date: 2019-08-15T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/8/15/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'desarrollo', 'batería', 'aprender', 'procesos', 'calidad', 'transformación']
 image: 

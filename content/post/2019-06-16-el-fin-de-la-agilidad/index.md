@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 10: Power Trios"
 date: 2019-06-16T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/6/16/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'trabajo', 'gestión', 'personas', 'equipo', 'procesos']
 image: 

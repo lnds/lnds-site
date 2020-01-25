@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 9: Fem Voices"
 date: 2019-05-21T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/5/21/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'valor', 'gestión', 'desarrollo', 'mujeres en tecnología', 'cultura']
 image: 

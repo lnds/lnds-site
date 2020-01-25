@@ -3,6 +3,7 @@ title: "En la Corte del Rey Carmesí"
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 9"
 date: 2019-01-27T08:25:11-03:00
 slug: "en-la-corte-del-rey-carmesi"
+aliases: [/blog/lnds/2019/1/27/en-la-corte-del-rey-carmesi]
 tags: ["Haskell", "Desafíos"]
 draft: false
 image:

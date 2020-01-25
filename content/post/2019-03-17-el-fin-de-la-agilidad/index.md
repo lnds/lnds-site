@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 1: Grunge"
 date: 2019-03-17T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/3/17/el-fin-de-la-agilidad]
 tags: ["agilidad", "emprendimiento"]
 draft: false
 image:

@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 featured_image: "https://d2dspjyoh5c79p.cloudfront.net/03fe2dec-6488-11e9-8e69-21c4c306beae-aa9f18b7"
 date: 2019-04-21T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/4/21/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'familia', 'redes', 'estimación', 'ingeniería de software']
 image:

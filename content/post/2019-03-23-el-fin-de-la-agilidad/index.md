@@ -3,6 +3,7 @@ title: "El Fin de la Agilidad"
 subtitle: "Parte 4: AOR"
 date: 2019-03-23T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
+aliases: [/blog/lnds/2019/3/23/el-fin-de-la-agilidad]
 tags: ["agilidad", "trabajo", "familia", "ingeniería de software"]
 draft: false
 image:
