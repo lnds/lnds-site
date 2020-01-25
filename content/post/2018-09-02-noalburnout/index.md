@@ -2,6 +2,7 @@
 title: "#NoAlBurnout"
 slug: "noalburnout"
 date: 2018-09-02T08:25:11-03:00
+aliases: [/blog/lnds/2018/9/2/noalburnout]
 draft: false    
 tags: ['burnout', 'trabajo', 'sicología']
 image:

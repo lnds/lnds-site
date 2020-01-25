@@ -2,6 +2,7 @@
 title: "El poder de automatizar"
 date: 2018-04-08T08:25:11-03:00
 slug: "el-poder-de-automatizar"
+aliases: [/blog/lnds/2018/4/8/el-poder-de-automatizar]
 draft: false
 tags: ['automatización', 'control de calidad', 'métricas']
 image:

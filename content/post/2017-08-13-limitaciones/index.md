@@ -2,6 +2,7 @@
 title: "Limitaciones"
 date: 2017-08-13T08:25:11-03:00
 slug: "limitaciones"
+aliases: [/blog/lnds/2017/8/13/limitaciones]
 draft: false
 tags: ['rock', 'agilidad', 'devops', 'innovación']
 image:

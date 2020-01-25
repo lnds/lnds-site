@@ -3,6 +3,7 @@ title: "To The Bone"
 subtitle: "(The Chain, parte 2)"
 date: 2018-01-28T08:25:11-03:00
 slug: "to-the-bone"
+aliases: [/blog/lnds/2018/1/28/to-the-bone]
 draft: false
 tags: ['blockchain', 'teorema cap', consenso', 'sistemas distribuidos']
 image:

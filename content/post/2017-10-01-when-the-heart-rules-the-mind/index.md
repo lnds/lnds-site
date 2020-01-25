@@ -3,6 +3,7 @@ title: "When The Heart Rules the Mind"
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 5"
 date: 2017-10-01T08:25:11-03:00
 slug: "when-the-heart-rules-the-mind"
+aliases: [/blog/lnds/2017/10/1/when-the-heart-rules-the-mind]
 draft: false
 tags: ['rock', 'lenguajes de programación', 'desafíos', 'go']
 image:

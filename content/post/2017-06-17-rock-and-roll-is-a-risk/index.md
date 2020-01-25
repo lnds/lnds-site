@@ -2,6 +2,7 @@
 title: "Rock and Roll is a Risk"
 date: 2017-06-17T08:25:11-03:00
 slug: "rock-and-roll-is-a-risk"
+aliases: [/blog/lnds/2017/6/17/rock-and-roll-is-a-risk]
 draft: false
 tags: ['rock', 'riesgos', 'patreon', 'blogging']
 image:

@@ -3,6 +3,7 @@ title: "Occam's Razor"
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 3"
 date: 2017-08-29T08:25:11-03:00
 slug: "occams-razor"
+aliases: [/blog/lnds/2017/8/29/occams-razor]
 draft: false
 tags: ['desafios', 'lenguajes nuevos', 'lenguajes', 'lenguajes de programación', 'programación', 'rock', 'clojure', 'programación funcional']
 image:

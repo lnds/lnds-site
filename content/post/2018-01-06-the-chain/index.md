@@ -2,6 +2,7 @@
 title: "The Chain"
 date: 2018-01-06T08:25:11-03:00
 slug: "the-chain"
+aliases: [/blog/lnds/2018/1/6/the-chain]
 tags: ['blockchain', 'arquitectura', 'OOP', 'patrones', 'encadenamiento', 'inmutabilidad']
 draft: false
 image:

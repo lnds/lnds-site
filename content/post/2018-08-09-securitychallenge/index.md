@@ -2,6 +2,7 @@
 title: "#SecurityChallenge"
 date: 2018-08-09T08:25:11-03:00
 slug: "securitychallenge"
+aliases: [/blog/lnds/2018/8/9/securitychallenge]
 draft: false
 tags: ['seguridad', 'villano invitado']
 image:

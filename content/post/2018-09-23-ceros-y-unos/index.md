@@ -1,7 +1,8 @@
 ---
 title: "Ceros y Unos"
-date: 2018-07-23T08:25:11-03:00
+date: 2018-09-23T08:25:11-03:00
 slug: "ceros-y-unos"
+aliases: [/blog/lnds/2018/9/23/ceros-y-unos]
 draft: false
 tags: ['computación', 'código binario', 'historia']
 image:

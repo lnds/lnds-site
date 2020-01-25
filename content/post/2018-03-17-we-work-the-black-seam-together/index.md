@@ -3,6 +3,7 @@ title: "We work the black seam together"
 subtitle: "(The Chain parte final)"
 date: 2018-03-17T08:25:11-03:00
 slug: "we-work-the-black-seam-together"
+aliases: [/blog/lnds/2018/3/17/we-work-the-black-seam-together]
 draft: false
 tags: ['blockchain', 'proof of work']
 image:

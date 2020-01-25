@@ -3,6 +3,7 @@ title: "El botón de los 300 millones de dólares"
 subtitle: "o porqué la UX importa"
 date: 2017-07-23T08:25:11-03:00
 slug: "el-boton-de-los-300-millones-de-dolares"
+aliases: [/blog/lnds/2017/7/23/el-boton-de-los-300-millones-de-dolares]
 draft: false
 tags: ['ux', 'usabilidad', 'diseño']
 image:

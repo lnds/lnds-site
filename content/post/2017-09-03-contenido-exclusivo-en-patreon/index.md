@@ -2,6 +2,7 @@
 title: "Contenido Exclusivo en Patreon"
 date: 2017-09-03T08:25:11-03:00
 slug: "contenido-exclusivo-en-patreon"
+aliases: [/blog/lnds/2017/9/23/contenido-exclusivo-en-patreon]
 draft: false
 tags: ['patreon', 'contenido']
 image:

@@ -3,6 +3,7 @@ title: "Fake it till you make it"
 subtitle: "(O como construir un lenguaje en 60 horas)"
 date: 2017-03-01T08:25:11-03:00
 slug: "fake-it-till-you-make-it"
+aliases: [/blog/lnds/2017/3/1/fake-it-till-you-make-it]
 draft: false
 tags: ['programación', 'ogú', 'compiladores', 'programación funcional', 'clojure']
 image:

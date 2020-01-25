@@ -2,6 +2,7 @@
 title: "Antifragilidad"
 date: 2018-05-26T08:25:11-03:00
 slug: "antifragilidad"
+aliases: [/blog/lnds/2018/5/26/antifragilidad]
 draft: false
 tags: ['antifragilidad', 'resiliencia', 'innovación', 'felicidad']
 image:

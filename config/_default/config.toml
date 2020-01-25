@@ -20,10 +20,15 @@ copyright = "&copy; Eduardo Díaz Cortés"
 ############################
 
 # Name of Academic theme folder in `themes/`.
-theme = "academic"
+theme = ["hugo-atom-feed", "academic"]  
 
 # Get last modified date for content from Git?
 enableGitInfo = false
+
+enableRobotsTXT = true
+
+
+rssLimit = 20
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "es"
@@ -37,8 +42,9 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
+  home = [ "HTML", "RSS", "JSON", "ATOM", "WebAppManifest" ]
+  section = [ "HTML", "RSS", "ATOM" ]
+  taxonomy = ["HTML", "RSS", "ATOM"]
 
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]

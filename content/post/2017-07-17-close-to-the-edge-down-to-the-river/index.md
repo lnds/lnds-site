@@ -3,6 +3,7 @@ title: "Close to the Edge, down by the river"
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 2"
 date: 2017-07-17T08:25:11-03:00
 slug: "close-to-the-edge-down-to-the-river"
+aliases: [/blog/lnds/2017/7/17/close-to-the-edge-down-to-the-river]
 draft: false
 tags: ['desafios', 'lenguajes nuevos', 'lenguajes', 'lenguajes de programación', 'programación', 'rock', 'scala', 'programación funcional']
 image:

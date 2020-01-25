@@ -3,6 +3,7 @@ title: "El tiempo vuela"
 subtitle: "Servicios y herramientas para medir el uso del tiempo"
 date: 2018-03-25T08:25:11-03:00
 slug: "el-tiempo-vuela"
+aliases: [/blog/lnds/2018/3/25/el-tiempo-vuela]
 draft: false
 tags: ['tiempo', 'gestión', 'herramientas']
 image:

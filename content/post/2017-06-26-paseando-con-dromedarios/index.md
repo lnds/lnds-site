@@ -3,6 +3,7 @@ title: "Paseando con Dromedarios"
 subtitle: "Reflexiones sobre la ley de Conway"
 date: 2017-06-26T08:25:11-03:00
 slug: "paseando-con-dromedarios"
+aliases: [/blog/lnds/2017/6/26/paseando-con-dromedarios]
 draft: false
 tags: ['leyes', 'ley de conway', 'diseño', 'estructura']
 image:

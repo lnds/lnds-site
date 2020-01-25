@@ -3,6 +3,7 @@ title: "Red Barchetta"
 sub_title: "9 desafíos en 9 lenguajes (4 de 9) parte 4"
 date: 2017-09-24T08:25:11-03:00
 slug: "red-barcheta"
+aliases: [/blog/lnds/2017/9/24/red-barcheta]
 draft: false
 tags: ['desafios', 'lenguajes nuevos', 'lenguajes', 'lenguajes de programación', 'programación', 'rock', 'rust', 'programación funcional']
 image:

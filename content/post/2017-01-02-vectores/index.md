@@ -3,6 +3,7 @@ title: "Vectores"
 subtitle: "9 desafíos en 9 lenguajes (3 de 9)"
 date: 2017-01-02T08:25:11-03:00
 slug: "vectores"
+aliases: [/blog/lnds/2017/1/2/vectores]
 draft: false
 tags: ['programación', 'lenguajes de programación', 'desafíos']
 image:

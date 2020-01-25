@@ -3,6 +3,7 @@ title: "Shake it off"
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 6"
 date: 2017-10-09T08:25:11-03:00
 slug: "shake-it-off"
+aliases: [/blog/lnds/2017/10/9/shake-it-off]
 draft: false
 tags: ['rock', 'lenguajes de programación', 'desafíos', 'swift']
 image:
