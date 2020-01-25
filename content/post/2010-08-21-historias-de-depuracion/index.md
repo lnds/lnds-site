@@ -3,6 +3,7 @@ title: "Historias de Depuración"
 slug: "historias-de-depuracion"
 date: 2010-08-21T08:25:11-03:00
 tags: ['depuración', 'anécdotas', 'trabajo']
+aliases: [/blog/lnds/2010/8/21/historias-de-depuracion]
 draft: false    
 ---
 
