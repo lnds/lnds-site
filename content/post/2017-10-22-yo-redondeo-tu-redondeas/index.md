@@ -11,11 +11,11 @@ image:
 > You say either and I say either,\
 > You say neither and I say neither\
 > Either, either Neither, neither\
-> Let\'s call the whole thing off.\
+> Let's call the whole thing off.\
 > You like potato and I like potahto\
 > You like tomato and I like tomahto\
 > Potato, potahto, Tomato, tomahto.\
-> Let\'s call the whole thing off
+> Let's call the whole thing off
 
 ## El problema
 
