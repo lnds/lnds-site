@@ -39,13 +39,6 @@ las peores pesadillas de Foucault.
 Pero por otro lado, estas mismas redes se han convertido en un medio de
 difusión de la estupidez humana.
 
-A pesar del tono despectivo de Harari, lo cierto es que un imbécil es
-probable que tuviera pocas posibilidades de sobrevivir en el mundo de
-los cazadores-recolectores. En ese tiempo se requería una gran destreza
-para dominar el cuerpo y los sentidos para sobrevivir, los sapiens
-modernos hemos perdido muchas de estas habilidades y en el proceso,
-probablemente nos hemos vuelto más estúpidos.
-
 La estupidez no sólo es exclusiva de las personas, sino que se puede
 hacer más patente en las instituciones. 
 
