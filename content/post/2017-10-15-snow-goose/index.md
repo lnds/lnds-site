@@ -4,7 +4,7 @@ subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 7"
 date: 2017-10-15T08:25:11-03:00
 slug: "snow-goose"
 draft: false
-tags: ['desafios', 'lenguajes nuevos', 'lenguajes', 'lenguajes de programación', 'programación', 'rock', 'fsharp', 'programación funcional']
+tags: ['desafios', 'lenguajes nuevos', 'lenguajes', 'lenguajes de programación', 'programación', 'rock', 'fsharp',  'programación funcional']
 image:
   placement: 3
 ---
