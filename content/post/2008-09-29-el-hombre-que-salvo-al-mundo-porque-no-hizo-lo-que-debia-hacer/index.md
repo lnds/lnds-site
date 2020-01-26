@@ -61,8 +61,9 @@ Dos ideas vinieron a su mente:
 > miles de misiles listos para la batalla. No parecía un escenario
 > considerado por la inteligencia militar anteriormente."
 
-![](Stanislav_Petrov_580x.jpg)El
-segundo pensamiento en la mente de Petrov, y que el siempre consideraba
+![](Stanislav_Petrov_580x.jpg)
+
+Elsegundo pensamiento en la mente de Petrov, y que el siempre consideraba
 cuando se encontraba de turno, era este:
 
 > "Me imaginé si yo asumiría la responsabilidad de desatar la tercera
