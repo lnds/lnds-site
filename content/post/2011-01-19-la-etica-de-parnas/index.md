@@ -148,5 +148,5 @@ Te invito a [leer aParnas](http://klabs.org/richcontent/software_content/papers/
 [^1]: [Ask Parnas](http://courses.cs.vt.edu/~cs3604/lib/Ethics/parnas.html).
 
 [^2]: Contrástese este texto de Wiener con lo expuesto por Kascinsky
-([el desafío del nuevo ludita](/2009/05/el-desafio-del-nuevo-ludita.html))
+([el desafío del nuevo ludita]( 01))
 sobre dejar a las máquinas tomar sus propias decisiones.
