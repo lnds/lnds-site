@@ -25,7 +25,7 @@ espero que los disfrute, y espero seguir doce años más con esto:
 -   2015: [Revelaciones](/blog/lnds/2015/10/1/revelaciones),
     una noche recibí una visita y fui arrebatado a un estado de
     iluminación apocalíptico.
--   2014: [VICA](http://www.prosa.io/blog/lnds/2014/10/21/vica),
+-   2014: [VICA](/blog/lnds/2014/10/21/vica),
     Volatilidad, Incerteza, Complejidad y Ambigüedad.
 -   2013: [Marte necesita mujeres](/blog/lnds/2013/9/8/marte-necesita-mujeres),
     por qué los equipos mixtos son mejores.

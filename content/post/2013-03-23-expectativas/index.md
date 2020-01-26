@@ -53,7 +53,7 @@ nos involucramos desarrolladores y usuarios, nunca parecen alinearse las
 expectativas con los resultados. ¿Qué es lo que falla entonces? 
 ¿Cómo solucionarlo?
 
-![](https://d2dspjyoh5c79p.cloudfront.net/4dc5f725-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
+![](https ://d2dspjyoh5c79p.cloudfront.net/4dc5f725-36fe-11e4-8e2f-8bfe00af0f84-aa9f18b7)
 
 > Bruce: Eran tantos. Sólo les di lo que querían.\
 > Dios: Sí. Pero, ¿desde cuando alguien tiene idea de lo que realmente quiere?\

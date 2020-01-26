@@ -1,5 +1,6 @@
 ---
 title: "Cómo ganarle a Santa Claus"
+subtitle: "o como logra Netflix hacer su magia" 
 date: 2017-12-25T08:25:11-03:00
 slug: "como-ganarle-a-santa-claus"
 draft: false
