@@ -29,7 +29,7 @@ espero que los disfrute, y espero seguir doce años más con esto:
     Volatilidad, Incerteza, Complejidad y Ambigüedad.
 -   2013: [Marte necesita mujeres](/blog/lnds/2013/9/8/marte-necesita-mujeres),
     por qué los equipos mixtos son mejores.
--   2012: [Dichos, locos y trenes](http://www.prosa.io/blog/lnds/2012/12/29/dichos-locos-y-trenes),
+-   2012: [Dichos, locos y trenes](/blog/lnds/2012/12/29/dichos-locos-y-trenes),
     donde cuento un par de chistes.
 -   2011: [Comprensión de lectura](/blog/lnds/2011/11/12/comprension-de-lectura),
     un error que ha generado muchos dolores de cabeza
