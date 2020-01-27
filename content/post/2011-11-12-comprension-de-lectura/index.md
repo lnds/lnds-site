@@ -2,6 +2,7 @@
 title: "Comprensión de Lectura"
 date: 2011-11-12T08:25:11-03:00
 slug: "comprension-de-lectura"
+aliases: [/blog/2011/11/comprensin-de-lectura.html]
 draft: false
 tags: ['waterfall', 'cascada', 'agilidad', 'comprensión', 'ingeniería de software']
 image:
