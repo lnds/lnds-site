@@ -33,7 +33,7 @@ cargo" no debería hacerlo, "¡sigo metiendo las manos!".
 ¡Es como que me dijeran que un neuro cirujano que estudio 10 años no
 operara! ¡O que un futbolista no metiera los pies!
 
-El gran Edsger W. Dijkstra [lo dijo claramente](http://www.lnds.net/blog/2010/01/la-disciplina-condenada.html):
+El gran Edsger W. Dijkstra [lo dijo claramente](/blog/2010/01/la-disciplina-condenada.html):
 
 > Así como la economía es conocida como "La Ciencia Miserable",\* la
 > ingeniería de software debería ser conocida como "La Disciplina
