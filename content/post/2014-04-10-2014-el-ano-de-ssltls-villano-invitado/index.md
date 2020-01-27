@@ -3,7 +3,7 @@ title: "2014, ¿el año de SSL/TLS? (villano invitado)"
 date: 2014-04-10T08:25:11-03:00
 slug: "el-ano-de-ssltls-villano-invitado"
 aliases: [/blog/lnds/2014/4/10/el-ano-de-ssltls-villano-invitado]
-tags: ["seguridad", "villano invitado"]
+tags: ["seguridad", "villano invitado", "vulnerabilidades"]
 draft: false
 image:
   placement: 3
