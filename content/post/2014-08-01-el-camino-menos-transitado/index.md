@@ -2,6 +2,7 @@
 title: "El camino menos transitado"
 date: 2014-08-01T08:25:11-03:00
 slug: "el-camino-menos-transitado"
+aliases: [/blog/lnds/2014/8/1/el-camino-menos-transitado]
 draft: false
 tags: ['reflexiones', 'poema', 'vida', 'familia']
 image:
