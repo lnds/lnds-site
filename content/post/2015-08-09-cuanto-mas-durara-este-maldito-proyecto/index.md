@@ -1,5 +1,5 @@
 ---
-title: "¿Cuánto más durara este maldito proyecto?"
+title: "¿Cuánto más durará este maldito proyecto?"
 date: 2015-08-09T08:25:11-03:00
 slug: "cuanto-mas-durara-este-maldito-proyecto"
 aliases: [/blog/lnds/2015/8/9/cuanto-mas-durara-este-maldito-proyecto]
