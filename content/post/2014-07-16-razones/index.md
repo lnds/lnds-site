@@ -11,7 +11,7 @@ image:
 
 Después de programar, escribir es una de las cosas que más me gusta
 hacer. Desde hace ocho años que publico el blog 
-"[La Naturaleza Del Software](http://www.lnds.net/)". 
+"[La Naturaleza Del Software](https://www.lnds.net/)". 
 En el último tiempo la frecuencia de
 escritura en ese blog fue bajando, algo que puede parecer bastante
 natural, puesto que escribir blogs no es una actividad muy popular hoy
@@ -97,7 +97,7 @@ no, y viendo la velocidad con que ese equipo está desarrollando esa
 herramienta decidí que no podía
 esperar.
 
-![](http://d2dspjyoh5c79p.cloudfront.net/6729b6e5-0d4c-11e4-8f0b-43e69d919221-437b93b0)
+![](https://d2dspjyoh5c79p.cloudfront.net/6729b6e5-0d4c-11e4-8f0b-43e69d919221-437b93b0)
  (Imagen por Betsy Weber, usada bajo Creative Common por atribución,
 [fuente](https://www.flickr.com/photos/betsyweber/5056456666/in/photolist-8GPEpm-8GLvBk-8gfJBa-7RFbWk-7nMLFu-8GxUXm-9dyrJ6-bUmNEK-6MUipe-bxbLZS-ayE1cj-4MjX4G-8SMn4v-8Fwebc-8GPEvd-9aZXdT-ebgdiP-ct8567-bqAPYG-csTPvG-dbsb2f-5LAAqg-a83CsR-5GdXJK-69PYkV-8nFKzL-7EbFiv-6QWc7V-ayFuVa-3q5rBx-mBXu8-66omXz-cqp1eN-6ngZdy-cteFCC-ndU8Rp-h9kWAH-8FDxBW-7YPYLk-6qTsQD-ct96rC-iRgqCn-cyfWCj-6HifPs-8HdX3B-DGgAN-7EbFjt-gnU9uD-bn4Efe-6aTp8s))
     

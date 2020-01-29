@@ -33,7 +33,7 @@ siguientes posts:
 -   [Un Almuerzo en Lafayette Square](/blog/2012/03/un-almuerzo-en-lafayette-square.html)
 
 La presentación está en Slideshare:
-<http://www.slideshare.net/EduardoDiazCortes/creadores-de-universos-startech>
+<https://www.slideshare.net/EduardoDiazCortes/creadores-de-universos-startech>
 
 {{<slideshare id="27619445">}}
 

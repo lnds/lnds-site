@@ -25,7 +25,7 @@ Si no lo leyeron en mi [post anterior](/blog/2012/12/locos-y-ruedas.html), acá 
 nuevo la historia que expone este importante principio de
 administración:
 
-![](http://d2dspjyoh5c79p.cloudfront.net/f018dd85-625d-11e5-a640-83ed6ac97527-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/f018dd85-625d-11e5-a640-83ed6ac97527-aa9f18b7)
 
 Era un día de lluvia torrencial, y Marcos pincha un neumático justo
 enfrente de un manicomio. Luego de estacionar se baja, se protege de la
@@ -97,7 +97,7 @@ Principio de la Melania** que viene de este viejo cuento:
 > coordinada [del desvío](//es.wikipedia.org/wiki/Desv%C3%ADo_(ferrocarril)) mediante
 >  una palanca, conocida como *aguja.*
 
-![](http://d2dspjyoh5c79p.cloudfront.net/4690f176-625e-11e5-a640-83ed6ac97527-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/4690f176-625e-11e5-a640-83ed6ac97527-aa9f18b7)
 
 Esta es la historia de Pedro, un "*huasito*" que cuidaba una aguja de
 tren, que vivía con su mujer en una choza cerca de las vías del
