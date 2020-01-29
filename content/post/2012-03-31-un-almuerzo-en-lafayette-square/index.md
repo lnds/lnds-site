@@ -3,6 +3,7 @@ title: "Un almuerzo en Lafayette Square"
 subtitle: "El origen de la computadora"
 date: 2012-03-31T08:25:11-03:00
 slug: "un-almuerzo-en-lafayette-square"
+aliases: [/blog/2012/03/un-almuerzo-en-lafayette-square.html]
 draft: false
 tags: ['computación', 'turing', 'historia', "computador", "computadora", 'Alan Turing']
 image:

@@ -2,7 +2,7 @@
 title: "¿Qué es programar?"
 date: 2012-05-09T08:25:11-03:00
 slug: "que-es-programar"
-aliases: [/2012/05/09/que-es-programar]
+aliases: [/2012/05/09/que-es-programar, /blog/2012/05/que-es-programar.html]
 tags: ["programar", "programación"]
 draft: false
 ---

@@ -3,7 +3,7 @@ title: "Expectativas"
 subtile: "lo quiere vs lo que necesita el usuario"
 date: 2013-03-23T08:25:11-03:00
 slug: "expectativas"
-aliases: [/blog/lnds/2013/3/23/expectativas]
+aliases: [/blog/lnds/2013/3/23/expectativas, /blog/2013/03/expectativas.html]
 draft: false
 tags: ['análisis', 'desarrollo', 'casos de uso']
 image:
