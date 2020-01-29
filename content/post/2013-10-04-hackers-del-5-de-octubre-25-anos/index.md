@@ -1,19 +1,38 @@
 ---
-title: "Los Hackers del 5 de Octubre"
-slug: "los-hackers-del-5-de-octubre"
-aliases: [/blog/2008/10/los-hackers-del-5-de-octubre.html]
-date: 2008-10-05T08:25:11-03:00
-featured_image: "/images/2008/10/no.jpg"
-tags: ['hackers', 'política']
-draft: false    
+title: "Hackers del 5 de octubre - 25 años"
+date: 2013-10-04T08:25:11-03:00
+slug: "hackers-del-5-de-octubre--25-anos"
+tags: ["charlas", "historia", "hackers", "política"]
+draft: false
 image:
-    placement: 3
-    caption: "Campaña por el No"
+  placement: 3
 ---
 
+Es una cosa curiosa pero, resulta que ahora todos los chilenos que
+vivieron en aquella época votaron por el No, así que no se que gracia
+tiene [esta historia](/blog/2008/10/los-hackers-del-5-de-octubre.html)
+que publiqué hace unos años atrás, pero por lo menos el año pasado fue
+recordada por los alumnos del departamento de computación de la
+Universidad de Chile, como evidencia esta foto de aquel evento, donde
+vemos a los dos protagonistas de la historia que viene más abajo, MAZ y
+REM:
+
+![](mazrem2012.jpg)
+
+Ahora se cumplen 25 años del triunfo del No y con esto el fin de la
+dictadura de Pinochet, así que recordar esta historia tiene un
+significado especial, por el simple expediente de ser 25 un múltiplo de
+cinco, pero no me parece justo que todos recuerden como votaron por el
+No, y esta historia no sea destacada, así que acá se las vuelvo a dejar,
+supongo que cuando lleguen los 30 años, y los dinosaurios se hayan
+extinguido empezarán a invitar a los que eran jóvenes en esa época y se
+entregaron, con la pasión de la temprana edad, a la tarea de recuperar
+nuestra democracia.
+
+**Los Hackers del 5 de Octubre**
 
 Era el [5 de **octubre** de 1988](http://news.bbc.co.uk/hi/spanish/latin_america/newsid_7646000/7646154.stm),
-¡hace veinte años!, miles de jóvenes de mi edad participábamos de una
+¡hace ~~veinte~~ veinticinco años!, miles de jóvenes de mi edad participábamos de una
 manera u otra en ese gran momento histórico, algunos, como yo, sólo
 asistiendo a las urnas votando NO.
 
@@ -244,7 +263,7 @@ contar lo votos, y esperar el resultado:
 > Era una fiesta \... Y en la tarde, a Grecia \... De ahí, caminar unas
 > cuadras hasta mi casa, saludar a mis padres \... Y dormir, dormir \...
 
-![](/images/2008/10/fortinmapocho.jpg)
+![](fortinmapocho.jpg)
 
 Ese día varios celebramos, estábamos contentos, el fin de la dictadura,
 la alegría había llegado.\
