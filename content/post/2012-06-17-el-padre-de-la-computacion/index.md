@@ -2,6 +2,7 @@
 title: "El Padre de la Computación"
 date: 2012-06-17T08:25:11-03:00
 slug: "el-padre-de-la-computacion"
+aliases: [/blog/2012/06/el-padre-de-a-computacion.html]
 draft: false
 tags: ['computación', 'turing', 'historia', 'Alan Turing']
 image:
@@ -21,8 +22,7 @@ fotografía:
 se dirán unas a otras: "mi pequeña computadora dijo algo cómico esta
 mañana"'
 
-Tal como [dice Tom
-Siegfried](//www.sciencenews.org/view/feature/id/341450/title/A_Mind_from_Math)
+Tal como [dice Tom Siegfried](//www.sciencenews.org/view/feature/id/341450/title/A_Mind_from_Math)
 si no les gusta el modo en que las computadoras se han tomado el mundo
 pueden culpar a Turing.
 
