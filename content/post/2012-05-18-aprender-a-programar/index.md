@@ -32,7 +32,7 @@ Hay informes que hablan que la matrícula en "computer sciences" ha
 caído a la mitad en los últimos 10 años. Pueden haber muchos factores,
 por un lado creo que hay una desconexión entre la academia y la
 industria, que Bjarne Stroustrup describe muy bien en 
-[este post](/blog/2011/03/%C2%BFque-deberiamos-ensenar-a-los-nuevos-desarrolladores.html).
+[este post](/blog/2011/03/que-deberiamos-ensenar-a-los-nuevos-desarrolladores.html).
 Hay otros que le [echan la culpa a Java](http://www.joelonsoftware.com/articles/ThePerilsofJavaSchools.html) :smile:.
 
 Lo cierto es que esto es paradojal.  La computación está transformando
