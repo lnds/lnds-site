@@ -2,7 +2,7 @@
 title: "La leyenda del bolígrafo espacial"
 date: 2005-08-04T20:25:11-03:00
 slug: "la-leyenda-del-bolígrafo-espacial"
-tags: ["blogging", "blogosfera"]
+tags: ["mitos", "ciencia"]
 draft: false
 image:
   placement: 3
