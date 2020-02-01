@@ -2,6 +2,7 @@
 title: "Lo simple, lo complejo y lo complicado"
 date: 2010-06-02T08:25:11-03:00
 slug: "lo-simple-lo-complejo-y-lo-complicado"
+aliases: [/blog/2010/06/lo-simple-lo-complejo-y-lo-complicado.html]
 draft: false
 tags: ['simplicidad', 'complejidad', 'computación', 'fundamentos']
 image:
