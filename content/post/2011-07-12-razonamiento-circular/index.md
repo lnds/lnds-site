@@ -2,6 +2,7 @@
 title: "Razonamiento circular"
 date: 2011-07-12T08:25:11-03:00
 slug: "razonamiento-circular"
+aliases: [/blog/2011/07/razonamiento-circular.html]
 draft: false
 tags: ['sentido común', 'sicología', 'sesgos', 'sociología', 'complejidad']
 image:
@@ -38,8 +39,7 @@ la Mona Lisa incrementa su fama.
 
 Y sin embargo, con toda la  admiración que se le tenía, Leonard Da Vinci
 era considerado, hasta antes del siglo XX un buen pintor, pero inferior
-a
-[Tiziano](http://es.wikipedia.org/wiki/Tiziano) o [Rafael](http://es.wikipedia.org/wiki/Rafael_Sanzio).
+a [Tiziano](http://es.wikipedia.org/wiki/Tiziano) o [Rafael](http://es.wikipedia.org/wiki/Rafael_Sanzio).
 La Mona Lisa no era considera una obra de calidad superior a otras. Pero
 hoy en día esta obra es el patrón de calidad en el arte.
 
