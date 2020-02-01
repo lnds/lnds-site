@@ -2,7 +2,7 @@
 title: "La computación como una ciencia social"
 date: 2009-04-22T08:25:11-03:00
 slug: "la-computacion-como-una-ciencia-social"
-aliases: [/blog/lnds/2009/4/22/la-computacion-como-una-ciencia-social]
+aliases: [/blog/lnds/2009/4/22/la-computacion-como-una-ciencia-social, /blog/2009/04/la-computacion-como-una-ciencia-social.html]
 tags: ['computación', 'educación', 'enseñanza', 'sociedad']
 draft: false
 ---
