@@ -3,7 +3,7 @@ title: "Lo bueno y lo malo"
 date: 2012-06-21T08:25:11-03:00
 slug: "lo-bueno-y-lo-malo"
 aliases: [/blog/2012/06/lo-bueno-y-lo-malo.html]
-tags: ["Alan Turing", "historia", "computación", "morfogenesis"]
+tags: ["Alan Turing", "historia", "computación", "Gödel", "Kurt Gödel"]
 draft: false
 image:
   placement: 3
