@@ -2,6 +2,7 @@
 title: "El hombre embarazado y ratón transgénico"
 date: 2005-08-08T08:25:11-03:00
 slug: "el-hombre-embarazado-y-raton-transgenico"
+aliases: [/archives/2005/08/el_hombre_embar.html]
 tags: ["noticias falsas", "humor"]
 draft: false
 image:
