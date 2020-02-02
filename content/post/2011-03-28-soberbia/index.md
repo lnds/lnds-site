@@ -8,7 +8,7 @@ draft: false
 image:
   placement: 3
 ---
-La soberbia, una de [las tres virtudes del programador](http://www.lnds.net/blog/2010/11/las-tres-grandes-virtudes-de-un-programador.html),
+La soberbia, una de [las tres virtudes del programador](/blog/2010/11/las-tres-grandes-virtudes-de-un-programador.html),
 pero ¿por qué, si esta sociedad considera a la soberbia como un pecado?
 
 Hace tiempo escribí en [akarrú](http://www.akarru.com) sobre el
