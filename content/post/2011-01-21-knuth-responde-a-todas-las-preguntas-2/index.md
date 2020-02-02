@@ -276,7 +276,7 @@ natural y lo que es inventado.
 
 ## El arte de programar 
 
-![knuth3.JPG](http://web.archive.org/web/20070513053932/http://www.lnds.net/images/knuth3.JPG)
+![knuth3.JPG](knuth3.jpeg)
 
 > **Pregunta**: ¿Cuál es la conexión entre matemáticas y la programación
 > de computadores vistos como arte?

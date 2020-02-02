@@ -2,7 +2,7 @@
 title: "Decisiones Irracionales"
 date: 2011-07-05T08:25:11-03:00
 slug: "decisiones-irracionales"
-aliases: [/blog/lnds/2011/7/5/decisiones-irracionales]
+aliases: [/blog/lnds/2011/7/5/decisiones-irracionales, /blog/2011/07/decisiones-irracionales.html]
 tags: ['decisiones', 'sesgos cognitivos', 'sicología']
 draft: false
 ---

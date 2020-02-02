@@ -23,14 +23,14 @@ respuesta límbica, etc.
 Escribir un programa no es lo mismo que escribir prosa, se parece más  a
 la poesía, sobretodo esa poesía experimental que hace uso de recursos
 visuales para añadir más expresión, como este
-[caligrama](http://es.wikipedia.org/wiki/Caligrama) de
-[Apollinaire](http://es.wikipedia.org/wiki/Guillaume_Apollinaire):
+[caligrama](https://es.wikipedia.org/wiki/Caligrama) de
+[Apollinaire](https://es.wikipedia.org/wiki/Guillaume_Apollinaire):
 
 {{<figure caption="Caligrama de Apollinare" src="Guillaume_Apollinaire_Calligramme.jpg">}}
 
-Nuestro gran poeta [Vicente Huidobro](http://es.wikipedia.org/wiki/Vicente_Huidobro) incursionó
+Nuestro gran poeta [Vicente Huidobro](https://es.wikipedia.org/wiki/Vicente_Huidobro) incursionó
 también en esto de los caligramas, este es el primero que elaboró,
-el [triángulo armónico](http://upload.wikimedia.org/wikipedia/commons/6/6d/Triangulo_armonico.svg):
+el [triángulo armónico](https://upload.wikimedia.org/wikipedia/commons/6/6d/Triangulo_armonico.svg):
 
 {{<figure caption="Triángulo armónico de Vicente Huidobro" src="triangulo_armonico.png">}}
 
@@ -69,7 +69,7 @@ demostrar su profundo conocimiento de los intrincados trucos y técnicas
 de su código prefieren escribir cosas como el primer fragmento (esto es
 un pecado de juventud que también he cometido, y después lamentado).
 
-[Kernighan y Pike](http://cm.bell-labs.com/cm/cs/tpop/index.html) explican que la
+[Kernighan y Pike](https://cm.bell-labs.com/cm/cs/tpop/index.html) explican que la
 práctica de la programación requiere **Simplicidad, Claridad y
 Generalidad**.
 
@@ -79,7 +79,7 @@ código no sólo debe ser claro, yo creo que también debe tener estilo, o
 como algunos dicen, **belleza**.
 
 La belleza en el código es analizada en profundidad en el
-libro [Beautiful Code: Leading Programmers Explain How They Think](http://www.amazon.com/gp/product/0596510047/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399377&creativeASIN=0596510047)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0596510047&camp=217145&creative=399377),
+libro [Beautiful Code: Leading Programmers Explain How They Think](https://www.amazon.com/gp/product/0596510047/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399377&creativeASIN=0596510047)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0596510047&camp=217145&creative=399377),
 de Andy Oram y Greg Wilson.
 
 No puedo dejar de mencionar a Dijkstra:
@@ -96,7 +96,7 @@ solicitud irracional, al contrario. Muchos de los hallazgos científicos
 han sido guiados por un sentido estético.
 
 Hay gente que se opone a esto, un argumento  famoso  es  
-[Code Isn\'t Beautiful](http://www.codinghorror.com/blog/2008/02/code-isnt-beautiful.html),
+[Code Isn\'t Beautiful](https://www.codinghorror.com/blog/2008/02/code-isnt-beautiful.html),
 de Jeff Atwood, el blogger creador de StackOverflow. Atwood critica el
 libro  de Oram y Wilson. La esencia de  su argumento es la siguiente:
 
@@ -134,8 +134,8 @@ código no es hermoso, las ideas sí lo son. Es el resultado de su
 formación técnica seguramente, y muchos ingenieros caen en este tipo de
 razonamiento.
 
-Voy a tomar prestado parte  del [argumento Maarten Van Emden](http://vanemden.wordpress.com/2010/10/05/in-defense-of-beautiful-code-2/),
-autor de [A Programmer\'s Place](http://vanemden.wordpress.com/), uno de
+Voy a tomar prestado parte  del [argumento Maarten Van Emden](https://vanemden.wordpress.com/2010/10/05/in-defense-of-beautiful-code-2/),
+autor de [A Programmer\'s Place](https://vanemden.wordpress.com/), uno de
 mis blogs favoritos, para defender la necesidad de la belleza en el
 código.
 
@@ -237,18 +237,18 @@ cuando cumplió 60 años, viene  de una frase del gran maestro:
 > "\... when we **recognize the battle against chaos, mess, and
 > unmastered \_complexity as one of computing sci**ence\'s major
 > callings, *\_we must admit that \'Beauty Is Our Business\'"
->  \[[EWD697](http://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD697.html)\]*
+>  \[[EWD697](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD06xx/EWD697.html)\]*
 
 Deberíamos considerar la pregunta planteada por Dijkstra, ¿deberíamos
 permitir programas feos?
 
 Yo espero que los ejemplos planteados los hagan considerar esta
-propuesta, después de todo una de las virtudes de un programador es [la
-soberbia](http://www.lnds.net/blog/2011/03/soberbia.html), y ¿cómo
+propuesta, después de todo una de las virtudes de un programador es 
+[la soberbia](/blog/2011/03/soberbia.html), y ¿cómo
 puedes enorgullecerte de un código escrito de forma descuidada y poco
 elegante?
 
 (\*) [Beauty Is Our Business: A Birthday Salute to Edsger W. Dijkstra
 (Monographs in Computer
-Science)](http://www.amazon.com/gp/product/0387972994/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0387972994)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0387972994&camp=217145&creative=399373). Está
+Science)](https://www.amazon.com/gp/product/0387972994/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0387972994)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0387972994&camp=217145&creative=399373). Está
 en mi [wishlist](http://amzn.com/w/2U5ABR4HWQ7ZY) querido lector :wink:
