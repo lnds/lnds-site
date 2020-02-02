@@ -88,7 +88,7 @@ y la adrenalina de ser "ciberactivistas", mi hermano está comprometido
 con esta causa, que de seguro le debe estar causando más de alguna
 molestia.
 
-![](http://d2dspjyoh5c79p.cloudfront.net/16781972-5c3c-11e4-8e3c-a7de2e16c56f-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/16781972-5c3c-11e4-8e3c-a7de2e16c56f-aa9f18b7)
 
 En esta foto está mi hermano parado frente a un camión manifestándose en
 su estilo. Acompañado de un robot. :)
