@@ -2,6 +2,7 @@
 title: "No comprometas la seguridad de tu sitio"
 date: 2005-08-10T18:25:11-03:00
 slug: "no-comprometas-la-seguridad-de-tu-sitio"
+aliases: [/blog/2005/08/no_comprometas.html]
 tags: ["seguridad", "internet"]
 draft: false
 image:
