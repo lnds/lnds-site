@@ -66,7 +66,7 @@ tener éxito.
 Esa es, en mi opinión, la gran innovación disruptiva del FLOSS. Pero esa
 es una innovación de otro tipo, el software libre modifica la forma de
 hacer tecnología, pero no la tecnología en sí misma. Concedo que esto
-discutible, pero no quiero entrar en esta [discusión ideológica](/2006/01/el-free-software-como-ideologia.html)
+discutible, pero no quiero entrar en esta [discusión ideológica]()
 o ética sobre el software libre, algo que ya encuentro aburrido a esta
 altura.
 
