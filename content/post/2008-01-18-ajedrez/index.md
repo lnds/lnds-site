@@ -2,6 +2,7 @@
 title: "Ajedrez"
 date: 2008-01-18T08:25:11-03:00
 slug: "ajedrez"
+aliases: [/blog/2008/01/ajedrez.html]
 tags: ["Bobby Fischer", "ajedrez"]
 draft: false
 ---
