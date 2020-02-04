@@ -10,7 +10,7 @@ image:
 ---
 
 Mi abuela materna, recientemente fallecida, padecía
-de [Alzheimer](http://es.wikipedia.org/wiki/Alzheimer). Cuando yo supe
+de [Alzheimer](https://es.wikipedia.org/wiki/Alzheimer). Cuando yo supe
 que ella lo tenía me preocupé porque asumí que era un condición
 genética, y por lo tanto, tendría una posibilidad de padecer lo mismo.
 Con el cáncer me pasó lo mismo, pues mi padre y abuela paterna murieron
@@ -54,18 +54,18 @@ dato importante, puesto que se estima que un 8% de la población padecerá
 esta enfermedad. Para las compañias de seguro y las administradores de
 salud privados y públicos esta información es valiosisima. Para el
 gobierno el dato tampoco es menor, si consideramos que en nuestro país
-la [pirámide etárea se está invirtiendo](http://www.censo2000.cl/), lo
+la [pirámide etárea se está invirtiendo](https://www.censo2000.cl/), lo
 que significa que la población en riesgo aumenta día a día, cosa que
 también pasa en Europa.
 
 Este es uno de los temas de los que tiene que preocuparse 
-[la política del futuro](http://www.ricardodiaz.org/archives/2005/11/futuro_politico.html),
+[la política del futuro](https://www.ricardodiaz.org/archives/2005/11/futuro_politico.html),
 sobre la cual escribe Sebastían Escobar, en el 
-[blog de mi Hermano](http://www.ricardodiaz.org/). 
-La película Gattaca![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1)
+[blog de mi Hermano](https://www.ricardodiaz.org/). 
+La película Gattaca![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1)
 nos muestra un mundo terrorífico en que la excelencia genética es el fin
 último. De otra forma, y antes del descubrimiento del ADN Aldous Huxley
-lo planteó también en [Un Mundo Feliz](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=lanaturaledel-20&camp=1789&creative=9325&path=http://www.amazon.com/gp/product/9871138512?v=glance%26n=283155%26n=507846%26s=books%26v=glance)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1).
+lo planteó también en [Un Mundo Feliz](https://www.amazon.com/exec/obidos/redirect?link_code=ur2&tag=lanaturaledel-20&camp=1789&creative=9325&path=https://www.amazon.com/gp/product/9871138512?v=glance%26n=283155%26n=507846%26s=books%26v=glance)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1).
 
 ## Entendiendo la Evolución 
 
