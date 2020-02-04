@@ -1,6 +1,6 @@
 ---
 title: "WAT"
-date: 2012-10-2T08:25:11-03:00
+date: 2012-10-22T08:25:11-03:00
 slug: "wat"
 tags: ["humor"]
 draft: false
