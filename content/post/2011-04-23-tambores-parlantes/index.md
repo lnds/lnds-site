@@ -101,7 +101,7 @@ para hablar.
 
 Carrington aprendió a tocar los tambores, en particular dominaba el
 Kele, un lenguaje de la famila
-[Bantu](http://en.wikipedia.org/wiki/Bantu_languages), del este de
+[Bantu](https://en.wikipedia.org/wiki/Bantu_languages), del este de
 Zaire. Los nativos decían que en realidad él no era europeo, a pesar de
 su color, Carrington era uno de ellos. Que al morir los dioses  habían
 enviado su alma por error a Inglaterra, al cuerpo de un bebé. Pero como
@@ -144,7 +144,7 @@ Para evitar esta ambigüedad se introducen palabras adicionales que crean
 una frase que permite identificar la palabra. Por ejemplo, para decir la
 luna se usa la frase "*songe li tange la manga*" ("la luna se ve
 abajo en la tierra"). Los golpes adicionales proveen contexto. 
-[Escucha una muestra del sonido de los tambores parlantes](http://www2.si.umich.edu/chico/instrument/sounds/tdrum.aiff)
+[Escucha una muestra del sonido de los tambores parlantes](https://www2.si.umich.edu/chico/instrument/sounds/tdrum.aiff)
 
 Lo que hacen estos sonidos extras es introducir bits adicionales de
 información para corregir y desambiguar el mensaje. **La redundancia,
@@ -160,7 +160,7 @@ de decir E C T, se dice Eco, Charly Tango.
 Después de publicar su libro Carrington se encontró con una fórmula
 matemática que ayuda a entender esta necesidad de la redundancia. En
 1928 un
-[artículo](http://www.dotrose.com/etext/90_Miscellaneous/transmission_of_information_1928b.pdf)
+[artículo](https://www.dotrose.com/etext/90_Miscellaneous/transmission_of_information_1928b.pdf)
 de un ingeniero de Bell Labs, Ralph Hartley, establecía la fórmula:
 
     H = n log s = log sn
@@ -199,10 +199,10 @@ un rápido redoble en tambores que decía:
 
 Los textos citados están tomados del primer capítulo del libro [The
 Information: A History, a Theory, a
-Flood](http://www.amazon.com/gp/product/0375423729/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0375423729)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0375423729&camp=217145&creative=399349)
+Flood](https://www.amazon.com/gp/product/0375423729/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399349&creativeASIN=0375423729)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0375423729&camp=217145&creative=399349)
 de James Gleick. La imagen del libro de Carrington está tomada de
 Amazon, lamentablemente el libro no está disponible.
 
 Este [artículo en
-Wikipedia](http://en.wikipedia.org/wiki/Tonal_language) (en inglés)
+Wikipedia](https://en.wikipedia.org/wiki/Tonal_language) (en inglés)
 describe a los lenguajes tonales.
