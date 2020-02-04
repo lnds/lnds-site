@@ -1,6 +1,6 @@
 ---
 title: "El desafío del nuevo ludita"
-date: 2011-01-19T08:25:11-03:00
+date: 2009-05-22T08:25:11-03:00
 slug: "el-desafio-del-nuevo-ludita"
 aliases: [/2009/05/el-desafio-del-nuevo-ludita.html]
 draft: false
