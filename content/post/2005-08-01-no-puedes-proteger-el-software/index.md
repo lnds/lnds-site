@@ -1,7 +1,8 @@
 ---
 title: "No puedes proteger el software"
-date: 2005-08-01T20:25:11-03:00
+date: 2005-08-01T00:25:11-03:00
 slug: "no-puedes-proteger-el-software"
+aliases: [/blog/2005/08/no-puedes-proteger-el-software.html]
 draft: false
 tags: ['software', 'código']
 image:
