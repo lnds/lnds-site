@@ -2,7 +2,7 @@
 title: "Engaños numéricos"
 date: 2009-08-23T08:25:11-03:00
 slug: "enganos-numericos"
-aliases: [/blog/lnds/2009/8/23/enganos-numericos, /2009/08/enganos-numericos.html]
+aliases: [/blog/lnds/2009/8/23/enganos-numericos, /2009/08/enganos-numericos.html, /blog/2009/08/enganos-numericos.html]
 tags: ['anumerismo', 'matemáticas', 'intuición']
 draft: false
 ---
