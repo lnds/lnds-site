@@ -244,7 +244,7 @@ contar lo votos, y esperar el resultado:
 > Era una fiesta \... Y en la tarde, a Grecia \... De ahí, caminar unas
 > cuadras hasta mi casa, saludar a mis padres \... Y dormir, dormir \...
 
-![](/images/2008/10/fortinmapocho.jpg)
+![](fortinmapocho.jpg)
 
 Ese día varios celebramos, estábamos contentos, el fin de la dictadura,
 la alegría había llegado.\
