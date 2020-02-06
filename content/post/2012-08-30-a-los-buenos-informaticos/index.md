@@ -12,13 +12,13 @@ aniversario de este blog, porque soy un gran admirador del estilo de
 Aldrin Martoq, creo que tiene un gran talento para escribir y debería
 hacerlo más, lo que reafirma una observación que tengo de que los buenos
 informáticos son buenos comunicadores también, y de esto precisamente
-nos habla este nuevo "[villano invitado](http://www.lnds.net/blog/category/villano-invitado)":
+nos habla este nuevo "[villano invitado](https://lnds.net/tags/villano-invitado/)":
 
 A los buenos informáticos {#alosbuenosinformticos}
 =========================
 
 por
-[aldrinmartoq](http://aldrinmartoq.wordpress.com/author/aldrinmartoq/)
+[aldrinmartoq](https://aldrinmartoq.wordpress.com/author/aldrinmartoq/)
 
 Cuando conocí en persona a Eduardo le pregunté si tocaba algún
 instrumento. Yo usualmente hago esto porque tengo la teoría que hay una
@@ -84,7 +84,7 @@ Hay una tecnología llamada QuartzGL que después de 7 años todavía viene
 deshabilitada y sólo está disponible con un utilitario llamado Quartz
 Debug.
 
-[![](http://aldrinmartoq.files.wordpress.com/2012/08/2012-08-30-01-59-13-am.png?w=584)](http://aldrinmartoq.files.wordpress.com/2012/08/2012-08-30-01-59-13-am.png)
+[![](https://aldrinmartoq.files.wordpress.com/2012/08/2012-08-30-01-59-13-am.png?w=584)](https://aldrinmartoq.files.wordpress.com/2012/08/2012-08-30-01-59-13-am.png)
 
 Si esto fuera Linux ya habrían reescrito todos los drivers y cambiado el
 API de GTK para implementar algo similar a QuartzGL o lo que sea. Pero
@@ -114,7 +114,7 @@ aburre mirar esa pantalla? Se parece a Matrix" Yo le respondí: "No,
 ¡para nada! De hecho, hacer esto es lo que me gusta". "Mmm, ¡muy bien!"
 me contestó.
 
-[![](http://aldrinmartoq.files.wordpress.com/2012/08/2012-08-29-06-45-58-pm.png?w=300&h=179)](http://aldrinmartoq.files.wordpress.com/2012/08/2012-08-29-06-45-58-pm.png)
+[![](https://aldrinmartoq.files.wordpress.com/2012/08/2012-08-29-06-45-58-pm.png?w=300&h=179)](https://aldrinmartoq.files.wordpress.com/2012/08/2012-08-29-06-45-58-pm.png)
 
 Los griegos tenían el mismo asco ante este tipo de trabajos... que
 horror esa gente que se "ensucia las manos" y trabaja en "cosas de

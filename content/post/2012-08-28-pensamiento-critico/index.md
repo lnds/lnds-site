@@ -9,7 +9,7 @@ math: false
 
 Hoy en las redes sociales algunas personas tomaron como cierta la
 noticia publicada por el sitio ElDeforma.com: 
-[Samsung paga multa de 1 billón de dólares Apple en monedas de 5 centavos.](http://eldeforma.com/2012/08/27/samsung-paga-multa-de-1-billon-de-dolares-a-apple-en-monedas-de-5-centavos/)
+[Samsung paga multa de 1 billón de dólares Apple en monedas de 5 centavos.](https://eldeforma.com/2012/08/27/samsung-paga-multa-de-1-billon-de-dolares-a-apple-en-monedas-de-5-centavos/)
 
 Publimetro de Colombia [la publica y después tiene que pedir
 disculpas](http://www.publimetro.co/mundo/samsung-paga-a-apple-multa-de-1-billon-de-dolares-en-monedas-de-5-centavos/lmklhA!IRDLAW9pkG2Y/),
