@@ -1,28 +1,13 @@
-::: {#site-wrapper}
-::: {#site-canvas}
-::: {#site-menu .col-sm-3 .col-md-2 .sidebar}
--   ::: {.input-group}
-    ::: {.input-group-btn}
-    :::
-    :::
+---
+title: "Sobre las propiedades del cuerno de unicornio"
+date: 2011-03-16T08:25:11-03:00
+slug: "sobre-las-propiedades-del-cuerno-de-unicornio"
+aliases: [/blog/2011/03/sobre-las-propiedades-del-cuerno-de-unicornio.html]
+tags: ["tecnología", "reflexiones", "educación"]
+draft: false
+math: false
+---
 
--   [  Inicio](/blog/lnds)
-
--   
-
--   [  Ingreso](/login)
-:::
-
-[](javascript:void(0)){#toggle-menu .toggle-nav .btn}
-
-::: {#banner .jumbotron}
-Sobre las propiedades del cuerno de unicornio {#sobre-las-propiedades-del-cuerno-de-unicornio .text-center}
-=============================================
-:::
-
-::: {.row}
-::: {.col-xs-10 .col-sm-10 .col-md-10 .col-lg-10 .col-xs-offset-1 .col-sm-offset-1 .col-md-offset-1 .col-lg-offset-1}
-::: {.post-content}
 Hace años, cuando con mi amigo [Maz](http://blog.maz.cl/) conseguimos
 desarrollar tecnología biométrica de clase mundial, certificada con
 altos estándares internacionales, y después de recibir un premio de
@@ -49,11 +34,12 @@ discrepancia explica su poco éxito en mi opinión). Esta experiencia en
 todo caso me sirvió para entender mucho de los mecanismos que mueven a
 la academia, y la colaboración entre la universidad y la industria.
 
-*\*[![](http://www.lnds.net/blog/wp-content/uploads/2011/03/DamaYUnicornio-210x300.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/03/DamaYUnicornio.jpg)Si
-los unicornios existieran seguramente su cuerno tendría propiedades
-mágicas y curativas. \**El cuerno del unicornio es lo que se conoce como
+![](DamaYUnicornio.jpg)
+
+Si los unicornios existieran seguramente su cuerno tendría propiedades
+mágicas y curativas. **El cuerno del unicornio es lo que se conoce como
 una panacea, que es una palabra que según su etimología, quiere decir
-que \"lo cura todo\".
+que "lo cura todo".
 
 Existe un
 [antipatrón](http://es.wikipedia.org/wiki/Antipatr%C3%B3n_de_dise%C3%B1o)
@@ -66,8 +52,7 @@ positivo para el país, está entre la panacea y el golden hammer.
 
 Jo Piquer, mi antiguo y admirado profesor, es para muchos un héroe
 mitológico, un semidios que habita en la tierra de los unicornios, y ha
-publicado una [nota sobre el valor de los
-PhD.](http://dccuchile.blog.terra.cl/2011/03/15/el-valor-de-un-phd/)
+publicado una [nota sobre el valor de los PhD.](http://dccuchile.blog.terra.cl/2011/03/15/el-valor-de-un-phd/)
 Como tienen la gentileza de nombrarme como supuesto inspirador de su
 post, no puedo menos que estar orgulloso, después de todo yo también soy
 un ser mitológico, habito en el mundo de los tábanos socráticos y
@@ -100,7 +85,7 @@ los 25 años).
 
 En palabras de Jo Piquer:
 
-> **\"debemos crear un entorno en que nuestros doctores se inserten, de
+> "debemos crear un entorno en que nuestros doctores se inserten, de
 > modo de generar el ambiente necesario de cooperación entre la ciencia
 > y la industria.** Lo ideal es que muchos de estos doctores vayan a la
 > industria a desarrollar laboratorios de investigación privados y
@@ -124,36 +109,5 @@ hacer antes, y los mejores de nuestros jóvenes  deberían postergar un
 poco sus sueños de gloria académica y dedicarse a desarrollar y a
 preparar el terreno para que los unicornios puedan pastar. Porque sino
 sólo vamos a tener lindos unicornios encerrados tras las puertas
-del [Zoológico de
-Lagado](http://www.lnds.net/blog/2009/08/la-academia.html), sin que nos
+del [Zoológico de Lagado](/blog/2009/08/la-academia.html), sin que nos
 beneficiemos de sus poderes mágicos.
-:::
-
-::: {.comments}
-
-------------------------------------------------------------------------
-
-¿Te gustó? Danos tu auspicio en [Patreon](https://www.patreon.com/lnds)
-[Become a Patron!](https://www.patreon.com/bePatron?u=6503283)
-:::
-
-::: {.comments}
-### Comentarios
-
-::: {#disqus_thread aria-live="polite"}
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)
-:::
-:::
-:::
-:::
-
-::: {.row}
-::: {.col-sm-offset-1 .col-sm-10}
-[La Naturaleza Del Software]{.small} [© Eduardo Diaz Cortes]{.small}
-
-[Publicado usando Prosa - release 0.3.9]{.small}
-:::
-:::
-:::
-:::
