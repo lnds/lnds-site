@@ -11,7 +11,7 @@ image:
 La soberbia, una de [las tres virtudes del programador](/blog/2010/11/las-tres-grandes-virtudes-de-un-programador.html),
 pero ¿por qué, si esta sociedad considera a la soberbia como un pecado?
 
-Hace tiempo escribí en [akarrú](http://www.akarru.com) sobre el
+Hace tiempo escribí en [akarrú](https://www.akarru.com) sobre el
 [Areté](https://www.akarru.com/blog/2010/12/11/arete/), el orgullo como lo
 entendían los antiguos, voy a transcribirlo a este blog:
 
@@ -99,12 +99,12 @@ Hay que devolver ese orgullo a nuestro jóvenes, enseñarles a buscar la
 excelencia, a ser los mejores en lo suyo, a ser soberbios, pero no
 arrogantes. A ser ambiciosos, pero no codiciosos.
 
-![](http://www.akarru.org/blog/wp-content/uploads/2010/12/AreteEnEfeso-181x300.jpg)
+![](https://www.akarru.org/blog/wp-content/uploads/2010/12/AreteEnEfeso-181x300.jpg)
 
 La Areté era una diosa, conocida también como La Virtud, hermana de
 Harmonía, ambas hijas de Praxidike, epíteto de Perséfone, asociada a la
 Justicia. Las tres formaban una
-[triada](http://www.akarru.org/blog/2010/07/tres/), la Praxadikai.
+[triada](https://www.akarru.org/blog/2010/07/tres/), la Praxadikai.
 
 A ese trio divino nos encomendamos, Virtud, Armonía y Justicia, para que
 nos ayude a encontrar el camino del Areté.
