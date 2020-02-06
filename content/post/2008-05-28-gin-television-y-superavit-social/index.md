@@ -4,7 +4,7 @@ date: 2008-05-28T08:25:11-03:00
 slug: "gin-television-y-superavit-social"
 aliases: [/2008/05/gin-television-y-superavit-social.html]
 draft: false
-tags: ['tiempo', 'superavit social']
+tags: ['tiempo', 'superavit social', 'tv']
 image:
   placement: 3
 ---
