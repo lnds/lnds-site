@@ -1,7 +1,7 @@
 ---
 title: "Zig Zag"
 date: 2011-01-11T08:25:11-03:00
-slug: "zig-zav"
+slug: "zig-zag"
 draft: false
 tags: ['programación', 'desafíos', 'educación']
 image:
