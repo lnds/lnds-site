@@ -7,8 +7,6 @@ tags: ['matemáticas', 'verdad']
 image:
   placement: 3
 ---
--lg-offset-1}
-::: {.post-content}
 > Emilio Lledó, profesor de Historia de la Filosofía y académico,
 > reivindica también las matemáticas como una luz para alumbrar un mundo
 > de manipulación informativa. \"Esta ciencia es una lucha constante con
