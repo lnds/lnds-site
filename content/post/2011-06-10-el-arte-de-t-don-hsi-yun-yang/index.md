@@ -1,9 +1,9 @@
 ---
-title: "El Arte de \\t Don Hsi-Yun Yang"
+title: "El Arte de Don Hsi-Yun Yang"
 date: 2011-06-10T08:25:11-03:00
 slug: "el-arte-de-t-don-hsi-yun-yang"
 draft: false
-tags: ['arte', 'hacking', 'entendimiento']
+tags: ['arte', 'hacking']
 image:
   placement: 3
 ---
