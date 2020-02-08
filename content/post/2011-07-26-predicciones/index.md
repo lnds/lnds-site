@@ -1,10 +1,10 @@
----
-title: "Predicciones"
-date: 2011-07-26T08:25:11-03:00
-slug: "predicciones"
-tags: ['sicología', 'predicciones', 'probabilidades']
-draft: false
----
+    ---
+    title: "Predicciones"
+    date: 2011-07-26T08:25:11-03:00
+    slug: "predicciones"
+    tags: ['sicología', 'predicciones', 'probabilidades']
+    draft: false
+    ---
  
 Si somos malos para [explicar el pasado](/blog/2011/07/razonamiento-circular.html),
 ¿cómo somos prediciendo el futuro?
@@ -128,5 +128,4 @@ virtudes e implicancias para la predicción, la planificación y la
 ciencia social.
 
 [^1]: [Expert Political Judgment: How Good Is It? How Can We
-Know?](http://www.amazon.com/gp/product/B003HOXLAW/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B003HOXLAW)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B003HOXLAW&camp=217145&creative=399373),
-Philip Tetlock.
+Know?](http://www.amazon.com/gp/product/B003HOXLAW/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B003HOXLAW)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B003HOXLAW&camp=217145&creative=399373), Philip Tetlock.
