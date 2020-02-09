@@ -2,6 +2,7 @@
 title: "Medir y Reaccionar"
 date: 2011-08-04T08:25:11-03:00
 slug: "medir-y-reaccionar"
+aliases: [/blog/2011/08/medir-y-reaccionar.html]
 tags: ['logística', 'estrategia', 'sesgos', 'economía', 'sicología']
 draft: false
 ---
