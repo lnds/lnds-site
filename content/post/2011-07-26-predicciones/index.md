@@ -1,10 +1,11 @@
-    ---
-    title: "Predicciones"
-    date: 2011-07-26T08:25:11-03:00
-    slug: "predicciones"
-    tags: ['sicología', 'predicciones', 'probabilidades']
-    draft: false
-    ---
+---
+title: "Predicciones"
+date: 2011-07-26T08:25:11-03:00
+slug: "predicciones"
+aliases: [/blog/2011/07/predicciones.html]
+tags: ['sicología', 'predicciones', 'probabilidades']
+draft: false
+---
  
 Si somos malos para [explicar el pasado](/blog/2011/07/razonamiento-circular.html),
 ¿cómo somos prediciendo el futuro?
