@@ -1,7 +1,7 @@
 ---
 title: "Partida de caballo inglés"
 date: 2005-09-02T23:50:11-03:00
-slug: "Partida de caballo ingles"
+slug: "partida-de-caballo-ingles"
 tags: ["mppcdv"]
 math: false
 draft: false
