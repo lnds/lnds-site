@@ -4,6 +4,7 @@ date: 2005-08-09T08:25:11-03:00
 slug: "el-costo-de-un-dominio-en-latino-america"
 tags: ["internet"]
 draft: false
+math: false
 image:
   placement: 3
 ---
