@@ -1,41 +1,55 @@
----
-title: "El Doctor Horacio Croxatto y la Pildora del Día Después"
-date: 2008-04-30T08:25:11-03:00
-slug: "el-doctor-horacio-croxatto-y-la-pildora-del-dia-despues"
-aliases: [/2008/04/el-doctor-horacio-croxatto-y-la-pildora-del-dia-despues.html]
-tags: ["ciencia"]
-draft: false
-image:
-  placement: 3
----
+::: {#site-wrapper}
+::: {#site-canvas}
+::: {#site-menu .col-sm-3 .col-md-2 .sidebar}
+-   ::: {.input-group}
+    ::: {.input-group-btn}
+    :::
+    :::
 
-Carta enviada por el Dr. Horacio Croxatto y la profesora María Elena
+-   [  Inicio](/blog/lnds)
+
+-   
+
+-   [  Ingreso](/login)
+:::
+
+[](javascript:void(0)){#toggle-menu .toggle-nav .btn}
+
+::: {#banner .jumbotron}
+El Doctor Horacio Croxatto y la Pildora del Día Después {#el-doctor-horacio-croxatto-y-la-pildora-del-día-después .text-center}
+=======================================================
+:::
+
+::: {.row}
+::: {.col-xs-10 .col-sm-10 .col-md-10 .col-lg-10 .col-xs-offset-1 .col-sm-offset-1 .col-md-offset-1 .col-lg-offset-1}
+::: {.post-content}
+carta enviada por el Dr. Horacio Croxatto y la profesora María Elena
 Ortiz del instituto de medicina reproductiva al Mercurio, lo copio acá
 porque los blogs de El Mercurio suelen sufrir de amnesia:
 
 > Señor Director:
 >
 > A raíz del fallo del Tribunal Constitucional (TC) respecto de la
-> llamada "píldora del día después", nos parece ineludible denunciar
+> llamada \"píldora del día después\", nos parece ineludible denunciar
 > que en el considerando trigésimo segundo del mencionado fallo se hace
 > mal uso de nuestro texto, publicado (página 833) como parte del
-> capítulo 27 del libro "Selección de temas de Ginecoobstetricia II".
+> capítulo 27 del libro \"Selección de temas de Ginecoobstetricia II\".
 > (eds) E. Guzmán, A.B. Lalonde. Editorial Publimpacto, Santiago, 2007.
 > Para su información y la de los lectores, a continuación transcribimos
 > ambos párrafos:
 >
-> 1.  Texto en el fallo del TC: "\... los especialistas coinciden en
+> 1.  Texto en el fallo del TC: \"\... los especialistas coinciden en
 >     que los mecanismos de acción de los aludidos regímenes de
 >     anticoncepción de emergencia dicen relación con tres efectos: a)
 >     Impedir la ovulación; b) Impedir la migración de los
 >     espermatozoides para fecundar el óvulo, y c) Impedir la
 >     implantación (Horacio Croxatto A. y María Elena Ortiz.
->     "Anticoncepción de emergencia con levonorgestrel". En: Selección
+>     \"Anticoncepción de emergencia con levonorgestrel\". En: Selección
 >     de temas de Ginecoobstetricia II.Capítulo 27 (eds.) E. Guzmán,
 >     A.B. Lalonde. Editorial Publimpacto, Santiago, 2007, pág. 833, e
->     Informe de la Universidad Católica de Chile, pág. 3)".
+>     Informe de la Universidad Católica de Chile, pág. 3)\".
 >
-> 2.  Nuestro texto en el Capítulo 27 citado: "La mayor parte de las
+> 2.  Nuestro texto en el Capítulo 27 citado: \"La mayor parte de las
 >     investigaciones que aportan información sobre el mecanismo de
 >     acción de la AE con LNG se han publicado en el primer quinquenio
 >     del siglo XXI. Anteriormente a estos estudios sólo se habían
@@ -47,7 +61,7 @@ porque los blogs de El Mercurio suelen sufrir de amnesia:
 >     llegaron a plasmarse en textos de estudio, documentos oficiales de
 >     la Agencia de Alimentos y Drogas de Estados Unidos de Norteamérica
 >     y de la industria farmacéutica, y en la mente de muchos
->     profesionales".
+>     profesionales\".
 >
 > En el capítulo citado y en otras revisiones sobre el tema, accesibles
 > al TC, hemos descrito y analizado objetiva y claramente los estudios
@@ -57,8 +71,8 @@ porque los blogs de El Mercurio suelen sufrir de amnesia:
 > alguno a la hipótesis de que pueda hacerlo interfiriendo con la
 > implantación del embrión.
 >
-> Como especialistas en el tema, no coincidimos en que "Impedir la
-> implantación" sea uno de los mecanismos de acción de los aludidos
+> Como especialistas en el tema, no coincidimos en que \"Impedir la
+> implantación\" sea uno de los mecanismos de acción de los aludidos
 > regímenes de anticoncepción de emergencia. Expresamos nuestra molestia
 > y desconcierto por el mal uso de la cita de nuestro texto, dado que
 > fue uno de los argumentos usados como antecedente para la decisión
@@ -75,3 +89,33 @@ porque los blogs de El Mercurio suelen sufrir de amnesia:
 >
 > Dr. Horacio B. Croxatto Prof. María Elena Ortiz\
 > Instituto Chileno de Medicina Reproductiva
+:::
+
+::: {.comments}
+
+------------------------------------------------------------------------
+
+¿Te gustó? Danos tu auspicio en [Patreon](https://www.patreon.com/lnds)
+[Become a Patron!](https://www.patreon.com/bePatron?u=6503283)
+:::
+
+::: {.comments}
+### Comentarios
+
+::: {#disqus_thread aria-live="polite"}
+Please enable JavaScript to view the [comments powered by
+Disqus.](https://disqus.com/?ref_noscript)
+:::
+:::
+:::
+:::
+
+::: {.row}
+::: {.col-sm-offset-1 .col-sm-10}
+[La Naturaleza Del Software]{.small} [© Eduardo Diaz Cortes]{.small}
+
+[Publicado usando Prosa - release 0.3.9]{.small}
+:::
+:::
+:::
+:::
