@@ -2,6 +2,7 @@
 title: "Un simple test"
 date: 2010-12-23T08:25:11-03:00
 slug: "un-simple-test"
+aliases: [/blog/2010/12/un-simple-test.html]
 tags: ["desafío", "programación"]
 draft: false
 ---
