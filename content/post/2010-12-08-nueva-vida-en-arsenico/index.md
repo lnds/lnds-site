@@ -48,8 +48,9 @@ biológicos y provoca la muerte de los seres vivos.
 
 **Rasputín y la Coca Cola**
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2010/12/rasputin1-243x300.jpg)](http://www.lnds.net/blog/wp-content/uploads/2010/12/rasputin1.jpg)Se
-dice que [Rasputín](http://es.wikipedia.org/wiki/Grigori_Rasput%C3%ADn),
+![](rasputin1.jpg)
+
+Se dice que [Rasputín](http://es.wikipedia.org/wiki/Grigori_Rasput%C3%ADn),
 el famoso y siniestro monje ruso, consumía pequeñas dosis de arsénico
 diariamente lo que lo volvió virtualmente inmune a este veneno, lo que
 aterrorizó a sus asesinos que no pudieron envenenarle, contribuyendo al
@@ -71,7 +72,7 @@ Wikileaks
 
 **Vida alienigena**
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2010/12/bacteriasarsenico.jpg)](http://www.lnds.net/blog/wp-content/uploads/2010/12/bacteriasarsenico.jpg)
+![](bacteriasarsenico.jpg)
 
 El problema es que varios científicos han estudiado [el paper de los
 investigadores de la

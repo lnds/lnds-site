@@ -6,6 +6,7 @@ tags: ["Isaac Asimov", "seguridad"]
 draft: false
 ---
  
+{{<youtube CI5NKP1y6Ng>}} 
 Curiosamente muchas de las ideas que Isaac Asimov expresa en este video
 las plantea Ken Robinson en su libro El Elemento. Ojo, Asimov habla en
 1988 sobre la web. Sí, había internet en 1988, pero no era como la web,

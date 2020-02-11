@@ -15,27 +15,27 @@ Consideren la siguiente entrevista ficticia
 
 > Candidato: Oh, como seis años
 >
-> Gerente: ¿Puede dominar tres bolas, cuatro bolas, y cinco bolas?\
+> Gerente: ¿Puede dominar tres bolas, cuatro bolas, y cinco bolas?
 >
 > Candidato: Sí, sí y sí.
 >
-> Gerente: ¿Trabaja usted con objetos en llamas?\
+> Gerente: ¿Trabaja usted con objetos en llamas?
 >
 > Candidato: Claro.
 > 
 > Gerente: ¿...cuchillos, hachas, cajas de cigarro abiertas, sombreros de
-> paja?\
+> paja?
 >
 > Candidato: Puedo hacer malabares con cualquier cosa.
 >
 > Gerente: ¿tiene algún tipo de golpeteo divertido como parte de su
-> espectáculo?\
+> espectáculo?
 >
 > Candidato: Es hilarante.
 >
-> Gerente: Bueno, eso suena bien. Supongo que queda contratado.\
+> Gerente: Bueno, eso suena bien. Supongo que queda contratado.
 >
-> Candidato: Ummm\... ¿No quiere verme hacer unos malabares?
+> Candidato: Ummm... ¿No quiere verme hacer unos malabares?
 >
 > Gerente: Esteee, nunca pensé en eso."
 >
