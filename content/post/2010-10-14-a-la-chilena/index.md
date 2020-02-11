@@ -2,6 +2,7 @@
 title: "A la chilena"
 date: 2010-12-17T08:25:11-03:00
 slug: "a-la-chilena"
+aliases: [/blog/2010/10/a-la-chilena.html]
 tags: ["Chile", "mineros", "política"]
 draft: false
 ---
