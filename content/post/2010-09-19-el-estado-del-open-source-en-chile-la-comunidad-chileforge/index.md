@@ -1,6 +1,6 @@
 ---
 title: "El estado del open source en Chile, la comunidad ChileForge"
-date: 2010-10-04T08:25:11-03:00
+date: 2010-09-19T08:25:11-03:00
 slug: "el-estado-del-open-source-en-chile-la-comunidad-chileforge"
 aliases: [/blog/2010/09/analisis-de-chileforge.html]
 tags: ['opensource', 'Chile', 'tecnología', 'software']
