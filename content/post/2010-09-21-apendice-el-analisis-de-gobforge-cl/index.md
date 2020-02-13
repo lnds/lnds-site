@@ -6,7 +6,7 @@ tags: ['cloud computing']
 draft: false
 ---
 
-Alejandro Fuentes, de [CSOL](http://www.csol.org/), tuvo la amabilidad
+Alejandro Fuentes, de [CSOL](https://www.csol.org/), tuvo la amabilidad
 de [comentar mi post anterior](/blog/2010/09/analisis-de-chileforge.html),
 y  dice algo que me gustó mucho:
 
@@ -19,11 +19,11 @@ Tiene razón, pero creo que malinterpretó mi intención, o yo escogí mal
 el título.
 
 De todas maneras, la metáfora de los museos es buena (me recuerda la
-frase de Indiana Jones: "[That´s belongs in a museum](http://www.imdb.com/title/tt0097576/quotes)"), 
+frase de Indiana Jones: "[That´s belongs in a museum](https://www.imdb.com/title/tt0097576/quotes)"), 
 porque los Forge, efectivamente, terminan siendo sólo museos, lo que se necesita
 son comunidades vivas y colaborativas. Por eso creo que  la idea de
 GobForge es una pérdida de tiempo, cuando hemos evolucionado a modelos
-de redes sociales de desarrolladores, como [GitHub](http://www.github.com), [BitBucket](http://bitbucket.org/), e includo [CodePlex](http://www.codeplex.com), esto será el tema de futuros posts, así que no se apuren.
+de redes sociales de desarrolladores, como [GitHub](https://www.github.com), [BitBucket](https://bitbucket.org/), e includo [CodePlex](http://www.codeplex.com), esto será el tema de futuros posts, así que no se apuren.
 
 El tema de este post era agregar una colita a mi análisis anterior, con
 una visita al museo del software del gobierno de Chile, o del ministerio
@@ -53,7 +53,7 @@ Aparte de las noticias, la única interacción de la comunidad son estos
 mensajes:
 
 
-> ![](http://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)
+> ![](https://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)
 > No encuentro Archivos de instalacion \
 > [responder]](http://www.gobforge.gob.cl/forum/message.php?msg_id=415)
 > 2009-10-20 12:13
@@ -63,21 +63,21 @@ mensajes:
 > Gracias
 
 
-> ![](http://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)implementacion
+> ![](https://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)implementacion
 > del sistema control de nº IP \
-> [responder](http://www.gobforge.gob.cl/forum/message.php?msg_id=357)
+> [responder](https://www.gobforge.gob.cl/forum/message.php?msg_id=357)
 > 2009-06-16 13:06\
 > alguien me puede orientar en su puesta en marcha
 
-> ![](http://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)RE: rrrhh sistema \
+> ![](https://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)RE: rrrhh sistema \
 > [responder]](http://www.gobforge.gob.cl/forum/message.php?msg_id=438)
 > 2010-03-29 15:27
 
 > parece que esta comunidad se acabo\..... lamentable
 
-> ![](http://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)rrrhh
+> ![](https://www.gobforge.gob.cl/themes/gforge/images/ic/msg.png)rrrhh
 > sistema \
-> [responder]](http://www.gobforge.gob.cl/forum/message.php?msg_id=437)
+> [responder]](httpss://www.gobforge.gob.cl/forum/message.php?msg_id=437)
 > 2010-03-29 15:24
 
 > como descargo la aplicacion

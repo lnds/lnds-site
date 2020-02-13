@@ -109,7 +109,7 @@ después podría retarlo con las mareas y con lo que hace que la Tierra
 gire, y nuevamente tendríamos algo misterioso que afrontar".
 
 El texto de donde saqué este fragmento se llama "Qué es ciencia", y
-hay [una copia en la UNAM](http://www.cneq.unam.mx/cursos_diplomados/diplomados/medio_superior/SEIEM/1a/02/00/02_material/01_tacuba/03_cono_fis/archivos/QUE%20ES%20CIENCIA.pdf).
+hay [una copia en la UNAM](https://www.cneq.unam.mx/cursos_diplomados/diplomados/medio_superior/SEIEM/1a/02/00/02_material/01_tacuba/03_cono_fis/archivos/QUE%20ES%20CIENCIA.pdf).
 De lo que habla el texto es de educación, y también de energía. Porque
 lo que hay que hacer es educar a la gente, para que entienda de que
 hablamos cuando hablamos de energía, porque es importante, porque les
@@ -127,7 +127,7 @@ hay escasez de energía?, ¿de donde viene el calentamiento global, y qué
 relación tiene con la energía?, ¿realmente ahorro energía si desenchufo
 el televisor? ¿se puede ahorrar la energía?
 
-Si no entendemos [la sutileza del concepto de energía](http://www.amazon.com/gp/product/B0041OTADO?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0041OTADO)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B0041OTADO),
+Si no entendemos [la sutileza del concepto de energía](https://www.amazon.com/gp/product/B0041OTADO?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=B0041OTADO)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B0041OTADO),
 ¿cómo estamos seguros que nuestras ideas sobre su uso, o mecanismos de
 generación son los adecuados? ¿Que consecuencias tienen nuestras
 decisiones sobre algo que no se entiende?, ¿entienden los que debaten
