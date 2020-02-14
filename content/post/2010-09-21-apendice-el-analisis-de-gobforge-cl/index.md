@@ -2,7 +2,7 @@
 title: "Apéndice, el análisis de GobForge-CL"
 date: 2010-09-21T08:25:11-03:00
 slug: "apendice-el-analisis-de-gobforge-cl"
-tags: ['cloud computing']
+tags: ['software libre']
 draft: false
 ---
 

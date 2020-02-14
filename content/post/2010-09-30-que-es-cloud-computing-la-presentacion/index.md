@@ -2,6 +2,7 @@
 title: "¿Qué es Cloud Computing? (La presentación)"
 date: 2010-09-30T08:25:11-03:00
 slug: "que-es-cloud-computing-la-presentacion"
+aliases: [/blog/2010/09/que-es-cloud-computing-la-presentacion.html]
 tags: ['cloud computing']
 draft: false
 ---

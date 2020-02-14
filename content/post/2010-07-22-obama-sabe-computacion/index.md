@@ -1,7 +1,7 @@
 ---
 title: "Obama sabe computación"
 date: 2007-07-22T08:25:11-03:00
-slug: obama-sabe-computacion"
+slug: "obama-sabe-computacion"
 tags: ['curiosidades', 'humor']
 draft: false
 ---
