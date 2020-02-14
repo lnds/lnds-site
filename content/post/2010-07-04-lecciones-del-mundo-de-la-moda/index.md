@@ -2,7 +2,7 @@
 title: "Lecciones del mundo de la moda"
 date: 2010-07-04T08:25:11-03:00
 slug: "lecciones-del-mundo-de-la-moda"
-tags: ['curiosidades', 'humor']
+tags: ['industria', 'copyright']
 draft: false
 ---
  
