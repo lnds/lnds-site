@@ -27,13 +27,13 @@ razón es la incapacidad para lidiar con lo complejo.
 ## Complejo versus complicado
 
 Ya hemos hablado de este tópico en varias ocasiones en este blog. En el
-artículo [\"Lo simple, lo complejo, lo complicado\"](/blog/lnds/2010/06/02/lo-simple-lo-complejo-y-lo-complicado) digo  lo siguiente:
+artículo ["Lo simple, lo complejo, lo complicado"](/blog/lnds/2010/06/02/lo-simple-lo-complejo-y-lo-complicado) digo  lo siguiente:
 
 > Cuando decimos que algo es complejo queremos sugerir que es el
 > resultado inevitable de combinar los elementos, y que esto no implica
 > una falta o un fallo, como cuando decimos que "una receta es
 > compleja".
-> \
+> 
 > Por otro lado, complicado lo aplicamos a lo que presenta gran
 > dificultad para entender, resolver o explicar, por ejemplo "un
 > complicado proceso judicial".
@@ -71,7 +71,7 @@ La idea de que podemos controlar un proyecto complejo a alto nivel,
 desde una torre de control remota y aislada es fundamentalmente
 errónea.
 
-La clave para manejar un proyecto complejo es ***sensar y responder.***
+La clave para manejar un proyecto complejo es ***sensar y responder***.
 
 La forma adecuada para guiar un proyecto complejo es la aproximación
 experimental.
@@ -110,7 +110,7 @@ imposible tomar buenas decisiones.
 
 El diagrama de arriba está tomado del trabajo de Stacey "Strategic
 management and organisational dynamics: the challenge of
-complexity."[^1].
+complexity"[^1].
 
 ## Las  regiones del mapa de Stacey
 
@@ -154,13 +154,13 @@ nuevos modos de operar. 
 Lo malo es que a los gestores, los ejecutivos y administradores actuales
 se  les ha entrenado en el manejo de las áreas 1, 2 y 3. Son los modelos
 tradicionales. Las técnicas necesarias para administrar las regiones 4 y
-5 aparecen como demasiado \"blandas\", con falta de predicción, alta
+5 aparecen como demasiado "blandas", con falta de predicción, alta
 inseguridad y certeza, pero la realidad se da más en esas zonas. 
 
 Si te encuentras en las zonas 1, 2 y 3 hay técnicas conocidas que es
 mejor que apliques. [El problema está en que muchos ejecutivos quieren
 administrar todo lo que está en otras regiones como si estuvieran en la
-zona 1. ]{style="letter-spacing: 0.01rem;"}
+zona 1. 
 
 ## Metodologías ágiles y la matriz de Stacey
 
