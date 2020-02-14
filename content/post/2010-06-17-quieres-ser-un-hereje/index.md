@@ -1,6 +1,6 @@
 ---
 title: "¿Quieres ser un hereje?"
-date: 2010-06-20T08:25:11-03:00
+date: 2010-06-17T08:25:11-03:00
 slug: "quieres-ser-un-hereje"
 aliases: [/blog/2010/06/quieres-ser-un-hereje.html]
 tags: ['herejías', 'liderazgo']
