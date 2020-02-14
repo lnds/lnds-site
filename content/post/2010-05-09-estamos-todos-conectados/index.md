@@ -11,3 +11,5 @@ draft: false
 Los dejo con este video musical, con un sampling de las voces de Richard
 Feymman, Carl Sagan, Neil deGrasse Tyson y Bill Nye (más videos en:
 <http://www.symphonyofscience.com./>:
+
+{{<youtube 8g4d-rnhuSg>}}
