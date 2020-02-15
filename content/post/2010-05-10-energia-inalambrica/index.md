@@ -2,7 +2,7 @@
 title: "Energía inalámbrica"
 date: 2010-05-10T08:25:11-03:00
 slug: "energía-inalambrica"
-tags: ['energía' 'tecnología']
+tags: ['energía', 'tecnología']
 draft: false
 ---
 ¿Qué faltará para que esto esté disponible?:
