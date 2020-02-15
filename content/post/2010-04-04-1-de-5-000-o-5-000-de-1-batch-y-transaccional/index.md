@@ -96,55 +96,37 @@ ejecutó básicamente estos dos test:
 
 Para el caso de las queries pre compiladas:
 
-> > start timer
->
-> for (j=0;j\<batches;j++)
->
-> compile query
->
-> for (i=0;i\<runs;i++)
->
-> create new data context
->
-> run query in new context
->
-> stop timer
->
-> print number of selects and time etc.
+```
+start timer
+for (j=0;j\<batches;j++)
+    compile query
+
+for (i=0;i\<runs;i++)
+    create new data context
+    run query in new context
+
+stop timer
+print number of selects and time etc.
+```
 
 Para el caso de las consultas interpretadas (no pre compiladas):
 
-> > start timer
+```
+start timer
 
-\>
-
-> > for (j=0;j\<batches;j++)
-
-\>
-
-> > for (i=0;i\<runs;i++)
-
-\>
-
-> > create new data context
-
-\>
-
-> > run query in new context
-
-\>
-
-> > stop timer
-
-\>
-
-> print number of selects and time etc.
+for (j=0;j\<batches;j++)
+    for (i=0;i\<runs;i++)
+        create new data context
+        run query in new context
+ stop timer
+ print number of selects and time etc.
+```
 
 Y lo que hace Rico Mariani es ir jugando con la cantidad de ejecuciones,
 y el tamaño del proceso batch, lo que genera una tabla de resultados
 mucho más larga, y que tiene al final de la misma unos resultados que
 son ignorados por Al Zabir (no sabemos si intencionalmente). Estos
-resultados ignorados por el \"experto\" son:
+resultados ignorados por el "experto" son:
 
 > Testing 2500 batches of 2 selects 5000 selects uncompiled 9165.0ms
 > 25000 records total 545.55 selects/sec\
