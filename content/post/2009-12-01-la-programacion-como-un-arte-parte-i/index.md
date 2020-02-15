@@ -1,6 +1,6 @@
 ---
 title: "La programación como un Arte (Parte I)"
-date: 2010-05-20T08:25:11-03:00
+date: 2009-12-01T08:25:11-03:00
 slug: "la-programacion-como-un-arte-parte-i"
 aliases: [/2009/12/la-programacion-como-un-arte-parte-i.html]
 tags: ['programación', 'arte', 'Donald Knuth']
