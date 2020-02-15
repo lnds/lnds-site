@@ -12,7 +12,7 @@ Por Donald Knuth
 
 (lee [la primera parte](/2009/12/la-programacion-como-un-arte-parte-i.html))
 
-**Ciencia versus Arte**
+## **Ciencia versus Arte**
 
 La palabra "ciencia" parece haber sido usada por muchos años en el
 mismo sentido que "arte"; por ejemplo, la gente hablaba también de las
