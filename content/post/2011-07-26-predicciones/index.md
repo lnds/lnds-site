@@ -39,7 +39,7 @@ estadístico. Pero lo más sorprendente es que los expertos lo hicieron
 ligeramente mejor cuando operaban fuera de su área de experiencia. Los
 resultados de este experimento, y muchas otras historias sobre la
 capacidad de los expertos para predecir el futuro son la base del libro
-de Dan Gardner [Future Babble](http://www.amazon.com/gp/product/0525952055/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0525952055)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0525952055&camp=217145&creative=399369).
+de Dan Gardner [Future Babble](https://www.amazon.com/gp/product/0525952055/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399369&creativeASIN=0525952055)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0525952055&camp=217145&creative=399369).
 
 En este libro Gardner entrega una serie de historias que muestran la
 consistente incapacidad de los expertos para predecir el futuro, al
@@ -129,4 +129,4 @@ virtudes e implicancias para la predicción, la planificación y la
 ciencia social.
 
 [^1]: [Expert Political Judgment: How Good Is It? How Can We
-Know?](http://www.amazon.com/gp/product/B003HOXLAW/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B003HOXLAW)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B003HOXLAW&camp=217145&creative=399373), Philip Tetlock.
+Know?](https://www.amazon.com/gp/product/B003HOXLAW/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B003HOXLAW)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B003HOXLAW&camp=217145&creative=399373), Philip Tetlock.

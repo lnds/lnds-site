@@ -7,9 +7,9 @@ draft: false
 ---
 
 [![Subversion project visualization
-image.](http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Subversion_project_visualization.svg/300px-Subversion_project_visualization.svg.png)](http://commons.wikipedia.org/wiki/File:Subversion_project_visualization.svg)
+image.](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Subversion_project_visualization.svg/300px-Subversion_project_visualization.svg.png)](http://commons.wikipedia.org/wiki/File:Subversion_project_visualization.svg)
 
-Image via [Wikipedia](http://commons.wikipedia.org/wiki/File:Subversion_project_visualization.svg)
+Image via [Wikipedia](https://commons.wikipedia.org/wiki/File:Subversion_project_visualization.svg)
 
 ¿Usaron alguna vez
 [SCCS](http://en.wikipedia.org/wiki/Source_Code_Control_System)? ¿No?

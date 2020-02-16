@@ -48,7 +48,7 @@ diseño, o un programa o cualquier cosa. De hecho, la entrevista es
 simplemente una conversación"
 >
 > --  HIRING A JUGGLER, Capítulo 15 de [Peopleware: Productive Projects
-> and Teams (Second Edition)](http://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633439)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0932633439)
+> and Teams (Second Edition)](https://www.amazon.com/gp/product/0932633439?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0932633439)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0932633439)
 > por Tom DeMarco y Timothy Lister (citador por Reg Braithwaite en este
 > [post](http://weblog.raganwald.com/2006/07/hiring-juggler_02.html) )
 

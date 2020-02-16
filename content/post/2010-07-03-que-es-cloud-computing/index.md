@@ -6,11 +6,10 @@ tags: ['cloud computing', 'nube']
 draft: false
 ---
  
-[![Cloud computing
-icon](http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cloud_computing_icon.svg/256px-Cloud_computing_icon.svg.png)](http://commons.wikipedia.org/wiki/File:Cloud_computing_icon.svg)
+[![Cloud computing icon](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Cloud_computing_icon.svg/256px-Cloud_computing_icon.svg.png)](https://commons.wikipedia.org/wiki/File:Cloud_computing_icon.svg)
 
 Imagen via
-[Wikipedia](http://commons.wikipedia.org/wiki/File:Cloud_computing_icon.svg)
+[Wikipedia](https://commons.wikipedia.org/wiki/File:Cloud_computing_icon.svg)
 
 -   Si te interesa puedes ver [la presentación](/blog/2010/09/que-es-cloud-computing-la-presentacion.html).
 

@@ -31,7 +31,7 @@ Una de las ideas expuestas en mi exposición es la definición de equipo
 como un **conjunto de conversaciones recurrentes**, una idea que adopté
 de mi actual jefe.
 
-![](http://d2dspjyoh5c79p.cloudfront.net/31089b3c-3701-11e4-8e2f-8bfe00af0f84-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/31089b3c-3701-11e4-8e2f-8bfe00af0f84-aa9f18b7)
 
 La fotografía de arriba muestra a parte de nuestro equipo resolviendo un
 problema. Esta imagen la he usado en diversas charlas para expresar esta

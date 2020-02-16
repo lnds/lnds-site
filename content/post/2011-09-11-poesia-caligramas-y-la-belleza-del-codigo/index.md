@@ -250,5 +250,5 @@ elegante?
 
 (\*) [Beauty Is Our Business: A Birthday Salute to Edsger W. Dijkstra
 (Monographs in Computer
-Science)](https://www.amazon.com/gp/product/0387972994/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0387972994)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0387972994&camp=217145&creative=399373). Está
+Science)](https://www.amazon.com/gp/product/0387972994/ref=as_li_tf_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0387972994)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0387972994&camp=217145&creative=399373). Está
 en mi [wishlist](http://amzn.com/w/2U5ABR4HWQ7ZY) querido lector :wink:

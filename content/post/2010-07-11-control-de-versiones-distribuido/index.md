@@ -12,8 +12,8 @@ es bueno. Insisto en que el control de versiones es una herramienta que
 tiene aplicaciones fuera del mundo de la programación.
 
 Pero la vez anterior hablamos de sistemas centralizados, como
-[Subversion](http://subversion.apache.org/) (SVN) o
-[CVS](http://www.nongnu.org/cvs), los más populares. Pero esta vez les
+[Subversion](https://subversion.apache.org/) (SVN) o
+[CVS](https://www.nongnu.org/cvs), los más populares. Pero esta vez les
 quiero invitar a que prueben los sistemas de control distribuidos, o
 DCVS por sus siglas en inglés.
 
@@ -67,7 +67,7 @@ Haskell. Recomendable para el que tenga inclinaciones más académicas.
 
 La tercera y cuarta son Mercurial y GIT.
 
-Como dijo alguien por ahí, [GIT es McGyver, Mercurial es James Bond](http://importantshock.wordpress.com/2008/08/07/git-vs-mercurial/),
+Como dijo alguien por ahí, [GIT es McGyver, Mercurial es James Bond](https://importantshock.wordpress.com/2008/08/07/git-vs-mercurial/),
 ambos tienen sus pro y contras.
 
 A mi me gusta GIT, y es lo que uso en la actualidad en forma personal,
