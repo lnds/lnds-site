@@ -2,7 +2,8 @@
 title: "El hombre que salvo al mundo, porque no hizo lo que debía hacer"
 date: 2008-09-29T08:25:11-03:00
 slug: "el-hombre-que-salvo-al-mundo-poque-no-hizo-lo-que-debia-hacer"
-aliases: [/blog/2008/09/el-hombre-que-salvo-al-mundo-porque-no-hizo-lo-que-debia-hacer.html]
+aliases: [/blog/2008/09/el-hombre-que-salvo-al-mundo-porque-no-hizo-lo-que-debia-hacer.html,
+/2008/09/el-hombre-que-salvo-al-mundo-porque-no-h.html]
 draft: false
 tags: ['historia', 'ética']
 image:
