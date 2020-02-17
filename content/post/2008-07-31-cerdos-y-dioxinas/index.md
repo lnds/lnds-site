@@ -2,7 +2,7 @@
 title: "Cerdos y Dioxinas"
 date: 2008-07-31T08:25:11-03:00
 slug: "cerdos-y-dioxinas"
-aliases: [/2008/07/cerdos_y_dioxinas.html, /blog/2008/07/cerdos-y-dioxinas.html]
+aliases: [/2008/07/cerdos_y_dioxinas.html, /blog/2008/07/cerdos-y-dioxinas.html,]
 tags: ["ciencia"]
 draft: false
 image:
