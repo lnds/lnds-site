@@ -2,7 +2,7 @@
 title: "Luciano Bello encuentra falla de seguridad en sistema operativo Debian (Ubuntu)"
 date: 2008-05-16T08:25:11-03:00
 slug: "luciano-bello-encuentra-falla-de-seguridad-en-sistema-operativo-debian-ubuntu" 
-aliases: [/blog/2008/05/luciano-bello-encuentra-falla-de-seguridad-en-sistema-operativo-debian-ubuntu-y-derivados.html]
+aliases: [/blog/2008/05/luciano-bello-encuentra-falla-de-seguridad-en-sistema-operativo-debian-ubuntu-y-derivados.html, /2008/05/luciano_bello_encuentra_bug_de_seguridad.html]
 tags: ["sofware libre", "linux", "seguridad"]
 draft: false
 image:
