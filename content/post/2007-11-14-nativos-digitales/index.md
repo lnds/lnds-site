@@ -2,7 +2,7 @@
 title: "¿¿Nativos Digitales??"
 date: 2007-11-14T08:25:11-03:00
 slug: "quieres-ser-un-hereje"
-aliases: [/blog/2007/11/nativos-digitales.html]
+aliases: [/blog/2007/11/nativos-digitales.html, /2007/11/nativos_digitales.html]
 tags: ['nativos digitales', 'sociedad']
 draft: false
 ---

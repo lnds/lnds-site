@@ -11,8 +11,6 @@ categories:
 - Software libre
 ---
 
-## 
-
 [Via Kriptópolis](http://www.kriptopolis.org/expertos-aconsejan-seguridad-linux):
 
 > Linux no es un sistema a prueba de balas y su equipo no es seguro sólo por ejecutar Linux. Déjese guiar por el buen sentido. Para la mayoría de nosotros, eso significa situar el equipo detrás de un cortafuegos y aplicar regularmente los parches de seguridad. Para otros, habría que adoptar medidas defensivas adicionales.
