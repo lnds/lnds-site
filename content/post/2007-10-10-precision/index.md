@@ -97,7 +97,7 @@ Una mejor manera de sumar es usando la Fórmula de Kahan:
 
 ```
 def SumaKahan(A[], 1 a N)
-    S := A[1](http://www.lnds.net/2007/10/precision.html#fn1);
+    S := A[1]
     C := 0;
     for j := 2 to N do
     Y = A[j] - C;
@@ -107,7 +107,7 @@ def SumaKahan(A[], 1 a N)
     return S
 ```
 
-Esta formula tiene una precisión altisima[1](http://www.lnds.net/2007/10/precision.html#fn1).
+Esta formula tiene una precisión altisima [1].
 
 Para los que estén interesados en experimentar en la continuación de este artículo hay un programa en C que demuestra la precisión de este algoritmo.
 
