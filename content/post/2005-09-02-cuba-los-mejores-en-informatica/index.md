@@ -2,6 +2,7 @@
 title: "Cuba los mejores en informática"
 date: 2005-09-02T22:25:11-03:00
 slug: "cuba-los-mejores-en-informatica"
+aliases: [/2005/09/cuba_los_mejores_en_informatic.html]
 tags: ["Cuba", "informática", "ioi"]
 math: false
 draft: false

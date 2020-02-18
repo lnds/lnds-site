@@ -33,5 +33,3 @@ Es muy dificil para un script llegar a simular los clicks de un mouse (la verdad
 
 De todas maneras yo creo que esta práctica debería desaparecer, lo que hay que hacer es buscar mejores maneras de asegurar la confianza de nuestros usuarios, con otros medios. Probablemente las nuevas ideas sobre [las leyes de la identidad ](http://www.identityblog.com/stories/2004/12/09/thelaws.html)nos lleven a impedir efectivamente el spam.
 
-
-
