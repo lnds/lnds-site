@@ -27,7 +27,7 @@ De este grupo nació la etiqueta Open Source, o Software de Código Abierto para
 
 Con el tiempo la principal labor de la OSI ha sido la mantención del cuerpo de definiciones conocida como [OSD](http://replay.waybackmachine.org/20081006072449/http://www.opensource.org/docs/osd) o Open Surce Definition, y del proceso de revisión y aprobación de [licencias de software compatibles con la OSD ](http://replay.waybackmachine.org/20081006072449/http://www.opensource.org/licenses).
 
-Un hecho histórico
+## Un hecho histórico
 
 Hace varios años que la comunidad de desarrolladores ha estado esperando que Microsoft envíe sus licencias de software compartido para ser aprobadas por la OSI. La OSI inclusó declaró en algún momento que esperaban que Microsoft iniciara el proceso formal de aprobación.
 
