@@ -23,28 +23,27 @@ La realidad es que no.
 
 El software puede construirse libre de fallas. Cuando decimos libre de fallas, queremos decir que la tasa de errores es tan baja como en otras actividades humanas, incluso más.
 
-Software correcto y software libre de errores
+## Software correcto y software libre de errores
 
-"Beware of bugs in the above code; I have only proved it correct, not tried it."
-
-Donald Knuth
+> "Beware of bugs in the above code; I have only proved it correct, not tried it."
+> -- Donald Knuth
 
 Existen métodos formales (es decir, matemáticos) que permiten demostrar que una pieza de software es correcta. Estos método por supuesto son trabajosos, pero se han hecho avances para automatizar estos problemas.
 
 Muchos lenguajes de programación contienen una serie de directivas que permiten demostrar que el software es correcto de acuerdo a las especificaciones.
 
-Esto no significa que el software esté libre de fallos, porque pueden pasar varias cosas:
+Esto no significa que el software esté libre de fallos, porque pueden pasar varias cosas.
 
-El hardware puede tener alguna falla
+El hardware puede tener alguna falla.
 Los recursos necesarios no están disponibles, por ejemplo, no hay suficiente memoria RAM porque está siendo usada por otro proceso, o el espacio en disco no es suficiente.
 El software fue dimensionado para cierta carga de trabajo, y los usuarios han decidido aumentar las demandas sobre el mismo.
 Y un largo etcétera.
 
-Pero, ¿si uno puede establecer esta lista de posibles fallasa a priori, qué nos impide tomar las medidas para evitar estas fallas?
+Pero, ¿si uno puede establecer esta lista de posibles fallas a a priori, qué nos impide tomar las medidas para evitar estas fallas?
 
 La verdad es que nada.
 
-Errores aceptables
+## Errores aceptables
 
 Cada vez que nos encontramos ante una falla, estamos aprendiendo algo nuevo, algo que no sabíamos sobre el sistema.
 
