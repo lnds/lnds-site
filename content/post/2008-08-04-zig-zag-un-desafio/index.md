@@ -25,4 +25,4 @@ Por ejemplo, si N es 5, el programa debe producir este arreglo:
 
 * Aunque esto puede parecer un juego de ingenio, un tanto inútil, la verdad es que este tipo de arreglos es usado en el algoritmo de compresión de imágenes JPEG.
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2011/01/600px-JPEG_ZigZag-300x300.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/01/600px-JPEG_ZigZag.jpg)
+![](600px-JPEG_ZigZag.jpg)

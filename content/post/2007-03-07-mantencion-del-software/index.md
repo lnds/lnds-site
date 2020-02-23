@@ -30,7 +30,7 @@ La clave para que el software siga adquiriendo valor está en su continua mejora
 
 De acuerdo a diversos estudios se sabe qe un 10% de los esfuerzos de mantención se gastan en la corrección de bugs, principalmente en los periodos iniciales de puesta en marcha del software. La mantención adaptiva concentra entre un 15% y un 50% de los costos del software durante su ciclo de vida, y la mantención perfectiva representa alrededor del 50% promedio de los costos del software.
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2011/04/mantencion.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/04/mantencion.jpg)
+![](mantencion.jpg)
 
 
 ## El valor de la mantención
