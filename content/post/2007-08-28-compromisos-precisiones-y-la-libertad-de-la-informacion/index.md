@@ -5,8 +5,6 @@ layout: post
 slug: compromisos-precisiones-y-la-libertad-de-la-informacion
 title: Compromisos, precisiones y la libertad de la información
 wordpress_id: 1841
-categories:
-- Sin categoría
 ---
 
 Se ha hecho pública una [carta](http://replay.web.archive.org/20071017000912/http://www.elfrancotirador.cl/archivos/082707_dcc_responde_quepasa.pd) fenviada por algunos académicos del [DCC](http://replay.web.archive.org/20071017000912/http://dcc.uchile.clde/) la Universidad de Chile, donde tuve [el privilegio de estudiar](http://replay.web.archive.org/20071017000912/http://www.dcc8090.cl/).

@@ -5,8 +5,6 @@ layout: post
 slug: 'por-que-falla-el-software'
 title: ¿Por qué falla el Software?
 wordpress_id: 1826
-categories:
-- Sin categoría
 ---
 
 Leía la interesante nota de Christian los problemas que provoca OOXML, y encontré un comentario que me llamó la atención:

@@ -5,8 +5,6 @@ layout: post
 slug: oh-oh-ooxml
 title: Oh Oh OOXML
 wordpress_id: 60
-categories:
-- Sin categoría
 ---
 
 Disculpen por dar la lata con esto del OOXML, pero quiero exponerles una reflexión sobre todo este asunto de la aprobación (o no) del estándar [DIS 29500](http://www.dis29500.org/)(OOXML).

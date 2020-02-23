@@ -5,8 +5,6 @@ layout: post
 slug: xo-energia-medio-ambiente-y-el-mito-de-la-ley-de-moore
 title: XO, Energía, Medio Ambiente y el Mito de la Ley de Moore
 wordpress_id: 392
-categories:
-- Sin categoría
 ---
 
 [Walter Bender](http://web.media.mit.edu/~walter/) , presidente de la fundación OLPC, [escribe en la lista de noticias de OLPC](http://mailman.laptop.org/pipermail/community-news/2007-May/000056.html):

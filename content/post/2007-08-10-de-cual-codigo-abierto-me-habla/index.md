@@ -5,8 +5,6 @@ layout: post
 slug: '%c2%bfde-cual-codigo-abierto-me-habla'
 title: ¿De cual código abierto me habla?
 wordpress_id: 1813
-categories:
-- Sin categoría
 ---
 
 Sucede que hay empresas que consideran al software libre sólo como un término más de marketing, y poco les interesa distribuir su código fuente de verdad.

@@ -5,8 +5,6 @@ layout: post
 slug: el-plagio-de-fernando-ubiergo
 title: El Plagio de Fernando Ubiergo
 wordpress_id: 318
-categories:
-- Sin categoría
 ---
 
 Hace 2 años atrás nos enterabamos del [incidente del plagio de Mago de Oz](/2007/01/el_plagio_de_mago_de_oz.html) a una canción de Fernando Ubiergo, tuve la ocurrencia (no se si buena), de publicar una comparación de las letras de las dos canciones (algo que parece es ilegal en Chile).

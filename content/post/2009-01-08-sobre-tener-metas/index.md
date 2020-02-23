@@ -5,8 +5,6 @@ layout: post
 slug: sobre-tener-metas
 title: Sobre tener metas
 wordpress_id: 315
-categories:
-- Sin categoría
 ---
 
 > Tener metas es un cacho.  

@@ -5,8 +5,6 @@ layout: post
 slug: 'por-que-falla-la-calculadora-de-google'
 title: ¿Por qué falla la calculadora de Google?
 wordpress_id: 1158
-categories:
-- Sin categoría
 ---
 
 Tengo una sospecha de la posible causa de la [falla de la calculadora de Google](http://www.fayerwayer.com/2008/08/segun-google-500000000000002-500000000000001-0/), prueben este programa en C:

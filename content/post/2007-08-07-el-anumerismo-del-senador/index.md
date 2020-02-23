@@ -5,8 +5,6 @@ layout: post
 slug: el-anumerismo-del-senador
 title: El Anumerismo del Senador
 wordpress_id: 1809
-categories:
-- Sin categoría
 ---
 
 Hoy escuché al senador Girardi en las noticias:

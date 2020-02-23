@@ -5,8 +5,6 @@ layout: post
 slug: estandares-estandares
 title: Estándares, estándares...
 wordpress_id: 1833
-categories:
-- Sin categoría
 ---
 
 ![](debate-thumb-240x175.jpg)

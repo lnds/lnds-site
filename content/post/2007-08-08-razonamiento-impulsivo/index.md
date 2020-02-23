@@ -5,8 +5,6 @@ layout: post
 slug: razonamiento-impulsivo
 title: Razonamiento Impulsivo
 wordpress_id: 1811
-categories:
-- Sin categoría
 ---
 
 Si usted no sabe que Desdémona es un personaje de una importante obra de Shakespeare corre el riesgo de ser tildado de inculto, sin embargo, no saberlo no provoca grandes problemas. 

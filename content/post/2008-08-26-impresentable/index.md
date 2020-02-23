@@ -5,8 +5,6 @@ layout: post
 slug: impresentable
 title: Impresentable
 wordpress_id: 789
-categories:
-- Sin categoría
 ---
 
 [Leo en Kriptópolis](http://www.kriptopolis.org/error-critico-software-voto-electronico) que la empresa norteamericana [Premier Elections Solutions](http://www.premierelections.com/) (*), reconoce que tiene un error crítico de programación en su sistema de votación electrónica, que haría que miles de votos emitidos se pierdan en el proceso de conteo, y que este error está ¡desde hace 10 años por lo menos!

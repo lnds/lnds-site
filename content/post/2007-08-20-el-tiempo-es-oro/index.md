@@ -5,8 +5,6 @@ layout: post
 slug: el-tiempo-es-oro
 title: El tiempo es oro
 wordpress_id: 1824
-categories:
-- Sin categoría
 ---
 
 "Linux is Free if Your Time is Worthless" (frase atribuida a Jamie Zawinski)

@@ -5,8 +5,6 @@ layout: post
 slug: el-metro-contamina
 title: El metro contamina
 wordpress_id: 225
-categories:
-- Sin categoría
 tags:
 - contaminación
 - metro

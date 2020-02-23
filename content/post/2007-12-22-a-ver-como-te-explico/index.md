@@ -5,8 +5,6 @@ layout: post
 slug: a-ver-%c2%bfcomo-te-explico
 title: A ver... ¿como te explico?
 wordpress_id: 385
-categories:
-- Sin categoría
 ---
 
 No, si [usas un sistema operativo de 32 bits no puedes usar más de 4 GiB de memoria RAM](http://www.kriptopolis.org/mas-ram-no-gracias).

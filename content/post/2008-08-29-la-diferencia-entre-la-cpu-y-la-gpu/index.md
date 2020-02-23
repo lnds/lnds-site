@@ -5,8 +5,6 @@ layout: post
 slug: la-diferencia-entre-la-cpu-y-la-gpu
 title: La diferencia entre la CPU y la GPU
 wordpress_id: 1156
-categories:
-- Sin categoría
 ---
 
 Este video de los mythbuster lo deja bien en claro, la importancia de la [GPU](http://es.wikipedia.org/wiki/Graphics_Processing_Unit) o Unidad de Procesamiento Gráfico.

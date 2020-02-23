@@ -5,8 +5,6 @@ layout: post
 slug: justicia
 title: Justicia
 wordpress_id: 1806
-categories:
-- Sin categoría
 ---
 
 Hace ya más de un año les comenté sobre el [violento asalto](/2006/05/violencia_1.html) que fue objeto el curso de mi hija. En un campamento cerca de Valparaiso fueron asaltados 60 adolescentes más unos pocos adultos, que correspondían a los alumnos y profesores de primero medio.

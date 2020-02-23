@@ -5,8 +5,6 @@ layout: post
 slug: 'codigo-libre'
 title: ¿Código Libre?
 wordpress_id: 1830
-categories:
-- Sin categoría
 ---
 
 ![](TuxGuevara_by_pixdamix.png-thumb-200x150.jpg)

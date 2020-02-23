@@ -6,8 +6,6 @@ slug: accidente
 aliases: [/2006/01/accidente.html]
 title: Accidente
 wordpress_id: 328
-categories:
-- Sin categoría
 ---
 
 **En un segundo te puede cambiar la vida. En un instante vas por la autopista y en otro instante estás volcado sin entender mucho que sucedió.**

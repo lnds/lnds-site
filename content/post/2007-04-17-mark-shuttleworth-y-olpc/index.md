@@ -5,8 +5,6 @@ layout: post
 slug: mark-shuttleworth-y-olpc
 title: Mark Shuttleworth y OLPC
 wordpress_id: 1800
-categories:
-- Sin categoría
 ---
 
 Recientemente Mark Shuttleworth dió una [entrevista](http://replay.web.archive.org/20071027095304/http://derstandard.at/?url=/?id=2845484) para el sitio austriaco derStandard. Para los que no lo conozcan Mark Shuttleworth es un millonario sudafricano que financia Ubuntu, una de las distribuciones de linux más populares.

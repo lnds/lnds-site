@@ -5,8 +5,6 @@ layout: post
 slug: zig-zag-un-desafio
 title: Zig Zag (un desafío)
 wordpress_id: 1160
-categories:
-- Sin categoría
 ---
 
 Esta vez les voy a proponer un desafío, estoy pensado principalmente en los jóvenes programadores que les gustaría participar en eventos como la [ONI](http://www.oni.cl/) (o la [IOI](http://www.fayerwayer.com/2008/07/olimpiadas-internacionales-de-informatica/)), si la cosa tiene algún éxito, les propondré otro desafío.

@@ -5,8 +5,6 @@ layout: post
 slug: un-elefante
 title: Un Elefante
 wordpress_id: 1815
-categories:
-- Sin categoría
 ---
 
 > "Un elefante es un ratón con un sistema operativo"

@@ -5,8 +5,6 @@ layout: post
 slug: la-mejor-forma-de-matar-a-un-cocodrilo
 title: La mejor forma de matar a un cocodrilo
 wordpress_id: 355
-categories:
-- Sin categoría
 ---
 
 > "La mejor forma de matar a un cocodrilo es cuando aún está en el huevo..."

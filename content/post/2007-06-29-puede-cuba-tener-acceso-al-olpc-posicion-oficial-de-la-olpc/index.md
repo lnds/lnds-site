@@ -5,8 +5,6 @@ layout: post
 slug: 'puede-cuba-tener-acceso-al-olpc-posicion-oficial-de-la-olpc'
 title: ¿Puede Cuba tener acceso al OLPC? Posición oficial de la OLPC
 wordpress_id: 390
-categories:
-- Sin categoría
 ---
 
 ¿O Siria, Irán, Irak, etc?

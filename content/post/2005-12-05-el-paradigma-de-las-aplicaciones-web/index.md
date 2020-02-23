@@ -6,8 +6,6 @@ slug: el-paradigma-de-las-aplicaciones-web
 aliases: [/2005/12/el-paradigma-del-browser.html]
 title: El paradigma de las aplicaciones web
 wordpress_id: 1498
-categories:
-- Sin categoría
 ---
 
 La idea de que se sólo se deben construir aplicaciones web, y de que esta es la forma moderna de resolver todas las necesidades de las empresas está provocando más problemas que soluciones. Es un paradigma que uno debe tratar de evitar.

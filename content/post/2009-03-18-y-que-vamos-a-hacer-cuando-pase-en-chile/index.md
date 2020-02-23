@@ -5,8 +5,6 @@ layout: post
 slug: '%c2%bfy-que-vamos-a-hacer-cuando-pase-en-chile'
 title: ¿Y qué vamos a hacer cuando pase en Chile?
 wordpress_id: 279
-categories:
-- Sin categoría
 ---
 
 [En España](http://exgae.net/baja-de-adsl): "..El Ministerio de Cultura, favoreciendo intereses privados de los lobbies de presión de la industria cultural, ha forzado un acuerdo entre entidades de gestión y algunas operadoras de ADSL, la Redtel (Telefónica, Vodafone, Orange y Ono) para impedir el libre intercambio de información y el acceso democrático a la cultura, actualmente al alcance de todos los usuarios de la red. "

@@ -5,8 +5,6 @@ layout: post
 slug: el-lenguaje-es-algo-vivo-pero
 title: El lenguaje es algo vivo, pero...
 wordpress_id: 282
-categories:
-- Sin categoría
 ---
 
 Me escribe un [comentarista](/2005/08/sindicar-1.html#comment-77488), en respuesta a uno de los primeros posts que escribí (2005), sobre la palabra [sindicación](/2005/08/sindicar-1.html):

@@ -5,8 +5,6 @@ layout: post
 slug: transantiago-sonda-demanda-y-es-contrademandada
 title: 'TranSantiago: Sonda demanda y es contrademandada'
 wordpress_id: 1802
-categories:
-- Sin categoría
 ---
 
 SONDA tuvo que informar a la Superintendencia de Valores y Seguros mediante una carta ([descargar carta en formato PDF](http://replay.web.archive.org/20071016204320/http://www.lnds.net/sonda.pdf)) tal como los obliga la ley, sobre la situación de la demanda a Roberto Sone y a TIMM por daño emergente por 5.000 UF y por daño moral por 5.000 millones de Pesos.

@@ -5,8 +5,6 @@ layout: post
 slug: calidad-usabilidad-y-libertad
 title: Calidad, usabilidad y libertad
 wordpress_id: 61
-categories:
-- Sin categoría
 ---
 
 Instalé mi primer distro linux en 1993, no recuerdo bien los detalles, pero algunos de mis amigos que aún trabajaba en el DCC me pasó unos disquettes con Linux para poder instalarlo en mi PC. Después de instalarlo y configurarlo adecuadamente lo primero que hice fue conseguir e instalar X, aparte de usar Xeyes, mi objetivo era poder emular el ambiente de múltples ventanas de las Workstation Sun que usaba en la facultad. Al final, todo lo que quería tener eran múltiples instancias de Xterm.

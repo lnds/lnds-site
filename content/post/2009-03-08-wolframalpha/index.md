@@ -5,8 +5,6 @@ layout: post
 slug: wolframalpha
 title: WolframAlpha ?
 wordpress_id: 286
-categories:
-- Sin categoría
 ---
 
 [Stephen Wolfram](http://www.stephenwolfram.com/) ha generado una gran expectativa al prometer ["un nuevo paradigma de uso de los computadores y la internet"](http://blog.wolfram.com/2009/03/05/wolframalpha-is-coming/).

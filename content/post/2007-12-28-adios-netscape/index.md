@@ -5,8 +5,6 @@ layout: post
 slug: adios-netscape
 title: Adios Netscape
 wordpress_id: 388
-categories:
-- Sin categoría
 ---
 
 Hoy día anunciaron que Netscape se descontinúa.

@@ -6,8 +6,6 @@ slug: 'cuanto-costara-salir-del-boletin-comercial'
 aliases: [/2006/09/cuanto_costar_salir_del_boletn_comercial.html]
 title: ¿Cuanto costará salir del Boletín Comercial?
 wordpress_id: 332
-categories:
-- Sin categoría
 ---
 
 Para muchos deudores chilenos, el 11 de septiembre de este año trajo una buena noticia, cuya cobertura en prensa y las implicaciones que tiene ha sido poco difundidas.

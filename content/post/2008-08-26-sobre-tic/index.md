@@ -5,8 +5,6 @@ layout: post
 slug: sobre-tic
 title: Sobre TIC
 wordpress_id: 787
-categories:
-- Sin categoría
 ---
 
 > TIC: Movimiento convulsivo, que se repite con frecuencia, producido por la contracción involuntaria de uno o varios músculos

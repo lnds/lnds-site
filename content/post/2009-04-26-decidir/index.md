@@ -6,8 +6,6 @@ slug: decidir
 aliases: [/2009/04/decidir.html]
 title: Decidir
 wordpress_id: 76
-categories:
-- Sin categoría
 ---
 
 A una sobrina, adulta, pero muy  joven, su padre le prohibió comer alimentos que pudieran tener listeria, como quesos, jamones, cecinas, en general. Supongo que con esto de la gripe porcina terminarán adoptando la dieta kosher. Está bien preocuparse por los hijos, pero hay padres que exageran y no los dejan crecer.

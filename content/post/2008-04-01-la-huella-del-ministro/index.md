@@ -6,8 +6,6 @@ slug: la-huella-del-ministro
 aliases: [/2008/04/la_huella_del_ministro.html]
 title: La Huella del Ministro
 wordpress_id: 65
-categories:
-- Sin categoría
 ---
 
 Aunque ya no estoy trabajando en biometría, me gustaría comentar sobre [este hack político](http://www.theregister.co.uk/2008/03/30/german_interior_minister_fingerprint_appropriated/) que sucedió en Alemania.

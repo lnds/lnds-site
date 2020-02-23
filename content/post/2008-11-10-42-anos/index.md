@@ -5,8 +5,6 @@ layout: post
 slug: 42-anos
 title: 42 Años
 wordpress_id: 356
-categories:
-- Sin categoría
 tags:
 - celebración
 - cumpleaños

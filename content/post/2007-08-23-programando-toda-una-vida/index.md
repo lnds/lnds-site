@@ -5,8 +5,6 @@ layout: post
 slug: programando-toda-una-vida
 title: Programando toda una vida
 wordpress_id: 1838
-categories:
-- Sin categoría
 ---
 
 Llevo 26 años programando, y me siento totalmente identificado con el [comentario de Jeff Atwood](http://replay.web.archive.org/20071017000912/http://www.codinghorror.com/blog/archives/000936.html):

@@ -5,8 +5,6 @@ layout: post
 slug: manzanas-envenenedas
 title: manzanas envenenedas
 wordpress_id: 11
-categories:
-- Sin categoría
 ---
 
 En 1986 se inauguraban los primeros laboratorios de computadores personales en la escuela de ingeniería de la Universidad de Chile.  

@@ -5,8 +5,6 @@ layout: post
 slug: la-internerd
 title: La InterNerd
 wordpress_id: 1828
-categories:
-- Sin categoría
 ---
 
 Esta es una pequeña reflexión, sin importancia, en realidad.

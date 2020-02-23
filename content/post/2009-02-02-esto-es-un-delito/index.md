@@ -5,8 +5,6 @@ layout: post
 slug: esto-es-un-delito
 title: Esto es un delito
 wordpress_id: 304
-categories:
-- Sin categoría
 ---
 
 Tomado de [EMOL.COM](http://www.emol.com/noticias/nacional/detalle/detallenoticias.asp?idnoticia=342551):

@@ -5,8 +5,6 @@ layout: post
 slug: perdonalos-porque-no-saben-lo-que-hacen
 title: Perdónalos porque no saben lo que hacen...
 wordpress_id: 235
-categories:
-- Sin categoría
 ---
 
 Al parecer la frase del Evangleio de Lucas 23:34 _"Padre, perdónalos porque no saben lo que hacen"_, [sería un invento liberal](http://conservapedia.com/Conservative_Bible_Project#cite_note-6), y los conservadores norteamericanos se han decidido a arreglar esto, eliminando este tipo de frases liberales de la biblia: el proyecto de [La Biblia Conservadora](http://conservapedia.com/Conservative_Bible_Project).

@@ -5,8 +5,6 @@ layout: post
 slug: tec
 title: TEC
 wordpress_id: 306
-categories:
-- Sin categoría
 ---
 
 TEC corresponde a una sigla, que significa [Traumatismo Encefalo Craneano](http://www.scielo.cl/scielo.php?pid=S0370-41062000000400015&script=sci_arttext)

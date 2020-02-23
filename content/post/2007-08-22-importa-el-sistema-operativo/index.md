@@ -5,8 +5,6 @@ layout: post
 slug: 'importa-el-sistema-operativo'
 title: ¿Importa el Sistema Operativo?
 wordpress_id: 1836
-categories:
-- Sin categoría
 ---
 
 A propósito del fallo de Skype, me acordé de una [consulta](http://replay.web.archive.org/20071017000912/http://www.acmqueue.org/modules.php?name=Content&pa=showpage&pid=493) que le envían al genial [Kode Vicious ](http://replay.web.archive.org/20071017000912/http://acmqueue.com/modules.php?name=Content&pa=list_pages_categories&cid=10) un gerente de finanzas (CFO).

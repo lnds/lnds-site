@@ -5,8 +5,6 @@ layout: post
 slug: conversando-con-los-ganadores-de-la-oni
 title: Conversando con los ganadores de la ONI
 wordpress_id: 697
-categories:
-- Sin categoría
 ---
 
 Con el fin de preparar una [nota que me solicitaron de Fayerwayer](http://www.fayerwayer.com/2008/07/olimpiadas-internacionales-de-informatica/), les hice algunas preguntas a los muchachos ganadores de la fase final de la [Olimpiada Nacional de Informática](http://www.oni.cl/).

@@ -5,8 +5,6 @@ layout: post
 slug: el-caso-de-jamie-cansdale
 title: El caso de Jamie Cansdale
 wordpress_id: 391
-categories:
-- Sin categoría
 ---
 
 [Jamie Cansdale](http://weblogs.asp.net/nunitaddin/) es un hacker creador de un producto muy útil para los desarrolladores que usan la plataforma Microsof.Net. Se trata de [TestDriven.Net](http://testdriven.net/), un producto que permite organizar y administrar pruebas unitarias desde Visual Studio, algo muy apreciado por los programadores que siguen metodologias de desarrollo ágiles.

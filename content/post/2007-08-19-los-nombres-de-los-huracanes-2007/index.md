@@ -5,8 +5,6 @@ layout: post
 slug: los-nombres-de-los-huracanes-2007
 title: Los Nombres de los Huracanes 2007
 wordpress_id: 1822
-categories:
-- Sin categoría
 ---
 
 En las estadísticas de visitas a este blog el artículo en que describí el "algoritmos para nombrar los huracanes", es de los más populares.

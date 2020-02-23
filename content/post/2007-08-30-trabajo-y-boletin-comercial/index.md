@@ -5,8 +5,6 @@ layout: post
 slug: trabajo-y-boletin-comercial
 title: Trabajo y Boletín Comercial
 wordpress_id: 1171
-categories:
-- Sin categoría
 ---
 
 Mucha gente visita este blog por [algunas noticias](    ) que he puesto sobre la normativa que regula al [Boletín Comercial](http://www.boletincomercial.cl/). Ya he comentado que trabajé en esa institución, y sé lo que significa para muchas personas el drama de caer en este listado de deudores morosos.

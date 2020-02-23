@@ -5,8 +5,6 @@ layout: post
 slug: vivimos-revolcaos-en-un-merengue
 title: Vivimos revolcaos en un merengue...
 wordpress_id: 1820
-categories:
-- Sin categoría
 ---
 
 Una cosa es leer, pero otra es entender lo que se lee.
