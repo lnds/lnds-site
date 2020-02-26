@@ -6,10 +6,8 @@ slug: chile-en-la-ioi-2006
 aliases: [/2006/09/chile_en_la_ioi_2006.html]
 title: Chile en la IOI 2006
 wordpress_id: 1766
-categories:
-- Sin categoría
 tags:
-- iOI
+- IOI
 ---
 
 Con respecto a la [noticia de la participación de Chile en la IOI](http://replay.web.archive.org/20071016222822/http://hardings.cl/prensa/emol-ioi_chile-20060824.pdf), les transcribo un mensaje que recibí de Arturo Cepeda, Chairman de la [IOI2006](http://replay.web.archive.org/20071016222822/http://www.ioi2006.org/), a quien consulté al respecto.
