@@ -8,7 +8,6 @@ wordpress_id: 2023
 categories:
 - Tecnología
 tags:
-- c#
 - Microsoft
 - seguridad
 - singularity
