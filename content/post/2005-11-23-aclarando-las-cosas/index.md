@@ -5,8 +5,6 @@ layout: post
 slug: aclarando-las-cosas
 title: Aclarando las cosas
 wordpress_id: 167
-categories:
-- Sin categoría
 ---
 
 Yo no sé por qué [Francotirador](http://www.argonave.com/francotirador/) se molestó porque le dije que era escéptico con respecto al proyecto ULPN, cuando con su último [post ](http://www.argonave.com/francotirador/archives/2005/11/san_negroponte.html)lo demuestra.

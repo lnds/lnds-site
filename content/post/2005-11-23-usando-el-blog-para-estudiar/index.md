@@ -14,7 +14,7 @@ tags:
 - web 2.0
 ---
 
-Mi hijo mayor [publicó ](http://web.archive.org/web/20090426080916/http://www.thefinaldestiny.com/d3ne/?p=21)en su blog la materia para una prueba de biología, y recibió un montón de visitas de sus compañeros de curso, con el correspondiente agradecimiento de los que no tenían la materia.
+Mi hijo mayor [publicó ](http://web.archive.org/web/20090426080916/http://www.thefinaldestiny.com/d3ne/?p=21) en su blog la materia para una prueba de biología, y recibió un montón de visitas de sus compañeros de curso, con el correspondiente agradecimiento de los que no tenían la materia.
 
 El me dijo que al copiar la materia a su blog aprovechó de estudiar (buena chiva :).
 
