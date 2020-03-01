@@ -25,29 +25,15 @@ Claro que Robert Metcalfe se ha mandado numeritos bastante impresentables, como 
 ![nanog9.jpg](nanog9-thumb-300x422.jpg)
 
 
-
-
 Uno de los términos famosos acuñados por Metcalfe es el de [El Efecto Red](http://en.wikipedia.org/wiki/Network_effect) (Network Effect).
-
-
-
 
 Esencialmente lo que dice este concepto es que si bien el costo de una red es proporcional a la cantidad de nodos que la componen (N) el valor de la red es proporcional al cuadrado de la cantidad de nodos (N^2).
 
-
-
-
 El efecto red causa que un bien o servicio tenga un valor para un cliente potencial que depende de la cantidad de otros clientes que tengan. En otras palabras, el numero de personas que han adoptado antes un servicio es un factor del valor disponible para el proximo adoptante.
-
-
-
 
 Una consecuencia es que la compra de un bien por parte de un individuo beneficia indirectamente a los otros que ya tienen ese bien. Por ejemplo, cuando una persona compra un teléfono hace que más útiles a los demás teléfonos (y por lo tanto el servicio telefónico se hace más valioso).
 
-
-
-
-![Network_effect.png](http://www.lnds.net/images/Network_effect-thumb-200x446.png)
+![Network_effect.png](Network_effect-thumb-200x446.png)
 
 
 

@@ -7,7 +7,7 @@ tags: ["Bill Gates", "algoritmos", "matemáticas", "historia", "genética"]
 draft: false
 ---
 
-El [problema de ordenar](http://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento) es uno
+El [problema de ordenar](https://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento) es uno
 de los temas básicos en  la formación de todo programador. Pero quizás
 este  conocido problema encierre la clave para entender como funciona la
 evolución de la vida. ¿Cómo? Esa es una historia que involucra nada
@@ -36,11 +36,11 @@ hasta los más grandes se complican con esta pregunta, como el gran Guido
 Van Rossum (creador de python), como pueden apreciar 
 [en este artículo](http://neopythonic.blogspot.com/2008/10/sorting-million-32-bit-integers-in-2mb.html).
 
-[![](41ETT7KQRRL._SL160_.jpg)](https://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0201657880)
+[![](41ETT7KQRRL._SL160_.jpg)](https://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0201657880)
 
 Otra forma clásica de este problema aparece en el primer capítulo de
  ese maravilloso libro que todo desarrollador debe tener en su
-biblioteca: [Programming Pearls (2nd Edition)](https://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0201657880),
+biblioteca: [Programming Pearls (2nd Edition)](https://www.amazon.com/gp/product/0201657880?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0201657880)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0201657880),
 escrito por Jon Bentley. Afortunadamente el artículo de Bentley se
 encuentra [disponible online](http://www.cs.bell-labs.com/cm/cs/pearls/cto.html), y recomiendo
 su lectura (pero compren el libro y guárdenlo bajo su almohada).

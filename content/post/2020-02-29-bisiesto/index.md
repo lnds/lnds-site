@@ -171,3 +171,5 @@ Ritmo y Rito.
 Una palabra tras otra, una idea y después la siguiente. 
 
 ![](escaleras.png)
+
+(*) Todas las fotos tomadas por el autor
