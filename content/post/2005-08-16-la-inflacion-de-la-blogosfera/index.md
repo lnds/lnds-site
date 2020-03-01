@@ -2,6 +2,7 @@
 title: "La inflación de la blogosfera"
 date: 2005-08-16T08:25:11-03:00
 slug: "la-inflación-de-la-blogosfera"
+aliases: [/2005/08/la_blogosfera_se_duplica_cada_1.html]
 tags: ["blogging", "blogosfera"]
 draft: false
 ---
