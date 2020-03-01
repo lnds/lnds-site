@@ -20,7 +20,7 @@ Sugiero al lector que vea mi post original, y se dará cuenta que cuando usé es
 
 > Zuckerman cuestionó intensamente a Negroponte con respecto a la energía del sistema, y este parecía tener respuestas para todo: ¿ 12 volt de potencia ? Hay adaptadores para eso; ¿Sobrecargas de voltaje? no hay problema dado el modesto uso de energia del sistema. ¿ Enfriamiento ? La máquina no usará ventilador, pues no tiene disco duro y el procesador es relativamente lento. La única área en que Zuckerman no quedó satisfecho con la respuesta de Negroponte fue sobre el soporte de la red inalámbrica.
 
-(Extractado de [ULPN 2](http://www.lnds.net/2005/11/ulpn_2.html#more))
+(Extractado de [ULPN 2](/2005/11/ulpn_2.html))
 
 Yo no digo que Negroponte tenga respuestas para todo, sólo me dedique a traducir fragmentos del artículo de Zuckerman, con bastante mala redacción tengo que admitir, lo que probablemente provoca la confusión de Christian.
 

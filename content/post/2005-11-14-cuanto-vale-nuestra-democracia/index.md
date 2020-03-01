@@ -5,8 +5,6 @@ layout: post
 slug: cuanto-vale-nuestra-democracia
 title: Cuanto vale nuestra democracia?
 wordpress_id: 172
-categories:
-- Sin categoría
 ---
 
 Resulta que me desayuno con el hecho de que la cerca del 50% de la población chilena habiltada para votar, [no lo hace](http://www.portalciudadano.cl/detalle_noticia.html?id=615;id_seccion=130).
