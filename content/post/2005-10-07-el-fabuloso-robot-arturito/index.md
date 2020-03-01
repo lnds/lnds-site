@@ -35,7 +35,7 @@ Para finalizar, voy a incluir una cita del inventor en que explica porque no nec
 
 Para los curiosos, en el sitio del Mercurio se encuentra este plano de las entrañas de Arturito:
 
-[![](http://www.lnds.net/archives/arturito-thumb.JPG)](http://www.lnds.net/archives/arturito.html)
+![](arturito-thumb.JPG)
 
 
 

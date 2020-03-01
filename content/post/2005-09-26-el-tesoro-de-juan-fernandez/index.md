@@ -29,7 +29,7 @@ Según la televisión, el robot Arturito irradia rayos gama hacia la tierra para
 
 Esta es la foto de un sensor de rayos gama, usado para scanear containers, como parte de la [Container Security Initiative](http://en.wikipedia.org/wiki/Container_Security_Initiative):
 
-[![](http://www.inet.tsinghua.edu.cn/english2/images/gu60ct.jpg)](http://www.inet.tsinghua.edu.cn/english2/academics4.htm)
+[![](https://www.inet.tsinghua.edu.cn/english2/images/gu60ct.jpg)](http://www.inet.tsinghua.edu.cn/english2/academics4.htm)
 
 Tiene un costo de unos 5 millones de dolares, usa un acelerador de partículas de Cobalto 60, a una energia entre 4-0 MeV.
 

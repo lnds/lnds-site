@@ -7,7 +7,7 @@ title: ¿Quién Vigila a los Vigilantes?
 wordpress_id: 1466
 ---
 
-No, este post no tiene nada que ver con el [famoso comic de Alan Moore](http://replay.waybackmachine.org/20060211180559/http://www.amazon.com/exec/obidos/redirect?link_code=ur2&camp=1789&tag=lanaturaledel-20&creative=9325&path=tg/detail/-/0930289234?v=glance)![](http://replay.waybackmachine.org/20060211180559im_/http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1).
+No, este post no tiene nada que ver con el famoso comic de Alan Moore.
 
 Durante estos años una floreciente industria de seguridad para el PC ha surgido. No basta con el sistema operativo, hay que instalar antispyware, antivirus, firewalls, etc.
 

@@ -12,7 +12,7 @@ categories:
 
 Francotirador, Christian Leal, responde a mi último post respecto a ULPN.
 
-Yo señalé [Francotirador ](http://www.argonave.com/francotirador/) como un esceptico. No hay nada malo en ser esceptico, y es sano para una sociedad tener escepticos, pero creo que el escepticismo en la sociedad chilena se aplica cuando no corresponde, y a veces con poca base.
+Yo señalé [Francotirador](http://www.argonave.com/francotirador/) como un esceptico. No hay nada malo en ser esceptico, y es sano para una sociedad tener escepticos, pero creo que el escepticismo en la sociedad chilena se aplica cuando no corresponde, y a veces con poca base.
 
 De hecho, creo que hay demasiados escepticos en la sociedad chilena, y lo peor es que son escepticos sin fundamentos ni los conocimientos para hacerlo (no es el caso de Christian).
 
@@ -32,7 +32,7 @@ Christian me escribe:
 
 Con todo respeto, pero yo no sólo puedo aportar lindas ideas, sino que tengo [la capacidad para poder construirlo](http://www.eduardodiaz.org/2005/08/tecnology_innovation_award_200.html), llevo muchos años [desarrollando tecnologías de clase mundial](http://www.biokey.cl/Noticias.bok?NewsId=10), así que puedo entender los aspectos tecnológicos mejor que un periodista digital, con todo el respeto a esa profesión. Así que puedo decir, en mi calidad de experto, que el proyecto es total y absolutamente factible.
 
-El objetivo de mis posts anteriores era divulgar un [artículo](http://www.worldchanging.com/archives/003707.html) de Ethan Zuckerman, quien vió personalmente la maqueta, y discutió con el equipo de desarrollo y arquitectura, que están construyendo el prototipo para mostrarlo el 16 de noviembre en el [WSIS ](http://www.itu.int/wsis/)(El WSIS es el World Submit on Information Society, organizado por la [ITU ](http://www.itu.int/home/index.html)(International Telecomunications Union, en mis tiempos se conocía como CCITT).
+El objetivo de mis posts anteriores era divulgar un [artículo](http://www.worldchanging.com/archives/003707.html) de Ethan Zuckerman, quien vió personalmente la maqueta, y discutió con el equipo de desarrollo y arquitectura, que están construyendo el prototipo para mostrarlo el 16 de noviembre en el [WSIS ](http://www.itu.int/wsis/)(El WSIS es el World Submit on Information Society, organizado por la [ITU](http://www.itu.int/home/index.html)(International Telecomunications Union, en mis tiempos se conocía como CCITT).
 
 Tu celular, el enlace de red a través del cual lees este post, el teléfono negro de tu abuelita y la mía, y hasta las transmisiones de televisión que recibes han sido estadarizadas por la ITU.
 
@@ -109,7 +109,7 @@ Hay un último tema que es importante aclarar. A Christián le causa urticaria N
 
 **Joseph Jacobson**: creador de [e-ink, ](http://www.eink.com/)es director del grupo de Máquinas Moleculares del Centro de Bits y Atomos en el Media Lab. Sólo puedo decir, que después de ver cómo funciona e-ink, la tinta electrónica, tuve que ir emergencia en la clínica para que me ayudaran a cerrar la mandíbula.
 
-**Seymour Papert**, es tan importante Papert, que por un error que cometió en los 60 toda la investigación de una importante rama de la inteligencia artificial se detuvo por más de 20 años (algún día voy a escribir sobre esto, porque es una historia muy interesante). Creador de LOGO, y una eminencia mundial en el campo de la educación. Hay que leer[MindStorms](http://www.amazon.com/exec/obidos/redirect?link_code=ur2&camp=1789&tag=lanaturaledel-20&creative=9325&path=tg/detail/-/0465046746)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=ur2&o=1).
+**Seymour Papert**, es tan importante Papert, que por un error que cometió en los 60 toda la investigación de una importante rama de la inteligencia artificial se detuvo por más de 20 años (algún día voy a escribir sobre esto, porque es una historia muy interesante). Creador de LOGO, y una eminencia mundial en el campo de la educación. Hay que leer MindStorms.
 
 ## ¿ y quién es Negroponte?
 
