@@ -11,13 +11,10 @@ categories:
 tags:
 - blogmemes
 ---
-
 Hoy publicamos el release 0.2.1.19 de akarru.
 Pueden obtenerlo desde [sourceforge](http://web.archive.org/web/20090426080926/http://sourceforge.net/project/showfiles.php?group_id=155783)
 
-
 ### Cambios en esta version
-
 
 version 0.2.1.19
 

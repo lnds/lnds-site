@@ -5,8 +5,6 @@ layout: post
 slug: la-inteligencia-como-capital
 title: La inteligencia como capital
 wordpress_id: 1355
-categories:
-- Sin categoría
 tags:
 - copyleft
 - copyright

@@ -19,8 +19,6 @@ tags:
 
 He estado enfrascado en 2 problemas:
 
-
-
 	
   * El primero es el problema de la promoción de los posts en [blogmemes ](http://web.archive.org/web/20090426080926/http://www.blogmemes.com/)hacia el tope de la cola.
 
@@ -135,8 +133,6 @@ Por otro lado, la popularidad es importante en una democracia, que se caracteriz
 Yo veo las siguientes consecuencias:
 
 
-
-	
   1. Se formarán grupos de usuarios que se voten entre sí.
 
 	

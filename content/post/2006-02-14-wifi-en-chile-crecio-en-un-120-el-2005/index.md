@@ -14,14 +14,7 @@ tags:
 ---
 
 
-
 Un crecimiento de 120% registraron durante 2005 los lugares públicos de conexión a Internet o hotspots en Chile, alcanzado a 678 puntos de conexión en todo el territorio nacional, de acuerdo al mapa Wi-Fi que elabora el [Centro de Estudios de Economía Digital de la Cámara de Comercio de Santiago (CCS)](http://web.archive.org/web/20080410015144/http://www.ccs.cl/html/informe_economico.htm).
-
-
-
-
-
-
 
 
 
