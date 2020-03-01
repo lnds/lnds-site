@@ -2,6 +2,7 @@
 title: "Robots Auto replicantes"
 date: 2005-08-25T10:25:11-03:00
 slug: "robots-auto-replicantes"
+aliases: [/2005/08/robots_auto_rep.html]
 tags: ["robots", "ingeniería"]
 draft: false
 ---

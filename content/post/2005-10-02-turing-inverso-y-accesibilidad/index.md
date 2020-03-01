@@ -25,7 +25,7 @@ De todas maneras, si lo que quieres es verificar que al otro lado hay un humano 
 
 Uno de los mejores CAPTCHAS que he visto es, irónicamente, el usado por ese generador de SPAM, llamado BlogClicker. La imagen muestra el concepto:
 
-![goodcaptcha.GIF](http://www.lnds.net/archives/goodcaptcha.GIF)
+![goodcaptcha.GIF](goodcaptcha.GIF)
 
 Este se mejoraría sin tener que distorsionar el número solicitado.
 
