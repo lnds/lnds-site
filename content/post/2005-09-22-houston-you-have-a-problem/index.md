@@ -5,8 +5,6 @@ layout: post
 slug: houston-you-have-a-problem
 title: Houston, You have a problem!
 wordpress_id: 1464
-categories:
-- Sin categoría
 ---
 
 Esta vez Houston está en problemas:
