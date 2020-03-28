@@ -65,7 +65,7 @@ Este blog se mantiene activo desde 2005.
 
 La idea original era escribir sobre el arte de crear software, con el tiempo se incorporaron diversos temas. A esta fecha (enero de 2020), este blog contiene más de mil artículos.
 
-Con el tiempo me enfoqué más en aspectos de ingeniería de software, y ese es el tema principal de este blog desde ahce años. 
+Con el tiempo me enfoqué más en aspectos de ingeniería de software, y ese es el tema principal de este blog desde hace años. 
 
 Es por eso que junto a este blog  mantengo dos sitios adicionales:
 
