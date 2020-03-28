@@ -3,6 +3,8 @@ comments: true
 date: 2006-06-06 12:16:03
 layout: post
 slug: la-marca-de-la-bestia
+aliases:
+- /blog/lnds/2006/6/6/la-marca-de-la-bestia
 title: La Marca de La Bestia
 wordpress_id: 1376
 categories:
