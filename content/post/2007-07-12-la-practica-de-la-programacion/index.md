@@ -60,6 +60,8 @@ Pero en la formación también hay problemas.
 práctica de la programación se compone de **simplicidad, claridad y
 generalidad**.
 
+[![](practica_de_la_programacion.jpg)](https://amzn.to/2ULmx5V)
+
 Muchos de los curricula de estudio de los "ingenieros informáticos"
 tienen de todo, menos de estos tres elementos.
 
