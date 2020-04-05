@@ -42,9 +42,9 @@ Dado lo anterior solicité que se instalara GIT en los computadores de los miemb
 
 La respuesta fue para mi increible, tuve que intervenir, pero el daño ya estaba hecho, y tuve que dar explicaciones y dar explicaciones a varios niveles, asumiendo la responsabilidad si algo pasaba por usar GIT. 
 
-La verdad es que tenían un punto, revisan CVE[^5] verán que GIT ha tenido serias vulnerabilidades de seguridad: https://www.cvedetails.com/vulnerability-list/vendor_id-4008/GIT.html.
+La verdad es que tenían un punto, si revisan CVE[^5] verán que GIT ha tenido serias vulnerabilidades de seguridad en el pasado: https://www.cvedetails.com/vulnerability-list/vendor_id-4008/GIT.html.
 
-Entonces,  ¿debíamos de dejar de aprovechar esta poderosa herramienta por esos motivos?
+Entonces, ¿debíamos de dejar de aprovechar esta poderosa herramienta por esos motivos?
 
 He escuchado anécdotas de empresas que han bloqueado el acceso a todos los sitios terminados en HUB, para evitar el acceso a sitios porno, esto por supuesto generó que no se pudiera acceder a [GitHub](https://www.github.com/), la fuente definitiva de los principales proyectos open source en el mundo.
 
@@ -68,7 +68,7 @@ Y adivinen qué, hay otra ecuación importante:
 
 $$Producto = F(Usabilidad)$$
 
-O como lo expresa Steve Yegge[^1]:
+O, como lo expresa [Steve Yegge](https://en.wikipedia.org/wiki/Steve_Yegge)[^1]:
 
 > [...] argumentaré que la _Usabilidad_ es realmente más importante que la Seguridad porque llevando Usabilidad a cero significa que no tienes producto, mientras que dejando Seguridad en cero puedes tener un producto razonablemente seguro tal como la Playstation Network.
 
