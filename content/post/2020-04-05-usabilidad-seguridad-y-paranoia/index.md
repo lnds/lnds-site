@@ -129,6 +129,11 @@ El artículo en [^6] aborda varios de estos puntos, no me extenderé mucho en es
 
 ## Reflexiones finales
 
+> How do I, how am I\
+Gonna get to sleep\
+Trust me, trust me....\
+-- Paranoimia, The Art of Noise
+
 Para terminar quiero hacer algunos comentarios a propósito de la sobre reacción sobre la seguridad de Zoom.
 
 Me llama la atención lo rápido que escaló la paranoia con Zoom, por ejemplo, la página en español de Wikipedia sobre Zoom parte enumerando la información que Zoom recopila, perdiendo la objetividad que debería caracterizarla. Claramente hay una edición sesgada ahí.
