@@ -3,6 +3,8 @@ comments: true
 date: 2005-12-02 14:44:23
 layout: post
 slug: pinvoke-net-la-web-2-0-tambien-es-para-los-programadores
+aliases: 
+- /blog/lnds/2005/12/2/pinvoke-net-la-web-2-0-tambien-es-para-los-programadores
 title: 'PInvoke.Net: La Web 2.0 también es para los programadores'
 wordpress_id: 185
 categories:

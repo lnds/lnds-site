@@ -3,6 +3,8 @@ comments: true
 date: 2009-03-22 15:26:26
 layout: post
 slug: por-que-no-uso-productos-apple
+aliases:
+- /blog/2009/03/por-que-no-uso-productos-apple.html
 title: Por qué no uso productos Apple
 wordpress_id: 276
 categories:
