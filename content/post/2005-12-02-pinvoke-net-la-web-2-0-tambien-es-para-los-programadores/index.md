@@ -31,7 +31,7 @@ En este sitio, lo que se hace es que los programadores que ya hayan resuelto una
 
 La mejor descripción de este concepto es el artículo de Tim O'Reilly: What is web 2.0?.  
 Una forma de visualizarlo es en el Mapa del Meme incluido en ese artículo:  
-![](http://www.oreillynet.com/oreilly/tim/news/2005/09/30/graphics/figure1.jpg)
+![](https://www.oreillynet.com/oreilly/tim/news/2005/09/30/graphics/figure1.jpg)
 
 ## ¿ Por qué PInvoke.Net es una aplicación Web 2.0?
 
