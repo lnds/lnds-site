@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Manos a Las Obras"
+title: "Manos a la obra"
 summary: ""
 authors: []
 tags: ["ingeniería de software", "TV", "reality", "lecciones", "reflexiones", "desafío focal", "agilidad"]
