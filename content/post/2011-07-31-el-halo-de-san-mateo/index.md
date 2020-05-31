@@ -11,7 +11,7 @@ empresa más innovadora de Estados Unidos", hasta su espectacular
 quiebra de 2001. Un caso muy parecido es el de La Polar en Chile. En
 abril de 2010 Pablo Alcalde presentaba "La exitosa estrategia de La
 Polar" en el seminario eClass de La Tercera / UAI (acá está el
-[video](http://www.youtube.com/watch?v=iF08GL9zSHI)).
+[video](https://www.youtube.com/watch?v=iF08GL9zSHI)).
 
 Es muy interesante escuchar algunas de las palabras de Alcalde, sobre
 todo a la luz de lo que se sabe, y también de la perspectiva de todo lo
@@ -48,7 +48,7 @@ considerados ejemplos a seguir para los ejecutivos. Por cierto, La
 Polar, al igual que Enron, proyectaban una imagen de éxito basada en un
 engaño. Cuando medios especializados, y universidades, o centros de
 estudios evalúan estos casos caen en lo que los sicólogos llaman el
-[Efecto Halo](http://es.wikipedia.org/wiki/Efecto_halo).
+[Efecto Halo](https://es.wikipedia.org/wiki/Efecto_halo).
 
 ## **El Efecto Halo**
 
@@ -57,14 +57,14 @@ percepción de un rasgo particular a otros rasgos, los que no
 necesariamente están relacionados. Por ejemplo, si la persona es
 atractiva físicamente se tiende a pensar de que también es
 inteligente. Una vez  [John
-Adams](http://es.wikipedia.org/wiki/John_Adams) comentó que [George
-Washington](http://es.wikipedia.org/wiki/George_Washington) era
+Adams](https://es.wikipedia.org/wiki/John_Adams) comentó que [George
+Washington](https://es.wikipedia.org/wiki/George_Washington) era
 considerado la elección natural para ser lider simplemente por siempre
 resultaba ser la persona más alta en la sala.
 
 ![](John_Ausonius.jpg)
 
-Nuestro juicio del aspecto de [John Ausonius](http://en.wikipedia.org/wiki/John_Ausonius)
+Nuestro juicio del aspecto de [John Ausonius](https://en.wikipedia.org/wiki/John_Ausonius)
 dependerá si pensamos que él es a) una estrella de cine, b) un científico ganador de
 un premio o c)  un asesino en serie.
 
@@ -160,15 +160,15 @@ Pero la vida está caracterizada por lo que los sociólogos llaman el
 particular del Evangelio según San Mateo:  "al que más tiene más se le
 dará, y al que menos tiene, se le quitará para dárselo al que más
 tiene."[^3] En el contexto bíblico los
-[talentos](http://es.wikipedia.org/wiki/Talento_(moneda)) son monedas,
+[talentos](https://es.wikipedia.org/wiki/Talento_(moneda)) son monedas,
 es dinero, así que en un sentido literal ese versículo habla de riqueza,
 de aquí la frase  "el rico se hace más rico y el pobre más pobre". La
-palabra [talento](http://es.wikipedia.org/wiki/Talento_(aptitud))
+palabra [talento](https://es.wikipedia.org/wiki/Talento_(aptitud))
 adquirió su sentido actual a partir de esta parábola (la idea de que
 debemos de hacer lo mejor con los talentos que hemos recibido), así que
 el versículo adquiere otro sentido también, que coincide con la idea del
 sociólogo que acuño el término, [Robert
-Merton](http://es.wikipedia.org/wiki/Robert_K._Merton), pues él se
+Merton](https://es.wikipedia.org/wiki/Robert_K._Merton), pues él se
 refería al éxito en general.
 
 {{<figure caption="Robert K. Merton, sociólogo que acuñó el concepto del Efecto    Mateo" src="Robert_K_Merton.jpg">}}
@@ -230,10 +230,10 @@ les permitieron acumular ventajas. De lo contrario siempre estará
 engañado por el efecto combinado del Halo de San Mateo :wink:
 
 
-[^1]: Citas tomadas del video y de [esta nota](http://diario.latercera.com/2011/06/21/01/contenido/negocios/10-73589-9-pablo-alcalde-y-las-claves-que-aparentemente-explicaban-el-exito-de-la-polar.shtml) La Tercera del 21 de junio de 2011. Por cierto, si usted ha estado leyendo esta serie podrá notar que Alcalde se está auto engañando, y cae en varios de los sesgos cognitivos que hemos criticado, lo que abre una gran duda sobre qué es lo que se enseña en las escuelas de negocio, y se entiende por emprendimiento, liderazgo o innovación.
+[^1]: Citas tomadas del video y de [esta nota](https://diario.latercera.com/2011/06/21/01/contenido/negocios/10-73589-9-pablo-alcalde-y-las-claves-que-aparentemente-explicaban-el-exito-de-la-polar.shtml) La Tercera del 21 de junio de 2011. Por cierto, si usted ha estado leyendo esta serie podrá notar que Alcalde se está auto engañando, y cae en varios de los sesgos cognitivos que hemos criticado, lo que abre una gran duda sobre qué es lo que se enseña en las escuelas de negocio, y se entiende por emprendimiento, liderazgo o innovación.
 
-[^2]: Citado en el libro [Everything Is Obvious: \*Once You Know the Answer](http://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373) de Duncan Watts.
+[^2]: Citado en el libro [Everything Is Obvious: \*Once You Know the Answer](https://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373) de Duncan Watts.
 
-[^3]: Evangelio de Mateo capítulo 25, versículo 29. Texto tomado de [aquí](http://www.biblegateway.com/passage/?search=Mateo+25&version=RVR1995).
+[^3]: Evangelio de Mateo capítulo 25, versículo 29. Texto tomado de [aquí](https://www.biblegateway.com/passage/?search=Mateo+25&version=RVR1995).
 
-[^4]: [The Mattew Effect in Science](http://www.garfield.library.upenn.edu/merton/matthew1.pdf), Robert Merton, Revista Science, enero de 1968.
+[^4]: [The Mattew Effect in Science](https://www.garfield.library.upenn.edu/merton/matthew1.pdf), Robert Merton, Revista Science, enero de 1968.

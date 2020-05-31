@@ -14,19 +14,19 @@ tags:
 ---
 
 
-Un crecimiento de 120% registraron durante 2005 los lugares públicos de conexión a Internet o hotspots en Chile, alcanzado a 678 puntos de conexión en todo el territorio nacional, de acuerdo al mapa Wi-Fi que elabora el [Centro de Estudios de Economía Digital de la Cámara de Comercio de Santiago (CCS)](http://web.archive.org/web/20080410015144/http://www.ccs.cl/html/informe_economico.htm).
+Un crecimiento de 120% registraron durante 2005 los lugares públicos de conexión a Internet o hotspots en Chile, alcanzado a 678 puntos de conexión en todo el territorio nacional, de acuerdo al mapa Wi-Fi que elabora el [Centro de Estudios de Economía Digital de la Cámara de Comercio de Santiago (CCS)](https://web.archive.org/web/20080410015144/http://www.ccs.cl/html/informe_economico.htm).
 
 
 
 ## Accesos Públicos a Wi-Fi Llegan a los 678 Puntos
 
 
-Fuente: [Cámara de Comercio de Santiago](http://web.archive.org/web/20080410015144/http://www.ccs.cl/html/informe_economico.htm)
+Fuente: [Cámara de Comercio de Santiago](https://web.archive.org/web/20080410015144/http://www.ccs.cl/html/informe_economico.htm)
 
 Revisar el correo desde un café, chequear la reserva del hotel desde el aeropuerto o el terminal de buses, sentarse a trabajar con el computador en una estación de metro, un parque o el patio de la universidad, es una práctica cada vez más común en nuestro país.
 De acuerdo al mapa Wi-Fi que elabora el Centro de Estudios de Economía Digital de la CCS, el número de hotspots públicos registrados en Chile alcanzó a 678 el 20051, de los cuales el 49% se ubican en la Región Metropolitana e “iluminan” el 0,13% de la superficie capitalina.
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2011/07/wifi3-thumb.jpg)](http://www.lnds.net/blog/wp-content/uploads/2011/07/wifi3-thumb.jpg)
+[![](https://www.lnds.net/blog/wp-content/uploads/2011/07/wifi3-thumb.jpg)](https://www.lnds.net/blog/wp-content/uploads/2011/07/wifi3-thumb.jpg)
 
 
 

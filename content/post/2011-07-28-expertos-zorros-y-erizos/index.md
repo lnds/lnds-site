@@ -8,10 +8,10 @@ draft: false
 
 A fines del 2007  BussinesWeek publicó el pronóstico de 54 economistas
 para el año siguiente, bajo el título 
-"[A Slower But Steady Economy](http://www.businessweek.com/interactive_reports/economist_forecast.html)" [^1],
+"[A Slower But Steady Economy](https://www.businessweek.com/interactive_reports/economist_forecast.html)" [^1],
 un desastroso año más tarde, y sin siquiera arrugarse se publicó el
 nuevo pronóstico para 2009, bajo el título: 
-"[A Slower But Steady Economy](http://www.businessweek.com/interactive_reports/economist_forecast_2008.html)"[^2].
+"[A Slower But Steady Economy](https://www.businessweek.com/interactive_reports/economist_forecast_2008.html)"[^2].
 
 En nuestra época los economistas inspiran el mismo grado de respeto que
 las pitonisas de Delfos para los griegos, lo que digan, por vago que
@@ -23,7 +23,7 @@ Al igual que los viejos oráculos los expertos tienen argumentos para
 sobreponerse a las críticas. "Estaba casi en lo correcto",  es una
 frase típica, o la otra, "podría haber sucedido de no haber sucedido un
 evento inesperado". Otro es la  idea de la [profecía
-autofrustrada](http://es.wikipedia.org/wiki/Profec%C3%ADa_autofrustrada),
+autofrustrada](https://es.wikipedia.org/wiki/Profec%C3%ADa_autofrustrada),
 es decir, que el hecho de realizar la predicción provoca que esta no se
 cumpla. ¿Recuerdan lo que pasó con el año 2000, el famoso Y2K? Bueno,
 hubo expertos que afirmaron que los computadores fallarían el 1 de enero
@@ -45,14 +45,14 @@ es que el evento predicho ocurrirá.
 ![](The_Population_Bomb.jpg)
 
 Un ejemplo, en 1968 el biólogo norteamericano Paul Ehrlich publicó un libro
-llamado [The Population Bomb](http://en.wikipedia.org/wiki/The_Population_Bomb), 
+llamado [The Population Bomb](https://en.wikipedia.org/wiki/The_Population_Bomb), 
 en que predecía que se producirían hambrunas a nivel mundial en la década de 1970, "la
 batalla para alimentar a toda la humanidad está perdida. En los 1970\'s,
 el mundo será azotado por hambrunas, cientos de millones se morirán de
 hambre a pesar de cualquier programa de choque en que nos embarquemos
 ahora", y sabemos lo que sucedió, la producción de alimentos aumentó.
 En la llamada "[revolución
-verde](http://es.wikipedia.org/wiki/Revoluci%C3%B3n_verde)", entre 1961
+verde](https://es.wikipedia.org/wiki/Revoluci%C3%B3n_verde)", entre 1961
 y el 2000 la población mundial se duplicó, y el consumo de calorías por
 persona se incrementó en un 24%[^4].
 
@@ -81,7 +81,7 @@ Así que podemos argumentar en favor o en contra de los expertos y sus
 predicciones. Lo que deberíamos buscar es tratar de determinar la tasa
 de falla de los expertos. Eso es precisamente lo que hizo Tetlock en su
 experimento que mencionamos en nuestro [artículo
-anterior](http://www.lnds.net/blog/2011/07/predicciones.html).
+anterior](/blog/2011/07/predicciones.html).
 
 Tetlock comparó las predicciones con los expertos respecto a un modelo
 estadístico simple. Se tabularon 27.450 predicciones realizadas por 284
@@ -91,7 +91,7 @@ más certeras que una conjetura al azar. Pueden visitar a un astrólogo,
  a un profesor de Harvard, o leer un a galletita de la fortuna. Tendrán,
 en esencia los mismos resultados, al menos la galletita se puede comer
 :wink: En realidad esa no es la conclusión de Tetlock, es la de [Dan
-Gardner](http://www.amazon.com/gp/product/B004BDP07A/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004BDP07A)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004BDP07A&camp=217145&creative=399373)
+Gardner](https://www.amazon.com/gp/product/B004BDP07A/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004BDP07A)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004BDP07A&camp=217145&creative=399373)
 (aunque yo subscribo).
 
 Lo interesante es que Tlelock encontró una gran variación entre expertos
@@ -129,9 +129,9 @@ predecir el futuro. Así que se produce una paradoja, los expertos que
 son mejores prediciendo tienden a tener menos confianza en sus
 predicciones.
 
-En su famoso ensayo "[El Zorro y el Erizo](http://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)" [^5], 
-el pensador liberal [Isaiah Berlin](http://es.wikipedia.org/wiki/Isaiah_Berlin) 
-cita un fragmento de un poema de [Arquíloco](http://es.wikipedia.org/wiki/Arqu%C3%ADloco):
+En su famoso ensayo "[El Zorro y el Erizo](https://en.wikipedia.org/wiki/The_Hedgehog_and_the_Fox)" [^5], 
+el pensador liberal [Isaiah Berlin](https://es.wikipedia.org/wiki/Isaiah_Berlin) 
+cita un fragmento de un poema de [Arquíloco](https://es.wikipedia.org/wiki/Arqu%C3%ADloco):
 
 > "El zorro sabe muchas cosas,  el erizo sabe una sola gran cosa."
 
@@ -161,11 +161,11 @@ mundo es esencialmente impredecible.
 
 ![](Zorro-Erizo.jpg)
 
-[^1]: Está disponible online en [http://www.businessweek.com/interactive*reports/economist*forecast.html](http://www.businessweek.com/interactive_reports/economist_forecast.html), la bajada dice: "The economy won't sink into a recession next year. That's the overwhelming view among the 54 economists in BusinessWeek 's annual economic outlook survey" (La economía no se hundirá en una recesión el próximo año. Esa es la opinión mayoritaria entre los 54 economistas en la encuesta anual de  BusinessWeek sobre erspectivas económicas.)
+[^1]: Está disponible online en [https://www.businessweek.com/interactive*reports/economist*forecast.html](https://www.businessweek.com/interactive_reports/economist_forecast.html), la bajada dice: "The economy won't sink into a recession next year. That's the overwhelming view among the 54 economists in BusinessWeek 's annual economic outlook survey" (La economía no se hundirá en una recesión el próximo año. Esa es la opinión mayoritaria entre los 54 economistas en la encuesta anual de  BusinessWeek sobre erspectivas económicas.)
 
-[^2]: Aunque ustedes no lo crean, disponible también en [http://www.businessweek.com/interactive*reports/economist*forecast\_2008.html](http://www.businessweek.com/interactive_reports/economist_forecast_2008.html), la bajada dice: "The economy will begin 2009 mired in a long and deep recession, before a tepid start toward recovery in the second half. That's the view of the 45 economists in BusinessWeek's annual economic outlook survey." (La economía comenzará 2009 sumido en una recesión larga y profunda, antes de empezar tibiamente la recuperación en la segunda mitad. Ese es el punto de vista de los 45 economistas en la encuesta anual de BusinessWeek de las perspectivas económicas.)
+[^2]: Aunque ustedes no lo crean, disponible también en [https://www.businessweek.com/interactive*reports/economist*forecast\_2008.html](https://www.businessweek.com/interactive_reports/economist_forecast_2008.html), la bajada dice: "The economy will begin 2009 mired in a long and deep recession, before a tepid start toward recovery in the second half. That's the view of the 45 economists in BusinessWeek's annual economic outlook survey." (La economía comenzará 2009 sumido en una recesión larga y profunda, antes de empezar tibiamente la recuperación en la segunda mitad. Ese es el punto de vista de los 45 economistas en la encuesta anual de BusinessWeek de las perspectivas económicas.)
 
-[^3]: Citado del libro [Future Babble: Why Expert Predictions Are Next to Worthless, and You Can Do Better](http://www.amazon.com/gp/product/B004BDP07A/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004BDP07A)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004BDP07A&camp=217145&creative=399373) de Dan Gardner.
+[^3]: Citado del libro [Future Babble: Why Expert Predictions Are Next to Worthless, and You Can Do Better](https://www.amazon.com/gp/product/B004BDP07A/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004BDP07A)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004BDP07A&camp=217145&creative=399373) de Dan Gardner.
 
 [^4]: Con sus pro y contras, hay que reconocer que estas técnicas
 permitieron que la India aumentara en un 20% el consumo de calorías por

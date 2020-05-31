@@ -16,7 +16,7 @@ colgada en las residencias privadas de los reyes franceses. Incluso
 después de la revolución francesa, al pasar al Louvre no llamaba tanto
 la atención de los críticos de arte.
 
-Fue el famoso robo de 1911, realizado por [Vincenzo Perugia](http://en.wikipedia.org/wiki/Vincenzo_Peruggia), a instancias
+Fue el famoso robo de 1911, realizado por [Vincenzo Perugia](https://en.wikipedia.org/wiki/Vincenzo_Peruggia), a instancias
 del traficante de arte Eduardo Valfierno,  el que cimentó la fama
 universal de este cuadro. Se llegó incluso a acusar  a Apollinaire y a
 Picasso del hurto. Por semanas la gente empezó a visitar el Louvre para
@@ -39,7 +39,7 @@ la Mona Lisa incrementa su fama.
 
 Y sin embargo, con toda la  admiración que se le tenía, Leonard Da Vinci
 era considerado, hasta antes del siglo XX un buen pintor, pero inferior
-a [Tiziano](http://es.wikipedia.org/wiki/Tiziano) o [Rafael](http://es.wikipedia.org/wiki/Rafael_Sanzio).
+a [Tiziano](https://es.wikipedia.org/wiki/Tiziano) o [Rafael](https://es.wikipedia.org/wiki/Rafael_Sanzio).
 La Mona Lisa no era considera una obra de calidad superior a otras. Pero
 hoy en día esta obra es el patrón de calidad en el arte.
 
@@ -165,5 +165,5 @@ estudio de la sociedad.
 
 
 [^1]: Tomado del libro [Everything Is Obvious: \*Once You Know the
-Answer](http://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0385531680&camp=217145&creative=399373)
+Answer](https://www.amazon.com/gp/product/0385531680/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=0385531680)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=0385531680&camp=217145&creative=399373)
 de Duncan Watts.

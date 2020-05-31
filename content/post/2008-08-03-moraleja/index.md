@@ -12,6 +12,6 @@ tags:
 - linux
 ---
 
-Bien, parece que hay una traducción semi [oficial de XKCD al español](http://es.xkcd.com/xkcd-es/) (como lo hablan en Ezpaña, ostias tío), pero se agradece, porque nos ahorra trabajo a futuro, acá esta la tira sobre linux que [publiqué el otro día](http://www.lnds.net/2008/07/linux_una_historia_real.html) , en un formato más adecuado:
+Bien, parece que hay una traducción semi [oficial de XKCD al español](https://es.xkcd.com/xkcd-es/) (como lo hablan en Ezpaña, ostias tío), pero se agradece, porque nos ahorra trabajo a futuro, acá esta la tira sobre linux que [publiqué el otro día](https://www.lnds.net/2008/07/linux_una_historia_real.html) , en un formato más adecuado:
 
-[![](http://www.lnds.net/blog/wp-content/uploads/2010/09/cautionary.png)](http://www.lnds.net/blog/wp-content/uploads/2010/09/cautionary.png)
+[![](https://www.lnds.net/blog/wp-content/uploads/2010/09/cautionary.png)](https://www.lnds.net/blog/wp-content/uploads/2010/09/cautionary.png)

@@ -36,9 +36,9 @@ tiene idea?
 ![](John_Wanamaker.jpg)
 
 A fines del siglo XIX el magnate norteamericano [John
-Wanamaker](http://en.wikipedia.org/wiki/John_Wanamaker), considerado por
+Wanamaker](https://en.wikipedia.org/wiki/John_Wanamaker), considerado por
 algunos como [el pionero del marketing
-moderno](http://mises.org/daily/5054/The-Pioneer-of-Marketing), se
+moderno](https://mises.org/daily/5054/The-Pioneer-of-Marketing), se
 quejaba de que:
 
 > *"la mitad del dinero que gasto en publicidad se pierde, lo malo es
@@ -126,7 +126,7 @@ Eso es difícil de hacer en publicidad tradicional, como los avisos en la
 carretera, o en una revista. Pero es posible en el mundo electrónico.
 Hay un experimento comentado por Duncan J. Watts[^1], realizado por sus
 colegas en Yahoo, David Reily, Taylor Schreiner, y Randall Lewis:
-[Advertising Works](http://research.yahoo.com/project/2616).
+[Advertising Works](https://research.yahoo.com/project/2616).
 
 Se trata de un experimento de campo con 1.6 millones de clientes de una
 cadena de retail que también eran usuarios activos de Yahoo!. Para
@@ -170,4 +170,4 @@ para  medir esquemas de compensación por desempeño.  El potencial de los
 experimentos es enorme, y claramente deberían ser usados más.
 
 [^1]: Duncan J. Watss. [Everything Is Obvious: \*Once You Know the
-Answer](http://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373)
+Answer](https://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373)
