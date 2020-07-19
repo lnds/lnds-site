@@ -96,7 +96,9 @@ Y acá viene la astucia de Penrose, para el físico el "colapso de la función d
 
 En mecánica cuántica el comportamiento de las partículas se describe mediante "funciones de onda", que evolucionan de acuerdo a la... redoble de tambores... "ecuación de Schrödinger". Las funciones de ondas no estacionarias son combinaciones lineales de los estados de un sistema, a esto se le conoce como "superposición cuántica", cuando un sistema cuántico interactúa con un sistema clásico, se realiza lo que se llama "medir un observable", y el sistema parece "colapsar" a un estado aleatorio de ese observable desde un punto de vista clásico[^5].
 
-Todas estas teorías de Penrose y Hameroff han sido objeto de diversas críticas, y hasta ahora se han defendido de cada una. Pero sigue siendo polémicas, y difíciles de demostrar. Casi todo se basa en encontrar el sustrato adecuado para sustentar las ideas de Penrose, y este serían los micro túbulos. El cito esqueleto de las neuronas contiene ciertas estructuras que podrían ser los candidatos adecuados para que se ejecute este procesamiento cuántico requerido por las teorías de Penrose.
+Todas estas teorías de Penrose y Hameroff han sido objeto de diversas críticas, y hasta ahora se han defendido de cada una. Pero sigue siendo polémicas, y difíciles de demostrar. 
+
+La teooría se basa en encontrar el sustrato adecuado para sustentar las ideas de Penrose, y este serían los micro túbulos. El cito esqueleto de las neuronas contiene ciertas estructuras que podrían ser los candidatos adecuados para que se ejecute este procesamiento cuántico requerido por las teorías de Penrose.
 
 Roger Penrose escribió en la década de 1990 un muy interesante libro titulado "The Emperor's New Mind", aparte de ser un brillante libro de divulgación, es también una crítica a la posibilidad de crear una verdadera Inteligencia Artificial.
 
@@ -109,11 +111,11 @@ La solución que propone Penrose es que la mente humana tiene estas capacidades 
 
 Tras leer el libro, y debido a su trabajo de investigación de las neuronas, Hameroff se acercó a Penrose e iniciaron una colaboración que ya lleva varios años, en búsqueda de ese sustrato que explique la teoría de Penrose.
 
-Hay muchas críticas al planteamiento de Penrose, partiendoo por su uso del teorema de Gödel que parece arbitrario, hasta algunas críticas más fundadas desde el mundo de la biología.
+Hay muchas críticas al planteamiento de Penrose, partiendo por su uso del teorema de Gödel que parece arbitrario, hasta algunas críticas más fundadas desde el mundo de la biología.
 
 Cómo sea las ideas de Penrose no dejan de ser interesantes, y hay que consignar que hay algunos experimentos que muestran efectos de entrelazamiento cuántico en las neuronas, o de capacidades de computo a ese nivel en nuestro cerebro.
 
-Quién sabe. 
+Quién sabe.
 
 Quizás la respuesta a la computación cuántica esté en nuestros cerebros, o en los cerebros de los gatos, o quizás no.
 
