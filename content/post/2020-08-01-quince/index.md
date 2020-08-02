@@ -32,7 +32,7 @@ Sin darme cuenta este blog cumplió quince años de vida.
 
 Es mucho tiempo, salvo el blog de [Alejandro Barros](https://www.alejandrobarros.com/), que partió antes, no conozco otro blog chileno tan antiguo (si alguien sabe de uno me avisa). 
 
-A pesar de la irregular frecuencia, este blog sigue vivo y sigue siendo visitado, referenciado, y tiene una saludable y fiel audiencia. 
+A pesar de la irregular frecuencia, este blog sigue vivo, sigue siendo visitado, referenciado y tiene una saludable y fiel audiencia. 
 
 He escrito tantas cosas en este blog que es dificil hacer una antología, sin contar este son 1024 posts (un número redondo :wink:), pero intentaré recomendar un par de articulos por año:
 
@@ -46,7 +46,7 @@ He escrito tantas cosas en este blog que es dificil hacer una antología, sin co
 
 ## 2006
 
-- ["Blogmemes y Meneame dos sistemas distintos"](/blog/lnds/2006/02/01/blogmemes-y-meneame-dos-sistemas-distintos): en 2006 cree un sitio que se llamaba blogmemes, una suerte de agregador de noticias compartidos, el sitio llegó a tener más de 50.000 usuarios, pero lo di de baja un tiempo después. Huboo varios sitios similares que imitaban a Digg.com, en plena época del auge de los blogs. En España estaba Meneame, un sitio creado por Ricardo Galli, hubo competencia al inicio y ciertas comparaciones, pero yo no seguí con esta idea y BlogMemes fue cerrado. Meneame sigue vigente aún: https://www.meneame.net/.
+- ["Blogmemes y Meneame dos sistemas distintos"](/blog/lnds/2006/02/01/blogmemes-y-meneame-dos-sistemas-distintos): en 2006 desarollé un sitio que se llamaba blogmemes, una suerte de agregador de noticias compartidos, el sitio llegó a tener más de 50.000 usuarios, pero lo di de baja un tiempo después. Huboo varios sitios similares que imitaban a Digg.com, en plena época del auge de los blogs. En España estaba Meneame, un sitio creado por Ricardo Galli, hubo competencia al inicio y ciertas comparaciones, pero yo no seguí con esta idea y BlogMemes fue cerrado. Meneame sigue vigente aún: https://www.meneame.net/.
 Hoy leí este par de tweets de  Ricardo Galli, creador de Meneame:
 
 {{<twitter 1289518983935270914 >}}
