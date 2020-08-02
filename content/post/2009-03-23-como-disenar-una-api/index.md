@@ -18,7 +18,7 @@ con algunas ideas sobre como escribir una API.
 ![restfullapi.jpg](restfullapi.jpg)
 
 Antes de seguir, debo decir que para mi, las interfaces REST, o las API
-en el contexto de la Web 2.0, es decir, las APIque permiten hacer
+en el contexto de la Web 2.0, es decir, las APIcque permiten hacer
 Mashups, por ejemplo, no son estrictamente una API, pero esta distinción
 es más bien semántica.
 

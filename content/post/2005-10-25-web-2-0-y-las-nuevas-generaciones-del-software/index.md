@@ -13,7 +13,7 @@ tags:
 
 Tim O'reilly debe estar leyendome :wink:.
 
-En su articulo: [What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software](http://replay.waybackmachine.org/20060211180339/http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) plantea de forma mas profunda y elaborada lo que yo esboze en mi anterior artículo, [el camino de google](http://replay.waybackmachine.org/20060211180339/http://www.lnds.net/2005/10/el_camino_de_google.html).
+En su articulo: [What Is Web 2.0 Design Patterns and Business Models for the Next Generation of Software](http://replay.waybackmachine.org/20060211180339/http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) plantea de forma mas profunda y elaborada lo que yo esbocé en mi anterior artículo, [el camino de google](http://replay.waybackmachine.org/20060211180339/http://www.lnds.net/2005/10/el_camino_de_google.html).
 
 Al comparar el caso de Netscape y de Google, Tim Oreilly nos aclara el camino tomado por Google, y por todas las nuevas aplicaciones que vendrán, en la llamada Web 2.0
 

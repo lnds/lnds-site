@@ -3,7 +3,7 @@ comments: true
 date: 2009-05-14 13:59:45
 layout: post
 slug: el-manejo-informatico-de-la-identidad-1
-title: El manejo informático de la identidad (1)
+title: El manejo informático de la identidad
 wordpress_id: 270
 categories:
 - Identidad Digital
