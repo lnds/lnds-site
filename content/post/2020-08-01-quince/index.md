@@ -69,7 +69,7 @@ Y reflejan el problema de administrar un sitio tipo red social, consume mucho ti
 
 ## 2008
 
-- ["Atolondrados tecnológicos"](/blog/lnds/2008/05/25/atolondrados/tecnologicos): "Un [atolondrado](http://www.rae2.es/atolondrado) es aquel que procede sin reflexión, en eso estamos convirtiéndonos cuando no nos esforzamos por entender lo que estamos haciendo. Copiar y pegar no es la forma más eficiente de resolver un problema"
+- ["Atolondrados tecnológicos"](/blog/lnds/2008/05/25/atolondrados/tecnologicos): "Un [atolondrado](https://www.rae2.es/atolondrado) es aquel que procede sin reflexión, en eso estamos convirtiéndonos cuando no nos esforzamos por entender lo que estamos haciendo. Copiar y pegar no es la forma más eficiente de resolver un problema"
 
 - ["Los hackers del 5 de octubre"](/blog/lnds/2008/10/05/los-hacker-del-5-de-octubre): Un recuerdo y homenaje a dos grandes amigos.
 
@@ -83,7 +83,7 @@ Y reflejan el problema de administrar un sitio tipo red social, consume mucho ti
 
 - ["¿Puedo Confiar en ti? (La ética como un nuevo nivel de ventaja competitiva)"](/blog/lnds/2010/01/20/puedo-confiar-en-ti-la-etica-como-un-nuevo-nivel-de-ventaja-competitiva): aunque hemos visto que Google ha adquirido prácticas cuestionables, lo esencial de lo que se habla en este artículo se mantiene y debemos velar porque se cumpla.
 
-- ["Deten el reloj, aplasta al bicho"](/blog/lnds/2010/05/27/deten-el-reloj-aplasta-al-bicho): en rigor este artículo es una traducción de un post de un blog inglés llamado ["Word Aligned"](http://wordaligned.org) de Thomas Guest. Hay muchas verdades en este artículo y además es muy entretenido (si eres programador :wink:).
+- ["Deten el reloj, aplasta al bicho"](/blog/lnds/2010/05/27/deten-el-reloj-aplasta-al-bicho): en rigor este artículo es una traducción de un post de un blog inglés llamado ["Word Aligned"](https://wordaligned.org) de Thomas Guest. Hay muchas verdades en este artículo y además es muy entretenido (si eres programador :wink:).
 
 ![](/blog/lnds/2010/05/27/deten-el-reloj-aplasta-al-bicho/spider.jpg)
 
@@ -105,7 +105,7 @@ Y reflejan el problema de administrar un sitio tipo red social, consume mucho ti
 
 - ["No somos cocineros"](/blog/lnds/2013/03/08/no-somos-cocineros): un post largo, pero bien largo, para contestar una tesis de un académico, que me pareció incorrecta en ese momento, y que en gran parte sigo sosteniendo. Valor a quien se atreva a leerlo y comentarlo.
 
-![](http://localhost:1313/blog/lnds/2013/03/08/no-somos-cocineros/duty_calls.png)
+![](/blog/lnds/2013/03/08/no-somos-cocineros/duty_calls.png)
 
 - ["¡No se puede!"](/blog/lnds/2013/08/08/no-se-puede): siete años han pasado y sigo peleando con Grumpy Cat.
 
@@ -113,7 +113,7 @@ Y reflejan el problema de administrar un sitio tipo red social, consume mucho ti
 
 - ["Sexo pianos y WiFi"](/blog/lnds/2014/03/10/sexo-pianos-y-wifi): hablar del aporte de Hedy Lamarr a la tecnología ya se ha vuelto un tópico común, pero en 2014 pocas persona sabían su historia, y de hecho hoy en dia la historia se cuenta de forma incompleta omitiendo el aporte de George Antheil y la extraña relación de estos dos artistas que unidos en la frivolidad llegaron a desarrollar una tecnología tan trascendental. Este debe ser de los pocos textos sobre el tema que cuenta la historia completa.
 
-![](http://localhost:1313/blog/lnds/2014/03/10/sexo-pianos-y-wifi/hedy_lamarr2.jpg)
+![](/blog/lnds/2014/03/10/sexo-pianos-y-wifi/hedy_lamarr2.jpg)
 
 - ["Un conjunto de conversaciones recurrentes"](/blog/lnds/2014/09/07/un-conjunto-de-conversaciones-recurrentes): mi definición favorita de equipo. Y cuando esas conversaciones dejan de darse, o se hacen disonantes, el equipo deja de existir.
 
@@ -135,7 +135,7 @@ Y reflejan el problema de administrar un sitio tipo red social, consume mucho ti
  - ["Profesión sólo para hombres"](/blog/lnds/2016/07/23/profesion-solo-para-hombres): este post nació de la indignación que me provocó la historia de una joven que entrevisté, quien me contó como su papá le prohibió estudiar ingeniería informática.
 
 
-![](http://d2dspjyoh5c79p.cloudfront.net/15d82cb1-50ff-11e6-aecf-c1145ad981b8-aa9f18b7)
+![](https://d2dspjyoh5c79p.cloudfront.net/15d82cb1-50ff-11e6-aecf-c1145ad981b8-aa9f18b7)
 
  ## 2017
 
