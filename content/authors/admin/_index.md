@@ -79,6 +79,7 @@ Mi nombre es Eduardo Díaz, soy ingeniero civil en computación y magister en te
 
 Mi libro "La Naturaleza del Software" se encuentra disponible en Amazon en la siguiente URL: https://amzn.to/2RcA9W6
 
+Puedes apoyar mi trabajo en Ko-fi: https://ko-fi.com/lnds
 
 
 (cc) Eduardo Díaz Cortés

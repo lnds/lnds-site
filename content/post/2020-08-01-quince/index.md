@@ -173,4 +173,4 @@ Espero que les guste la selección, a mi me entretuvo recordar cuando revisaba e
 
 Quiero aprovechar de agradecer a todos mis auspiciadores en Patreon, los que han pasado y los que se mantienen por su soporte y confianza.
 
-Y si te gusta lo que escribo y quieres unirte a mis patrocinadores, puedes visitar mi cuenta en Patreon e invitarme a un café: https://patreon.com/lnds tu aporte ayuda a mantener este y otros sitios, y a preparar futuros proyectos.
+Y si te gusta lo que escribo y puedes visitar mi cuenta en Ko-fi e invitarme a un café: https://ko-fi.com/lnds tu aporte ayuda a mantener este y otros sitios, y a preparar futuros proyectos.
