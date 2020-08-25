@@ -191,7 +191,7 @@ haber hecho la mayor parte del trabajo, o incluso haber tenido la idea
 central. O sea, cuando un científico se convierte en estrella no sólo
 recibe más fondos, sino que atrae más colaboradores, lo que puede llevar
 a que reciba  crédito más allá del realmente merecido[^4].
-El [artículo original](http://www.garfield.library.upenn.edu/merton/matthew1.pdf) 
+El [artículo original](https://www.garfield.library.upenn.edu/merton/matthew1.pdf) 
 de Robert Merton habla precisamente de este fenómeno en la ciencia.
 
 Pero los sociólogos han determinado que el Efecto Mateo se da en otras
@@ -232,7 +232,7 @@ engañado por el efecto combinado del Halo de San Mateo :wink:
 
 [^1]: Citas tomadas del video y de [esta nota](https://diario.latercera.com/2011/06/21/01/contenido/negocios/10-73589-9-pablo-alcalde-y-las-claves-que-aparentemente-explicaban-el-exito-de-la-polar.shtml) La Tercera del 21 de junio de 2011. Por cierto, si usted ha estado leyendo esta serie podrá notar que Alcalde se está auto engañando, y cae en varios de los sesgos cognitivos que hemos criticado, lo que abre una gran duda sobre qué es lo que se enseña en las escuelas de negocio, y se entiende por emprendimiento, liderazgo o innovación.
 
-[^2]: Citado en el libro [Everything Is Obvious: \*Once You Know the Answer](https://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](http://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373) de Duncan Watts.
+[^2]: Citado en el libro [Everything Is Obvious: \*Once You Know the Answer](https://www.amazon.com/gp/product/B004DEPHGQ/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=lanaturaledel-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=B004DEPHGQ)![](https://www.assoc-amazon.com/e/ir?t=lanaturaledel-20&l=as2&o=1&a=B004DEPHGQ&camp=217145&creative=399373) de Duncan Watts.
 
 [^3]: Evangelio de Mateo capítulo 25, versículo 29. Texto tomado de [aquí](https://www.biblegateway.com/passage/?search=Mateo+25&version=RVR1995).
 
