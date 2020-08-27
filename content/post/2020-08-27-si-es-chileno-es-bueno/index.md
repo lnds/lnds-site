@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "¿Si es chileno es bueno?"
+title: "Si es chileno, ¿es bueno?"
 subtitle: ""
 summary: ""
 authors: []
@@ -35,9 +35,11 @@ Con el tiempo me di cuenta que me salía más rápido y seguro comprar fuera de 
 
 Así que empecé a comprar en Amazon, varios artículos electrónicos sobretodo. Y la entrega muchas veces es más rápida que hacerla con un proveedor local. En varias ocasiones evalué el tiempo de entrega y Amazon los superaba con holgura. 
 
-Pero no todo es perfecto. He observado que la entrega en Amazon depende del carrier que seleccione para el envío. Esto se nota más si te toca que el envío es por DHL, UPS o por ChileExpress. Cuando el envío viene por los primeros las fechas se cumplen, incluso hasta llegan antes. Pero si me toca el último, es probable que tenga una total incerteza sobre el cumplimiento de la fecha, y lo que es peor, ¡hasta Amazon les pierde la traza! Esa ha sido mi experiencia al menos, después de varias compras.
+Pero no todo es perfecto. He observado que la entrega en Amazon depende del carrier que seleccione para el envío. Esto se nota más si te toca que el envío es por DHL, UPS o por ChileExpress. Cuando el envío viene por los primeros las fechas se cumplen, incluso hasta llegan antes. Pero si me toca el último, es probable que tenga una total incerteza sobre el cumplimiento de la fecha, y lo que es peor, ¡hasta Amazon les pierde la traza! 
 
 ![](facepalm.jpg)
+
+Esa ha sido mi experiencia al menos, después de varias compras.
 
 Cuando era chico recuerdo que se usaba la expresión: "¡si es chileno es bueno!", era una frase que se decía con cierto orgullo, quizás originada en alguna campaña de promoción de la industria nacional[^1].
 
