@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/5/21/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'valor', 'gestión', 'desarrollo', 'mujeres en tecnología', 'cultura']
+categories: ["el fin de la agilidad"]
 image: 
     placement: 3
     caption: "Paramore"

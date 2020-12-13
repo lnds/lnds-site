@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/6/16/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'trabajo', 'gestión', 'personas', 'equipo', 'procesos']
+categories: ["el fin de la agilidad"]
 image: 
     placement: 3
     caption: "The Jimmy Hendrix Experience" 

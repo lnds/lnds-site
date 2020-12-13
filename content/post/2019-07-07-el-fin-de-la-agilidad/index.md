@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/7/7el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'trabajo', 'gestión', 'radical candor', 'equipo']
+categories: ["el fin de la agilidad"]
 image: 
     placement: 3
     caption: "The Ramones"

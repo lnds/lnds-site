@@ -4,6 +4,7 @@ subtitle: "Parte 5: Garage Rock Revival"
 date: 2019-03-31T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
 tags: ["agilidad", "trabajo", "principios", "emprendimiento", "familia", "liderazgo"]
+categories: ["el fin de la agilidad"]
 draft: false
 image: 
     placement: 3

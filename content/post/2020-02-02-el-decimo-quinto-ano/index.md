@@ -7,7 +7,6 @@ summary: ""
 authors: []
 slug: "el-decimo-quinto"
 tags: ["blogging", "La Naturaleza del Software", "escribir", "reflexiones"]
-categories: []
 date: 2020-02-02T13:56:06-03:00
 lastmod: 2020-02-02T13:56:06-03:00
 featured: false

@@ -5,6 +5,7 @@ date: 2019-04-14T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/4/14/el-fin-de-la-agilidad]
 tags: ["agilidad", "arquitectura de software", "principios"]
+categories: ["el fin de la agilidad"]
 draft: false
 image:
     caption: "Dave Mathews Band"

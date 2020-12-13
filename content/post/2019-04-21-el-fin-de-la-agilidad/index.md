@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/4/21/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'familia', 'redes', 'estimación', 'ingeniería de software']
+categories: ["el fin de la agilidad"]
 image:
     placement: 2
     caption: 'Iron Maiden'

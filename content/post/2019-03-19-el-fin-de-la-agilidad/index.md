@@ -5,7 +5,7 @@ date: 2019-03-19T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/3/19/el-fin-de-la-agilidad]
 tags: ["agilidad", "familia", "transformación digital", "trabajo"]
-
+categories: ["el fin de la agilidad"]
 draft: false
 image:
     placement: 3

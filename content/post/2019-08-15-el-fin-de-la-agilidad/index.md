@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/8/15/el-fin-de-la-agilidad]
 draft: false
 tags: ['agilidad', 'desarrollo', 'batería', 'aprender', 'procesos', 'calidad', 'transformación']
+categories: ["el fin de la agilidad"]
 image: 
     placement: 3
     caption: 'Gavin Harrison'

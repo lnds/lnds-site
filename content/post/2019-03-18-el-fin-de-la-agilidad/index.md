@@ -6,6 +6,7 @@ slug: "el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/3/18/el-fin-de-la-agilidad]
 draft: false
 tags: ["agilidad", "integración continua", "DevOps", "emprendimiento"]
+categories: ["el fin de la agilidad"]
 image:
     placement: 3
     caption: "Oasis"
