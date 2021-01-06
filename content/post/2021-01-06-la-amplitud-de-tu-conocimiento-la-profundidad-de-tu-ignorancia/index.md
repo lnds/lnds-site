@@ -5,8 +5,8 @@ title: "La Amplitud De Tu Conocimiento, La Profundidad De Tu Ignorancia"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
-categories: []
+tags: [arquitectura, conocimiento, "arquitectura de software", complejidad, "ingeniería de software", programación]
+categories: [carrera, conocimiento, arquitectura, complejidad, ingeniería]
 date: 2021-01-06T10:14:09-03:00
 lastmod: 2021-01-06T10:14:09-03:00
 featured: false
