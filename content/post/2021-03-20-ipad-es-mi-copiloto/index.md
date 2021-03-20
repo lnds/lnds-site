@@ -111,7 +111,7 @@ Mi workflow para bloguear desde el iPad sería así:
 - Los últimos toques los hago en Blink usando Vim. Si son muy extensos vuelvo a Notion (porque ahí puedo revisar mejor la ortografía) y repito. Estos últimos toques son detalles menores y cosas como agregar los tags y categorías. Para mi Notion es el borrador, el texto en producción queda en GitHub.
 - Acá viene lo más complicado que es la incorporación de imágenes. Blink tiene varios bugs con scp y termino con complicados malabares para mover imágenes hacia el PC donde tengo los fuentes de mi blog.
 - Hago commit y push del texto a la rama principal del repo en GItHub del blog.
-- Tengo configurado Netlify como mi servicio de publicación. En este mediante un proceso de CI las páginas son convertidas a HTML estático y ustedes pueden leerlo.
+- Tengo configurado [Netlify](https://www.netlify.com) como mi servicio de publicación. En este mediante un proceso automatizado las páginas son convertidas a HTML estático y ustedes pueden leerlo.
 
 ![](two-shells.png)
 
