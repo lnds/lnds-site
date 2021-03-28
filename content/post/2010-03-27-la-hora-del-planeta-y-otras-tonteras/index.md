@@ -80,8 +80,7 @@ ha pasado nada, con sus conciencias ecológicas limpiecitas.
 La gracia, el impacto realmente importante es disminuir el gasto de
 energía en forma permanente. Eso si que es importante.
 
-Usar ampolletas de bajo consumo, cambiar los plasmas y los monitores de
-tuvo por tecnologías más baratas, como el LCD. Usar los computadores en
+Usar ampolletas de bajo consumo, cambiar los plasmas y los monitores antiguos que usan tubos por tecnologías más baratas, como el LCD. Usar los computadores en
 cosas útiles, apagar la tele y leer libros, no tener todas las luces
 encendidas. Eso es una forma inteligente de disminuir el gasto
 energético.
