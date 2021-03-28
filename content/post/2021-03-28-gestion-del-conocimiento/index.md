@@ -30,7 +30,7 @@ image:
 projects: []
 ---
 
-Hay una historia, probablemente apócrifa[^1], que dice que Federico II de Prusia adevertido de las virtudes de la papa, el tubérculo traido desde América, ordena que sus súbditos las planten y se alimenten de estas. La gente obedece la orden de su emperador pero al comer las plantas enferman. Es entonces que el gobernante se da cuenta del error y decide ayudarlos explicándoles cómo se debía consumir correctamente la patata. 
+Hay una historia, probablemente apócrifa[^1], que dice que Federico II de Prusia advertido de las virtudes de la papa, el tubérculo traido desde América, ordena que sus súbditos las planten y se alimenten con estas. La gente obedece la orden de su emperador pero al comer las plantas enferman. Es entonces que el gobernante se da cuenta del error y decide ayudarlos explicándoles cómo se debía consumir correctamente la patata. 
 
 Puede que la realidad fuera otra. El hecho es que había una hambruna y se consideraba que la papa era una forma de salvar a Europa de la ininación. Hay historias que dicen que Federico obligó a los campesinos a sembrarlas a riesgo de perder las orejas si no lo hacían.
 
