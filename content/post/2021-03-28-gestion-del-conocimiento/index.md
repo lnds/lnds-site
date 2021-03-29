@@ -4,8 +4,8 @@
 title: "Por qué y cómo gestionar el conocimiento"
 subtitle: ""
 summary: ""
-authors: []
-tags: []
+authors: ['Eduardo Díaz']
+tags: ['conocimiento', 'gestión del conocimiento']
 categories: []
 date: 2021-03-28T12:04:23-03:00
 lastmod: 2021-03-28T12:04:23-03:00
