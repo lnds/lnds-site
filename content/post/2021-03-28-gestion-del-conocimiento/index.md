@@ -106,7 +106,7 @@ Déjenme contarles otra historia, o más bien volver a contarles esta historia[^
 
 En 1940 Alemania era el país lider en óptica, con fábricas como la de Carl Zeiss en Jena y Ernst Leitz en Wetzlar. No había nada mejor fuera de Alemania, y esto era crucial para desarrollar instrumentos ópticos usados, por ejemplo, en los bombardeos de precisión. 
 
-Es por esto que el ejercito alemán consideraba a la óptica como uno de sus recursos estratégicos. Los militares alemanes creían que a los aliados les tomaría una generación preparar “artesanos ópticos” capaces de producir visores de bombardeo de alta calidad como los de elos.
+Es por esto que el ejercito alemán consideraba a la óptica como uno de sus recursos estratégicos. Los militares alemanes creían que a los aliados les tomaría una generación preparar “artesanos ópticos” capaces de producir visores de bombardeo de alta calidad como los de ellos.
 
 A principios de 1940 Estados Unidos contaba con un prototipo de visor de bombardeo de calidad, el “Norden”, desarrollado por el ingeniero holandés Carl Norden. Lo malo es que no contaban con una industria óptica que pemitiera producir los miles de visores necesarios para las necesidades de la guerra.
 
