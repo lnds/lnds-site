@@ -39,8 +39,6 @@ Hay un problema importante en ingeniería de software al que he dedicado parte d
 
 ![](code.jpeg)
 
-Este es un fenómeno sobre el he invertido una buena cantidad de tiempo  a investigar e incluso  construir herramientas para estudiarlo. Es por esto que he decidido escribir una serie de artículos al respecto, y de paso ir revelando parte de mi trabajo sobre el tema.
-
 Voy a partir con el aspecto más teórico del problema. Para esto revisaremos primero el trabajo de Lehman y Bélády que se remonta a las décadas de 1970 y 1980.
 
 {{<figure src="lehman.jpg" caption="Meir Manny Lehman">}}
