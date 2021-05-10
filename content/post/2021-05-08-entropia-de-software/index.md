@@ -9,7 +9,7 @@ tags: [evolución, software, desarrollo, "ingeniería de software", programas, s
 categories: ["entropía de software"]
 date: 2021-05-08T12:37:49-04:00
 lastmod: 2021-05-08T12:37:49-04:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
