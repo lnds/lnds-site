@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-Hay un problema muy interesante en ingeniería de software y que me ha interesado y al cuál he dedicado parte de mi tiempo durante al menos los últimos cuatro o cinco años. Se trata de una idea, o intuición que por ahora vamos a denominar "entropía de software". Y para motivar esta serie partiré con algunos tweets y memes:
+Hay un problema importante en ingeniería de software al que he dedicado parte de mi tiempo durante al menos los últimos cuatro o cinco años. Se trata de una idea, o intuición que por ahora vamos a denominar "entropía de software". Y para motivar la conversación les mostraré algunos tweets y memes:
 
 {{<twitter 1378090993744977920>}}
 
@@ -39,23 +39,25 @@ Hay un problema muy interesante en ingeniería de software y que me ha interesad
 
 ![](code.jpeg)
 
-Este es un fenómeno sobre el cual no sólo e reflexionado, sino que he invertido cierta cantidad de tiempo  a investigar e incluso a construir herramientas para estudiarlo. Es por esto que he decidido escribir una serie de artículos al respecto e ir revelando de pasada parte de mi trabajo sobre el tema.
+Este es un fenómeno sobre el he invertido una buena cantidad de tiempo  a investigar e incluso  construir herramientas para estudiarlo. Es por esto que he decidido escribir una serie de artículos al respecto, y de paso ir revelando parte de mi trabajo sobre el tema.
 
-Voy a partir con el aspecto más teórico del problema. Pare esto los invito a revisar el trabajo de Lehman y Bélády, que es muy interesante, y que se remonta a las décadas de 1970 y 1980.
+Voy a partir con el aspecto más teórico del problema. Para esto revisaremos primero el trabajo de Lehman y Bélády que se remonta a las décadas de 1970 y 1980.
 
 {{<figure src="lehman.jpg" caption="Meir Manny Lehman">}}
 
-Meir M. Lehman junto con Lázló Bélády formularon en aquella epoca una serie de proposiciones que terminaron conociéndose como las "Leyes dede la evolución del software de Lehman". 
+Meir M. Lehman junto con Lázló Bélády formularon en aquella época una serie de proposiciones que terminaron conociéndose como las "Leyes de la evolución del software de Lehman". 
 
-Estas leyes describen cierto equilibrio de fuerzas que dirigen el desarrollo de nuevo software. Por un lado tenemos fuerzas que empujan nuevos desarrollos y por otro lado fuerzas que enlentecen el progreso.
+Estas "leyes" describen cierto equilibrio de fuerzas que dirigen el desarrollo de nuevo software. Por un lado tenemos fuerzas que empujan nuevos desarrollos y por otro lado fuerzas que enlentecen el progreso.
 
-Para entender el contexto de estas leyes partiremos revisando un artículo de Lehman de 1980 donde introduce ciertas categorías, o clases de software. Hasta ese entonces los programas se clasificaban sólo por su envergadura, es decir,  programas grandes (large) y pequeños (non large). Esta clasificación no resultaba satisfactoria en ese tiempo (y mucho menos ahora). 
+Para entender el contexto de estas afirmaciones partiremos revisando un artículo de Lehman de 1980, donde introduce ciertas categorías, o clases de software. 
+
+Hasta ese entonces los programas se clasificaban sólo por su envergadura, es decir, programas grandes (large) y pequeños (non large). Esta clasificación no resultaba satisfactoria en ese tiempo (y mucho menos ahora). 
 
 Lehman parte reconociendo que todo programa es un modelo de la realidad. O como él dice: _"al menos, cualquier programa es un modelo de un modelo dentro de una teoría de un modelo de una abstracción de alguna porción del mundo o de algún universo de discurso"_ 🤯.
 
 Las clases introducidas por Lehman son tres: S, P y E.
 
-Los S-programs corresponden a software cuya funcionalidad se define formalmente por una especificación (specification) S. Es el programa que surge de la adherencia a un método formal, o proceso de desarrollo de software que contempla la elaboración de estas especificaciones. La especificación es muy precisa en este caso: "dadas estas entradas esperamos estas salidas".
+Los S-programs corresponden al software cuya funcionalidad se define formalmente por una especificación S (specification). Es el programa que surge de la adherencia a un método formal, o proceso de desarrollo de software que contempla la elaboración de estas especificaciones. La especificación es muy precisa en este caso: "dadas estas entradas esperamos estas salidas".
 
 Según Lehman en la medida que las metodologías de desarrollo de software evolucionen todos los sistemas serán construidos como estructuras de s-programs. Este diagrama, tomado del paper de Lehman, muestra esta clase de programas:
 
@@ -75,7 +77,7 @@ La tercera clase de programas son inherentemente más expuestos al cambio. Son l
 
 {{<figure src="e-program-1.png" caption="e-program ciclo inicial">}}
 
-Aunque no consideremos la evaluación de los resultados de la ejecución del programa en su ambiente operacional, este tiene un ciclo de retro alimentación intrínseco como el que se muestra en la figura _Fig. 3_. El análisis de esta solución requiere hacer predicciones de las consecuencias de introducir este programa y de su potencial evolución.
+Aunque no consideremos la evaluación de los resultados de ejecución del programa en su ambiente operacional, este tiene un ciclo de retro alimentación intrínseco como el que se muestra en la figura _Fig. 3_. El análisis inicial de esta solución requiere hacer predicciones de las consecuencias de introducir este programa y de su potencial evolución.
 
 {{<figure src="e-program-2.png" caption="e-program">}}
 
@@ -101,7 +103,7 @@ De todas maneras, Lehman sí identifica correctamente que la evolución es una p
 
 Hoy en día se consideran como vigentes las primeras dos leyes de Lehman. Las otras son algo que obtuvo Lehman de la observación de distintos sistemas y procesos en ese tiempo. Su validez es algo que vamos a explorar más adelante.
 
-La segunda ley es interesante en este contexto, puesto que se puede asimilar al concepto de entropía de la termodinámica, y es el aspecto que me parece más interesante de lo que plantea Lehman. En los siguientes artículos de esta serie vamos a explorar en profundidad estas ideas y ver si es posible medir la entropía del software y de qué manera esto nos puede ser útil.
+La segunda ley es interesante en este contexto, puesto que se puede asimilar al concepto de entropía de la termodinámica, y es el aspecto que me parece más relevante de lo que plantea Lehman. En los siguientes artículos de esta serie vamos a explorar en profundidad estas ideas y ver si es posible medir la entropía del software y de qué manera esto nos puede ser útil.
 
 [^1]: Lehman, M.M 1080, [Programs, Life Cycles, and Laws of Software Evolution](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf)
 
