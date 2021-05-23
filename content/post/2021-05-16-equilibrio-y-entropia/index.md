@@ -139,7 +139,7 @@ Si usamos GIT para hacer un commit de esta nueva versión, esta herramienta  nos
 
 El nuevo programa tiene 17 líneas de código.
 
-### Reversibilidad
+## Reversibilidad
 
 Ahora lo interesante es que podemos revertir estos cambios ejecutando este comando GIT:
 
@@ -206,7 +206,7 @@ Los tests siguen siendo válidos. Por supuesto este cambio es reversible tambié
 
 Pero el programa no opera igual. Esta solución no ejecuta ninguna iteración, todo se resuelve en una expresión llamando a una función tres veces. Para n = 1000 este programa es mil veces más rápido que el programa con el que iniciamos.
 
-# Programas elegantes
+## Programas elegantes
 
 ¿Podemos seguir optimizando y arreglando nuestro código? ¿Hemos llegado finalmente a la solución final?
 
@@ -256,7 +256,7 @@ index 6222402..84985c7 100644
 
 Entonces nuestra función $\\delta$ recibe este patch y aplica los cambios especificados, en nuestro caso $delta = $ `git apply`.
 
-**Derivación de un nuevo estado:**
+## Derivación de un nuevo estado
 
 Cuando aplicamos un cambio $c_i$ sobre el software que se encuentra en el estado $s_i$ obtendremos un nuevo estado $s'_i$:
 
