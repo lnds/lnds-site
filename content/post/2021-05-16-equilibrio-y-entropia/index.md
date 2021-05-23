@@ -73,9 +73,9 @@ class Euler1Test(unittest.TestCase):
     self.assertEqual(main(1000), 233168)
 ```
 
-Si recuerdan nuestra discusión en [el artículo anterior](/blog/lnds/2021/05/08/hablemos-de-entropia-de-software/) estamos ante la presencia de un programa tipo S. La especificación es formal y podemos definir cuál es la salida esperada para cada entrada. Eso lo expresamos con algunos casos de prueba en nuestro test unitario.
+Si recuerdan nuestra discusión en [el artículo anterior](/blog/lnds/2021/05/08/hablemos-de-entropia-de-software/) estamos ante la presencia de un programa tipo S, o `s-program`. La especificación es formal y podemos definir cuál es la salida esperada para cada entrada. Eso lo expresamos con algunos casos de prueba en nuestro test unitario.
 
-Entonces resolvamos el problema, escribiendo la función `main` de la siguiente forma:
+Resolveremos el problema, escribiendo la función `main` de la siguiente forma:
 
 ```python
 def main(n: int) -> int:
@@ -92,7 +92,7 @@ Pueden probar esta solución en el siguiente Replit: https://replit.com/@lnds/ln
 Usemos GIT para controlar los cambios en este programa:
 
 ```bash
-git commit -m "initial commit"
+% git commit -m "initial commit"
 [main (root-commit) 47f88eb] initial commit
  1 file changed, 15 insertions(+)
 ```
@@ -106,10 +106,12 @@ Ya tenemos una solución, pero ¿podemos darla por finalizada?
 
 Diremos que un programa  es **final** si cumple con su especificación y el código ya no sufre modificaciones. Siempre que los requisitos se mantengan inmutables. 
 
-Si hacemos una análisis del algoritmo veremos que esta solución ejecuta `n` iteraciones. ¿Podemos hacerlo mejor? Por supuesto, de hecho podemos reducir la cantidad de iteraciones aprovechando el hecho de que no tenemos que revisar todos los números, basta ir contando cada 3 y cada 5.
-Esto tiene un problema sin embargo, el número 15, por ejemplo, será contado dos veces, así que debemos restar la suma de las cuentas de 15 en 15.
+Si hacemos una análisis del algoritmo veremos que esta solución ejecuta `n` iteraciones. 
 
-Esto nos lleva a la siguiente solución:
+¿Podemos hacerlo mejor? Por supuesto, de hecho podemos reducir la cantidad de iteraciones aprovechando el hecho de que no tenemos que revisar todos los números, basta ir contando cada 3 y cada 5.
+Sin embargo, esta solución tiene un problema: el número 15, por ejemplo, será contado dos veces, así que debemos restar la suma de las cuentas de 15 en 15.
+
+Considerando esto obtenemos la siguiente solución:
 
 ```python
 def main(n: int) -> int:
@@ -160,9 +162,9 @@ if __name__ == "__main__":
 Y si repetimos el comando podemos volver a la versión optimizada:
 
 ```bash
- git reset --hard HEAD@{1}
+% git reset --hard HEAD@{1}
 HEAD is now at 629ee77 optimiza loops
-ediaz@El-Adrel euler1 % head main.py
+% head main.py
 def main(n: int) -> int:
   if n <= 0: return 0
 
