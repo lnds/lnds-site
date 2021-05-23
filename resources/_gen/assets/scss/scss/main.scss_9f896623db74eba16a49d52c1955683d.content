@@ -465,7 +465,7 @@ pre {
 
 @media (min-width: 1200px) {
   .container-xl, .container-lg, .container-md, .container-sm, .container {
-    max-width: 1200px; } }
+    max-width: 1290px; } }
 
 .row {
   display: flex;
@@ -7737,29 +7737,24 @@ video {
 /*************************************************
  *  Figures
  **************************************************/
-figure {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center; }
-  figure .figure-img-wrap {
-    flex-basis: 100%;
-    align-self: flex-start; }
-  figure img {
-    height: auto;
-    max-width: 100%; }
-  figure figcaption {
-    flex-basis: 100%;
-    margin-top: 0.75em;
-    margin-bottom: 1.65rem;
-    line-height: 1.4;
-    font-size: 0.76rem;
-    text-align: center; }
-  figure figcaption.numbered::before {
-    font-weight: 700;
-    text-transform: uppercase;
-    content: attr(data-pre) counter(captions) attr(data-post); }
-  figure figcaption.numbered {
-    counter-increment: captions; }
+figure img {
+  height: auto;
+  max-width: 100%; }
+
+figure figcaption {
+  margin-top: 0.75em;
+  margin-bottom: 1.65rem;
+  line-height: 1.4;
+  font-size: 0.76rem;
+  text-align: center; }
+
+figure figcaption.numbered::before {
+  font-weight: 700;
+  text-transform: uppercase;
+  content: attr(data-pre) counter(captions) attr(data-post); }
+
+figure figcaption.numbered {
+  counter-increment: captions; }
 
 /*************************************************
  *  Dynamic theming.
@@ -8629,7 +8624,7 @@ footer .powered-by {
 /*************************************************
  *  Compact (stream) list view
  **************************************************/
-.media.stream-item {
+.media.stream-item:not(:last-child) {
   margin-bottom: 2rem; }
 
 .card-simple .article-title,
@@ -8652,6 +8647,9 @@ footer .powered-by {
 @media screen and (max-width: 768px) {
   .media.stream-item img {
     max-width: 80px; } }
+
+.stream-meta.article-metadata .article-metadata {
+  margin-bottom: 0; }
 
 /*************************************************
  *  Publications
@@ -9225,6 +9223,9 @@ ul.ul-edu li .description p.institution {
   color: #fff;
   /* text-shadow: 1px 1px 4px rgba(0,0,0,0.5); */
   /* Uncomment to standout on complicated backgrounds. */ }
+
+.wg-hero.light a.btn {
+  color: #fff; }
 
 .wg-hero.dark a:not(.wg-hero .btn) {
   color: #fff; }
