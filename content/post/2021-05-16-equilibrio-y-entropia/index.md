@@ -206,9 +206,11 @@ Los tests siguen siendo válidos. Por supuesto este cambio es reversible tambié
 
 Pero el programa no opera igual. Esta solución no ejecuta ninguna iteración, todo se resuelve en una expresión llamando a una función tres veces. Para n = 1000 este programa es mil veces más rápido que el programa con el que iniciamos.
 
-¿Podemos seguir optimizando y arreglando nuestro código?
+# Programas elegantes
 
-Hay un resultado de Gregory Chaitin que es relevante en este contexto. Chaitin define el concepto de **"programa elegante"** como el programa más corto que produce una determinada salida, es decir que no existe un programa más pequeño que genere esa misma salida.
+¿Podemos seguir optimizando y arreglando nuestro código? ¿Hemos llegado finalmente a la solución final?
+
+Hay un resultado de [Gregory Chaitin](https://es.wikipedia.org/wiki/Gregory_Chaitin) que es relevante en este contexto. Chaitin define el concepto de **"programa elegante"** como el programa más corto que produce una determinada salida, es decir que no existe un programa más pequeño que genere esa misma salida.
 
 Este filósofo y matemático demuestra que no es posible saber si hemos encontrado un programa elegante a partir de cierto umbral[^2]. 
 
