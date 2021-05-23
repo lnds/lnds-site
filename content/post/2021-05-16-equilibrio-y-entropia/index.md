@@ -146,7 +146,7 @@ Ahora lo interesante es que podemos revertir estos cambios ejecutando este coman
 ```bash
 % git reset --hard HEAD@{1}
 HEAD is now at 47f88eb initial commit
-ediaz@El-Adrel euler1 % head main.py
+% head main.py
 def main(n: int) -> int:
   if n <= 0: return 0
   sum = 0
