@@ -30,9 +30,9 @@ image:
 projects: []
 ---
 
-Este es el segundo artículo de [esta serie](/categories/entropia-de-software/), en que estoy investigado el concepto de entropía de software.
+Este es el segundo artículo de [esta serie](/categories/entropia-de-software/), en que estoy investigando el concepto de entropía de software.
 
-Para continuer  he elegido un problema muy sencillo, que tomaremos del [Proyecto Euler](https://projecteuler.net). En ese sitio tenemos una lista de problemas que se proponen para ser resueltos en diversos lenguajes de programación. Vamos a tomar el problema número uno, que nos dice lo siguiente:
+Para continuar he elegido un ejercicio muy sencillo, que tomé de [Project Euler](https://projecteuler.net). En ese sitio tenemos una lista de problemas que se proponen para ser resueltos en diversos lenguajes de programación. Vamos a tomar el número uno, que nos dice lo siguiente:
 
 > "Si listamos todos los números naturales menores a 10 que son múltiplos de 3 ó 5, obtenemos 3, 5 y 9. La suma de estos múltiplos es 23.
 > 
