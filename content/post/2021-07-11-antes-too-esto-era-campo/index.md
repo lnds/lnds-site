@@ -5,7 +5,7 @@ title: "Antes \"too\" esto era campo"
 subtitle: ""
 summary: ""
 authors: ['Eduardo Díaz']
-tags: [cornershop, desarrollo, evolución, trabajo]
+tags: [cornershop, desarrollo, evolución, trabajo, reflexiones, emprendimiento]
 categories: []
 date: 2021-07-11T13:16:56-04:00
 lastmod: 2021-07-11T13:16:56-04:00
@@ -30,7 +30,7 @@ projects: []
 ---
     "La vida sólo puede ser comprendida mirando hacia atrás, pero ha de ser vivida mirando hacia adelante" -- Soren Kierkegaard
 
-Han pasado varias cosas interesantes en Cornershop, algo que seguro varios de ustedes ya saben. El otro día nos avisaron de un hito particular para Chile, en el canal respectivo de Slack, junto con las felicitaciones uno de los comentarios de un compañero fue: "antes too esto era campo".
+Han pasado varias cosas interesantes en Cornershop, algo que seguro varios de ustedes ya saben. El otro día nos avisaron de un hito particular para Chile, en el canal respectivo de Slack, junto con las felicitaciones uno de los comentarios de un compañero fue: "antes too esto era campo" :smile:.
 
 Lo curioso es que cuando leí eso yo estaba literalmente en el campo. 
 
