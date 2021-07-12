@@ -34,7 +34,9 @@ Han pasado varias cosas interesantes en Cornershop, algo que seguro varios de us
 
 Lo curioso es que cuando leí eso yo estaba literalmente en el campo. 
 
-Ventajas del teletrabajo. Producto de la conectividad. Porque yo recuerdo cuando "todo esto era campo", al menos en lo referente a telecomunicaciones.
+Ventajas del teletrabajo. 
+
+O producto de la conectividad, porque yo recuerdo cuando "todo esto era campo", al menos en lo referente a telecomunicaciones.
 
 Escribo estas palabras desde "un campito", en la región de Ñuble, disfrutando de la tranquilidad campesina y tratando de capear el frio.
 
