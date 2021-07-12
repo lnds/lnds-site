@@ -42,7 +42,7 @@ Escribo estas palabras desde "un campito", en la región de Ñuble, disfrutando 
 
 No, no he migrado al campo aún, aunque las posibilidades están, y seguro será costumbre el arrancarnos por estos lados con más frecuencia. Imagino que en algunas décadas más, alguno de nuestros hijos vendrán al terreno de sus padres y comentarán a nuestro descendientes: "¡antes too esto era campo!".
 
-Estoy presenciando el nacimiento de algo nuevo para nuestra familia. Por supuesto que ahora todo es campo, pero en unos meses, espreamos, será un agradable refugio.
+Estoy presenciando el nacimiento de algo nuevo para nuestra familia. Por supuesto que ahora todo es campo, pero en unos meses, esperamos, será un agradable refugio.
 
 Pero muchas cosas están cambiando a mi alrededor. Mi país, por ejemplo, pasa por un momento de tranformaciones profundas y estamos iniciando una etapa de re escritura de las reglas de nuestra convivencia. Hay gente que está expectante, algunos asustados e incluso no faltan los que ven todo con mucho pesimismo. Sospecho que los que más temen es porque no entienden estos movimientos históricos. 
 
