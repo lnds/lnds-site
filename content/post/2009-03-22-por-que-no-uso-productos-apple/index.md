@@ -11,7 +11,7 @@ categories:
 - Humor
 ---
 
-iempre que veo los hermosos productos Apple, hay una parte de mi, que prudentemente me recuerda que no es bueno comprar esos productos, y se me pasa.
+Siempre que veo los hermosos productos Apple, hay una parte de mi, que prudentemente me recuerda que no es bueno comprar esos productos, y se me pasa.
 
 ![](copypaste.jpg) 
 

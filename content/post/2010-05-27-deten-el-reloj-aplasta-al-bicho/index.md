@@ -332,7 +332,7 @@ ya saben lo que pasó, esta versión tiene algunas correcciones.**
 
 [^1]: Bicho por bug, un defecto en programación.
 
-[^2]: En Word Aligned hacen ref erencia a The Rectory Umbrella, pero el texto de Carroll, que yo copio de "Matemática Demente", aparece con el nombre de "Los Dos Relojes".
+[^2]: En Word Aligned hacen referencia a The Rectory Umbrella, pero el texto de Carroll, que yo copio de "Matemática Demente", aparece con el nombre de "Los Dos Relojes".
 
 [^3]: Texto copiado del libro: "Matemática Demente". Lewis Carroll - Traducción de Leopoldo María Panero, Tusquets Editores, Barcelona 1999
 

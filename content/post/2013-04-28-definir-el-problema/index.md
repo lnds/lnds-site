@@ -16,7 +16,7 @@ escrita de un problema: la brecha entre el estado actual y el estado
 deseado"\
 -- James O. Coplien [Lean Architecture: for Agile Software Development](http://amzn.to/185Jang)
 
-Me gusta esta definición de problema: "la brecha entre el estad actual
+Me gusta esta definición de problema: "la brecha entre el estado actual
 y el estado deseado". Lo que hacemos al resolver un problema es cambiar
 una situación, normalmente molesta. O satisfacer una necesidad.
 

@@ -50,7 +50,7 @@ vea su registro en Facebook, y quede horrorizada, o a lo mejor no, puede
 llegar a ser algo maravilloso, que se yo.
 
 Lo que sí queda claro, es que no te puedes arrepentir de lo que dejaste
-registrado, y es mejora sumirlo.
+registrado, y es mejor asumirlo.
 
 Vale la pena leer el [post de Stephanie Schippe](http://www.technologyfortherestof.us/2008/12/cognitive-surplus-and-digital-tatoos.html)r,
 y reflexionar sobre estos temas. No sé que opinan ustedes, quizás Pepe
