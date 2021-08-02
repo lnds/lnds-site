@@ -1,5 +1,5 @@
 ---
-title: "El Fin de la Agilidad"
+title: "El Fin de la Agilidad (XI)"
 subtitle: "Parte 11: CBGB OMFUG"
 date: 2019-07-07T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
@@ -279,6 +279,8 @@ finales de esta serie.
 
 El capítulo 10 de esta serie se encuentra
 [acá](/blog/lnds/2019/06/16/el-fin-de-la-agilidad).
+
+El capítulo 12 de esta serie se encuentra [acá](/blog/lnds/2019/08/15/el-fin-de-la-agilidad/).
 
 El primer capítulo de esta serie está
 [acá](/blog/lnds/2019/03/17/el-fin-de-la-agilidad).

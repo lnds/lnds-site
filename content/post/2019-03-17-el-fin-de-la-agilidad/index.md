@@ -144,21 +144,28 @@ Jorge, uno de mis ex clientes se convirtió en gerente de operaciones de
 la Cámara de Comercio y me invitó a unirme a su equipo. Los días del
 grunge habían terminado\...
 
-La segunda parte de esta serie está
-acá: <https://www.lnds.net/blog/lnds/2019/03/18/el-fin-de-la-agilidad>
 
-La tercera parte de esta serie la puedes leer
-acá: <https://www.lnds.net/blog/lnds/2019/03/19/el-fin-de-la-agilidad>
+### El resto de los capítulos:
 
-Cuarta parte: <https://www.lnds.net/blog/lnds/2019/03/23/el-fin-de-la-agilidad>
+[Segunda parte](/blog/lnds/2019/03/18/el-fin-de-la-agilidad)
 
-Quinta parte: <https://www.lnds.net/blog/lnds/2019/03/31/el-fin-de-la-agilidad>
+[Tercera parte](/blog/lnds/2019/03/19/el-fin-de-la-agilidad)
 
-Sexta parte: <https://www.lnds.net/blog/lnds/2019/04/06/el-fin-de-la-agilidad>
+[Cuarta parte](/blog/lnds/2019/03/23/el-fin-de-la-agilidad)
 
-Séptima parte: <https://www.lnds.net/blog/lnds/2019/04/14/el-fin-de-la-agilidad>
+[Quinta parte](/blog/lnds/2019/03/31/el-fin-de-la-agilidad)
 
-Octava parte: <https://www.lnds.net/blog/lnds/2019/04/21/el-fin-de-la-agilidad>
+[Sexta parte](/blog/lnds/2019/04/06/el-fin-de-la-agilidad)
 
-Novena parte: <https://www.lnds.net/blog/lnds/2019/05/21/el-fin-de-la-agilidad>
+[Séptima parte](/blog/lnds/2019/04/14/el-fin-de-la-agilidad)
+
+[Octava parte](/blog/lnds/2019/04/21/el-fin-de-la-agilidad)
+
+[Novena parte](/blog/lnds/2019/05/21/el-fin-de-la-agilidad)
+
+[Décima parte](/blog/lnds/2019/06/16/el-fin-de-la-agilidad)
+
+[Undécima parte](/blog/lnds/2019/07/07/el-fin-de-la-agilidad/)
+
+[Duodécima parte](/blog/lnds/2019/08/15/el-fin-de-la-agilidad/)
 

@@ -1,5 +1,5 @@
 ---
-title: "El Fin de la Agilidad"
+title: "El Fin de la Agilidad (XII)"
 subtitle: "Parte 12: Modern Drummer"
 date: 2019-08-15T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

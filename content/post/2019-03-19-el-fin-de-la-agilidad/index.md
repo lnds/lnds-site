@@ -1,5 +1,5 @@
 ---
-title: "El Fin de la Agilidad"
+title: "El Fin de la Agilidad (III)"
 subtitle: "Parte 3: Funk/Acid Jazz"
 date: 2019-03-19T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

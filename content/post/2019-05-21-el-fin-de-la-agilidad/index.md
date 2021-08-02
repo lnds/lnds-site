@@ -1,5 +1,5 @@
 ---
-title: "El Fin de la Agilidad"
+title: "El Fin de la Agilidad (IX)"
 subtitle: "Parte 9: Fem Voices"
 date: 2019-05-21T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"
@@ -393,6 +393,6 @@ el siguiente artículo de esta serie.
 
 [1] Sugiero ver este video de Patty McCord: <https://www.youtube.com/watch?time_continue=4&v=iBa9EoEbb38>
 
-La primera parte de esta serie está [acá](/blog/lnds/2019/03/17/el-fin-de-la-agilidad)
+La primera parte de esta serie está [acá](/blog/lnds/2019/03/17/el-fin-de-la-agilidad).
 
-
+La parte diez de esta serie está [acá](/blog/lnds/2019/06/16/el-fin-de-la-agilidad/).
