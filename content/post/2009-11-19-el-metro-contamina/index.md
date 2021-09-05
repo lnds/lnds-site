@@ -23,8 +23,6 @@ Avisos, avisos, por todos lados, el metro es una gran tanda de comerciales.
 
 Y lo peor es [SubTV](http://www.subtv.cl/).
 
-![](subtv.jpg)
-
 Pantallas planas de TV a todo volumen en los andenes y los vagones. Me ha tocado tener que tragarme una tanda de 15 a 20 minutos de comerciales dentro del vagón del metro, es peor que la TV.
 
 Yo renuncié a la TV hace rato, no quiero ver TV, y el Metro de Santiago me obliga a ver la peor TV, el infomercial más insoportable de todos, ese que no puedes cambiar, o esquivar, porque sino no llegas a tiempo a tu trabajo.
