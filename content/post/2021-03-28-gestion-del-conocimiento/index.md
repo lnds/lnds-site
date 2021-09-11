@@ -32,9 +32,9 @@ projects: []
 
 Hay una historia, probablemente apócrifa[^1], que dice que Federico II de Prusia advertido de las virtudes de la papa, el tubérculo traido desde América, ordena que sus súbditos las planten y se alimenten con estas. La gente obedece la orden de su emperador pero al comer las plantas enferman. Es entonces que el gobernante se da cuenta del error y decide ayudarlos explicándoles cómo se debía consumir correctamente la patata. 
 
-Puede que la realidad fuera otra. El hecho es que había una hambruna y se consideraba que la papa era una forma de salvar a Europa de la ininación. Hay historias que dicen que Federico obligó a los campesinos a sembrarlas a riesgo de perder las orejas si no lo hacían.
+Puede que la realidad fuera otra. El hecho es que había una hambruna y se consideraba que la papa era una forma de salvar a Europa de la inanición. Hay historias que dicen que Federico obligó a los campesinos a sembrarlas a riesgo de perder las orejas si no lo hacían.
 
-También se dice que en Francia había reticencia de consumirlas y que un noble decidió plantarlas y colocar guardias armados para que vigilaran las plantas. Cuando consiguó mucha expectación retiró a los guardias y la gente se escabulló a los sembradíos, llevados por la curiosidad. Pronto se percataron de que lo que estaba sembrado era el tubérculo que tanto rechazaban. El razonamiento del pueblo fue que si las papas merecían este cuidado era porque debían ser algo bueno y sabroso, y así se popularizaron[^2].
+También se dice que en Francia había reticencia de consumirlas y que un noble decidió plantarlas y colocar guardias armados para que vigilaran las plantas. Cuando consiguió mucha expectación retiró a los guardias y la gente se escabulló a los sembradíos, llevados por la curiosidad. Pronto se percataron de que lo que estaba sembrado era el tubérculo que tanto rechazaban. El razonamiento del pueblo fue que si las papas merecían este cuidado era porque debían ser algo bueno y sabroso, y así se popularizaron[^2].
 
 Como sea, tenemos esta idea de que la papa salvó a Europa del hambre. Y puede que sea cierto. Pero no es el punto de este post. Quiero volver a la idea del emperador de Prusia dando la orden de que el pueblo siembre papas y se alimente con ellas.
 
@@ -52,7 +52,7 @@ Cuando se aborda la gestión de conocimiento muchos confunden conocimiento con i
 
 Una estrategia típica es: instalar una herramienta de gestión documental. Entonces las empresas instalan algo como Confluence (si son avanzadas), Notion o si son más tradicionales Sharepoint. Y con esto sólo han repartido papas.
 
-Otros reflexionan sobre esto y deducen, acertadamanete, que no sólo es adquirir herramientas, se trata de organizar su uso. Entonces establecen políticas y reglas editoriales. Estas herramientas se llenan de plantillas estándares y todos documentan siguiendo estas guías, todo se ve muy bien organizado y se puede acceder a la información relevante. Esto es mejor. Pero aún así siguen organizando información, no conocimiento.
+Otros reflexionan sobre esto y deducen, acertádamente, que no sólo es adquirir herramientas, se trata de organizar su uso. Entonces establecen políticas y reglas editoriales. Estas herramientas se llenan de plantillas estándares y todos documentan siguiendo estas guías, todo se ve muy bien organizado y se puede acceder a la información relevante. Esto es mejor. Pero aún así siguen organizando información, no conocimiento.
 
 Para entender sobre qué es realmente gestionar conocimiento vamos a recurrir a esta relación lógica:
 
@@ -75,13 +75,13 @@ Pero el conocimiento tiene que ver con saber qué hacer con la información. Y e
 
 ## El conocimiento está en las personas
 
-Lo primero que debemos entender es que el conocimiento no se puede almacener en sistemas de información, porque el conocimiento está en las personas. Entonces la gestión del conocimiento es también gestión de personas, y por lo tanto es parte de la labor de los líderes.
+Lo primero que debemos entender es que el conocimiento no se puede almacenar en sistemas de información, porque el conocimiento está en las personas. Entonces la gestión del conocimiento es también gestión de personas, y por lo tanto es parte de la labor de los líderes.
 
 Pero, ¿para qué gestionar el conocimiento?
 
 La respuesta tradicional es que es el conocimiento es la llave para la innovación. Alguien más ambicioso puede decir que "conocimiento es poder". Lo importante es  entender que no puedes pensar en términos egoistas cuando se trata del conocimiento, es es un grave error. El conocimiento adquiere más fuerza cuando es compartido. 
 
-Hace unos años hablé sobre los conceptos de intelegencia potencial e inteligencia cinética (Ver ["Sobre la inteligencia del coyote"](https://lnds.net/blog/lnds/2012/04/17/sobre-la-inteligencia-del-coyote/)), este post es tributario de aquel, así que recomiendo leerlo. La diferencia es que acá les hablaré de cómo administrar eso que llamé inteligencia potencial en aquel post, y que en suma es el conocimiento.
+Hace unos años hablé sobre los conceptos de inteligencia potencial e inteligencia cinética (Ver ["Sobre la inteligencia del coyote"](https://lnds.net/blog/lnds/2012/04/17/sobre-la-inteligencia-del-coyote/)), este post es tributario de aquel, así que recomiendo leerlo. La diferencia es que acá les hablaré de cómo administrar eso que llamé inteligencia potencial en aquel post, y que en suma es el conocimiento.
 
 ## Gestión de conocimiento y desarrollo de software
 
@@ -110,7 +110,7 @@ Es por esto que el ejercito alemán consideraba a la óptica como uno de sus rec
 
 A principios de 1940 Estados Unidos contaba con un prototipo de visor de bombardeo de calidad, el “Norden”, desarrollado por el ingeniero holandés Carl Norden. Lo malo es que no contaban con una industria óptica que pemitiera producir los miles de visores necesarios para las necesidades de la guerra.
 
-De acuerdo a Peter Drucker, en esa época el jefe de la divisón Cadillac de General Motors, Nicholas Dreystadt aceptó el contrato de defensa para la producción en serie del visor de bombardeo Norden. Todo el mundo sabía que esta labor requería de mecánicos con un alto grado de habilidad. Durante la guerra no había gente para emplear, menos mecánicos de alto nivel.
+De acuerdo a Peter Drucker, en esa época el jefe de la división Cadillac de General Motors, Nicholas Dreystadt aceptó el contrato de defensa para la producción en serie del visor de bombardeo Norden. Todo el mundo sabía que esta labor requería de mecánicos con un alto grado de habilidad. Durante la guerra no había gente para emplear, menos mecánicos de alto nivel.
 
 Estas son las palabras de Drucker en sus memorias:
 
@@ -121,7 +121,7 @@ Estas son las palabras de Drucker en sus memorias:
 >
 > Cuando supo cómo hacerlo, tomó una cámara y filmó el proceso. Montó los cuadros de la película separadamente en un proyector y los sincronizó con un diagrama de flujo, en el cual una luz roja se encendía para mostrarle a la operadora lo que ya había hecho, una luz verde para indicarle lo que tenía que hacer a continuación, y una amarilla para mostrarle lo que tenía que revisar antes de tomar el siguiente paso. 
 >
-> Este es el procedimiento estándar actual para un proceso masivo de ensamblado; fue Dreystad quien lo inventó. En pocas semanas estas operarias analfabetas y no calificadas fueron produciendo un mejor trabajo que los mecánicos altamante calificados habían hecho antes."
+> Este es el procedimiento estándar actual para un proceso masivo de ensamblado; fue Dreystad quien lo inventó. En pocas semanas estas operarias analfabetas y no calificadas fueron produciendo un mejor trabajo que los mecánicos altamente calificados habían hecho antes."
 
 Hoy en día se considera que hay mucho sesgo en el relato de Drucker. Tampoco hay claridad de la cantidad de mujeres afro americanas que fueron contratadas, pero sí es efectivo que Dreystadt inventó una técnica para capacitar a obreros y obreras con poca calificación, e incluso analfabetos, usando películas y técnicas de producción en cadena. Por desgracia también es cierto que estas mujeres perdieron sus empleos en favor de los veteranos que volvieron de la guerra. 
 
@@ -137,7 +137,7 @@ En este artículo los autores proponen un modelo de gestión de conocimiento que
 
 ![](cuadro1.png)
 
-Los autores parten reconociendo que el conocimento está en las personas, entonces lo que hay que lograr es un método de trabajo que permita la transferencia de  conocmiento entre ellas.
+Los autores parten reconociendo que el conocimiento está en las personas, entonces lo que hay que lograr es un método de trabajo que permita la transferencia de  conocimiento entre ellas.
 
 Entonces partimos con que el conocimiento de una persona es tácito y queremos que también sea tácito para otros. La forma en que se logra esto es mediante la sociabilización. Compartiendo experiencias, o viviéndolas juntos.
 
@@ -172,7 +172,7 @@ Otra forma de ver esto es mediante este diagrama:
 
 ![](Conocimiento.png)
 
-En una empresa, por ejemplo, tenemos requisitos que vienen del mercado. Para abordar esto es bueno contar con expertos que nos aportan el conocimiento tácito que tienen ellos que nos permiten enteder estos requisitos. Mediante socialización este conocimiento empieza a ser compartido e internalizado por todos, entonces viene la fase de la creación de conceptos, es cuando exteriorizamos ideas que pueden resolver esta necesidad. Al exteriorizar o establecer un nuevo concepto hay que justificarlo. Superada esa etapa construimos arquetipos que nos permiten combinar el conocimiento anterior con el nuevo conocimiento. Y distribuimos este conocimiento, el que se traduce en nuevos productos, que van al mercado y nuevo conocimiento que es internalizado por los miembros de la organización.
+En una empresa, por ejemplo, tenemos requisitos que vienen del mercado. Para abordar esto es bueno contar con expertos que nos aportan el conocimiento tácito que tienen ellos que nos permiten entender estos requisitos. Mediante socialización este conocimiento empieza a ser compartido e internalizado por todos, entonces viene la fase de la creación de conceptos, es cuando exteriorizamos ideas que pueden resolver esta necesidad. Al exteriorizar o establecer un nuevo concepto hay que justificarlo. Superada esa etapa construimos arquetipos que nos permiten combinar el conocimiento anterior con el nuevo conocimiento. Y distribuimos este conocimiento, el que se traduce en nuevos productos, que van al mercado y nuevo conocimiento que es internalizado por los miembros de la organización.
 
 ## Creación de conocimiento y desarrollo de software
 

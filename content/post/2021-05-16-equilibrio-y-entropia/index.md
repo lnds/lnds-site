@@ -42,7 +42,7 @@ Vamos a generalizar este problema y definiremos nuestra especificación de la si
 
 > "Encuentre la suma de todos los múltiplos de 3 ó 5 menores al número natural n."
 
-El siguente esqueleto de programa, en python, permite resolver este problema:
+El siguiente esqueleto de programa, en python, permite resolver este problema:
 
 ```python
 def main(n: int) -> int:
@@ -441,7 +441,7 @@ El repositorio de con el código mostrado se encuentra acá: https://github.com/
 
 
 
-[^1]: La suma de los primeros $n$ dígitos es $sum(n) = n * (n + 1) / 2$. Entonces para calcular la suma de los múltplos de 3 menores a n hacemos $p = n / 3 \land sum_3(n) = p * (p + 1) / 2$ y para los múltiplos de 5: $p = n / 5 \land sum_5(n) = p * (p + 1) / 2$
+[^1]: La suma de los primeros $n$ dígitos es $sum(n) = n * (n + 1) / 2$. Entonces para calcular la suma de los múltiplos de 3 menores a n hacemos $p = n / 3 \land sum_3(n) = p * (p + 1) / 2$ y para los múltiplos de 5: $p = n / 5 \land sum_5(n) = p * (p + 1) / 2$
 
 [^2]: Ver https://es.wikibooks.org/wiki/Chaitin,_Omega_y_otras_curiosidades_matemáticas
 

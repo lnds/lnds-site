@@ -156,9 +156,9 @@ Web: https://projecteuler.net
 
 Este es el sitio más sencillo de todos los que te voy a mostrar. Acá la idea es resolver un desafío usando cualquier lenguaje de programación. Normalmente lo que debes hacer es responder una pregunta, a veces esta respuesta es un simple número, pero para llegar a determinarlo deberás implementar algún algoritmo.
 
-- Ayuda/Comunidad: sólo después de resolver un ejercicio se te revelan los conceptos detrás del desafío. Hay foros para dicutir cada desafío que puedes consultar después.
+- Ayuda/Comunidad: sólo después de resolver un ejercicio se te revelan los conceptos detrás del desafío. Hay foros para discutir cada desafío que puedes consultar después.
 - Lenguajes: cualquiera, porque no importa como determinas la respuesta, aunque es usual publicar el código con la solución en los foros.
-- Para qué sirve: para desafiar tu comprensión de algoritmos, mejorar en habilidades matemáticas, si te gusta resolver puzles lógicos o matemáticos
+- Para qué sirve: para desafiar tu comprensión de algoritmos, mejorar en habilidades matemáticas, si te gusta resolver puzzles lógicos o matemáticos
 
 ### CodeWars
 
@@ -182,8 +182,8 @@ Este sitio lanzó su versión 3 el 1 de septiembre de este año. Es un sitio muy
 
 - Ámbito: aprender a programar, aprender nuevos lenguajes, dominar un lenguaje
 - Ayuda/Comunidad: Tiene dos modos: aprendizaje o entrenamiento. En el modo de aprendizaje puedes solicitar la ayuda de un mentor. Puedes iterar varias veces tu solución. Después de enviar tu primera iteración de la solución puedes revisar las soluciones de la comunidad, lo que te permite mejorar aprendiendo de otros.
-- Para qué sirve: para aprender desde cero. Dominar las caracterísitcas propias del lenguaje. Aprender un nuevo lenguaje.
-- Características adicionales: tiene un ranking donde vas obteniendo puntos por resolver ejercicios, o participar de diversas formas en la comunidad, ya sea como mentor, reportando o resolviendo errores, o ayudando a mejorar el sitio (que es opensource). También incluye insignias que se van revelando a medidad que participas en el sitio. También se puede donar al sitio para ayudar a soportar su operación.
+- Para qué sirve: para aprender desde cero. Dominar las características propias del lenguaje. Aprender un nuevo lenguaje.
+- Características adicionales: tiene un ranking donde vas obteniendo puntos por resolver ejercicios, o participar de diversas formas en la comunidad, ya sea como mentor, reportando o resolviendo errores, o ayudando a mejorar el sitio (que es opensource). También incluye insignias que se van revelando a medida que participas en el sitio. También se puede donar al sitio para ayudar a soportar su operación.
 
 Personalmente participo como mentor en los tracks de Clojure y Rust. Me gusta mucho este sitio por el sentido comunitario que tiene. Si quieres dedicar parte de tu tiempo a ayudar a otros a aprender a programar, o mejorar en sus habilidades, este sitio es una buena y positiva forma de hacerlo.
 

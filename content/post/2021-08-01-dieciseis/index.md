@@ -50,12 +50,12 @@ Dieciseis son los años que cumple este blog. Así que para celebrarlo he elegid
 9. ["Definir el Problema"](/blog/lnds/2013/04/28/definir-el-problema), publicado en abril de 2013
 10. ["Sexo, Pianos y Redes Inalámbricas"](/blog/lnds/2014/03/10/sexo-pianos-y-wifi), publicado en marzo de 2014
 11. ["Revelaciones"](/blog/lnds/2015/10/01/revelaciones), publicado en octubre de 2015
-12. ["Profesión sólo para Hombres"](/blog/lnds/2016/07/23/profesion-solo-para-hombres), publicado en juloi de 2016
+12. ["Profesión sólo para Hombres"](/blog/lnds/2016/07/23/profesion-solo-para-hombres), publicado en julio de 2016
 13. ["El botón de los 300 millones de dólares"](/blog/lnds/2017/07/23/el-boton-de-los-300-millones-de-dolares), publicado en julio de 2017
-14. ["¿Quién es reponsable por la calidad?"](/blog/lnds/2018/05/06/quien-es-responsable-por-la-calidad), publicado en mayo de 2018
+14. ["¿Quién es responsable por la calidad?"](/blog/lnds/2018/05/06/quien-es-responsable-por-la-calidad), publicado en mayo de 2018
 15. ["El Fin de la Agilidad"](/blog/lnds/2019/03/17/el-fin-de-la-agilidad), publicado en marzo de 2019
 16. ["Antes \"too" esto era campo"](/blog/lnds/2021/07/11/antes-too-esto-era-campo), publicado en julio de 2021
 
-Si te gusta este blog y quieres ayudarme a publicar un nuevo libro te invito a patrocinarme en Ko-fi:
+Si te gusta este blog y quieres ayudarme a publicar un nuevo libro te invito a apoyarme a través de Ko-fi:
 
 {{< koffe >}}

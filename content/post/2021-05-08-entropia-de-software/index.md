@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Hablemos de Entropia de Software"
+title: "Hablemos de Entropía de Software"
 subtitle: ""
 summary: ""
 authors: ['Eduardo Díaz Cortés']
@@ -61,7 +61,7 @@ Según Lehman en la medida que las metodologías de desarrollo de software evolu
 
 {{<figure src="s-program.png" caption="s-program">}}
 
-En la visión de Lehman la especificación, que es una definición formal del problema, dirige y controla el trabajo del programador hacia la creación de un programa que define la solución deseada. En este caso la solución y su especificación son estáticas. Si el problema es reformulado entonces se debe escribir un nuevo programa (aunque para ahorrar tiempo podemos derivar el nuevo programa a partir del existnte). En esta clase de programas el código puede modificarse internamente, para mejorar su desempeño o su claridad, pero sigue preservando su adherencia a la especificación, dadas las mismas entradas se esperan las mismas salidas. 
+En la visión de Lehman la especificación, que es una definición formal del problema, dirige y controla el trabajo del programador hacia la creación de un programa que define la solución deseada. En este caso la solución y su especificación son estáticas. Si el problema es reformulado entonces se debe escribir un nuevo programa (aunque para ahorrar tiempo podemos derivar el nuevo programa a partir del existentes). En esta clase de programas el código puede modificarse internamente, para mejorar su desempeño o su claridad, pero sigue preservando su adherencia a la especificación, dadas las mismas entradas se esperan las mismas salidas. 
 
 La siguiente clase de programas de Lehman corresponde a aquellos en que la especificación no es precisa. Esta especificación es un modelo de una abstracción de una situación del mundo real que contiene incertezas, incógnitas, criterios arbitrarios, variaciones, etc. En cierto punto refleja la visión personal del analista que la redacta. En este caso tanto la formulación del problema como su solución son una aproximación a la realidad del mundo. A estos tipos de programas Lehman los llamó P-programs ("real world problem solutions").
 

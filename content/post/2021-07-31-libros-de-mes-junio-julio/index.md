@@ -92,7 +92,7 @@ El mejor libro que he leido este año, hasta ahora. Me gustó mucho, pero no soy
 
 ### _"Finite and Infinite Games"_ --- James P. Carse
 
-Este es un libro un tanto "filosófico", que tiene una sóla idea muy sencilla: "hay juegos finitos y juegos infinitos", de estos  [hablé en mi anterior post](/blog/lnds/2021/07/11/antes-too-esto-era-campo/). Esta idea es interesante e incluso brillante, pero el libro no tanto. Después del primer capítulo el resto lo encontré aburrido, incluso pretencioso. Pero sospecho que hay gente a las cuales les puede resonar bastante, porque de todas maneras la idea del juego infinito es muy potente. 
+Este es un libro un tanto "filosófico", que tiene una sola idea muy sencilla: "hay juegos finitos y juegos infinitos", de estos  [hablé en mi anterior post](/blog/lnds/2021/07/11/antes-too-esto-era-campo/). Esta idea es interesante e incluso brillante, pero el libro no tanto. Después del primer capítulo el resto lo encontré aburrido, incluso pretencioso. Pero sospecho que hay gente a las cuales les puede resonar bastante, porque de todas maneras la idea del juego infinito es muy potente. 
 
 [Disponible en Amazon >>](https://amzn.to/3C09e6G)
 
@@ -118,4 +118,4 @@ Este libro es una crítica a los algoritmos sesgados, al sexismo en las apps, a 
 [![](wrong.jpg)](https://amzn.to/3jcy1vJ)
 
 
-Y esos son los libros que he leido estos dos últmos meses. Me agradaría escuchar de sus lecturas y ojalá me recomendaran libros para leer y reseñar.
+Y esos son los libros que he leido estos dos últimos meses. Me agradaría escuchar de sus lecturas y ojalá me recomendaran libros para leer y reseñar.
