@@ -60,7 +60,7 @@ Este libro de Jeff John Roberts cuenta la historia de Coinbase, la startup que s
 
 [Dave Thomas](https://en.wikipedia.org/wiki/Dave_Thomas_(programmer)) es el co autor del, a estas alturas clásico, ["The Pragmatic Programmer"](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/), además de ser uno de los firmantes originales del Manifesto Ágil. Es un autor bien prolífico e incluso fundó su editorial "The Pragmatic Bookshelf" que ha editado varios libros bien buenos.
 
-Este libro introduce este Elixir, una suerte de dialecto de Erlang, aunque con una sintáxis bien interesante. Uno de los lenguajes más interesantes del último tiempo y del que pretendo escribir bastante más adelante (las razones las explicaré en futuros artículos).
+Este libro introduce este Elixir, una suerte de dialecto de Erlang, aunque con una sintaxis bien interesante. Uno de los lenguajes más interesantes del último tiempo y del que pretendo escribir bastante más adelante (las razones las explicaré en futuros artículos).
 
 ![](libro3.jpg)
 

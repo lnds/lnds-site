@@ -56,13 +56,13 @@ de salida.
 
 {{<figure caption="McCarthy" src="//d2dspjyoh5c79p.cloudfront.net/a0031521-ba4e-11e5-8a08-83bbaa5c62fa-aa9f18b7">}}
 
-Así que a grande rasgos, y considerando sólo la sintáxis básica, tenemos
+Así que a grande rasgos, y considerando sólo la sintaxis básica, tenemos
 lenguajes que siguen la linea de Dijkstra de la programación
 estructurada y lenguajes que siguen la vía de McCarthy y se construyen
 mediante la composición de funciones (y la manipulación de listas o
 secuencias).
 
-Para evaluar la médula de la sintáxis se me ocurrió que el desafío
+Para evaluar la médula de la sintaxis se me ocurrió que el desafío
 adecuado para el proyecto 
 ["9 desafíos en 9 lenguajes de programación"](/blog/lnds/2016/01/09/esos-raros-lenguajes-nuevos) 
 (que describí en mi post anterior) consiste en un juego interactivo.
@@ -235,7 +235,7 @@ A continuación revisaremos brevemente las estructuras de control de cada
 uno de estos lenguajes y posteriormente veremos cómo se declaran las
 funciones, para finalizar con algunas conclusiones del ejercicio.
 
-## Evaluación la sintáxis de los lenguajes
+## Evaluación la sintaxis de los lenguajes
 
 ### Estructuras de Control 
 
@@ -247,7 +247,7 @@ Veamos qué descubrimos con este ejercicio.
 
 ## **Lenguajes Tipo D (Go, Rust, Swift, Kotlin)**
 
-Todos usan un if derivado de la sintáxis de C.  Go, Rust y Swift
+Todos usan un if derivado de la sintaxis de C.  Go, Rust y Swift
 eliminan los paréntesis en la expresión evaluada, aunque Kotlin lo
 conserva.
 

@@ -9,7 +9,7 @@ draft: false
 Una de las ventajas de publicar Ogu en esta etapa es que me permite
 confrontar mi diseño con los lectores y potenciales usuarios. He
 recibido comentarios en el blog y en privado que me han permitido
-enriquecer y determinar algunos problemas en la sintáxis.
+enriquecer y determinar algunos problemas en la sintaxis.
 
 El principal problema reside en la ambigüedad de las declaraciones, la
 gramática hasta ahora permitía el uso opcional de las palabras
@@ -154,7 +154,7 @@ variables.
 Este ejercicio me hizo darme cuenta de que estaba cayendo en el vicio
 que pretendía evitar, el vicio de la *simplejización*.  En el afán de
 ahorrarme algunas palabras reservadas estaba haciendo de Ogu un lenguaje
-con una sintáxis que terminaría siendo oscura e intimidante, que
+con una sintaxis que terminaría siendo oscura e intimidante, que
 obligaría a pensar mucho para analizar una expresión. Estos cambios van
 en la linea de la simplicidad, sin perder el minimalismo sintáctico que
 espero que tenga Ogu.

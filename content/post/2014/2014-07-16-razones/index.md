@@ -75,7 +75,7 @@ El problema de [Ghost](https://ghost.org/), y que comparte con
 
 De seguro los hipster se van a molestar conmigo, pero después de usar
 [MarkDown](http://es.wikipedia.org/wiki/Markdown), y de incluso publicar
-un libro usando esta sintáxis, considero que es una pérdida de tiempo.
+un libro usando esta sintaxis, considero que es una pérdida de tiempo.
 Entiendo las ideas y el concepto de
 [MarkDown](http://es.wikipedia.org/wiki/Markdown) en otros contextos,
 del mismo modo que entiendo el valor de

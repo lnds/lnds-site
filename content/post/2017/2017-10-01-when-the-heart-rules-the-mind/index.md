@@ -80,7 +80,7 @@ lenguaje (gracias al gentil auspicio de Google, por supuesto).
 
 {{<figure caption="Griesemer, Pike y Thompson" src="https://d2dspjyoh5c79p.cloudfront.net/4f0fa74b-a6fa-11e7-a030-2b5831f8ecb5-aa9f18b7">}}
 
-El diseño de Go favorece la simplicidad, una sintáxis simple, que
+El diseño de Go favorece la simplicidad, una sintaxis simple, que
 permite un compilador muy rápido. Go es un lenguaje con tipos estáticos,
 que permite el desarrollo de sistemas grandes y escalables.  Es un
 lenguaje muy productivo y de fácil lectura para alguien acostumbrado a

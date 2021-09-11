@@ -40,12 +40,12 @@ Recientemente encontré este tweet:
 
 Y en cierta medida es bastante cierto. Al menos en lo que respecta a Python.
 
-Resulta que Python tiene una sintáxis muy sencilla y se puede aprender en pocas horas, pero hay montones de detalles que se van aprendiendo a lo largo de los años. 
+Resulta que Python tiene una sintaxis muy sencilla y se puede aprender en pocas horas, pero hay montones de detalles que se van aprendiendo a lo largo de los años. 
 
 
 ## Familias de lenguajes
 
-Un lenguaje no sólo comprende su gramática y sintáxis, sino que comprende elementos como la semántica de cada sentencia, el modelo de memoria, el modo en que se ejecuta, el tipo de paradigma que implementa, etc.
+Un lenguaje no sólo comprende su gramática y sintaxis, sino que comprende elementos como la semántica de cada sentencia, el modelo de memoria, el modo en que se ejecuta, el tipo de paradigma que implementa, etc.
 
 Hay personas que creen que todos los lenguajes se parecen, lo que no es cierto, por supuesto. Aunque hayan similaridades, estas se deben a la evolución de los lenguajes. 
 
@@ -62,11 +62,11 @@ Pero hay cruces entre familias, por ejemplo, [Scala](http://www.scala-lang.org) 
 Wikipedia tiene una lista bastante extensa de la genealogía de varios lenguajes de programación: https://en.wikipedia.org/wiki/Generational_list_of_programming_languages
 
 
-Aunque no lo parezca, conocer esta genealogía resulta bastante útil. Si lo tuyo son los lenguajes funcionales, puedes elegir entre la familia LISP o la familia ML, y la gran diferencia estará dada por la sintáxis. Notarás que Elixir tiene una sintáxis muy distinta a Clojure, pero puedes abordar los problemas de la misma forma, siguiendo el paradigma funcional.
+Aunque no lo parezca, conocer esta genealogía resulta bastante útil. Si lo tuyo son los lenguajes funcionales, puedes elegir entre la familia LISP o la familia ML, y la gran diferencia estará dada por la sintaxis. Notarás que Elixir tiene una sintaxis muy distinta a Clojure, pero puedes abordar los problemas de la misma forma, siguiendo el paradigma funcional.
 
-Por otro lado, notarás que JavaScript y Java comparten cierta sintáxis similar, esto porque tienen la misma raiz, que proviene de la influencia de C++, pero son lenguajes cuyo modelo de implementación del paradigma orientado al objeto es bastante distinto. Porque JavaScript tiene la influencia de Self y Scheme.
+Por otro lado, notarás que JavaScript y Java comparten cierta sintaxis similar, esto porque tienen la misma raiz, que proviene de la influencia de C++, pero son lenguajes cuyo modelo de implementación del paradigma orientado al objeto es bastante distinto. Porque JavaScript tiene la influencia de Self y Scheme.
 
-Así que no basta con conocer la sintáxis, son esos detalles adicionales los que te ayudarán a lograr la maestría en estos lenguajes.
+Así que no basta con conocer la sintaxis, son esos detalles adicionales los que te ayudarán a lograr la maestría en estos lenguajes.
 
 ## ¿Qué lenguajes aprender?
 

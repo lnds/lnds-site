@@ -152,7 +152,7 @@ Swift y Erlang.
 Otros lenguajes que consideré:
 
 - **Elixir**, construido sobre la VM de Erlang es un lenguaje que busca
-aprovechar esta VM con una sintáxis más sencilla que la de Erlang.
+aprovechar esta VM con una sintaxis más sencilla que la de Erlang.
 
 - **D**, es un lenguaje que conozco hace años, pero que nunca he tenido
 la oportunidad de explorar en profundidad, pero creo que Rust llegará a

@@ -176,7 +176,7 @@ Veamos como declarar una función:
     factorial n = n \* factorial (n-1)
 
 Este ejemplo muestra que Ogu privilegia el paradigma funcional, y sigue
-una sintáxis muy parecida a la de Haskell.
+una sintaxis muy parecida a la de Haskell.
 
 El valor de una función está determinado por la expresión a la izquierda
 del signo '='.

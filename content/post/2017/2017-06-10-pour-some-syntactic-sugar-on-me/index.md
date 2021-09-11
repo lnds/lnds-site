@@ -272,7 +272,7 @@ podamos introducir un null en un árbol.
 En Kotlin está prohibido tener variables sin inicializar por default.
 
 Pero a veces es necesario introducir *nulls* en nuestras estructuras, y
-en ese caso, Kotlin introduce una Syntactic Salt, es decir, sintáxis que
+en ese caso, Kotlin introduce una Syntactic Salt, es decir, sintaxis que
 dificulta escribir cosas peligrosas, o malas prácticas.
 
 Si quisieramos que nuestros nodos aceptara nulls entonces habría que

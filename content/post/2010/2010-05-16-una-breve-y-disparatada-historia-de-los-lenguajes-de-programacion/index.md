@@ -46,7 +46,7 @@ programación no estructurado para no científicos en computación.
 1965 - Kemeny and Kurtz go to 1964.
 
 1970 - Niklaus Wirth crea Pascal, un lenguaje procedural. Los críticos
-inmediatamente denuncian a Pascal por que usa la sintáxis "x := x + y"
+inmediatamente denuncian a Pascal por que usa la sintaxis "x := x + y"
 en vez de la más familar al estilo C, "x = x + y". Estas críticas se
 hacen a pesar del hecho de que C todavía no ha sido inventado.
 

@@ -144,7 +144,7 @@ Los beneficios de la simplicidad son:
 
 
 Para construir sistemas simples debemos descartar esas construcciones
-complejas, como el estado, los objetos, los métodos, la sintáxis, la
+complejas, como el estado, los objetos, los métodos, la sintaxis, la
 herencia, las variables, los loops imperativos, actores, ORM,
 condicionales.
 
