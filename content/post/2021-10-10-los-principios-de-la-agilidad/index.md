@@ -202,7 +202,7 @@ Tal cómo nos muestra este gráfico de Martin Fowler[^1], el software de calidad
 
 El software se debe hacer bien desde el principio, no se trata de liberar funcionalidades rápidamente, este software debe ser sólido, de modo que en cada iteración nos concentremos en entregar nuevo valor en vez de corregir errores.
 
-[^1] Fowler, ["Is High Quality Software Worth the Cost?"](https://martinfowler.com/articles/is-quality-worth-cost.html)
+[^1]: Fowler, ["Is High Quality Software Worth the Cost?"](https://martinfowler.com/articles/is-quality-worth-cost.html)
 
 ## Principio 10: simplicidad
 
