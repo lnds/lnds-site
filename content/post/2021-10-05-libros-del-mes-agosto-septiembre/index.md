@@ -49,7 +49,7 @@ Ron Jeffries es una voz importante dentro de la comunidad ágil. Es uno de los f
 
 [Disponible en Amazon >>](https://amzn.to/3mpn8s6)
 
-[![]nature.jpeg](https://amzn.to/3mpn8s6)
+[![](nature.jpeg)](https://amzn.to/3mpn8s6)
 
 ### Time and Again -- Clifford D. Simak
 
@@ -83,7 +83,7 @@ Segunda parte de la saga, con un nombre muy de película B, así que la trama le
 
 [Disponible en Amazon >>](https://amzn.to/3uQCJVh)
 
-[![](arachnoid.jpeg)]
+[![](arachnoid.jpeg)](https://amzn.to/3uQCJVh)
 
 ### The Subtle Art of Not Giving a F*ck -- Mark Manson
 

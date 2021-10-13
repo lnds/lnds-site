@@ -7188,14 +7188,14 @@ a.text-dark:hover, a.text-dark:focus {
  *  Wowchemy: The Website Builder for Hugo
  *  Designed by @GeorgeCushen
  *  https://wowchemy.com/
- *  License: https://github.com/wowchemy/wowchemy-hugo-modules/blob/main/LICENSE.md
+ *  License: https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/LICENSE.md
  **************************************************/
 /* Wowchemy Helpers */
 /*************************************************
  *  Wowchemy's Core Style
  **************************************************/
 html {
-  font-family: "Merriweather", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: 16.17px;
   color: rgba(0, 0, 0, 0.8);
   line-height: 1.65;
@@ -7280,7 +7280,7 @@ ul.task-list li input[type='checkbox'] {
 
 /* Navigation bar text */
 .navbar-light {
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 400;
   line-height: 1.25;
   text-rendering: optimizeLegibility; }
@@ -7292,7 +7292,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: 0.5rem;
@@ -8534,14 +8534,16 @@ ul.toc-top {
   padding-left: 0.8rem; }
 
 #TableOfContents li {
-  display: block; }
+  display: block;
+  margin-bottom: 8px; }
 
 #TableOfContents li a,
 .toc-top li a {
   display: block;
-  padding: 0.125rem 1.5rem;
+  padding: 0 1.5rem;
   color: rgba(0, 0, 0, 0.65);
-  font-size: 0.7rem; }
+  line-height: 1.75;
+  font-size: 16px; }
 
 .dark #TableOfContents li a,
 .dark .toc-top li a {
@@ -8965,7 +8967,7 @@ html[dir='rtl'] body {
 
 .section-subheading {
   font-size: 1.25rem;
-  font-family: "Lato", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
   margin-top: 1rem;
   margin-bottom: 0.5rem; }
