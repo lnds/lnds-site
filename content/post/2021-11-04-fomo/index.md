@@ -143,6 +143,9 @@ Es un tema preocupante, y creo que es importante que nos informemos sobre los da
 
 El verdadero enemigo no es la IA, son los humanos que ponen las pautas sobre esa IA y todos los otros algoritmos que nos manipulan.
 
+**¿Te gustó?**, [puedes apoyarme con un café](https://ko-fi.com/X8X420K04) 
+
+{{<koffe >}}
 
 [^1]: Durante 2015 Zuckerberg publicó 23 recomendaciones de libros, el primero de su lista se agotó en Amazon después que el fundador de Facebook lo recomendara a sus millones de seguidores en la plataforma.
 
