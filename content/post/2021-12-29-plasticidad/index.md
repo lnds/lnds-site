@@ -49,7 +49,7 @@ También tuve muchos legos y juegos similares. Y ahora mis puzles se plasman en 
 
 La cosa es que desde chico que tengo una afición a los puzzles multidimensionales. Desde los antiguos mecanos hasta los legos. 
 
-Resulta que este año mi hermano me envió un regalo, un juego para armar de madera precortada con laser, el que después de caer en mis manos resultó en esto:
+Resulta que este año [mi hermano](http://www.ricardodiaz.org) me envió un regalo, un juego para armar de madera precortada con laser, el que después de caer en mis manos resultó en esto:
 
 ![](enterprise.jpg)
 
