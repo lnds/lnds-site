@@ -66,7 +66,7 @@ En [Cornershop](/blog/lnds/2021/07/11/antes-too-esto-era-campo/) somos varios ci
 
 Recomiendo leer como Google gestiona su gigantesco mono repo en ese paper: [Why Google Stores Billions of Line of Code in a Single Repository](https://dl.acm.org/doi/pdf/10.1145/2854146)
 
-O este paper de Uber: [Keeping master green at scale](https://eng.uber.com/research/keeping-master-green-at-scale/)
+O este paper de Uber: [Keeping master green at scale](https://eng.uber.com/research/keeping-master-green-at-scale/) (hay un video también acá: https://vimeo.com/358691692)
 
 El software [se sigue comiendo al mundo](/blog/lnds/2016/08/30/toda-empresa-es-de-software-o-lo-sera/), y seguro que ya se comió a tu negocio. 
 
