@@ -31,9 +31,9 @@ projects: []
 
 Hay un problema importante en ingeniería de software al que he dedicado parte de mi tiempo durante al menos los últimos cuatro o cinco años. Se trata de una idea, o intuición que por ahora vamos a denominar "entropía de software". Y para motivar la conversación les mostraré algunos tweets y memes:
 
-{{<twitter jenmsft 1378090993744977920>}}
+{{<twitter 1378090993744977920>}}
 
-{{<twitter allenholub 1378753907157962756>}}
+{{<twitter 1378753907157962756>}}
 
 ![](legacy.jpeg)
 
