@@ -31,7 +31,7 @@ projects: []
 
 Hace poco me topé en Twitter con este gracioso post de la cuenta homenaje a Richard Feynmann:
 
-{{<twitter 1283958608510631936>}}
+{{<twitter ProfFeynman 1283958608510631936>}}
 
 (Mientras tanto, dentro de la caja, el gato de Schrödinger planea su venganza)
 

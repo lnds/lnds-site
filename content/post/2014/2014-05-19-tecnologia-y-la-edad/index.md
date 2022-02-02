@@ -30,4 +30,4 @@ sobre nuestras reacciones con respecto a la tecnología:
 
 Via @annegalloway:
 
-{{<twitter 443280506063319040>}}
+{{<twitter annegalloway 443280506063319040>}}

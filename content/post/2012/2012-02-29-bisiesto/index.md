@@ -23,7 +23,7 @@ de 2012.
 Joel Spolsky, co fundador de Stack OverFlow [se rie en
 Twitter](https://twitter.com/#!/spolsky/status/174999972830384130):
 
-{{<twitter 174999972830384130>}}
+{{<twitter spolsky 174999972830384130>}}
 
 > "haha, we had a leap-year bug on stack overflow today. The author
 > of [http://stackoverflow.com/questions/9/how-do-i-calculate-someones-age-in-c](http://t.co/FQOVGzkw) did

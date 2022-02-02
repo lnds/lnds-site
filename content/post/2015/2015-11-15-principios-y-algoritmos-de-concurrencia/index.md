@@ -10,7 +10,7 @@ image:
 
 "Compartir es malo\... Al menos en programación concurrente 😜" \--
 [Tweet del 13 de noviembre de 2015](//twitter.com/lnds/status/665126995882328064)
-{{<twitter 665126995882328064>}}
+{{<twitter lnds 665126995882328064>}}
 
 Hace unos 10 años atrás sufrí con un proyecto que involucraba la
 interacción de dispositivos biométricos y cámaras de seguridad.

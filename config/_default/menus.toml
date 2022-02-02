@@ -18,6 +18,11 @@
   url = "books"
   weight = 15
 
+[[main]]
+  name = "Lecturas"
+  url = "lecturas"
+  weight = 15
+  
 #[[main]]
 #  name = "Projects"
 #  url = "#projects"

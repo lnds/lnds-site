@@ -33,7 +33,7 @@ projects: []
 
 Recientemente encontré este tweet:
 
-{{<twitter 1434050013018087428>}}
+{{<twitter asiedu_dev 1434050013018087428>}}
 
 > (JavaScript is difficult to learn but easy to master.
 > Python is easy to learn but difficult to master)

@@ -49,9 +49,9 @@ He escrito tantas cosas en este blog que es dificil hacer una antología, sin co
 - ["Blogmemes y Meneame dos sistemas distintos"](/blog/lnds/2006/02/01/blogmemes-y-meneame-dos-sistemas-distintos): en 2006 desarollé un sitio que se llamaba blogmemes, una suerte de agregador de noticias compartidos, el sitio llegó a tener más de 50.000 usuarios, pero lo di de baja un tiempo después. Huboo varios sitios similares que imitaban a Digg.com, en plena época del auge de los blogs. En España estaba Meneame, un sitio creado por Ricardo Galli, hubo competencia al inicio y ciertas comparaciones, pero yo no seguí con esta idea y BlogMemes fue cerrado. Meneame sigue vigente aún: https://www.meneame.net/.
 Hoy leí este par de tweets de  Ricardo Galli, creador de Meneame:
 
-{{<twitter 1289518983935270914 >}}
+{{<twitter gallir 1289518983935270914 >}}
 
-{{<twitter 1289520707525730304 >}}
+{{<twitter gallir 1289520707525730304 >}}
 
 
 Y reflejan el problema de administrar un sitio tipo red social, consume mucho tiempo, esfuerzo y seguro que es blanco de críticas injustas, en esa época no estaba para agregar esas preocupaciones a mi vida.

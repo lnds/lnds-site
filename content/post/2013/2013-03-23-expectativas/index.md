@@ -223,7 +223,7 @@ La visión también ayuda a entender mejor las expectativas del usuario.
 
 Recientemente leí este tweet:
 
-{{<twitter 313618318844121088>}} 
+{{<twitter deasagiles 313618318844121088>}} 
 > Insumir mucho tiempo pensando como soportar una carga grande de usuarios sin
 > siquiera haber lanzado el producto, es una pérdida de tiempo.
 

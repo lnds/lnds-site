@@ -16,7 +16,7 @@ timeline en twitter comentaba lo siguiente:
 > tomándose fotos para el "face"---contemplar la belleza natural era
 > accesorio -- \@juque
 > <https://twitter.com/juque/status/399876149959876608>
-{{<twitter 399876149959876608>}}
+{{<twitter juque 399876149959876608>}}
 
 Vivimos tiempos de apariencias, donde lo que parece importar es
 aparentar el éxito. No importa si estás ante la maravilla de la

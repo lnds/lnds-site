@@ -1,0 +1,105 @@
+theme: minimal
+day_night: false
+font: my_font_set
+font_size: L
+site_type: Person
+local_business_type: ''
+org_name: ''
+description: ''
+logo: ''
+highlight: true
+highlight_languages:
+  - r
+  - rust
+  - perl
+  - ocaml
+  - go
+  - python
+  - clojure
+  - java
+  - scala
+  - c
+  - julia
+  - swift
+  - kotlin
+  - haskell
+  - fsharp
+  - erlang
+math: false
+diagram: false
+privacy_pack: false
+edit_page:
+  repo_url: 'https://github.com/gcushen/hugo-academic'
+  repo_branch: master
+  editable:
+    docs: true
+    page: false
+    post: false
+email: test@example.org
+phone: 888 888 88 88
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/lnds'
+sharing_image: ''
+twitter: lnds
+date_format: '2006-01-02'
+time_format: '15:04'
+list_delimiter: ', '
+gravatar: true
+menu_align_right: false
+reading_time: true
+section_pager: true
+docs_section_pager: true
+sharing: true
+link_authors: true
+plugins_js: []
+publications:
+  date_format: January 2006
+  citation_style: apa
+projects:
+  post_view: 2
+  publication_view: 2
+  talk_view: 2
+comments:
+  engine: 1
+  commentable:
+    page: true
+    post: true
+    docs: true
+    project: true
+    publication: true
+    talk: true
+  disqus:
+    shortname: lnds
+    show_count: true
+search:
+  engine: 1
+  algolia:
+    app_id: ''
+    api_key: ''
+    index_name: ''
+    show_logo: false
+map:
+  engine: 2
+  api_key: ''
+  zoom: 15
+marketing:
+  google_analytics: UA-124994-2
+  google_tag_manager: ''

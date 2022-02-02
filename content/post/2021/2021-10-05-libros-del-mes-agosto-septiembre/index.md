@@ -32,7 +32,7 @@ Me ha costado escribir en este blog, creo que debo organizar mi tiempo y encontr
 Si les interesa revisar la lista de todos libros previos pueden revisarlos en esta enlace a la categoría: https://lnds.net/categories/libros-del-mes/. 
 
 
-## Septiembre 2021
+## Agosto 2021
 
 ### República Mortal -- Edward J. Watts
 
@@ -66,7 +66,7 @@ Alan Donovan estuvo involucrado en el desarrollo original del lenguaje de progra
 
 [![](go.jpeg)](https://amzn.to/2Ykc0os)
 
-## Octubre 2021
+## Septiembre 2021
 
 ### New Eden - Kishore Tipirneni
 
