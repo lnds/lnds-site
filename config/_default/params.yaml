@@ -1,12 +1,52 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
 theme: minimal
-day_night: false
-font: my_font_set
+day_night: true
+font: ''
 font_size: L
+
+# SEO
+
 site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-logo: ''
+twitter: ''
+
+# Contact (edit or remove options as required)
+
+email: ''
+phone: ''
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/lnds'
+
+# Site header
+
+main_menu:
+  enable: true
+  align: l
+  show_logo: true
+  show_language: false
+  show_day_night: true
+  show_search: true
+  highlight_active_link: true
+
+# Localization
+
+date_format: '2006-01-02'
+time_format: '15:04'
+list_delimiter: ', '
+
+# Site features
+
 highlight: true
 highlight_languages:
   - r
@@ -29,47 +69,35 @@ math: false
 diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/gcushen/hugo-academic'
-  repo_branch: master
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
   editable:
-    docs: true
     page: false
     post: false
-email: test@example.org
-phone: 888 888 88 88
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/lnds'
-sharing_image: ''
-twitter: lnds
-date_format: '2006-01-02'
-time_format: '15:04'
-list_delimiter: ', '
-gravatar: true
-menu_align_right: false
+    book: false
+show_related:
+  book: true
+  page: false
+  post: true
+  project: true
+  publication: true
+  event: true
 reading_time: true
-section_pager: true
+section_pager: false
 docs_section_pager: true
 sharing: true
-link_authors: true
+copyright_license:
+  enable: false
+  allow_derivatives: false
+  share_alike: true
+  allow_commercial: false
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
 plugins_js: []
+avatar:
+  gravatar: true
+  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
@@ -77,29 +105,42 @@ projects:
   post_view: 2
   publication_view: 2
   talk_view: 2
+breadcrumb:
+  page_types:
+    book: true
 comments:
-  engine: 1
+  provider: 'disqus'
   commentable:
-    page: true
     post: true
-    docs: true
+    book: true
     project: true
     publication: true
-    talk: true
+    event: true
   disqus:
     shortname: lnds
     show_count: true
+  commento:
+    url: ''
 search:
-  engine: 1
+  provider: wowchemy
   algolia:
     app_id: ''
     api_key: ''
     index_name: ''
     show_logo: false
 map:
-  engine: 2
+  provider: ''
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: UA-124994-2
+  google_analytics: ''
   google_tag_manager: ''
+  google_site_verification: ''
+  baidu_site_verification: ''
+  baidu_tongji: ''
+cms:
+  branch: master
+  local_backend: false
+icon:
+  pack:
+    ai: true
