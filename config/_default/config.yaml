@@ -24,6 +24,7 @@ module:
   imports:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/kaushalmodi/hugo-atom-feed
 
 ############################
 ## ADVANCED
@@ -44,8 +45,8 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: false
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
-  section: [HTML, RSS]
+  home: [HTML, RSS, JSON, ATOM, WebAppManifest, headers, redirects]
+  section: [HTML, RSS, ATOM]
 imaging:
   resampleFilter: lanczos
   quality: 75
