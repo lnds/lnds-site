@@ -1,28 +1,9 @@
-::: {#site-wrapper}
-::: {#site-canvas}
-::: {#site-menu .col-sm-3 .col-md-2 .sidebar}
--   ::: {.input-group}
-    ::: {.input-group-btn}
-    :::
-    :::
-
--   [  Inicio](/blog/lnds)
-
--   
-
--   [  Ingreso](/login)
-:::
-
-[](javascript:void(0)){#toggle-menu .toggle-nav .btn}
-
-::: {#banner .jumbotron}
-Terremoto {#terremoto .text-center}
-=========
-:::
-
-::: {.row}
-::: {.col-xs-10 .col-sm-10 .col-md-10 .col-lg-10 .col-xs-offset-1 .col-sm-offset-1 .col-md-offset-1 .col-lg-offset-1}
-::: {.post-content}
+---
+date: 2010-02-28 18:06:47
+layout: post
+title: "Terremoto"
+comments: true
+---
 La madrugada del sábado 27 de **febrero** de 2010 fue uno de los
 momentos más intensos que me ha tocado vivir. Yo ya he vivido varios
 terremotos, principalmente el de 1985. Este lo sentí mucho más fuerte, y
@@ -42,33 +23,3 @@ bien.
 Para más información sobre el terremoto, les recomiendo [leer en Manzana
 Mecánica este especial del terremoto
 2010](http://www.manzanamecanica.org/2010/02/especial_terremoto_en_chile.html).
-:::
-
-::: {.comments}
-
-------------------------------------------------------------------------
-
-¿Te gustó? Danos tu auspicio en [Patreon](https://www.patreon.com/lnds)
-[Become a Patron!](https://www.patreon.com/bePatron?u=6503283)
-:::
-
-::: {.comments}
-### Comentarios
-
-::: {#disqus_thread aria-live="polite"}
-Please enable JavaScript to view the [comments powered by
-Disqus.](https://disqus.com/?ref_noscript)
-:::
-:::
-:::
-:::
-
-::: {.row}
-::: {.col-sm-offset-1 .col-sm-10}
-[La Naturaleza Del Software]{.small} [© Eduardo Diaz Cortes]{.small}
-
-[Publicado usando Prosa - release 0.3.9]{.small}
-:::
-:::
-:::
-:::
