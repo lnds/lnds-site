@@ -1,7 +1,7 @@
 ---
 title: "Bárbaros y Caballeros"
 authors: [admin]
-date: 2010-10-307T08:25:11-03:00
+date: 2010-10-30T08:25:11-03:00
 slug: "barbaros-y-caballeros"
 tags: ['lenguajes de programación', 'java', 'python']
 draft: false

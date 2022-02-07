@@ -1,7 +1,7 @@
 ---
 title: "No puedes proteger el software"
 authors: [admin]
-date: 2005-08-01T00:25:11-03:00
+date: 2005-08-01T10:25:11-03:00
 slug: "no-puedes-proteger-el-software"
 aliases: [/blog/2005/08/no-puedes-proteger-el-software.html]
 draft: false
