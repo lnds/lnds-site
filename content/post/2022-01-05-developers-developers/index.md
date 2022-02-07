@@ -4,7 +4,7 @@
 title: "Developers, Developers, Developers..."
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [desarrollo, 'ingeniería de software', software, developers, código, 'entropía de software']
 categories: []
 date: 2022-01-05T19:30:44-03:00

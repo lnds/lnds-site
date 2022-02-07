@@ -4,7 +4,7 @@
 title: "Goodbye Stranger"
 subtitle: "lo único constante es el cambio"
 summary: ""
-authors: []
+authors: [admin]
 tags: [cambios, profesión, cornershop, previred]
 categories: [carrera, evolución]
 date: 2020-12-13T09:31:34-03:00

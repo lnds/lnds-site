@@ -4,7 +4,7 @@
 title: "El Decimo Quinto Año"
 subtitle: "re inicio"
 summary: ""
-authors: []
+authors: [admin]
 slug: "el-decimo-quinto"
 tags: ["blogging", "La Naturaleza del Software", "escribir", "reflexiones"]
 date: 2020-02-02T13:56:06-03:00

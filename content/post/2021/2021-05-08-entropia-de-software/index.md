@@ -4,7 +4,7 @@
 title: "Hablemos de Entropía de Software"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz Cortés']
+authors: [admin]
 tags: [evolución, software, desarrollo, "ingeniería de software", programas, sistemas]
 categories: ["entropía de software"]
 date: 2021-05-08T12:37:49-04:00

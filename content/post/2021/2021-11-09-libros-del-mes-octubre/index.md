@@ -4,7 +4,7 @@
 title: "Libros del Mes: Octubre 2021"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [libros, lectura, ficción, divulgación, novelas]
 categories: ['libros del mes', 'libros']
 date: 2021-11-08T11:41:10-03:00

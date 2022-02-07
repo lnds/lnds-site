@@ -4,7 +4,7 @@
 title: "Los Principios de la Agilidad"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2021-10-10T10:08:07-03:00

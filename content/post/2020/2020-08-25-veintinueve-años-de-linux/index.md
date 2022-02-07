@@ -4,7 +4,7 @@
 title: "Veintinueve Años De Linux"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: [linux, 'open source']
 categories: []
 date: 2020-08-25T09:17:18-04:00

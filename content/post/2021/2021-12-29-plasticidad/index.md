@@ -4,7 +4,7 @@
 title: "Plasticidad"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [plasticidad, flexibilidad, agilidad, aprendizaje, experiencias]
 categories: ['reflexiones']
 date: 2021-12-29T12:20:00-03:00

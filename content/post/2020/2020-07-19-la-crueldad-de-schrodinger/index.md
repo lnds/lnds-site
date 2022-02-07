@@ -4,7 +4,7 @@
 title: "La Crueldad de Schrodinger"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: ['física cuántica', 'computación cuántica', 'filosofía', 'mente', 'conciencia']
 categories: []
 date: 2020-07-19T13:56:54-04:00

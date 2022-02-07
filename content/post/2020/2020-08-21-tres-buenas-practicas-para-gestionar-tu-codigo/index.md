@@ -4,7 +4,7 @@
 title: "Tres Buenas Prácticas para gestionar tu Código"
 subtitle: "Y cómo automatizarlas"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-08-21T07:49:55-04:00

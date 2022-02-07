@@ -4,7 +4,7 @@
 title: "Equilibrio y Entropía de Software"
 subtitle: "Hablemos de entropía de software (parte 2)"
 summary: ""
-authors: ['Eduardo Díaz Cortés']
+authors: [admin]
 tags: [evolución, software, desarrollo, "ingeniería de software", programas, sistemas]
 categories: ["entropía de software"]
 date: 2021-05-16T10:49:02-04:00

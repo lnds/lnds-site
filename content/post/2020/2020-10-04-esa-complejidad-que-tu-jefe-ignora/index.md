@@ -4,7 +4,7 @@
 title: "Esa Complejidad que tu jefe ignora"
 subtitle: "O prefiere ignorar"
 summary: ""
-authors: []
+authors: [admin]
 tags: [seguridad, complejidad, gestión]
 categories: [complejidad, gestión, "ingeniería de software"]
 date: 2020-10-04T09:48:32-03:00

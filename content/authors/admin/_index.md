@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Ingeniero, autor, emprendedor y ejecutivo chileno. Apasionado programador.
+bio: Ingeniero, autor, emprendedor y apasionado programador. Mantengo este blog desde 2005.
 
 interests:
 - Lenguajes de Programación

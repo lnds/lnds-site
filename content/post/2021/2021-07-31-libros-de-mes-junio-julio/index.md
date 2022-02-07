@@ -4,7 +4,7 @@
 title: "Libros del mes: junio y julio"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [libros, lectura, ficción, divulgación, novelas, periodismo]
 categories: ['libros del mes', 'libros']
 date: 2021-07-31T11:58:04-04:00

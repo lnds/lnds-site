@@ -4,7 +4,7 @@
 title: "Antes \"too\" esto era campo"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [cornershop, desarrollo, evolución, trabajo, reflexiones, emprendimiento]
 categories: []
 date: 2021-07-11T13:16:56-04:00

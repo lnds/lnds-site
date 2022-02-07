@@ -4,7 +4,7 @@
 title: "Libros del Mes: Agosto y Septiembre"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [libros, lectura, ficción, divulgación, novelas,]
 categories: ['libros del mes', 'libros']
 date: 2021-10-05T11:12:07-03:00

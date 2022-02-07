@@ -4,7 +4,7 @@
 title: "Libros Del Mes: abril y mayo"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [libros, lectura, ficción, divulgación, novelas]
 categories: ['libros del mes', 'libros']
 date: 2021-05-30T11:58:12-04:00

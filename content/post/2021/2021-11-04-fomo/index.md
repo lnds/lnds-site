@@ -4,7 +4,7 @@
 title: "FOMO"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: ['social media', 'facebook', 'redes sociales', 'sicología']
 categories: [cine, tecnología, sociedad, libros, 'redes sociales']
 date: 2021-11-04T12:01:26-03:00

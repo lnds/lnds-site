@@ -4,7 +4,7 @@
 title: "Dieciseis Años"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [blogging, 'la naturaleza del software', escribir, antologías]
 categories: [aniversarios]
 date: 2021-07-31T19:33:19-04:00

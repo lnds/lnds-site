@@ -4,7 +4,7 @@
 title: "Diversidad en el Desarrollo de Software: ¡estamos muy mal!"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: ['desarrolladores', 'stack overflow', 'estudios', 'género', 'mujeres en tecnología', 'diversidad']
 categories: ['estudios']
 date: 2020-05-31T11:20:51-04:00

@@ -4,7 +4,7 @@
 title: "Entusiasmo selectivo"
 subtitle: "Innovación y el origen de Unix"
 summary: ""
-authors: []
+authors: [admin]
 tags: [libros, unix, historia, innovación]
 categories: []
 date: 2020-03-29T08:35:24-03:00

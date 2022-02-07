@@ -2,7 +2,7 @@
 title: "Estafadores"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz Cortés']
+authors: [admin]
 tags: [nft, estafas, historia, nazis, arte, cripto, web3]
 categories: [historia, arte, cripto, web3]
 date: 2022-02-05T12:22:16-03:00

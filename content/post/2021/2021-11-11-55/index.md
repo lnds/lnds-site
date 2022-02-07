@@ -4,7 +4,7 @@
 title: "55"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [55, 'cumpleaños', 'reflexiones', regalos, música, 'Steely Dan']
 categories: []
 date: 2021-11-11T11:02:07-03:00

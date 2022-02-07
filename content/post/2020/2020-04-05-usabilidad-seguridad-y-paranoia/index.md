@@ -4,7 +4,7 @@
 title: "Usabilidad, Seguridad Y Paranoia"
 subtitle: ""
 summary: "Zoom y la gestión de riesgos en tiempos de pandemia"
-authors: []
+authors: [admin]
 tags: [zoom, seguridad, ciberseguridad, "gestión de riesgos", usabilidad]
 categories: [seguridad, usabilidad, negocios]
 date: 2020-04-05T08:38:01-04:00

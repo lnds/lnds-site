@@ -4,7 +4,7 @@
 title: "Niebla De Guerra"
 subtitle: "decisiones en medio de la confusión"
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-04-29T09:34:14-04:00

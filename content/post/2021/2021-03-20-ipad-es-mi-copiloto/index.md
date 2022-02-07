@@ -4,7 +4,7 @@
 title: "iPad es mi Copiloto"
 subtitle: ""
 summary: ""
-authors: ["Eduardo Díaz"]
+authors: [admin]
 tags: [blogging, iPad, productividad, apple]
 categories: []
 date: 2021-03-16T14:00:44-03:00

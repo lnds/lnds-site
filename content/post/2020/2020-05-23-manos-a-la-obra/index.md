@@ -3,7 +3,7 @@
 
 title: "Manos a la obra"
 summary: ""
-authors: []
+authors: [admin]
 tags: ["ingeniería de software", "TV", "reality", "lecciones", "reflexiones", "desafío focal", "agilidad"]
 categories: ["ingeniería de software", "gestión de proyectos",]
 date: 2020-05-23T11:43:22-04:00

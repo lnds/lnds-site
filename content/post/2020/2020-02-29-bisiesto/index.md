@@ -4,7 +4,7 @@
 title: "Bisiesto"
 subtitle: "Retomando transmisiones"
 summary: ""
-authors: []
+authors: [admin]
 tags: [reflexiones, blogging]
 categories: []
 date: 2020-02-29T19:55:47-03:00

@@ -4,7 +4,7 @@
 title: "Libros del Mes - marzo 2021"
 subtitle: ""
 summary: ""
-authors: ['Eduardo Díaz']
+authors: [admin]
 tags: [libros, lectura, ficción, divulgación, novelas, periodismo]
 categories: ['libros del mes', 'libros']
 date: 2021-03-31T20:10:32-03:00

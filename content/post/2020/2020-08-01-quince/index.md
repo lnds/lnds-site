@@ -4,7 +4,7 @@
 title: "Quince"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-08-01T14:18:49-04:00

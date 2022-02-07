@@ -4,7 +4,7 @@
 title: "Si es chileno, ¿es bueno?"
 subtitle: ""
 summary: ""
-authors: []
+authors: [admin]
 tags: []
 categories: []
 date: 2020-08-27T09:40:23-04:00
