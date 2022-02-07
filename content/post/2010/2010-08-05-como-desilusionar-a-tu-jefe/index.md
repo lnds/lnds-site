@@ -1,5 +1,6 @@
 ---
 title: "Cómo desilusionar a tu jefe"
+authors: [admin]
 date: 2010-08-05T08:25:11-03:00
 slug: "como-desilusionar-a-tu-jefe"
 tags: ['cloud computing', 'tecnología']

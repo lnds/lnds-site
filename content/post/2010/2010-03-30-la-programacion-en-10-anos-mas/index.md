@@ -1,5 +1,6 @@
 ---
 title: "La programación en 10 años más"
+authors: [admin]
 date: 2010-03-30T08:25:11-03:00
 slug: "la-programación-en-10-anos-mas"
 tags: ['programación', 'predicciones', 'programación']

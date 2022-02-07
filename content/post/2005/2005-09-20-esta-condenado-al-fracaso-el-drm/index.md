@@ -4,6 +4,7 @@ date: 2005-09-20 16:43:03
 layout: post
 slug: 'esta-condenado-al-fracaso-el-drm'
 title: ¿Está condenado al fracaso el DRM?
+authors: [admin]
 wordpress_id: 139
 categories:
 - Sin categoría

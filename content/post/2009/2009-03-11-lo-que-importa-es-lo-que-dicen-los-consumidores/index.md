@@ -4,6 +4,7 @@ date: 2009-03-11 14:28:00
 layout: post
 slug: lo-que-importa-es-lo-que-dicen-los-consumidores
 title: Lo que importa es lo que dicen los consumidores
+authors: [admin]
 wordpress_id: 285
 categories:
 - Internet

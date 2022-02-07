@@ -4,6 +4,7 @@ date: 2008-06-10 11:44:11
 layout: post
 slug: chocar-y-caer
 title: Chocar y Caer
+authors: [admin]
 wordpress_id: 12
 categories:
 - General

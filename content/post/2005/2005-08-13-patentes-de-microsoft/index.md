@@ -1,5 +1,6 @@
 ---
 title: "Patentes de Microsoft"
+authors: [admin]
 date: 2005-08-13T08:25:11-03:00
 slug: "patentes-de-microsoft"
 tags: ["patentes", "Microsoft"]

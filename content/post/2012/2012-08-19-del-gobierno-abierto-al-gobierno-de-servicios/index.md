@@ -1,5 +1,6 @@
 ---
 title: "Del gobierno abierto al gobierno de servicios"
+authors: [admin]
 date: 2012-08-19T22:25:11-03:00
 slug: "del-gobierno-abierto-al-gobierno-de-servicios "
 tags: ["aniversario", "datos", "gobierno", "villano invitado", "innovación"]

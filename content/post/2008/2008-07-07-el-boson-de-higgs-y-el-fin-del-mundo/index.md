@@ -4,6 +4,7 @@ date: 2008-07-07 22:40:25
 layout: post
 slug: el-boson-de-higgs-y-el-fin-del-mundo
 title: El Bosón de Higgs y el Fin del Mundo
+authors: [admin]
 wordpress_id: 683
 categories:
 - Ciencia

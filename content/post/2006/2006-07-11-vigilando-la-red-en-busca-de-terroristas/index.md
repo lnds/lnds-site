@@ -4,6 +4,7 @@ date: 2006-07-11 07:21:31
 layout: post
 slug: vigilando-la-red-en-busca-de-terroristas
 title: Vigilando la red en busca de terroristas
+authors: [admin]
 wordpress_id: 1748
 categories:
 - Credibilidad

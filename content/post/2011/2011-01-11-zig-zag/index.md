@@ -1,5 +1,6 @@
 ---
 title: "Zig Zag"
+authors: [admin]
 date: 2011-01-11T08:25:11-03:00
 slug: "zig-zag"
 draft: false

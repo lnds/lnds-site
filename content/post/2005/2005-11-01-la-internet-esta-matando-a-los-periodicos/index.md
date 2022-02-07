@@ -1,5 +1,6 @@
 ---
 title: "La internet está matando a los periódicos"
+authors: [admin]
 date: 2005-11-01T08:25:11-03:00
 slug: "la-internet-esta-matando-a-los-periodicos"
 tags: ["prensa", "internet"]

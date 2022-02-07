@@ -1,5 +1,6 @@
 ---
 title: "¡No somos cocineros!"
+authors: [admin]
 date: 2013-03-08T08:25:11-03:00
 slug: "no-somos-cocineros"
 aliases: [/blog/2013/03/no-somos-cocineros.html]

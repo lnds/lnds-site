@@ -1,5 +1,6 @@
 ---
 title: "Metáforas"
+authors: [admin]
 date: 2010-12-28T08:25:11-03:00
 slug: "metaforas"
 tags: ["Isaac Asimov", "seguridad"]

@@ -1,5 +1,6 @@
 ---
 title: "Kazaa ilegal"
+authors: [admin]
 date: 2005-09-07T08:50:11-03:00
 slug: "kazaa-ilegal"
 tags: ["kazaa", "p2p"]

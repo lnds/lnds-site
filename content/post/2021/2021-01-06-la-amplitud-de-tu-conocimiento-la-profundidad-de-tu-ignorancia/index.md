@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "La Amplitud De Tu Conocimiento, La Profundidad De Tu Ignorancia"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

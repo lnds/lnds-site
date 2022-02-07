@@ -4,6 +4,7 @@ date: 2009-03-16 21:58:30
 layout: post
 slug: el-lenguaje-es-algo-vivo-pero
 title: El lenguaje es algo vivo, pero...
+authors: [admin]
 wordpress_id: 282
 ---
 

@@ -4,6 +4,7 @@ date: 2009-06-17 23:12:45
 layout: post
 slug: nullius-addictus-jurare-in-verba-magistris
 title: Nullius Addictus Jurare in Verba Magistris
+authors: [admin]
 wordpress_id: 202
 categories:
 - Credibilidad

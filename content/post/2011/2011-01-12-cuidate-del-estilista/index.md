@@ -1,5 +1,6 @@
 ---
 title: "Cuidate del estilista"
+authors: [admin]
 date: 2011-01-12T08:25:11-03:00
 slug: "cuidate-del-estilista"
 draft: false

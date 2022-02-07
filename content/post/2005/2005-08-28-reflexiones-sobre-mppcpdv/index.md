@@ -1,5 +1,6 @@
 ---
 title: "Reflexiones sobre MPPCPDV"
+authors: [admin]
 date: 2005-08-28T18:25:11-03:00
 slug: "reflexiones-sobre-mppcpdv"
 tags: ["MPPCDV", "adhocracia"]

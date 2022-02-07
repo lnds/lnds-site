@@ -4,6 +4,7 @@ date: 2008-05-20 00:29:52
 layout: post
 slug: la-ultima-charla-de-randy-pausch
 title: La última charla de Randy Pausch
+authors: [admin]
 wordpress_id: 192
 categories:
 - Educación

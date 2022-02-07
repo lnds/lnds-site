@@ -1,5 +1,6 @@
 ---
 title: "Reconocer a los creadores"
+authors: [admin]
 date: 2005-08-04T22:25:11-03:00
 slug: "reconocer-a-los-creadores"
 tags: ["creadores", "reconocimiento", "opensource"]

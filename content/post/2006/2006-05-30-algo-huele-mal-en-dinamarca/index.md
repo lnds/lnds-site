@@ -4,6 +4,7 @@ date: 2006-05-30 17:10:50
 layout: post
 slug: algo-huele-mal-en-dinamarca
 title: Algo huele mal en Dinamarca
+authors: [admin]
 wordpress_id: 2071
 ---
 

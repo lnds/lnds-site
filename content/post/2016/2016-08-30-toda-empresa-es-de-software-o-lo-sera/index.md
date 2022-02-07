@@ -1,5 +1,6 @@
 ---
 title: "Toda empresa es de software, o lo será"
+authors: [admin]
 subtitle: "Reflexiones sobre la naturaleza del software y el emprendimiento"
 date: 2016-08-30T08:25:11-03:00
 slug: "toda-empresa-es-de-software-o-lo-sera"

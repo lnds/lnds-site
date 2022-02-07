@@ -4,6 +4,7 @@ date: 2009-06-15 12:18:22
 layout: post
 slug: la-historia-de-la-vaca
 title: La Historia de la Vaca
+authors: [admin]
 wordpress_id: 262
 categories:
 - Cultura

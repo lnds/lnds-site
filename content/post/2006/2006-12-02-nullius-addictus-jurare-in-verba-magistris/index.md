@@ -4,6 +4,7 @@ date: 2006-12-02 09:53:46
 layout: post
 slug: nullius-addictus-jurare-in-verba-magistris-2
 title: Nullius Addictus Jurare in Verba Magistris
+authors: [admin]
 wordpress_id: 1378
 categories:
 - Cultura

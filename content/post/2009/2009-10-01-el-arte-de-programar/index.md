@@ -4,6 +4,7 @@ date: 2009-10-01 22:21:45
 layout: post
 slug: el-arte-de-programar
 title: El Arte de Programar
+authors: [admin]
 wordpress_id: 238
 categories:
 - Arte

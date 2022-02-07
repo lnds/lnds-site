@@ -5,6 +5,7 @@ layout: post
 slug: el-caso-eolas
 aliases: [/2005/12/el-caso-eolas.html]
 title: El caso Eolas
+authors: [admin]
 wordpress_id: 1492
 tags:
 - eolas

@@ -4,6 +4,7 @@ date: 2008-01-16 19:30:12
 layout: post
 slug: la-celula-o-el-eterno-retorno-de-los-esquemas-piramidales
 title: La Célula o el eterno retorno de los esquemas piramidales
+authors: [admin]
 wordpress_id: 41
 categories:
 - Credibilidad

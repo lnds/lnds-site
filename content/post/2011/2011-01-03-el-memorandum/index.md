@@ -1,5 +1,6 @@
 ---
 title: "El Memorándum"
+authors: [admin]
 date: 2011-01-03T08:25:11-03:00
 slug: "el-memorandum"
 aliases: [/blog/2011/01/el-memorandum.html]

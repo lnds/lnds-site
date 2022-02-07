@@ -5,6 +5,7 @@ layout: post
 slug: turing-inverso-y-accesibilidad
 aliases: [/2005/10/turing_inverso_y_accesibilidad.html]
 title: Turing Inverso y Accesibilidad
+authors: [admin]
 wordpress_id: 160
 categories:
 - Usabilidad

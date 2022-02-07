@@ -1,5 +1,6 @@
 ---
 title: "Temor"
+authors: [admin]
 date: 2015-07-12T08:25:11-03:00
 slug: "temor"
 aliases: [/blog/lnds/2015/7/12/temor]

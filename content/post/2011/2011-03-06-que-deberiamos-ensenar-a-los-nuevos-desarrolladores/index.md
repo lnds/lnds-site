@@ -1,5 +1,6 @@
 ---
 title: "¿Qué deberíamos enseñar a los nuevos desarrolladores?"
+authors: [admin]
 date: 2012-05-18T08:25:11-03:00
 slug: "que-deberiamos-ensenar-a-los-nuevos-desarrolladores"
 aliases: [/blog/2011/03/que-deberiamos-ensenar-a-los-nuevos-desarrolladores.html]

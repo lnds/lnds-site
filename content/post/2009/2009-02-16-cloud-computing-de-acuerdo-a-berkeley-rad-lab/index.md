@@ -1,5 +1,6 @@
 ---
 title: "Cloud Computing, de acuerdo a Berkeley RAD Lab"
+authors: [admin]
 date: 2009-02-16T08:25:11-03:00
 slug: "cloud-computing-de-acuerdo-a-berkeley-rad-lab"
 aliases: [/blog/2009/02/cloud-computing-de-acuerdo-a-berkeley-rad-lab.html, /2009/02/cloud-computing-de-acuerdo-a-berkeley-ra.html]

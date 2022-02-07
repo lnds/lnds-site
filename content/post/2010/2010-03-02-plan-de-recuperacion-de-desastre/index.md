@@ -1,5 +1,6 @@
 ---
 title: "Plan de Recuperación de Desastre"
+authors: [admin]
 date: 2010-03-02T08:25:11-03:00
 slug: "plan-de-recuperacion-de-desastre"
 tags: ['contingencias']

@@ -5,6 +5,7 @@ layout: post
 slug: los-meta-sistemas-de-identidad
 aliases: [/2007/07/los-meta-sistemas-de-identidad.html]
 title: Los meta sistemas de identidad
+authors: [admin]
 wordpress_id: 337
 categories:
 - Identidad Digital

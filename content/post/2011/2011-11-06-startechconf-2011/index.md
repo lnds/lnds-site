@@ -1,5 +1,6 @@
 ---
 title: "StartechConf 2011"
+authors: [admin]
 date: 2011-11-06T08:25:11-03:00
 slug: "startechconf-2011"
 tags: ['startechconf', 'conferencia', 'realidad aumentada', 'tecnología']

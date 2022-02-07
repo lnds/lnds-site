@@ -1,5 +1,6 @@
 ---
 title: "Hay radiación en todas partes"
+authors: [admin]
 date: 2011-06-01T08:25:11-03:00
 slug: "hay-radiacion-en-todas-partes"
 draft: false

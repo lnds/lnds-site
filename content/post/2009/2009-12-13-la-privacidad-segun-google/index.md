@@ -1,5 +1,6 @@
 ---
 title: "La Privacidad Según Google"
+authors: [admin]
 date: 2009-12-13T08:25:11-03:00
 slug: "la-privacidad-segun-google"
 tags: ['privacidad', 'Google']

@@ -1,5 +1,6 @@
 ---
 title: "El Fin de la Agilidad (IX)"
+authors: [admin]
 subtitle: "Parte 9: Fem Voices"
 date: 2019-05-21T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

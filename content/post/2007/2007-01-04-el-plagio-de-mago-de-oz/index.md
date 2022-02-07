@@ -4,6 +4,7 @@ date: 2007-01-04 20:19:34
 layout: post
 slug: el-plagio-de-mago-de-oz
 title: El Plagio de Mago de Oz
+authors: [admin]
 wordpress_id: 1392
 ---
 

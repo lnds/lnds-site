@@ -1,5 +1,6 @@
 ---
 title: "Software Everywhere: La Internet de las Cosas en el Chile Post-Bicentenario"
+authors: [admin]
 date: 2010-08-17T18:25:11-03:00
 slug: "software-everywhere-la-internet-de-las-cosas-en-el-chile-post-bicentenario"
 tags: ['iot', 'software', 'villano invitado']

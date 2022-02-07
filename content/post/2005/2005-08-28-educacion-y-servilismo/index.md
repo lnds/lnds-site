@@ -1,5 +1,6 @@
 ---
 title: "Educación y servilismo"
+authors: [admin]
 subtitle: "El valor de educar"
 date: 2005-08-28T18:25:11-03:00
 slug: "educacion-y-servilismo"

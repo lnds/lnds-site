@@ -4,6 +4,7 @@ date: 2005-11-08 20:56:55
 layout: post
 slug: linuxlupper
 title: Linux/lupper
+authors: [admin]
 wordpress_id: 175
 categories:
 - Seguridad

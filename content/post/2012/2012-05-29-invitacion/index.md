@@ -1,5 +1,6 @@
 ---
 title: "Invitación"
+authors: [admin]
 date: 2012-05-29T22:25:11-03:00
 slug: "invitacion"
 tags: ["charlas", "cloud computing"]

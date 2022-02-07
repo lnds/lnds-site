@@ -4,6 +4,7 @@ date: 2008-12-14 19:03:16
 layout: post
 slug: algunos-consejos-de-alan-parson-para-desarrollar-software
 title: Algunos consejos de Alan Parson para desarrollar Software
+authors: [admin]
 wordpress_id: 348
 categories:
 - Desarrollo

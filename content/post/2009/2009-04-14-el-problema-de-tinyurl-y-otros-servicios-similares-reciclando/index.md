@@ -1,5 +1,6 @@
 ---
 title: "El problema de tinyurl y otros servicios similares (reciclando)"
+authors: [admin]
 date: 2010-07-31T08:25:11-03:00
 slug: "el-problema-de-tinyurl-y-otros-servicios-similares-reciclando"
 tags: ['internet', 'urls', 'web']

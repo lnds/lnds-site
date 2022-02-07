@@ -1,5 +1,6 @@
 ---
 title: "About Speed Hashing"
+authors: [admin]
 date: 2012-04-13T22:25:11-03:00
 slug: "about-speed-hashing"
 tags: ["algoritmos", "seguridad", "md5", "criptografía"]

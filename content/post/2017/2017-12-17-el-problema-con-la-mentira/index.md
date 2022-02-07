@@ -1,5 +1,6 @@
 ---
 title: "El problema con la mentira"
+authors: [admin]
 date: 2017-12-17T08:25:11-03:00
 slug: "el-problema-con-la-mentira"
 draft: false

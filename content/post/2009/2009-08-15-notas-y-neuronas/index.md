@@ -4,6 +4,7 @@ date: 2009-08-15 20:23:45
 layout: post
 slug: notas-y-neuronas
 title: Notas y Neuronas
+authors: [admin]
 wordpress_id: 240
 categories:
 - Ciencia

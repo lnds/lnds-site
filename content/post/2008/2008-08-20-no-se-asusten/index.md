@@ -4,6 +4,7 @@ date: 2008-08-20 22:48:49
 layout: post
 slug: no-se-asusten
 title: No Se Asusten
+authors: [admin]
 wordpress_id: 1311
 categories:
 - Anumerismo

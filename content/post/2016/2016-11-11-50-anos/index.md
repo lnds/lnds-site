@@ -1,5 +1,6 @@
 ---
 title: "50 Años"
+authors: [admin]
 date: 2016-11-11T08:25:11-03:00
 slug: "50-anos"
 draft: false

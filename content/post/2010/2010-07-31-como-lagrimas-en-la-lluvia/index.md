@@ -1,5 +1,6 @@
 ---
 title: "Como lágrimas en la lluvia"
+authors: [admin]
 date: 2010-07-31T08:25:11-03:00
 slug: "como-lagrimas-en-la-lluvia"
 tags: ['internet', 'memoria', 'web']

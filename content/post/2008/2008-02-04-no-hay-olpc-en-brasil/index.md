@@ -4,6 +4,7 @@ date: 2008-02-04 11:17:00
 layout: post
 slug: no-hay-olpc-en-brasil
 title: No hay OLPC en Brasil
+authors: [admin]
 wordpress_id: 54
 categories:
 - Educación

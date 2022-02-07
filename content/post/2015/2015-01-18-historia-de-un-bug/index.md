@@ -1,5 +1,6 @@
 ---
 title: "Historia de un Bug"
+authors: [admin]
 date: 2015-01-18T08:25:11-03:00
 slug: "historia-de-un-bug"
 draft: false

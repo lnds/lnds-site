@@ -5,6 +5,7 @@ layout: post
 slug: decidir
 aliases: [/2009/04/decidir.html]
 title: Decidir
+authors: [admin]
 wordpress_id: 76
 ---
 

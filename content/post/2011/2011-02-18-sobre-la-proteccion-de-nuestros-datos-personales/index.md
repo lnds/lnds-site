@@ -1,5 +1,6 @@
 ---
 title: "Sobre la protección de nuestros datos personales"
+authors: [admin]
 date: 2011-02-18T08:25:11-03:00
 slug: "sobre-la-proteccion-de-nuestros-datos-personales"
 draft: false

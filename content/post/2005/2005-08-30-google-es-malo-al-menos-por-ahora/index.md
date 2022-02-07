@@ -1,5 +1,6 @@
 ---
 title: "Google es malo (al menos por ahora)"
+authors: [admin]
 date: 2005-08-30T08:25:11-03:00
 slug: "google-es-malo-al-menos-por-ahora"
 tags: ["Google"]

@@ -1,5 +1,6 @@
 ---
 title: "Los Planes Secretos de la RAE"
+authors: [admin]
 date: 2010-11-07T08:25:11-03:00
 slug: "los-planes-secretos-de-la-rae"
 tags: ['humor', 'idioma']

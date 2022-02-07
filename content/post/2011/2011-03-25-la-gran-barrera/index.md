@@ -1,5 +1,6 @@
 ---
 title: "La gran barrera"
+authors: [admin]
 date: 2011-03-25T08:25:11-03:00
 slug: "la-gran-barrera"
 draft: false

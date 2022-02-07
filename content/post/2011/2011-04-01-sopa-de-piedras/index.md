@@ -1,5 +1,6 @@
 ---
 title: "Sopa de piedras"
+authors: [admin]
 date: 2011-04-01T08:25:11-03:00
 slug: "sopa-de-piedras"
 draft: false

@@ -4,6 +4,7 @@ date: 2007-08-10 15:15:47
 layout: post
 slug: '%c2%bfde-cual-codigo-abierto-me-habla'
 title: ¿De cual código abierto me habla?
+authors: [admin]
 wordpress_id: 1813
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Simulación y ciencia"
+authors: [admin]
 date: 2010-10-06T08:25:11-03:00
 slug: "simulacion-y-ciencia"
 tags: ['ciencia', 'modelos', 'simulación']

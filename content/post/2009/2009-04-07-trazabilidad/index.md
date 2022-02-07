@@ -4,6 +4,7 @@ date: 2009-04-07 22:41:42
 layout: post
 slug: trazabilidad
 title: Trazabilidad
+authors: [admin]
 wordpress_id: 83
 categories:
 - Seguridad

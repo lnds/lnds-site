@@ -4,6 +4,7 @@ date: 2006-08-28 22:29:12
 layout: post
 slug: windows-en-quechua
 title: Windows en Quechua
+authors: [admin]
 wordpress_id: 1756
 ---
 

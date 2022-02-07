@@ -4,6 +4,7 @@ date: 2007-12-11 18:41:07
 layout: post
 slug: tecnopatas
 title: Tecnópatas
+authors: [admin]
 wordpress_id: 382
 categories:
 - Paradigmas

@@ -1,5 +1,6 @@
 ---
 title: "El Fin de la Agilidad (XI)"
+authors: [admin]
 subtitle: "Parte 11: CBGB OMFUG"
 date: 2019-07-07T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

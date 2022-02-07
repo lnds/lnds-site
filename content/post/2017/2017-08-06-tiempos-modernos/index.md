@@ -1,5 +1,6 @@
 ---
 title: "Tiempos Modernos"
+authors: [admin]
 date: 2017-08-06T08:25:11-03:00
 slug: "tiempos-modernos"
 aliases: [/blog/lnds/2017/8/6/tiempos-modernos]

@@ -4,6 +4,7 @@ date: 2008-06-17 22:57:00
 layout: post
 slug: primeras-olimpiadas-nacionales-de-informatica
 title: Primeras Olimpiadas Nacionales de Informática
+authors: [admin]
 wordpress_id: 10
 categories:
 - Programación

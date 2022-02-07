@@ -4,6 +4,7 @@ date: 2006-10-28 20:51:28
 layout: post
 slug: maoismo-digital-3
 title: Maoismo Digital 3
+authors: [admin]
 wordpress_id: 1337
 categories:
 - Credibilidad

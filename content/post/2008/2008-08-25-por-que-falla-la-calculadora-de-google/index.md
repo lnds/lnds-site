@@ -4,6 +4,7 @@ date: 2008-08-25 06:58:37
 layout: post
 slug: 'por-que-falla-la-calculadora-de-google'
 title: ¿Por qué falla la calculadora de Google?
+authors: [admin]
 wordpress_id: 1158
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "¡Gracias!"
+authors: [admin]
 date: 2012-09-09T12:25:11-03:00
 slug: "gracias"
 tags: ["charlas", "educación"]

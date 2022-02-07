@@ -1,5 +1,6 @@
 ---
 title: "La ética de Parnas"
+authors: [admin]
 date: 2011-01-19T08:25:11-03:00
 slug: "la-etica-de-parnas"
 aliases: [/blog/2011/01/la-etica-de-parnas.html]

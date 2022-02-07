@@ -1,5 +1,6 @@
 ---
 title: "Motivación Personal"
+authors: [admin]
 date: 2009-12-11T08:25:11-03:00
 slug: "motivacion-personal"
 aliases: [/blog/2009/12/motivacion-personal.html]

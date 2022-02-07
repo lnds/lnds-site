@@ -4,6 +4,7 @@ date: 2009-04-03 23:00:42
 layout: post
 slug: las-leyes-de-sistemantica
 title: Las Leyes de "Sistemántica"
+authors: [admin]
 wordpress_id: 85
 categories:
 - Humor

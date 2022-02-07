@@ -1,5 +1,6 @@
 ---
 title: "Diversidad"
+authors: [admin]
 date: 2015-03-24T08:25:11-03:00
 slug: "diversidad"
 aliases: [/blog/lnds/2015/3/24/diversidad]

@@ -4,6 +4,7 @@ date: 2008-02-14 16:42:12
 layout: post
 slug: i-thought-linux-was-secure
 title: I thought Linux was secure
+authors: [admin]
 wordpress_id: 49
 categories:
 - Seguridad

@@ -1,5 +1,6 @@
 ---
 title: "Sexto Aniversario"
+authors: [admin]
 date: 2011-08-01T08:25:11-03:00
 slug: "sexto-aniversario"
 tags: ['aniversario', 'blogging']

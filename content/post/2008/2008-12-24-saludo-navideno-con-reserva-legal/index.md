@@ -1,5 +1,6 @@
 ---
 title: "Saludo navideño (con reserva legal)"
+authors: [admin]
 date: 2008-12-24T08:25:11-03:00
 slug: "saludo-navideno-con-reserva-legal"
 aliases: [/blog/2008/12/saludo-navideno-con-reserva-legal.html]

@@ -4,6 +4,7 @@ date: 2005-11-29 09:00:31
 layout: post
 slug: un-halcon-en-piel-de-pinguino
 title: Un halcón en piel de pingüino
+authors: [admin]
 wordpress_id: 163
 categories:
 - Software libre

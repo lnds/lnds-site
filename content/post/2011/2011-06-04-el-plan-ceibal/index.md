@@ -1,5 +1,6 @@
 ---
 title: "El Plan CEIBAL"
+authors: [admin]
 date: 2011-06-04T18:25:11-03:00
 slug: "el-plan-ceibal"
 draft: false

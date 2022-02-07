@@ -1,5 +1,6 @@
 ---
 title: "Dichos, Locos y Trenes"
+authors: [admin]
 subtitle: "el principio de la sub optimización de las partes"
 date: 2012-12-29T08:25:11-03:00
 slug: "dichos-locos-y-trenes"

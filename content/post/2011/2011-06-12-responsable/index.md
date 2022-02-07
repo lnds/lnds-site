@@ -1,5 +1,6 @@
 ---
 title: "Responsable"
+authors: [admin]
 date: 2011-06-12T08:25:11-03:00
 slug: "responsable"
 draft: false

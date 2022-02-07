@@ -4,6 +4,7 @@ date: 2008-12-01 21:13:00
 layout: post
 slug: guia-geek-para-contratar-a-geeks
 title: Guía geek, para contratar a geeks
+authors: [admin]
 wordpress_id: 351
 categories:
 - Desarrollo

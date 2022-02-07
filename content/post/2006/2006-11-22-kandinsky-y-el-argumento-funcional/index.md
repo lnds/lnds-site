@@ -4,6 +4,7 @@ date: 2006-11-22 19:22:00
 layout: post
 slug: kandinsky-y-el-argumento-funcional
 title: Kandinsky y el argumento funcional
+authors: [admin]
 wordpress_id: 1294
 categories:
 - La Naturaleza del Software

@@ -5,6 +5,7 @@ layout: post
 slug: frases-problematicas
 aliases: [/2006/10/frases_problematicas.html]
 title: Frases Problemáticas
+authors: [admin]
 wordpress_id: 1340
 categories:
 - Cultura

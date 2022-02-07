@@ -1,5 +1,6 @@
 ---
 title: "Garbage collection"
+authors: [admin]
 date: 2014-01-25T08:25:11-03:00
 slug: "garbage-collection"
 aliases: [/blog/lnds/2010/5/7/peor-es-mejor, /blog/2010/05/peor-es-mejor.html]

@@ -4,6 +4,7 @@ date: 2005-10-04 20:27:37
 layout: post
 slug: indolencia-de-microsoft
 title: Indolencia de Microsoft
+authors: [admin]
 wordpress_id: 2002
 categories:
 - Seguridad

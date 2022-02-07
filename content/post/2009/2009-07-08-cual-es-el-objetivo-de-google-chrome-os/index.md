@@ -4,6 +4,7 @@ date: 2009-07-08 22:09:17
 layout: post
 slug: cual-es-el-objetivo-de-google-chrome-os
 title: ¿Cuál es el objetivo de Google Chrome OS?
+authors: [admin]
 wordpress_id: 254
 categories:
 - La Naturaleza del Software

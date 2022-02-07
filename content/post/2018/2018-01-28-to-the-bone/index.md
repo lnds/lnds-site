@@ -1,5 +1,6 @@
 ---
 title: "To The Bone"
+authors: [admin]
 subtitle: "(The Chain, parte 2)"
 date: 2018-01-28T08:25:11-03:00
 slug: "to-the-bone"

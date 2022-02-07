@@ -1,5 +1,6 @@
 ---
 title: "La paradoja de la eficiencia energética"
+authors: [admin]
 date: 2011-04-05T08:25:11-03:00
 slug: "la-paradoja-de-la-eficiencia-energetica"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Obama sabe computación"
+authors: [admin]
 date: 2007-07-22T08:25:11-03:00
 slug: "obama-sabe-computacion"
 tags: ['curiosidades', 'humor']

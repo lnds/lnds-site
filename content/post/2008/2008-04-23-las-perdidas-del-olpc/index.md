@@ -4,6 +4,7 @@ date: 2008-04-23 22:13:00
 layout: post
 slug: las-perdidas-del-olpc
 title: Las Pérdidas del OLPC
+authors: [admin]
 wordpress_id: 70
 categories:
 - Educación

@@ -1,5 +1,6 @@
 ---
 title: "Occam's Razor"
+authors: [admin]
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 3"
 date: 2017-08-29T08:25:11-03:00
 slug: "occams-razor"

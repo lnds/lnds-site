@@ -1,5 +1,6 @@
 ---
 title: "El Valor de los Valores"
+authors: [admin]
 date: 2012-07-22T08:25:11-03:00
 slug: "el-valor-de-los-valores"
 tags: ["emprendimiento", "attlassian", "valores"]

@@ -4,6 +4,7 @@ date: 2006-01-13 08:54:24
 layout: post
 slug: el-nuevo-icono-estandar
 title: El nuevo ícono estándar
+authors: [admin]
 wordpress_id: 2048
 categories:
 - Internet

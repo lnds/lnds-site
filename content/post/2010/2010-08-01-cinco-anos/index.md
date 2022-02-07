@@ -1,5 +1,6 @@
 ---
 title: "Cinco años"
+authors: [admin]
 date: 2010-08-01T08:25:11-03:00
 slug: "cinco-anos"
 tags: ['blogging', 'aniversario']

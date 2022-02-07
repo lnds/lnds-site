@@ -4,6 +4,7 @@ date: 2008-08-04 22:46:19
 layout: post
 slug: zig-zag-un-desafio
 title: Zig Zag (un desafío)
+authors: [admin]
 wordpress_id: 1160
 ---
 

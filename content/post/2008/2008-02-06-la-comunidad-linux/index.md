@@ -4,6 +4,7 @@ date: 2008-02-06 09:42:24
 layout: post
 slug: la-comunidad-linux
 title: La Comunidad Linux
+authors: [admin]
 wordpress_id: 53
 categories:
 - Opensource

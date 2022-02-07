@@ -1,5 +1,6 @@
 ---
 title: "Lo bueno y lo malo"
+authors: [admin]
 date: 2012-06-21T08:25:11-03:00
 slug: "lo-bueno-y-lo-malo"
 aliases: [/blog/2012/06/lo-bueno-y-lo-malo.html]

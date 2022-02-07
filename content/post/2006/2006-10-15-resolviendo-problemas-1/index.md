@@ -4,6 +4,7 @@ date: 2006-10-15 21:21:13
 layout: post
 slug: resolviendo-problemas-1
 title: Resolviendo Problemas (1)
+authors: [admin]
 wordpress_id: 2096
 ---
 

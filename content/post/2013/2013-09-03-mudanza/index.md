@@ -1,5 +1,6 @@
 ---
 title: "Mudanza"
+authors: [admin]
 date: 2013-09-03T08:25:11-03:00
 slug: "mudanza"
 tags: ["renovación", "migrar"]

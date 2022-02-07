@@ -5,6 +5,7 @@ layout: post
 slug: recursividad
 aliases: [/2009/05/recursividad.html]
 title: Recursividad
+authors: [admin]
 wordpress_id: 273
 categories:
 - Cultura

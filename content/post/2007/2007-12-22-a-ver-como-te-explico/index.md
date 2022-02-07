@@ -4,6 +4,7 @@ date: 2007-12-22 13:03:07
 layout: post
 slug: a-ver-%c2%bfcomo-te-explico
 title: A ver... ¿como te explico?
+authors: [admin]
 wordpress_id: 385
 ---
 

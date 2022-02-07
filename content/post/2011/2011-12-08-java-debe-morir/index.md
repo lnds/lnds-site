@@ -1,5 +1,6 @@
 ---
 title: "Java debe morir"
+authors: [admin]
 date: 2011-12-08T08:25:11-03:00
 slug: "java-debe-morir"
 aliases: [/blog/2011/12/java-debe-morir.html]

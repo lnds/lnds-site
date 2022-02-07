@@ -1,5 +1,6 @@
 ---
 title: "Lógico y Razonable"
+authors: [admin]
 date: 2010-07-17T08:25:11-03:00
 slug: "logico-y-razonable"
 aliases: [/blog/lnds/2010/7/17/logico-y-razonable]

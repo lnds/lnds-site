@@ -4,6 +4,7 @@ date: 2008-06-27 22:26:00
 layout: post
 slug: '%c2%bfquien-se-anima-a-comprar-el-tld-chile'
 title: ¿Quién se anima a comprar el TLD .chile?
+authors: [admin]
 wordpress_id: 8
 categories:
 - Tecnología

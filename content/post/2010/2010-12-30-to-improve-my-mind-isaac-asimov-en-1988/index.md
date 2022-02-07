@@ -1,5 +1,6 @@
 ---
 title: "To Improve My Mind, Isaac Asimov en 1988"
+authors: [admin]
 date: 2010-12-31T08:25:11-03:00
 slug: "to-improve-my-mind-isaac-asimov-en-1988"
 tags: ["Isaac Asimov", "seguridad"]

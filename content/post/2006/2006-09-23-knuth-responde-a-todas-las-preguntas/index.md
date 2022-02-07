@@ -1,5 +1,6 @@
 ---
 title: "Knuth responde a todas las preguntas"
+authors: [admin]
 date: 2006-09-23T08:25:11-03:00
 slug: "knuth-responde-a-todas-las-preguntas"
 aliases: [/2006/09/knuth_responde_a_todas_las_preguntas.html]

@@ -1,5 +1,6 @@
 ---
 title: "¿Qué es un computador?"
+authors: [admin]
 date: 2018-12-09T08:25:11-03:00
 slug: "que-es-un-computador"
 aliases: [/blog/lnds/2018/12/9/que-es-un-computador]

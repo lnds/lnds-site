@@ -4,6 +4,7 @@ date: 2009-04-29 23:00:00
 layout: post
 slug: el-ritmo-de-la-decision
 title: El ritmo de la decisión
+authors: [admin]
 wordpress_id: 74
 categories:
 - Desarrollo

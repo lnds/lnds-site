@@ -1,5 +1,6 @@
 ---
 title: "Inteligencia Artificial Artificial"
+authors: [admin]
 date: 2005-11-04T08:25:11-03:00
 slug: "inteligencia-artificial-artificial"
 tags: ["inteligencia artificial"]

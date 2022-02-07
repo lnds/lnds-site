@@ -1,5 +1,6 @@
 ---
 title: "Los medios de comunicación y el control social "
+authors: [admin]
 date: 2011-01-30T08:25:11-03:00
 slug: "los-medios-de-comunicacion-y-el-control-social"
 draft: false

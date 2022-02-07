@@ -5,6 +5,7 @@ layout: post
 slug: libertad
 aliases: [/2006/02/libertad.html]
 title: LIBERTAD
+authors: [admin]
 wordpress_id: 1225
 categories:
 - Paradigmas

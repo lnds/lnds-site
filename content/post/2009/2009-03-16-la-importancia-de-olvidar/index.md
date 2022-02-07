@@ -4,6 +4,7 @@ date: 2009-03-16 23:32:24
 layout: post
 slug: la-importancia-de-olvidar
 title: La importancia de olvidar
+authors: [admin]
 wordpress_id: 281
 categories:
 - Paradigmas

@@ -1,5 +1,6 @@
 ---
 title: "Sobre MPPC"
+authors: [admin]
 date: 2005-08-13T08:25:11-03:00
 slug: "sobre-mppc"
 tags: ["MPPC", "mi primer pc"]

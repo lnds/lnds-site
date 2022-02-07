@@ -1,5 +1,6 @@
 ---
 title: "Mala Hortografía"
+authors: [admin]
 date: 2012-10-30T08:25:11-03:00
 slug: "mala-hortografia"
 tags: ["ortografía", "rant"]

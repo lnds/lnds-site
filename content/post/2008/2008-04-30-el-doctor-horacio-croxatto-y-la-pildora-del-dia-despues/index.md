@@ -2,6 +2,7 @@
 date: 2008-04-30 18:06:47
 layout: post
 title: "El Doctor Horacio Croxatto y la Pildora del Día Después "
+authors: [admin]
 comments: true
 ---
 

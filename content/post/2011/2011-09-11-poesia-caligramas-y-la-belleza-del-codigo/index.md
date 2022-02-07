@@ -1,5 +1,6 @@
 ---
 title: "Poesía, Caligramas y la Belleza del Código"
+authors: [admin]
 date: 2011-09-11T08:25:11-03:00
 slug: "poesia-caligramas-y-la-belleza-del-codigo"
 aliases: [/blog/2011/09/poesia-caligrama-y-la-belleza-del-codigo.html]

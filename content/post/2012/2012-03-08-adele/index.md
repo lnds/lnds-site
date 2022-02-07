@@ -1,5 +1,6 @@
 ---
 title: "Adele"
+authors: [admin]
 date: 2012-03-08T22:25:11-03:00
 slug: "origenes"
 tags: ["proceres", "Adele Goldberg", "citas"]

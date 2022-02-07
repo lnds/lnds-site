@@ -1,5 +1,6 @@
 ---
 title: "El Enigma de Turing"
+authors: [admin]
 date: 2012-06-24T08:25:11-03:00
 slug: "el-enigma-de-turing"
 aliases: [/blog/2012/06/el-enigma-de-turing.html]

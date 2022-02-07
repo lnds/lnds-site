@@ -4,6 +4,7 @@ date: 2007-08-20 23:21:20
 layout: post
 slug: el-tiempo-es-oro
 title: El tiempo es oro
+authors: [admin]
 wordpress_id: 1824
 ---
 

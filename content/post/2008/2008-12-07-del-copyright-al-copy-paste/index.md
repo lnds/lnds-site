@@ -4,6 +4,7 @@ date: 2008-12-07 10:07:00
 layout: post
 slug: del-copyright-al-copy-paste
 title: Del COPYRIGHT al COPY & PASTE
+authors: [admin]
 wordpress_id: 350
 categories:
 - Paradigmas

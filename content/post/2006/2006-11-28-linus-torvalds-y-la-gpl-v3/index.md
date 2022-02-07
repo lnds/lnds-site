@@ -1,5 +1,6 @@
 ---
 title: "Linus Torvalds y la GPL v3"
+authors: [admin]
 date: 2006-11-28T08:25:11-03:00
 slug: "linus-torvalds-y-la-gpl-v3"
 aliases: [/blog/2006/11/linus-torvalds-y-la-fsf.html]

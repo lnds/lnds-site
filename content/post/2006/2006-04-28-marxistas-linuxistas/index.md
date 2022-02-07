@@ -4,6 +4,7 @@ date: 2006-04-28 18:35:26
 layout: post
 slug: marxistas-linuxistas
 title: Marxistas Linuxistas!!
+authors: [admin]
 wordpress_id: 1740
 ---
 

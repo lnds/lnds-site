@@ -4,6 +4,7 @@ date: 2007-05-10 09:17:58
 layout: post
 slug: transantiago-sonda-demanda-y-es-contrademandada
 title: 'TranSantiago: Sonda demanda y es contrademandada'
+authors: [admin]
 wordpress_id: 1802
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "La respuesta"
+authors: [admin]
 date: 2011-11-16T08:25:11-03:00
 slug: "la-respuesta"
 tags: ['desafios', 'probabilidades', 'paradojas', 'Gödel']

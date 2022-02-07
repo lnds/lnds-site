@@ -5,6 +5,7 @@ layout: post
 slug: el-fabuloso-robot-arturito
 aliases: [/2005/10/el_fabuloso_rob.html]
 title: El Fabuloso Robot Arturito
+authors: [admin]
 wordpress_id: 158
 categories:
 - Credibilidad

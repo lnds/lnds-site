@@ -4,6 +4,7 @@ date: 2009-02-23 08:13:11
 layout: post
 slug: divulgacion
 title: Divulgación
+authors: [admin]
 wordpress_id: 292
 categories:
 - Humor

@@ -1,5 +1,6 @@
 ---
 title: "Lo estamos haciendo mal"
+authors: [admin]
 date: 2010-08-02T08:25:11-03:00
 slug: "lo-estamos-haciendo-mal"
 tags: ['tecnología', 'conocimiento']

@@ -4,6 +4,7 @@ date: 2006-09-07 00:10:55
 layout: post
 slug: graceful-degradation
 title: Graceful Degradation
+authors: [admin]
 wordpress_id: 333
 ---
 

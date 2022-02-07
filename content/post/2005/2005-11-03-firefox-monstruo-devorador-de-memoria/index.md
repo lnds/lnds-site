@@ -4,6 +4,7 @@ date: 2005-11-03 10:06:57
 layout: post
 slug: firefox_monstrui_devorador_de
 title: Firefox monstruo devorador de memoria
+authors: [admin]
 wordpress_id: 1575
 categories:
 - Internet

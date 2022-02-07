@@ -1,5 +1,6 @@
 ---
 title: "La Practica de la Programación"
+authors: [admin]
 date: 2007-07-12T08:25:11-03:00
 slug: "la-practica-de-la-programacion"
 aliases: [/2007/07/12/la-practica-de-la-programacion]

@@ -4,6 +4,7 @@ date: 2007-08-02 22:08:58
 layout: post
 slug: adios-chuquicamata
 title: Adios Chuquicamata
+authors: [admin]
 wordpress_id: 710
 categories:
 - Cultura

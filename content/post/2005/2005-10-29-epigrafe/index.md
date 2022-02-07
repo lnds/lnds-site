@@ -4,6 +4,7 @@ date: 2005-10-29 11:24:17
 layout: post
 slug: epigrafe
 title: Epigrafe
+authors: [admin]
 tags: ['citas']
 wordpress_id: 147
 ---

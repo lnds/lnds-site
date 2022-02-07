@@ -4,6 +4,7 @@ date: 2008-01-25 12:57:44
 layout: post
 slug: adios-holoceno-bienvenido-antropoceno
 title: Adios Holoceno, bienvenido Antropoceno
+authors: [admin]
 wordpress_id: 35
 categories:
 - Ciencia

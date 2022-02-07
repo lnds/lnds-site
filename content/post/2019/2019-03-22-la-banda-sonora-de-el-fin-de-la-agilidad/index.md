@@ -1,5 +1,6 @@
 ---
 title: "La Banda Sonora de El Fin de la Agilidad"
+authors: [admin]
 date: 2019-03-22T08:25:11-03:00
 slug: "la-banda-sonora-de-el-fin-de-la-agilidad"
 aliases: [/blog/lnds/2019/3/22/la-banda-sonora-de-el-fin-de-la-agilidad]

@@ -4,6 +4,7 @@ date: 2006-06-16 12:20:56
 layout: post
 slug: piratas-de-silicon-valley
 title: Piratas de Silicon Valley
+authors: [admin]
 wordpress_id: 329
 categories:
 - Opensource

@@ -1,5 +1,6 @@
 ---
 title: "Pérdida del Proceso"
+authors: [admin]
 date: 2018-07-23T08:25:11-03:00
 slug: "perdida-del-proceso"
 aliases: [/blog/lnds/2018/7/23/perdida-del-proceso]

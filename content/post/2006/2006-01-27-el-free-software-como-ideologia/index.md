@@ -1,5 +1,6 @@
 ---
 title: "El free software como ideología"
+authors: [admin]
 date: 2006-01-27T12:25:11-03:00
 slug: "el-free-software-como-ideologia"
 aliases: [/2006/01/el-free-software-como-ideologia.html]

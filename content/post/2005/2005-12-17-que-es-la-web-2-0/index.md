@@ -4,6 +4,7 @@ date: 2005-12-17 11:11:48
 layout: post
 slug: que-es-la-web-2-0
 title: Qué es la Web 2.0
+authors: [admin]
 wordpress_id: 2038
 categories:
 - Internet

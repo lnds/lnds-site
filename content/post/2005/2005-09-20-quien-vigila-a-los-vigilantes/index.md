@@ -4,6 +4,7 @@ date: 2005-09-20 15:11:34
 layout: post
 slug: 'quien-vigila-a-los-vigilantes'
 title: ¿Quién Vigila a los Vigilantes?
+authors: [admin]
 wordpress_id: 1466
 ---
 

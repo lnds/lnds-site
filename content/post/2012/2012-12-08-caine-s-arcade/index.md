@@ -1,5 +1,6 @@
 ---
 title: "Caine's Arcade"
+authors: [admin]
 date: 2012-12-08T08:25:11-03:00
 slug: "caine-s-arcade"
 tags: ["ingenio", "felicidad"]

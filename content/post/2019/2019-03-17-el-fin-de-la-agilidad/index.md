@@ -1,5 +1,6 @@
 ---
 title: "El Fin de la Agilidad"
+authors: [admin]
 subtitle: "Parte 1: Grunge"
 date: 2019-03-17T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

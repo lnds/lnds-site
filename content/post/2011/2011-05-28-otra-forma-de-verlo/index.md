@@ -1,5 +1,6 @@
 ---
 title: "Otra forma de verlo"
+authors: [admin]
 date: 2011-05-28T08:25:11-03:00
 slug: "el-tiempo-no-es-oro"
 draft: false

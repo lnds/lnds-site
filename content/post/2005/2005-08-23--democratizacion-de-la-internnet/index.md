@@ -1,5 +1,6 @@
 ---
 title: "¿Democratización de la internet?"
+authors: [admin]
 date: 2005-08-23T18:25:11-03:00
 slug: "democratizacion-de-la-internet"
 tags: ["internet", "democracia"]

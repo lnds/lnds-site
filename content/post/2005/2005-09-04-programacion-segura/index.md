@@ -1,5 +1,6 @@
 ---
 title: "Programación segura"
+authors: [admin]
 date: 2005-09-04T08:50:11-03:00
 slug: "programacion-segura"
 tags: ["seguridad", "progrmación"]

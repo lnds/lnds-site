@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "La Crueldad de Schrodinger"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

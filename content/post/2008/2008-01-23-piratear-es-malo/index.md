@@ -4,6 +4,7 @@ date: 2008-01-23 22:58:31
 layout: post
 slug: piratear-es-malo
 title: Piratear es malo
+authors: [admin]
 wordpress_id: 36
 categories:
 - Humor

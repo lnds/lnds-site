@@ -4,6 +4,7 @@ date: 2005-10-14 22:29:27
 layout: post
 slug: ya-basta-de-arturito
 title: Ya basta de Arturito
+authors: [admin]
 wordpress_id: 151
 categories:
 - Credibilidad

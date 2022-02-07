@@ -4,6 +4,7 @@ date: 2006-11-19 19:27:40
 layout: post
 slug: hot-rods
 title: Hot Rods
+authors: [admin]
 wordpress_id: 1298
 categories:
 - Cultura

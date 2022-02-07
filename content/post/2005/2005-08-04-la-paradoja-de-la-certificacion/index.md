@@ -1,5 +1,6 @@
 ---
 title: "La Paradoja de la certificación"
+authors: [admin]
 date: 2005-08-04T21:25:11-03:00
 slug: "la-paradoja-de-la-certificacion"
 tags: ["certificación", "paradojas"]

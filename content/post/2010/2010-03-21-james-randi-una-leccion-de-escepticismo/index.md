@@ -1,5 +1,6 @@
 ---
 title: "James Randi, una lección de escepticismo"
+authors: [admin]
 date: 2010-05-23T18:25:11-03:00
 slug: "james-randi-una-lección-de-escepticismo"
 aliases: [/blog/2010/03/james-randi-una-leccion-de-escepticismo.html]

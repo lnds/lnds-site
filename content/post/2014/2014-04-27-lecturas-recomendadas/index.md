@@ -1,5 +1,6 @@
 ---
 title: "Lecturas Recomendadas"
+authors: [admin]
 date: 2014-04-27T08:25:11-03:00
 slug: "lecturas-recomendadas"
 draft: false

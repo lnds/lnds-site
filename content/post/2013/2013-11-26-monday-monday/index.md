@@ -1,5 +1,6 @@
 ---
 title: "Monday, Monday"
+authors: [admin]
 date: 2013-11-26T08:25:11-03:00
 slug: "monday-monday"
 tags: ["e-commerce"]

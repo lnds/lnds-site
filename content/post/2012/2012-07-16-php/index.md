@@ -1,5 +1,6 @@
 ---
 title: "PHP"
+authors: [admin]
 date: 2012-07-16T22:25:11-03:00
 slug: "php"
 tags: ["lenguajes de programación", "php"]

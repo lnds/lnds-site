@@ -4,6 +4,7 @@ date: 2005-10-05 14:38:17
 layout: post
 slug: mirmecologia-con-google-earth
 title: Mirmecologia con Google Earth
+authors: [admin]
 wordpress_id: 159
 categories:
 - Sin categoría

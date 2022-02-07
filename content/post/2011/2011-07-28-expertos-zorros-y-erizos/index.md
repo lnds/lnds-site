@@ -1,5 +1,6 @@
 ---
 title: "Expertos, zorros y erizos"
+authors: [admin]
 date: 2011-07-28T08:25:11-03:00
 slug: "expertos-zorros-y-erizos"
 tags: ['sociología', 'predicciones', 'probabilidades']

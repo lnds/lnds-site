@@ -4,6 +4,7 @@ date: 2008-08-26 14:35:37
 layout: post
 slug: sobre-tic
 title: Sobre TIC
+authors: [admin]
 wordpress_id: 787
 ---
 

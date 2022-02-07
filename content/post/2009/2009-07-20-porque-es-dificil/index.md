@@ -4,6 +4,7 @@ date: 2009-07-20 21:26:12
 layout: post
 slug: porque-es-dificil
 title: Porque es dificil...
+authors: [admin]
 wordpress_id: 250
 categories:
 - Ciencia

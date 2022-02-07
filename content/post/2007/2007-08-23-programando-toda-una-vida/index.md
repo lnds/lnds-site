@@ -4,6 +4,7 @@ date: 2007-08-23 22:34:06
 layout: post
 slug: programando-toda-una-vida
 title: Programando toda una vida
+authors: [admin]
 wordpress_id: 1838
 ---
 

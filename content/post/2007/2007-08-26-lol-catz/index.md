@@ -1,5 +1,6 @@
 ---
 title: "Lol Catz"
+authors: [admin]
 date: 2007-08-26T08:25:11-03:00
 slug: "lol-cats"
 aliases: [/2007/08/lol_catz.html]

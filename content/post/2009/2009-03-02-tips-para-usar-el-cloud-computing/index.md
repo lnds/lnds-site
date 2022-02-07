@@ -1,5 +1,6 @@
 ---
 title: "Tips para usar el cloud computing"
+authors: [admin]
 date: 2010-12-04T18:25:11-03:00
 slug: "tips-para-usar-el-cloud-computing"
 aliases: [/blog/2009/03/tips-para-usar-el-cloud-computing.html]

@@ -1,5 +1,6 @@
 ---
 title: "Neil Armstrong"
+authors: [admin]
 date: 2012-08-26T12:25:11-03:00
 slug: "neil-armstrong"
 tags: ["historia", "héroes", "Neil Armstrong"]

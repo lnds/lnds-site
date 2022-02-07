@@ -4,6 +4,7 @@ date: 2008-08-17 23:27:42
 layout: post
 slug: la-anatomia-de-la-web
 title: La Anatomía de la Web
+authors: [admin]
 wordpress_id: 784
 categories:
 - Internet

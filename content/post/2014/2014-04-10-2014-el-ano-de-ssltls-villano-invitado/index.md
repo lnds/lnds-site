@@ -1,5 +1,6 @@
 ---
 title: "2014, ¿el año de SSL/TLS? (villano invitado)"
+authors: [admin]
 date: 2014-04-10T08:25:11-03:00
 slug: "el-ano-de-ssltls-villano-invitado"
 aliases: [/blog/lnds/2014/4/10/el-ano-de-ssltls-villano-invitado]

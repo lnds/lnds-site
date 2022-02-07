@@ -4,6 +4,7 @@ date: 2009-02-24 17:29:00
 layout: post
 slug: los-riesgos-de-la-nube
 title: Los riesgos de la nube
+authors: [admin]
 wordpress_id: 291
 categories:
 - Credibilidad

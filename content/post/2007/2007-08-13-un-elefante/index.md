@@ -4,6 +4,7 @@ date: 2007-08-13 21:24:05
 layout: post
 slug: un-elefante
 title: Un Elefante
+authors: [admin]
 wordpress_id: 1815
 ---
 

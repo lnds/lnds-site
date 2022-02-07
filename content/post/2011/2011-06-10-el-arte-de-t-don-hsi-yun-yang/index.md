@@ -1,5 +1,6 @@
 ---
 title: "El Arte de Don Hsi-Yun Yang"
+authors: [admin]
 date: 2011-06-10T08:25:11-03:00
 slug: "el-arte-de-t-don-hsi-yun-yang"
 draft: false

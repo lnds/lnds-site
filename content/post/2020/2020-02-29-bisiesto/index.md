@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Bisiesto"
+authors: [admin]
 subtitle: "Retomando transmisiones"
 summary: ""
 authors: [admin]

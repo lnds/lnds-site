@@ -1,5 +1,6 @@
 ---
 title: "Adiós Pin Pón"
+authors: [admin]
 date: 2009-02-06T08:25:11-03:00
 slug: "adios-pin-pon"
 aliases: [/blog/2009/02/adios-pin-pon.html]

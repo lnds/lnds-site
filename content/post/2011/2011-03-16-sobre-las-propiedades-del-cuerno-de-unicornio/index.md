@@ -1,5 +1,6 @@
 ---
 title: "Sobre las propiedades del cuerno de unicornio"
+authors: [admin]
 date: 2011-03-16T08:25:11-03:00
 slug: "sobre-las-propiedades-del-cuerno-de-unicornio"
 aliases: [/blog/2011/03/sobre-las-propiedades-del-cuerno-de-unicornio.html]

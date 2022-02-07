@@ -5,6 +5,7 @@ layout: post
 slug: el-amor
 aliases: [/2009/03/el-amor.html]
 title: El Amor
+authors: [admin]
 wordpress_id: 86
 categories:
 - General

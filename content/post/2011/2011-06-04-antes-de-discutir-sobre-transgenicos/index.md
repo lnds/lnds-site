@@ -1,5 +1,6 @@
 ---
 title: "Antes de discutir sobre transgénicos"
+authors: [admin]
 date: 2011-06-04T08:25:11-03:00
 slug: "antes-de-discutir-sobre-transgénicos"
 draft: false

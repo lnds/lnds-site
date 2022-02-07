@@ -4,6 +4,7 @@ date: 2006-07-10 17:03:39
 layout: post
 slug: errazuriz-y-gonzales
 title: Errázuriz y Gonzalez
+authors: [admin]
 wordpress_id: 2081
 categories:
 - La Brecha Intelectual

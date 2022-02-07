@@ -1,5 +1,6 @@
 ---
 title: "Valores por defecto"
+authors: [admin]
 date: 2011-06-29T08:25:11-03:00
 slug: "valores-por-defecto"
 aliases: [/blog/lnds/2011/6/29/valores-por-defecto]

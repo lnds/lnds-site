@@ -1,5 +1,6 @@
 ---
 title: "¿Para qué necesitas mi clave de Twitter?"
+authors: [admin]
 date: 2009-01-07T08:25:11-03:00
 slug: "para-que-necesitas-mi-clave-de-twitter"
 aliases: [/2009/01/para-que-necesitas-mi-clave-de-twitter.html]

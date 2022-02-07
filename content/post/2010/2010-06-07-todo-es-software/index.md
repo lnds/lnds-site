@@ -1,5 +1,6 @@
 ---
 title: "Todo es software"
+authors: [admin]
 date: 2012-05-18T08:25:11-03:00
 slug: "todo-es-software"
 aliases: [/blog/2010/06/todo-es-software.html]

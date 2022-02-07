@@ -1,5 +1,6 @@
 ---
 title: "Latencia (seguimos reciclando)"
+authors: [admin]
 date: 2009-03-06T08:25:11-03:00
 slug: "latencia-seguimos-reciclando"
 aliases: [/blog/2009/03/latencia-seguimos-reciclando.html]

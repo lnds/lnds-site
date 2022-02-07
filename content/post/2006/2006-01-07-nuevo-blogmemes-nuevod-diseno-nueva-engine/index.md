@@ -4,6 +4,7 @@ date: 2006-01-07 17:12:23
 layout: post
 slug: nuevo-blogmemes-nuevod-diseno-nueva-engine
 title: Nuevo BlogMemes, Nuevod Diseño, Nueva Engine
+authors: [admin]
 wordpress_id: 2046
 tags:
 - blogmemes

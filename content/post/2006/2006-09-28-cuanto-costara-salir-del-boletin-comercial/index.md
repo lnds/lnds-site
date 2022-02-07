@@ -5,6 +5,7 @@ layout: post
 slug: 'cuanto-costara-salir-del-boletin-comercial'
 aliases: [/2006/09/cuanto_costar_salir_del_boletn_comercial.html]
 title: ¿Cuanto costará salir del Boletín Comercial?
+authors: [admin]
 wordpress_id: 332
 ---
 

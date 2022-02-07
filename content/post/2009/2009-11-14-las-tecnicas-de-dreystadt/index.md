@@ -4,6 +4,7 @@ date: 2009-11-14 08:49:52
 layout: post
 slug: las-tecnicas-de-dreystadt
 title: Las Técnicas de Dreystadt
+authors: [admin]
 wordpress_id: 227
 categories:
 - Emprendimiento

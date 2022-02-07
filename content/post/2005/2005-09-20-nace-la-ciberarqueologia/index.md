@@ -2,6 +2,7 @@
 date: 2005-09-20 18:06:47
 layout: post
 title: "Nace la ciberarqueología"
+authors: [admin]
 comments: true
 ---
 

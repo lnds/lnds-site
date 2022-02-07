@@ -1,5 +1,6 @@
 ---
 title: "Protección y Empoderamiento"
+authors: [admin]
 date: 2011-08-25T08:25:11-03:00
 slug: "proteccion-y-empoderamiento"
 tags: ['ética', 'política']

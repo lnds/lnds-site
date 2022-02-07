@@ -1,5 +1,6 @@
 ---
 title: "¿Es Buena Idea Publicar el Padrón Electoral? "
+authors: [admin]
 date: 2012-08-21T12:25:11-03:00
 slug: "es-buena-idea-publicar-el-padron-electoral"
 tags: ["privacidad", "política", "Chile"]

@@ -1,5 +1,6 @@
 ---
 title: "Nada"
+authors: [admin]
 date: 2009-03-13T08:25:11-03:00
 slug: "nada"
 aliases: [/blog/2009/03/nada.html, /2009/03/nada.html]

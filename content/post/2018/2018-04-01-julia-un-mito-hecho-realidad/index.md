@@ -1,5 +1,6 @@
 ---
 title: "Julia: ¿Un mito hecho realidad?"
+authors: [admin]
 date: 2018-04-01T08:25:11-03:00
 slug: "julia-un-mito-hecho-realidad"
 aliases: [/blog/lnds/2018/4/1/julia-un-mito-hecho-realidad]

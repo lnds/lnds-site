@@ -5,6 +5,7 @@ layout: post
 slug: '42'
 aliases: [/2008/07/42.html]
 title: '42'
+authors: [admin]
 wordpress_id: 688
 categories:
 - Credibilidad

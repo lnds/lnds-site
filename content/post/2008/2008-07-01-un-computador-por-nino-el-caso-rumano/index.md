@@ -4,6 +4,7 @@ date: 2008-07-01 22:36:15
 layout: post
 slug: un-computador-por-nino-el-caso-rumano
 title: Un computador por Niño, el caso rumano
+authors: [admin]
 wordpress_id: 394
 categories:
 - Educación

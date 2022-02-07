@@ -1,5 +1,6 @@
 ---
 title: "¿Google, es bueno o malo?"
+authors: [admin]
 date: 2005-08-23T22:25:11-03:00
 slug: "google-es-bueno-o-malo"
 aliases: [/blog/2005/08/google_es_bueno.html]

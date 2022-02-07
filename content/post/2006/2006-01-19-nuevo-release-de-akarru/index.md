@@ -4,6 +4,7 @@ date: 2006-01-19 11:50:00
 layout: post
 slug: nuevo-release-de-akarru
 title: Nuevo release de akarru
+authors: [admin]
 wordpress_id: 2054
 categories:
 - Emprendimiento

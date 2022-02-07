@@ -1,5 +1,6 @@
 ---
 title: "¿Y si lo hacemos más divertido?"
+authors: [admin]
 date: 2010-04-22T08:25:11-03:00
 slug: "y-si-lo-hacemos-mas-divertido"
 tags: ['Apple', 'moral', 'ética', 'tecnología']

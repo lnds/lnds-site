@@ -4,6 +4,7 @@ date: 2009-04-18 11:06:49
 layout: post
 slug: no-te-rindas
 title: No te rindas
+authors: [admin]
 wordpress_id: 80
 categories:
 - General

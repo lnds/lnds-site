@@ -4,6 +4,7 @@ date: 2006-09-25 22:25:18
 layout: post
 slug: knuth-y-el-papel
 title: Knuth y el papel
+authors: [admin]
 wordpress_id: 1758
 ---
 

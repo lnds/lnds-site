@@ -4,6 +4,7 @@ date: 2006-05-01 13:42:24
 layout: post
 slug: oh-no-ahora-es-la-tercera
 title: Oh no !, ahora es La Tercera
+authors: [admin]
 wordpress_id: 2075
 ---
 

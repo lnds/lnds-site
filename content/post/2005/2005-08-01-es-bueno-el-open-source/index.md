@@ -1,5 +1,6 @@
 ---
 title: "¿Es bueno el Open Source?"
+authors: [admin]
 date: 2005-08-01T18:25:11-03:00
 slug: "es-bueno-el-open-source"
 draft: false

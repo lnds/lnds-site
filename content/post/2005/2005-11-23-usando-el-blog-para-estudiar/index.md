@@ -4,6 +4,7 @@ date: 2005-11-23 12:32:41
 layout: post
 slug: usando-el-blog-para-estudiar
 title: Usando el blog para estudiar
+authors: [admin]
 wordpress_id: 2008
 categories:
 - Credibilidad

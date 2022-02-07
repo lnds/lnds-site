@@ -4,6 +4,7 @@ date: 2009-05-14 22:37:23
 layout: post
 slug: '%c2%bfla-naturaleza-del-software-en-chino'
 title: ¿La naturaleza del software en chino?
+authors: [admin]
 wordpress_id: 269
 categories:
 - General

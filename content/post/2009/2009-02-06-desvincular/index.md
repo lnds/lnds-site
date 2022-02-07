@@ -4,6 +4,7 @@ date: 2009-02-06 19:03:33
 layout: post
 slug: desvincular
 title: Desvincular
+authors: [admin]
 wordpress_id: 299
 categories:
 - Humor

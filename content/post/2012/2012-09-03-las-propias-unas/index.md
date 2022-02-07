@@ -1,5 +1,6 @@
 ---
 title: "Las propias uñas"
+authors: [admin]
 date: 2012-09-03T12:25:11-03:00
 slug: "las-propias-unas"
 tags: ["aniversario", "villano invitado"]

@@ -4,6 +4,7 @@ date: 2009-10-22 13:01:57
 layout: post
 slug: la-naturaleza-del-software-segun-octavio-paz
 title: La naturaleza del software, según Octavio Paz
+authors: [admin]
 wordpress_id: 230
 categories:
 - La Naturaleza del Software

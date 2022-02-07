@@ -1,5 +1,6 @@
 ---
 title: "Novedades Radicales"
+authors: [admin]
 date: 2010-01-15T08:25:11-03:00
 slug: "novedades-radicales"
 tags: ['ciencia', 'computación', 'software', 'analogías']

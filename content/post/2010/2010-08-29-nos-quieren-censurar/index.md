@@ -1,5 +1,6 @@
 ---
 title: "Nos quieren censurar"
+authors: [admin]
 date: 2010-08-29T18:25:11-03:00
 slug: "nos-quieren-censurar"
 tags: ['software libre', 'correlaciones', 'sesgos']

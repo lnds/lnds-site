@@ -1,5 +1,6 @@
 ---
 title: "Herramientas"
+authors: [admin]
 date: 2013-02-22T08:25:11-03:00
 slug: "herramientas"
 aliases: [/blog/2013/02/herramientas.html]

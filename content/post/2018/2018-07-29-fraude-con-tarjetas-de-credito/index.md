@@ -1,5 +1,6 @@
 ---
 title: "Fraude con tarjetas de crédito"
+authors: [admin]
 date: 2018-07-29T08:25:11-03:00
 slug: "fraude-con-tarjetas-de-credito"
 aliases: [/blog/lnds/2018/7/29/fraude-con-tarjetas-de-credito]

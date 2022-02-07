@@ -1,5 +1,6 @@
 ---
 title: "¿De Donde Saca el Tiempo la Gente?"
+authors: [admin]
 date: 2008-06-03T08:25:11-03:00
 slug: "de-donde-saca-el-tiempo-la-gente"
 aliases: [/2008/06/de-donde-saca-el-tiempo-la-gente.html]

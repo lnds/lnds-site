@@ -4,6 +4,7 @@ date: 2005-10-14 04:00:44
 layout: post
 slug: arturito-desprestigiado
 title: Arturito desprestigiado
+authors: [admin]
 wordpress_id: 152
 categories:
 - Credibilidad

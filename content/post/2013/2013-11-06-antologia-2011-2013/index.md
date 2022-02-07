@@ -1,5 +1,6 @@
 ---
 title: "Antología 2011-2013"
+authors: [admin]
 date: 2013-11-06T08:25:11-03:00
 slug: "antologia-2011-2013"
 tags: ["antología"]

@@ -1,5 +1,6 @@
 ---
 title: "¿Es más seguro .Net que Java?"
+authors: [admin]
 date: 2010-06-01T08:25:11-03:00
 slug: "es-mas-seguro-net-que-java"
 tags: ['tecnología', 'seguridad', 'java', '.net']

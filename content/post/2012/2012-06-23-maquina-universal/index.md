@@ -1,5 +1,6 @@
 ---
 title: "Máquina Universal"
+authors: [admin]
 date: 2012-06-23T08:25:11-03:00
 slug: "maquina-universal"
 tags: ["Alan Turing", "historia", "computación"]

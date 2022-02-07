@@ -1,5 +1,6 @@
 ---
 title: "El desafío del nuevo ludita"
+authors: [admin]
 date: 2009-05-22T08:25:11-03:00
 slug: "el-desafio-del-nuevo-ludita"
 aliases: [/2009/05/el-desafio-del-nuevo-ludita.html]

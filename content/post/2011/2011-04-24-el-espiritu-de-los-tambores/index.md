@@ -1,5 +1,6 @@
 ---
 title: "El espíritu de los tambores"
+authors: [admin]
 date: 2011-04-24T08:25:11-03:00
 slug: "el-espiritu-de-los-tambores"
 draft: false

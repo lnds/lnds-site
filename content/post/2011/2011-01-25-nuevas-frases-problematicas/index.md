@@ -1,5 +1,6 @@
 ---
 title: "Nuevas Frases problemáticas"
+authors: [admin]
 date: 2011-01-25T08:25:11-03:00
 slug: "nuevas-frases-problematicas"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Leer es sanar"
+authors: [admin]
 date: 2012-02-29T23:25:11-03:00
 slug: "leer-es-sanar"
 tags: ["leer", "cultura"]

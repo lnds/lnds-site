@@ -1,5 +1,6 @@
 ---
 title: "El botón de los 300 millones de dólares"
+authors: [admin]
 subtitle: "o porqué la UX importa"
 date: 2017-07-23T08:25:11-03:00
 slug: "el-boton-de-los-300-millones-de-dolares"

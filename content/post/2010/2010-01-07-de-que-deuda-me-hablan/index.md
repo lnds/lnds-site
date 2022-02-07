@@ -1,5 +1,6 @@
 ---
 title: "¿De que deuda me hablan?"
+authors: [admin]
 date: 2010-01-07T08:25:11-03:00
 slug: "de-que-deuda-me-hablan"
 aliases: [/blog/2010/01/de-que-deuda-me-hablan.html]

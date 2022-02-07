@@ -1,5 +1,6 @@
 ---
 title: "Cuando abierto en realidad significa cerrado"
+authors: [admin]
 date: 2010-04-21T18:25:11-03:00
 slug: "cuando-abierto-en-realidad-significa-cerrado"
 aliases: [/blog/2010/04/cuando-abierto-en-realidad-significa-cerrado.html]

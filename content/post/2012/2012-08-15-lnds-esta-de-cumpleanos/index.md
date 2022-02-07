@@ -1,5 +1,6 @@
 ---
 title: "LNDS Está de Cumpleaños!"
+authors: [admin]
 date: 2012-08-15T22:25:11-03:00
 slug: "lnds-está-de-cumpleanos"
 tags: ["aniversario", "blogging", "villano invitado"]

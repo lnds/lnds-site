@@ -4,6 +4,7 @@ date: 2008-01-23 18:10:48
 layout: post
 slug: ingenieria-de-software-y-las-piramides
 title: Ingeniería de Software y las Pirámides
+authors: [admin]
 wordpress_id: 37
 categories:
 - La Naturaleza del Software

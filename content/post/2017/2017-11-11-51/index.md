@@ -1,5 +1,6 @@
 ---
 title: "51"
+authors: [admin]
 date: 2017-11-11T08:25:11-03:00
 slug: "51"
 draft: false

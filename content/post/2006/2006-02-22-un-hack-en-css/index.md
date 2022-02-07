@@ -4,6 +4,7 @@ date: 2006-02-22 10:27:48
 layout: post
 slug: un-hack-en-css
 title: Un hack en css
+authors: [admin]
 wordpress_id: 2056
 categories:
 - Internet

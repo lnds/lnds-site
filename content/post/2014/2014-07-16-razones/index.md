@@ -1,5 +1,6 @@
 ---
 title: "Razones"
+authors: [admin]
 subtitle: "El origen de Prosa"
 date: 2014-07-16T08:25:11-03:00
 slug: "razones"

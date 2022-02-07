@@ -4,6 +4,7 @@ date: 2007-08-20 20:16:35
 layout: post
 slug: 'por-que-falla-el-software'
 title: ¿Por qué falla el Software?
+authors: [admin]
 wordpress_id: 1826
 ---
 

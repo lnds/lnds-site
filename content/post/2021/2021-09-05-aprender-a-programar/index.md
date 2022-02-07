@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Cómo aprender a programar en un nuevo Lenguaje"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

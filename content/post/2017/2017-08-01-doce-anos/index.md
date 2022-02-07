@@ -1,5 +1,6 @@
 ---
 title: "Doce años"
+authors: [admin]
 date: 2017-08-01T08:25:11-03:00
 slug: "doce-anos"
 draft: false

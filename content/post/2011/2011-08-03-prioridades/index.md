@@ -1,5 +1,6 @@
 ---
 title: "Prioridades"
+authors: [admin]
 date: 2011-08-03T08:25:11-03:00
 slug: "prioridades"
 tags: ['sociología', 'sicología', 'engaños', 'economía']

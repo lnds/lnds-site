@@ -1,5 +1,6 @@
 ---
 title: "StartechConf 2013"
+authors: [admin]
 date: 2013-10-26T08:25:11-03:00
 slug: "startechconf-2013"
 tags: ["charlas", "startechconf"]

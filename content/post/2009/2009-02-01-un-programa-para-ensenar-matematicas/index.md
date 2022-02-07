@@ -1,5 +1,6 @@
 ---
 title: "Un programa para enseñar matemáticas"
+authors: [admin]
 date: 2009-02-01T08:25:11-03:00
 slug: "un-programa-para-enseñar-matematicas"
 aliases: [/blog/2009/02/un-programa-para-ensenar-matematicas.html]

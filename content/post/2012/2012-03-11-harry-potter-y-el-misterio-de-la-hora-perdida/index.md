@@ -1,5 +1,6 @@
 ---
 title: "Harry Potter y el misterio de la hora perdida"
+authors: [admin]
 date: 2012-03-11T22:25:11-03:00
 slug: "harry-potter-y-el-misterio-de-la-hora-perdida"
 tags: ["hora", "coordinación", "política"]

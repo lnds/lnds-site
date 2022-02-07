@@ -1,5 +1,6 @@
 ---
 title: "El copyright del Silencio"
+authors: [admin]
 date: 2009-02-05T08:25:11-03:00
 slug: "el-copyright-del-silencio"
 aliases: [/blog/2009/02/el-copyright-del-silencio.html]

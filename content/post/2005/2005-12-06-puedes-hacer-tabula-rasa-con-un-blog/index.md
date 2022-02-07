@@ -4,6 +4,7 @@ date: 2005-12-06 17:11:59
 layout: post
 slug: '%c2%bfpuedes-hacer-tabula-rasa-con-un-blog'
 title: ¿Puedes Hacer Tabula Rasa con un Blog?
+authors: [admin]
 wordpress_id: 1496
 ---
 

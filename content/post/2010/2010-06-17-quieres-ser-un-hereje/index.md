@@ -1,5 +1,6 @@
 ---
 title: "¿Quieres ser un hereje?"
+authors: [admin]
 date: 2010-06-17T08:25:11-03:00
 slug: "quieres-ser-un-hereje"
 aliases: [/blog/2010/06/quieres-ser-un-hereje.html]

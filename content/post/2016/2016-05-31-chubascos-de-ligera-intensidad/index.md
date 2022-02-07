@@ -1,5 +1,6 @@
 ---
 title: "Chubascos de ligera intensidad"
+authors: [admin]
 subtile: "9 desafíos en 9 lenguajes  (2 de 9, segunda parte)"
 date: 2016-05-31T08:25:11-03:00
 slug: "chubascos-de-ligera-intensidad"

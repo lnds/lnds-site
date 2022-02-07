@@ -1,5 +1,6 @@
 ---
 title: "El rol moral de Apple"
+authors: [admin]
 date: 2010-04-26T08:25:11-03:00
 slug: "el-rol-moral-de-apple"
 tags: ['Apple', 'moral', 'ética', 'tecnología']

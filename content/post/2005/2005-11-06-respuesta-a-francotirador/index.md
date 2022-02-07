@@ -4,6 +4,7 @@ date: 2005-11-06 19:34:51
 layout: post
 slug: respuesta-a-francotirador
 title: Respuesta a Francotirador
+authors: [admin]
 wordpress_id: 178
 categories:
 - Credibilidad

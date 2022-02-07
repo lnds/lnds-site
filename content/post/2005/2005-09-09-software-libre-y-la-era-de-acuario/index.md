@@ -1,5 +1,6 @@
 ---
 title: "Software libre y la era de acuario"
+authors: [admin]
 date: 2005-09-09T08:50:11-03:00
 slug: "software-libre-y-la-era-de-acuario"
 aliases: [/2005/09/software_libre_y_la_era_de_acu.html]

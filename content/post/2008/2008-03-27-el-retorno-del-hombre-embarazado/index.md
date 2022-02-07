@@ -4,6 +4,7 @@ date: 2008-03-27 22:34:55
 layout: post
 slug: el-retorno-del-hombre-embarazado
 title: El Retorno del Hombre Embarazado
+authors: [admin]
 wordpress_id: 59
 categories:
 - Credibilidad

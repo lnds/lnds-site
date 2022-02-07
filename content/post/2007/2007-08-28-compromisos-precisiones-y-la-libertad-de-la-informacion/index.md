@@ -4,6 +4,7 @@ date: 2007-08-28 22:28:04
 layout: post
 slug: compromisos-precisiones-y-la-libertad-de-la-informacion
 title: Compromisos, precisiones y la libertad de la información
+authors: [admin]
 wordpress_id: 1841
 ---
 

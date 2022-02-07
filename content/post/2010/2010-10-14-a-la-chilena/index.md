@@ -1,5 +1,6 @@
 ---
 title: "A la chilena"
+authors: [admin]
 date: 2010-12-17T08:25:11-03:00
 slug: "a-la-chilena"
 aliases: [/blog/2010/10/a-la-chilena.html]

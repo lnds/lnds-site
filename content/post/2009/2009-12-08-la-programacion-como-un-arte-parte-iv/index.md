@@ -1,5 +1,6 @@
 ---
 title: "La programación como un Arte (Parte IV)"
+authors: [admin]
 date: 2009-12-08T08:25:11-03:00
 slug: "la-programacion-como-un-arte-parte-iv"
 aliases: [/2009/12/la-programacion-como-un-arte-parte-iv.html]

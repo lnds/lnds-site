@@ -1,5 +1,6 @@
 ---
 title: "Un Test Más Dificil"
+authors: [admin]
 date: 2011-01-05T08:25:11-03:00
 slug: "un-test-mas-dificil"
 tags: ["desafío", "innovación", "Alan Kay"]

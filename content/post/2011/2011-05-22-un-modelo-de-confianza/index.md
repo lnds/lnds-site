@@ -1,5 +1,6 @@
 ---
 title: "Un modelo de confianza"
+authors: [admin]
 date: 2011-05-22T08:25:11-03:00
 slug: "un-modelo-de-confianza"
 tags: ["confianza"]

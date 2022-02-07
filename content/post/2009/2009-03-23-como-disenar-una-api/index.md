@@ -1,5 +1,6 @@
 ---
 title: "Cómo diseñar una API"
+authors: [admin]
 date: 2009-03-20T18:25:11-03:00
 slug: "como-diseñar-una-api"
 aliases: [/blog/2009/03/como-disenar-una-api.html]

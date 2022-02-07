@@ -1,5 +1,6 @@
 ---
 title: "El Software Libre no es amenaza"
+authors: [admin]
 date: 2007-08-17T08:25:11-03:00
 slug: "el-software-libre-no-es-amenaza"
 aliases: [/blog/lnds/2007/8/17/el-software-libre-no-es-amenaza, /2007/08/el-software-libre-no-es-amenaza.html]

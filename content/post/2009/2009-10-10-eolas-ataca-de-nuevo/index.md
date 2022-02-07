@@ -4,6 +4,7 @@ date: 2009-10-10 14:47:00
 layout: post
 slug: eolas-ataca-de-nuevo
 title: Eolas ataca de nuevo
+authors: [admin]
 wordpress_id: 234
 categories:
 - La Brecha Intelectual

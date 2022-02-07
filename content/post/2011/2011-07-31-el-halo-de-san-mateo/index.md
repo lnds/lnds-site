@@ -1,5 +1,6 @@
 ---
 title: "El Halo de San Mateo"
+authors: [admin]
 date: 2011-07-31T08:25:11-03:00
 slug: "el-halo-de-san-mateo"
 tags: ['sociología', 'sicología', 'engaños', 'economía']

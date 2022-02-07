@@ -1,5 +1,6 @@
 ---
 title: "La Paradoja de Pinocho y el Origen de la Computación"
+authors: [admin]
 date: 2010-11-09T08:25:11-03:00
 aliases: [/blog/2010/11/la-paradoja-de-pinocho-y-el-origen-de-la-computacion.html]
 slug: "la-paradoja-de-pinocho-y-el-origen-de-la-computacion"

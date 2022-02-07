@@ -4,6 +4,7 @@ date: 2009-09-05 22:39:46
 layout: post
 slug: el-arte-de-no-leer
 title: El arte de no leer
+authors: [admin]
 wordpress_id: 210
 categories:
 - Cultura

@@ -1,5 +1,6 @@
 ---
 title: "I'm back!"
+authors: [admin]
 date: 2014-03-07T08:25:11-03:00
 slug: "im-back"
 aliases: [/blog/lnds/2014/3/7/im-back]

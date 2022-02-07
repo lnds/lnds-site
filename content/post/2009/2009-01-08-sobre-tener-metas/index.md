@@ -4,6 +4,7 @@ date: 2009-01-08 16:47:07
 layout: post
 slug: sobre-tener-metas
 title: Sobre tener metas
+authors: [admin]
 wordpress_id: 315
 ---
 

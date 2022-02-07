@@ -1,5 +1,6 @@
 ---
 title: "Adhoccracia 2"
+authors: [admin]
 date: 2005-08-19T18:25:11-03:00
 slug: "adhoccracia-2"
 tags: ["adhoccracia", "MPPC", "política"]

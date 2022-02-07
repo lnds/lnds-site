@@ -1,5 +1,6 @@
 ---
 title: "Don Francisco y la Disonancia Cognitiva"
+authors: [admin]
 date: 2013-11-06T08:25:11-03:00
 slug: "don-francisco-y-la-disonancia-cognitiva"
 aliases: [/blog/2012/08/don-francisco-y-la-disonancia-cognitiva.html]

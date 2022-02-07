@@ -4,6 +4,7 @@ date: 2005-10-12 19:39:17
 layout: post
 slug: la-charla-sobre-arturito
 title: La Charla sobre Arturito
+authors: [admin]
 wordpress_id: 153
 categories:
 - Sin categoría

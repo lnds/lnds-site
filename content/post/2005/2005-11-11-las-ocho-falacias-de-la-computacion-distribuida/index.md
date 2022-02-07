@@ -4,6 +4,7 @@ date: 2005-11-11 14:03:06
 layout: post
 slug: las-ocho-falacias-de-la-computacion-distribuida
 title: Las Ocho Falacias de la Computación Distribuida
+authors: [admin]
 wordpress_id: 715
 categories:
 - Sin categoría

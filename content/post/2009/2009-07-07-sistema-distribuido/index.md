@@ -4,6 +4,7 @@ date: 2009-07-07 16:30:36
 layout: post
 slug: sistema-distribuido
 title: Sistema distribuido
+authors: [admin]
 wordpress_id: 255
 categories:
 - La Naturaleza del Software

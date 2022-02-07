@@ -1,5 +1,6 @@
 ---
 title: "Pregúntale a Parnas"
+authors: [admin]
 date: 2009-06-09T08:25:11-03:00
 slug: "preguntale-a-parnas"
 aliases: [/blog/2009/06/preguntale-a-parnas.html]

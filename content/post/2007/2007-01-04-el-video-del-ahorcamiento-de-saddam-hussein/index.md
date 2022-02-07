@@ -4,6 +4,7 @@ date: 2007-01-04 12:26:15
 layout: post
 slug: el-video-del-ahorcamiento-de-saddam-hussein
 title: El Video del Ahorcamiento de Saddam Hussein
+authors: [admin]
 ---
 
 Como sé que es posible que algún buscador te traiga hasta acá, te advierto que **no tengo el video de la muerte de Saddam**. Se donde podría encontrarlo, pero no me interesa.

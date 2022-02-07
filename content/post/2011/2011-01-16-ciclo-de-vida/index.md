@@ -1,5 +1,6 @@
 ---
 title: "Ciclo de Vida"
+authors: [admin]
 date: 2011-05-01T08:25:11-03:00
 slug: "ciclo-de-vida"
 aliases: [/blog/2011/01/ciclo-de-vida.html]

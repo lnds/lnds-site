@@ -4,6 +4,7 @@ date: 2008-01-17 13:37:19
 layout: post
 slug: '%c2%bfque-decian-de-los-gallegos'
 title: ¿Qué decían de los gallegos?
+authors: [admin]
 wordpress_id: 40
 categories:
 - Emprendimiento

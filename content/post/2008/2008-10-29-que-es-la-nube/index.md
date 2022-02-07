@@ -4,6 +4,7 @@ date: 2008-10-29 23:15:22
 layout: post
 slug: 'que-es-la-nube'
 title: ¿Que es la nube?
+authors: [admin]
 wordpress_id: 360
 categories:
 - La Naturaleza del Software

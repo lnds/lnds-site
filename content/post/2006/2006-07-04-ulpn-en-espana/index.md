@@ -4,6 +4,7 @@ date: 2006-07-04 11:27:53
 layout: post
 slug: ulpn-en-espana
 title: ULPN en España
+authors: [admin]
 wordpress_id: 2087
 categories:
 - Educación

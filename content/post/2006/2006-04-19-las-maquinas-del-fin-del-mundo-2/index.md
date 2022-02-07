@@ -4,6 +4,7 @@ date: 2006-04-19 10:25:42
 layout: post
 slug: las-maquinas-del-fin-del-mundo-2
 title: Las máquinas del fin del mundo (2)
+authors: [admin]
 wordpress_id: 1369
 categories:
 - Evolución

@@ -1,5 +1,6 @@
 ---
 title: "Sistemas de Control de Versiones"
+authors: [admin]
 date: 2010-07-05T08:25:11-03:00
 slug: "sistemas-de-control-de-versiones"
 tags: ['control de versiones', 'desarrollo', 'software']

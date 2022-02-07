@@ -1,5 +1,6 @@
 ---
 title: "Principios y Algoritmos de Concurrencia"
+authors: [admin]
 date: 2015-11-15T08:25:11-03:00
 slug: "principios-y-algoritmos-de-concurrencia"
 draft: false

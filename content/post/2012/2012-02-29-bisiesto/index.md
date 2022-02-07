@@ -1,5 +1,6 @@
 ---
 title: "¡Bisiesto!"
+authors: [admin]
 date: 2012-02-29T22:25:11-03:00
 slug: "bisiesto"
 tags: ["bisiesto", "bugs", "criptografía", "vulnerabilidades"]

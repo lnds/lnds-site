@@ -1,5 +1,6 @@
 ---
 title: "La Hazaña de Anonymous"
+authors: [admin]
 date: 2012-07-31T22:25:11-03:00
 slug: "la-hazana-de-anonymous"
 tags: ["hacking", "defacement", "política"]

@@ -5,6 +5,7 @@ layout: post
 slug: violencia
 aliases: [/2006/05/violencia_1.html]
 title: Violencia
+authors: [admin]
 wordpress_id: 1373
 categories:
 - Sociedad

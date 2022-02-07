@@ -1,5 +1,6 @@
 ---
 title: "Entropía"
+authors: [admin]
 date: 2012-03-23T22:25:11-03:00
 slug: "entropia"
 tags: ["entropía", "citas", "Norbert Wiener"]

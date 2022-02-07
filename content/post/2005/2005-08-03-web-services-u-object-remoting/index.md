@@ -1,5 +1,6 @@
 ---
 title: "Web Services U Object Remoting"
+authors: [admin]
 date: 2005-08-03T08:25:11-03:00
 slug: "web-services-u-object-remoting"
 tags: ["programación", "web services", "patrones"]

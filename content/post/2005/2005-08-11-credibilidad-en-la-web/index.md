@@ -1,5 +1,6 @@
 ---
 title: "Credibilidad en la web"
+authors: [admin]
 date: 2005-08-11T08:25:11-03:00
 slug: "credibilidad-en-la-web"
 aliases: [/blog/2005/08/credibilidad_en.html]

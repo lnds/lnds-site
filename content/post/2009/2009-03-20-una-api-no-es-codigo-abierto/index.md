@@ -1,5 +1,6 @@
 ---
 title: "Una API no es código abierto"
+authors: [admin]
 date: 2009-03-20T08:25:11-03:00
 slug: "una-api-no-es-codigo-abierto"
 aliases: [/2009/03/una-api-no-es-codigo-abierto.html]

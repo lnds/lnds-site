@@ -4,6 +4,7 @@ date: 2009-02-14 19:56:48
 layout: post
 slug: por-favor-no-conviertan-a-marx-en-un-falso-profeta
 title: Por favor, no conviertan a Marx en un falso profeta
+authors: [admin]
 wordpress_id: 297
 categories:
 - Credibilidad

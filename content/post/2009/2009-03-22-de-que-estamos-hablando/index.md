@@ -1,5 +1,6 @@
 ---
 title: "¿De qué estamos hablando?"
+authors: [admin]
 date: 2009-03-22T08:25:11-03:00
 slug: "de-que-estamos-hablando"
 aliases: [/2009/03/de-que-estamos-hablando.html]

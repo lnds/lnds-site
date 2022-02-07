@@ -1,5 +1,6 @@
 ---
 title: "El hombre que salvó al mundo, por no hacer lo que debía"
+authors: [admin]
 date: 2011-01-18T08:25:11-03:00
 slug: "el-hombre-que-salvo-al-mundo-por-no-hacer-lo-que-debia"
 aliases: [/blog/2011/01/el-hombre-que-salvo-al-mundo-por-no-hacer-lo-que-debia.html]

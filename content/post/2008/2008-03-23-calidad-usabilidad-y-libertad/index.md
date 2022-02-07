@@ -4,6 +4,7 @@ date: 2008-03-23 20:47:40
 layout: post
 slug: calidad-usabilidad-y-libertad
 title: Calidad, usabilidad y libertad
+authors: [admin]
 wordpress_id: 61
 ---
 

@@ -4,6 +4,7 @@ date: 2009-05-30 12:13:16
 layout: post
 slug: maestros-de-la-informacion
 title: Maestros de la información
+authors: [admin]
 wordpress_id: 189
 ---
 

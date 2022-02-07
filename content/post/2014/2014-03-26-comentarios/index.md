@@ -1,5 +1,6 @@
 ---
 title: "Comentarios"
+authors: [admin]
 date: 2014-03-26T08:25:11-03:00
 slug: "comentarios"
 aliases: [/blog/lnds/2014/3/26/comentarios]

@@ -1,5 +1,6 @@
 ---
 title: "Respuestas a estudiantes de ingeniería de software"
+authors: [admin]
 date: 2010-04-30T08:25:11-03:00
 slug: "respuestas-a-estudiantes-de-ingeniería-de-software"
 tags: ['educación', 'ingeniería']

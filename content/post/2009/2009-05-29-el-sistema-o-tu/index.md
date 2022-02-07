@@ -4,6 +4,7 @@ date: 2009-05-29 20:08:25
 layout: post
 slug: el-sistema-o-tu
 title: El sistema o tú
+authors: [admin]
 wordpress_id: 190
 categories:
 - General

@@ -1,5 +1,6 @@
 ---
 title: "Privacidad y Confidencialidad en la nube"
+authors: [admin]
 date: 2009-03-02T08:25:11-03:00
 slug: "privacidad-y-confidencialidad-en-la-nube"
 draft: false

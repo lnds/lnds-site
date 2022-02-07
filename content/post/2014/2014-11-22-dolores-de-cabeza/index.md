@@ -1,5 +1,6 @@
 ---
 title: "Dolores de Cabeza"
+authors: [admin]
 date: 2014-11-22T08:25:11-03:00
 slug: "dolores-de-cabeza"
 tags: ["errores", "rant"]

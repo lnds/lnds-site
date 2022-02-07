@@ -1,5 +1,6 @@
 ---
 title: "We work the black seam together"
+authors: [admin]
 subtitle: "(The Chain parte final)"
 date: 2018-03-17T08:25:11-03:00
 slug: "we-work-the-black-seam-together"

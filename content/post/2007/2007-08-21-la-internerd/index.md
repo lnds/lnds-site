@@ -4,6 +4,7 @@ date: 2007-08-21 20:27:47
 layout: post
 slug: la-internerd
 title: La InterNerd
+authors: [admin]
 wordpress_id: 1828
 ---
 

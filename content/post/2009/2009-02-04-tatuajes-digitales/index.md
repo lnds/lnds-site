@@ -1,5 +1,6 @@
 ---
 title: "Tatuajes Digitales"
+authors: [admin]
 date: 2009-02-04T08:25:11-03:00
 slug: "tatuajes-digitales"
 aliases: [/blog/2009/02/tatuajes-digitales.html]

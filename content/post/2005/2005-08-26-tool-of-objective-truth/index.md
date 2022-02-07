@@ -1,5 +1,6 @@
 ---
 title: "Tool Of Objective Truth"
+authors: [admin]
 date: 2005-08-26T18:25:11-03:00
 slug: "tool-of-objective-truth"
 tags: ["herramientas"]

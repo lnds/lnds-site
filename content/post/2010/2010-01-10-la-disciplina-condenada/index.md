@@ -1,5 +1,6 @@
 ---
 title: "La disciplina condenada"
+authors: [admin]
 date: 2010-01-10T08:25:11-03:00
 slug: "la-disciplina-condenada"
 aliases: [/blog/2010/01/la-disciplina-condenada.html]

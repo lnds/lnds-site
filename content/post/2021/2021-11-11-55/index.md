@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "55"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

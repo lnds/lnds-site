@@ -1,5 +1,6 @@
 ---
 title: "La Naturaleza Del Software - El Libro"
+authors: [admin]
 date: 2013-11-04T08:25:11-03:00
 slug: "la-naturaleza-del-software-el-libro"
 tags: ["libros"]

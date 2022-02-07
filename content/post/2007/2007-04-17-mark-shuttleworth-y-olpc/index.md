@@ -4,6 +4,7 @@ date: 2007-04-17 18:31:13
 layout: post
 slug: mark-shuttleworth-y-olpc
 title: Mark Shuttleworth y OLPC
+authors: [admin]
 wordpress_id: 1800
 ---
 

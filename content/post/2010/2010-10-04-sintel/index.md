@@ -1,5 +1,6 @@
 ---
 title: "Sintel"
+authors: [admin]
 date: 2010-10-04T08:25:11-03:00
 slug: "sintel"
 tags: ['ingeniería', 'sociedad', 'humanidades']

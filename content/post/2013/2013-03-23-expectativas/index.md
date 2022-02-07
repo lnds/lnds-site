@@ -1,5 +1,6 @@
 ---
 title: "Expectativas"
+authors: [admin]
 subtile: "lo quiere vs lo que necesita el usuario"
 date: 2013-03-23T08:25:11-03:00
 slug: "expectativas"

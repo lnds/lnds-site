@@ -1,5 +1,6 @@
 ---
 title: "Cerebros deshidratados"
+authors: [admin]
 date: 2012-10-02T12:25:11-03:00
 slug: "cerebros-deshidratados"
 tags: ["ignorancia", "humor"]

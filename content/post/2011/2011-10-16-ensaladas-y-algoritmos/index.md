@@ -1,5 +1,6 @@
 ---
 title: "Ensaladas y algoritmos"
+authors: [admin]
 date: 2011-10-16T08:25:11-03:00
 slug: "ensaladas-y-algoritmos"
 aliases: [/blog/2011/10/ensaladas-y-algoritmos.html]

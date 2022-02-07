@@ -4,6 +4,7 @@ date: 2009-01-11 11:13:28
 layout: post
 slug: el-abrazo-de-sheldon
 title: El abrazo de Sheldon
+authors: [admin]
 wordpress_id: 314
 categories:
 - Humor

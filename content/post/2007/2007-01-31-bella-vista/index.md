@@ -4,6 +4,7 @@ date: 2007-01-31 10:18:36
 layout: post
 slug: bella-vista
 title: Bella Vista
+authors: [admin]
 wordpress_id: 1783
 categories:
 - Cultura

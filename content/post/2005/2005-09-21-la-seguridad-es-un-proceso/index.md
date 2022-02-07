@@ -4,6 +4,7 @@ date: 2005-09-21 02:35:59
 layout: post
 slug: la-seguridad-es-un-proceso
 title: La seguridad es un proceso
+authors: [admin]
 wordpress_id: 137
 categories:
 - Seguridad

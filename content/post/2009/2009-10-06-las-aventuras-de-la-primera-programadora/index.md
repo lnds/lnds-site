@@ -4,6 +4,7 @@ date: 2009-10-06 00:25:50
 layout: post
 slug: las-aventuras-de-la-primera-programadora
 title: Las aventuras de la primera programadora
+authors: [admin]
 wordpress_id: 236
 categories:
 - General

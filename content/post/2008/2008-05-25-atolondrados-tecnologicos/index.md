@@ -1,5 +1,6 @@
 ---
 title: "Atolondrados Tecnológicos"
+authors: [admin]
 date: 2008-05-25T08:25:11-03:00
 slug: "atolondrados-tecnologicos"
 aliases: [/blog/2008/05/atolondrados-tecnologicos.html]

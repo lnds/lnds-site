@@ -4,6 +4,7 @@ date: 2009-02-06 00:22:38
 layout: post
 slug: stupid-programmer-exception
 title: Stupid programmer exception
+authors: [admin]
 wordpress_id: 300
 categories:
 - Humor

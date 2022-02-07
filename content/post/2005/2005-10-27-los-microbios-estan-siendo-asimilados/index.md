@@ -4,6 +4,7 @@ date: 2005-10-27 20:05:31
 layout: post
 slug: los-microbios-estan-siendo-asimilados
 title: Los Microbios están siendo asimilados!!
+authors: [admin]
 wordpress_id: 1470
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "DMR"
+authors: [admin]
 date: 2011-10-13T08:25:11-03:00
 slug: "dmr"
 tags: ['próceres', 'Dennis Ritchie']

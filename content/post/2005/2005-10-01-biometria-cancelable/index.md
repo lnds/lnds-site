@@ -4,6 +4,7 @@ date: 2005-10-01 18:11:39
 layout: post
 slug: biometria-cancelable
 title: Biometría Cancelable
+authors: [admin]
 wordpress_id: 161
 categories:
 - Biometría

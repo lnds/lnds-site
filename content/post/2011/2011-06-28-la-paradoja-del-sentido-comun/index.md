@@ -1,5 +1,6 @@
 ---
 title: "La paradoja del sentido común"
+authors: [admin]
 date: 2011-06-28T08:25:11-03:00
 slug: "la-paradoja-del-sentido-comun"
 aliases: [/blog/lnds/2011/6/28/la-paradoja-del-sentido-comun, /blog/2011/06/la-paradoja-del-sentido-comun.html]

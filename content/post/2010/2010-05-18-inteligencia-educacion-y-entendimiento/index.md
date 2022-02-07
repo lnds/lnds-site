@@ -1,5 +1,6 @@
 ---
 title: "Inteligencia, educación y entendimiento"
+authors: [admin]
 date: 2010-05-20T08:25:11-03:00
 slug: "inteligencia-educacion-y-entendimiento"
 aliases: [/2010/05/inteligencia-educacion-y-entendimiento.html]

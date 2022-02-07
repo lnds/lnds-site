@@ -1,5 +1,6 @@
 ---
 title: "Planificadores y Buscadores "
+authors: [admin]
 date: 2011-08-05T08:25:11-03:00
 slug: "planificadores-y-buscadores"
 tags: ['planificación', 'citas']

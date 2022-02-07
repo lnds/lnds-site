@@ -4,6 +4,7 @@ date: 2005-12-10 12:47:18
 layout: post
 slug: la-diversion-de-programar
 title: La diversión de programar
+authors: [admin]
 wordpress_id: 1486
 ---
 

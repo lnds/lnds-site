@@ -1,5 +1,6 @@
 ---
 title: "WPEG, el mejor algoritmo de compresión"
+authors: [admin]
 date: 2007-12-27T08:25:11-03:00
 slug: "wpeg-el-mejor-algoritmo-de-compresion"
 aliases: [/2006/12/wpeg_el_mejor_algoritmo_de_compresion.html]

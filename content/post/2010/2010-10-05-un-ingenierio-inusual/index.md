@@ -1,5 +1,6 @@
 ---
 title: "Un Ingenierio Inusual"
+authors: [admin]
 date: 2010-10-05T08:25:11-03:00
 slug: "un-ingenierio-inusual"
 tags: ['ingeniería', 'sociedad', 'humanidades']

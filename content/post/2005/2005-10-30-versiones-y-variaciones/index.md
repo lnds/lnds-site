@@ -4,6 +4,7 @@ date: 2005-10-30 16:26:34
 layout: post
 slug: versiones-y-variaciones-2
 title: Versiones y variaciones
+authors: [admin]
 wordpress_id: 1996
 categories:
 - Credibilidad

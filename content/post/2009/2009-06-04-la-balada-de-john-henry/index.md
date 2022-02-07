@@ -4,6 +4,7 @@ date: 2009-06-04 21:59:28
 layout: post
 slug: la-balada-de-john-henry
 title: La Balada de John Henry
+authors: [admin]
 wordpress_id: 258
 categories:
 - Cultura

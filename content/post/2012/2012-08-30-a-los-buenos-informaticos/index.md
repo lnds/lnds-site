@@ -1,5 +1,6 @@
 ---
 title: "A los Buenos Informáticos"
+authors: [admin]
 date: 2012-08-28T08:25:11-03:00
 slug: "a-los-buenos-informaticos"
 tags: ["aniversario", "villano invitado"]

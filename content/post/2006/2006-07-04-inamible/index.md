@@ -4,6 +4,7 @@ date: 2006-07-04 11:48:54
 layout: post
 slug: inamible
 title: Inamible
+authors: [admin]
 wordpress_id: 2085
 categories:
 - Humor

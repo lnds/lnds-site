@@ -4,6 +4,7 @@ date: 2007-08-07 10:36:17
 layout: post
 slug: el-anumerismo-del-senador
 title: El Anumerismo del Senador
+authors: [admin]
 wordpress_id: 1809
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Las batallas del Nilo"
+authors: [admin]
 date: 2011-01-29T08:25:11-03:00
 slug: "las-batallas-del-nilo"
 draft: false

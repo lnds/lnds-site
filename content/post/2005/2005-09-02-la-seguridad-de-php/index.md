@@ -1,5 +1,6 @@
 ---
 title: "La seguridad de PHP"
+authors: [admin]
 date: 2005-09-02T23:25:11-03:00
 slug: "la-seguridad-de-php"
 tags: ["seguridad", "php", "ioi"]

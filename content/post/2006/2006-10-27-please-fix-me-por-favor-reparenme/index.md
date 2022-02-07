@@ -4,6 +4,7 @@ date: 2006-10-27 11:06:12
 layout: post
 slug: please-fix-me-%c2%a1por-favor-reparenme
 title: Please Fix me! (¡por favor, repárenme!)
+authors: [admin]
 wordpress_id: 1768
 categories:
 - Humor

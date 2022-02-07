@@ -6,6 +6,7 @@ slug: el-debate-sobre-negocio-del-cloud-computing-i
 aliases:
 - /2008/10/el_debate_sobre_negocio_del_cloud_comput.html
 title: El debate sobre negocio del Cloud Computing (I)
+authors: [admin]
 wordpress_id: 361
 categories:
 - La Naturaleza del Software

@@ -4,6 +4,7 @@ date: 2008-06-17 13:52:37
 layout: post
 slug: transformando-un-pais-con-un-pequeno-laptop
 title: Transformando un País con un Pequeño Laptop
+authors: [admin]
 wordpress_id: 393
 categories:
 - Educación

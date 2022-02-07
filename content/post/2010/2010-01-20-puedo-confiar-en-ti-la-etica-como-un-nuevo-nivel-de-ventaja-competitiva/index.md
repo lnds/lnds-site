@@ -1,5 +1,6 @@
 ---
 title: "¿Puedo Confiar en ti? (La ética como un nuevo nivel de ventaja competitiva)"
+authors: [admin]
 date: 2010-01-20T08:25:11-03:00
 slug: "puedo-confiar-en-ti-la-etica-como-un-nuevo-nivel-de-ventaja-competitiva"
 tags: ['ética', 'emprendimiento', 'sociedad', 'economía']

@@ -1,5 +1,6 @@
 ---
 title: "Sexo, Pianos y Redes Inalámbricas"
+authors: [admin]
 date: 2014-03-10T08:25:11-03:00
 slug: "sexo-pianos-y-wifi"
 tags: ["wifi", "tecnología", "mujeres en tecnología", "Hedy Lamarr"]

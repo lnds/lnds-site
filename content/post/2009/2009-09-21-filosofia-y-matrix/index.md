@@ -4,6 +4,7 @@ date: 2009-09-21 19:06:54
 layout: post
 slug: filosofia-y-matrix
 title: Filosofía y Matrix
+authors: [admin]
 wordpress_id: 207
 categories:
 - Paradigmas

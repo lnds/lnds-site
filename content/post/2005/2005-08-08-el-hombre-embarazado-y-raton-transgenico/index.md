@@ -1,5 +1,6 @@
 ---
 title: "El hombre embarazado y ratón transgénico"
+authors: [admin]
 date: 2005-08-08T08:25:11-03:00
 slug: "el-hombre-embarazado-y-raton-transgenico"
 aliases: [/archives/2005/08/el_hombre_embar.html, /2005/08/el_hombre_embarazado_y_raton_t_1.html, /blog/2005/08/el-hombre-embarazado-y-raton-transgenico.html]

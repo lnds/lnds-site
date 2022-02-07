@@ -1,5 +1,6 @@
 ---
 title: "Que cosas suceden con el apagón"
+authors: [admin]
 date: 2010-08-29T18:25:11-03:00
 slug: "que-cosas-suceden-con-el-apagon"
 tags: ['energía']

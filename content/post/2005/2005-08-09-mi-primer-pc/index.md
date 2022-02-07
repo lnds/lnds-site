@@ -1,5 +1,6 @@
 ---
 title: "Mi Primer PC"
+authors: [admin]
 date: 2005-08-09T18:25:11-03:00
 slug: "mi-primer-pc"
 tags: ["mi primer pc", "política"]

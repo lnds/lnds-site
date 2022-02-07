@@ -1,5 +1,6 @@
 ---
 title: "Ceros y Unos"
+authors: [admin]
 date: 2018-09-23T08:25:11-03:00
 slug: "ceros-y-unos"
 aliases: [/blog/lnds/2018/9/23/ceros-y-unos]

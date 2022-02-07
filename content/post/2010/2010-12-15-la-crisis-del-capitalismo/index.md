@@ -1,5 +1,6 @@
 ---
 title: "La Crisis del Capitalismo"
+authors: [admin]
 date: 2010-12-15T08:25:11-03:00
 slug: "la-crisis-del-capitalismo"
 tags: ["crisis", "redes sociales", "política"]

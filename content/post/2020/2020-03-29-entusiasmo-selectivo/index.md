@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Entusiasmo selectivo"
+authors: [admin]
 subtitle: "Innovación y el origen de Unix"
 summary: ""
 authors: [admin]

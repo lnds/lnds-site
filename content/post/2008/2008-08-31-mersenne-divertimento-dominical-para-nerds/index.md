@@ -1,5 +1,6 @@
 ---
 title: "Mersenne, divertimento dominical para Nerds"
+authors: [admin]
 date: 2008-08-31T08:25:11-03:00
 slug: "mersenne-divertimento-dominical-para-nerds"
 aliases: [/blog/2008/08/mersenne-divertimento-dominical-para-nerds.html]

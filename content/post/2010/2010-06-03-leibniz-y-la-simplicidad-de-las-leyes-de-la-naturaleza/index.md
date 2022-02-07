@@ -1,5 +1,6 @@
 ---
 title: "Leibniz y la simplicidad de las leyes de la naturaleza"
+authors: [admin]
 date: 2010-06-03 08:25:11-03:00
 slug: "leibniz-y-la-simplicidad-de-las-leyes-de-la-naturaleza"
 aliases: [/blog/2010/06/leibniz-y-la-simplicidad-de-las-leyes-de-la-naturaleza.html]

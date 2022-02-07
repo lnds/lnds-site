@@ -1,5 +1,6 @@
 ---
 title: "El mundo"
+authors: [admin]
 date: 2014-10-22T08:25:11-03:00
 slug: "el-mundo"
 draft: false

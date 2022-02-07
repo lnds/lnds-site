@@ -1,5 +1,6 @@
 ---
 title: "El Rey del Azúcar"
+authors: [admin]
 date: 2011-02-03T08:25:11-03:00
 slug: "el-rey-del-azucar"
 aliases: [/blog/2011/02/el-rey-del-azucar.html]

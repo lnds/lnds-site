@@ -1,5 +1,6 @@
 ---
 title: "Reporte del Clima"
+authors: [admin]
 subtile: "9 desafíos en 9 lenguajes  (2 de 9, primera parte)"
 date: 2016-03-31T08:25:11-03:00
 slug: "reporte-del-clima"

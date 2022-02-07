@@ -1,5 +1,6 @@
 ---
 title: "Ciencia y budismo"
+authors: [admin]
 date: 2010-05-23T08:25:11-03:00
 slug: "ciencia-y-budismo"
 tags: ['ciencia', 'budismo', 'religión']

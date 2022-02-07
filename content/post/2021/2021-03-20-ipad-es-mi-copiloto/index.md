@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "iPad es mi Copiloto"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

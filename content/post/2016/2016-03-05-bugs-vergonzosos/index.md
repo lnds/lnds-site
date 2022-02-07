@@ -1,5 +1,6 @@
 ---
 title: "Bugs Vergonzosos"
+authors: [admin]
 date: 2016-03-05T08:25:11-03:00
 slug: "bugs-vergonzosos"
 draft: false

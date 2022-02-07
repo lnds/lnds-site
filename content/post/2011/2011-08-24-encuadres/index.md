@@ -1,5 +1,6 @@
 ---
 title: "Encuadres"
+authors: [admin]
 date: 2011-08-24T08:25:11-03:00
 slug: "encuadres"
 aliases: [/blog/2011/08/encuadres.html]

@@ -4,6 +4,7 @@ date: 2007-03-07 07:00:34
 layout: post
 slug: mantencion-del-software-2
 title: Mantención del Software
+authors: [admin]
 wordpress_id: 1793
 ---
 

@@ -4,6 +4,7 @@ date: 2006-02-01 10:09:11
 layout: post
 slug: mis-cinco-habitos-%c2%bfraros
 title: Mis cinco hábitos ¿raros?
+authors: [admin]
 wordpress_id: 2068
 categories:
 - Humor

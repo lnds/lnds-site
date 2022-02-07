@@ -1,5 +1,6 @@
 ---
 title: "Las Ocho Falacias de la Computación Distribuida (Reciclando)"
+authors: [admin]
 date: 2009-03-05T08:25:11-03:00
 slug: "las-ocho-falacias-de-la-computacion-distribuida-reciclando"
 aliases: [/blog/2009/03/las-ocho-falacias-de-la-computacion-distribuida-reciclando.html]

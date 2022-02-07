@@ -1,5 +1,6 @@
 ---
 title: "Cuatro años"
+authors: [admin]
 date: 2009-07-30T08:25:11-03:00
 slug: "cuatro-anos"
 aliases: [/blog/2009/07/cuatro-anos.html]

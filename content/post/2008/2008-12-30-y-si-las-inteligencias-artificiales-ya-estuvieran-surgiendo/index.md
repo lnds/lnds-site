@@ -4,6 +4,7 @@ date: 2008-12-30 19:13:47
 layout: post
 slug: '%c2%bfy-si-las-inteligencias-artificiales-ya-estuvieran-surgiendo'
 title: ¿Y si las inteligencias artificiales ya estuvieran surgiendo?
+authors: [admin]
 wordpress_id: 346
 categories:
 - Paradigmas

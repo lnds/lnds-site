@@ -4,6 +4,7 @@ date: 2005-11-11 13:03:00
 layout: post
 slug: cumpleanos
 title: Cumpleaños
+authors: [admin]
 wordpress_id: 173
 categories:
 - General

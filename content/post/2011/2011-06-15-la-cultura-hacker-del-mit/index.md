@@ -1,5 +1,6 @@
 ---
 title: "La cultura hacker del MIT"
+authors: [admin]
 date: 2011-06-15T08:25:11-03:00
 slug: "la-cultura-hacker-del-mit"
 aliases: [/blog/2011/06/la-cultura-hacker-del-mit.html]

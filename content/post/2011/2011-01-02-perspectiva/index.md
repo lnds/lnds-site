@@ -1,5 +1,6 @@
 ---
 title: "Perspectiva"
+authors: [admin]
 date: 2011-01-02T08:25:11-03:00
 slug: "perspectiva"
 tags: ["perspectiva", "innovación", "Alan Kay"]

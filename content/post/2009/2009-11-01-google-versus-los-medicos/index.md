@@ -4,6 +4,7 @@ date: 2009-11-02 00:15:38
 layout: post
 slug: google-versus-los-medicos
 title: Google versus los médicos
+authors: [admin]
 wordpress_id: 229
 categories:
 - Evolución

@@ -1,5 +1,6 @@
 ---
 title: "Shake it off"
+authors: [admin]
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 6"
 date: 2017-10-09T08:25:11-03:00
 slug: "shake-it-off"

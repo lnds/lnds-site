@@ -5,6 +5,7 @@ layout: post
 slug: el-paradigma-de-las-aplicaciones-web
 aliases: [/2005/12/el-paradigma-del-browser.html]
 title: El paradigma de las aplicaciones web
+authors: [admin]
 wordpress_id: 1498
 ---
 

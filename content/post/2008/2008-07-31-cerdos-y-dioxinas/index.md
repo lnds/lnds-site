@@ -1,5 +1,6 @@
 ---
 title: "Cerdos y Dioxinas"
+authors: [admin]
 date: 2008-07-31T08:25:11-03:00
 slug: "cerdos-y-dioxinas"
 aliases: [/2008/07/cerdos_y_dioxinas.html, /blog/2008/07/cerdos-y-dioxinas.html,]

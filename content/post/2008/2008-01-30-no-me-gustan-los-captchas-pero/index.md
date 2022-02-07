@@ -4,6 +4,7 @@ date: 2008-01-30 21:45:00
 layout: post
 slug: no-me-gustan-los-captchas-pero
 title: No me gustan los captchas, pero...
+authors: [admin]
 wordpress_id: 32
 categories:
 - Usabilidad

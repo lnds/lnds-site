@@ -1,5 +1,6 @@
 ---
 title: "Diez años"
+authors: [admin]
 subtitle: "los blogs no han muerto"
 date: 2015-08-01T08:25:11-03:00
 slug: "diez-anos"

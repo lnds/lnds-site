@@ -4,6 +4,7 @@ date: 2005-12-22 20:22:53
 layout: post
 slug: argentina-negroponte-y-la-computadora-de-300-pesos
 title: Argentina, Negroponte y la computadora de 300 pesos
+authors: [admin]
 ---
 
 3 pesos argentinos son 1 dolar, por eso el título.

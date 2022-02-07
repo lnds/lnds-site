@@ -6,6 +6,7 @@ slug: la-marca-de-la-bestia
 aliases:
 - /blog/lnds/2006/6/6/la-marca-de-la-bestia
 title: La Marca de La Bestia
+authors: [admin]
 wordpress_id: 1376
 categories:
 - Anumerismo

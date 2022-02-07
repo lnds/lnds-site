@@ -4,6 +4,7 @@ date: 2005-09-26 23:24:39
 layout: post
 slug: el-tesoro-de-juan-fernandez
 title: El Tesoro de Juan Fernandez
+authors: [admin]
 wordpress_id: 132
 categories:
 - Anumerismo

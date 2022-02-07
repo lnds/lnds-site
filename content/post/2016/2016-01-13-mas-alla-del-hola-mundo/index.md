@@ -1,5 +1,6 @@
 ---
 title: "Más allá del Hola Mundo"
+authors: [admin]
 date: 2016-01-13T08:25:11-03:00
 slug: "mas-alla-del-hola-mundo"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "El mejor proceso de desarrollo de software"
+authors: [admin]
 date: 2012-12-29T08:25:11-03:00
 slug: "el-mejor-proceso-de-desarrollo-de-software"
 aliases: [/blog/2011/09/el-mejor-proceso-de-desarrollo-de-software.html]

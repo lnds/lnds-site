@@ -1,5 +1,6 @@
 ---
 title: "¿Integrar o Desarrollar? "
+authors: [admin]
 date: 2005-08-20T08:25:11-03:00
 slug: "integrar-o-desarrollar"
 tags: ["sha-1", "seguridad", "criptografía"]

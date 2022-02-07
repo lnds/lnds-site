@@ -1,5 +1,6 @@
 ---
 title: "Un Modelo De Confianza"
+authors: [admin]
 date: 2012-12-03T12:25:11-03:00
 slug: "un-modelo-de-confianza-2"
 tags: ["causas", "filosofía"]

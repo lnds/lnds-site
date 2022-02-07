@@ -1,5 +1,6 @@
 ---
 title: "Tambores parlantes"
+authors: [admin]
 date: 2011-04-23T08:25:11-03:00
 slug: "tambores-parlantes"
 aliases: [/blog/2011/04/tambores-parlantes.html]

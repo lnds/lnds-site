@@ -4,6 +4,7 @@ date: 2007-06-06 13:52:18
 layout: post
 slug: el-caso-de-jamie-cansdale
 title: El caso de Jamie Cansdale
+authors: [admin]
 wordpress_id: 391
 ---
 

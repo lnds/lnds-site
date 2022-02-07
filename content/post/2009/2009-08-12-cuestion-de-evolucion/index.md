@@ -1,5 +1,6 @@
 ---
 title: "Cuestión de evolución"
+authors: [admin]
 date: 2009-08-12T08:25:11-03:00
 slug: "cuestion-de-evolucion"
 aliases: [/blog/lnds/2009/8/12/cuestion-de-evolucion]

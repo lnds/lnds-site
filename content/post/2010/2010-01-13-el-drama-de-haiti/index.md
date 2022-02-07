@@ -1,5 +1,6 @@
 ---
 title: "El drama de Haití"
+authors: [admin]
 date: 2010-01-13T08:25:11-03:00
 slug: "el-drama-de-haiti"
 tags: ['sociedad']

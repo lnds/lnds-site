@@ -4,6 +4,7 @@ date: 2009-11-19 20:53:27
 layout: post
 slug: el-metro-contamina
 title: El metro contamina
+authors: [admin]
 wordpress_id: 225
 tags:
 - contaminación

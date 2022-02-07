@@ -1,5 +1,6 @@
 ---
 title: "El tiempo no es oro"
+authors: [admin]
 date: 2011-05-18T08:25:11-03:00
 slug: "el-tiempo-no-es-oro"
 draft: false

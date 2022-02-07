@@ -1,5 +1,6 @@
 ---
 title: "Las patas de las salamandras"
+authors: [admin]
 date: 2005-11-21T08:25:11-03:00
 slug: "las-patas-de-las-salamandras"
 aliases: [/blog/2005/11/las-patas-de-las-salamandras.html]

@@ -4,6 +4,7 @@ date: 2006-11-27 11:03:40
 layout: post
 slug: releyendo-a-nietzche
 title: Releyendo a Nietzche
+authors: [admin]
 wordpress_id: 1775
 ---
 

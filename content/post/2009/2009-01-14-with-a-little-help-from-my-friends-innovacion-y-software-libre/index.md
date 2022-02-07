@@ -1,5 +1,6 @@
 ---
 title: "With a Little Help from My Friends, Innovación y Software Libre"
+authors: [admin]
 date: 2009-01-14T08:25:11-03:00
 slug: "with-a-little-help-from-my-friends-innovacion-y-software-libre"
 aliases: [/blog/2009/01/with-a-little-help-from-my-friends-innovacion-y-software-libre.html]

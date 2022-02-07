@@ -5,6 +5,7 @@ layout: post
 slug: una-pata-de-palo-al-fuego
 aliases: [/2009/01/una-pata-de-palo-al-fuego.html]
 title: Una pata de palo al fuego
+authors: [admin]
 wordpress_id: 312
 categories:
 - Cultura

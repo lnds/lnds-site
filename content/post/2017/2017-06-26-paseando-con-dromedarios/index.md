@@ -1,5 +1,6 @@
 ---
 title: "Paseando con Dromedarios"
+authors: [admin]
 subtitle: "Reflexiones sobre la ley de Conway"
 date: 2017-06-26T08:25:11-03:00
 slug: "paseando-con-dromedarios"

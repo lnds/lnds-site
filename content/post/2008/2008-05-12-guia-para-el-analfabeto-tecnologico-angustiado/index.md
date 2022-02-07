@@ -4,6 +4,7 @@ date: 2008-05-12 22:10:07
 layout: post
 slug: guia-para-el-analfabeto-tecnologico-angustiado
 title: Guía para el analfabeto tecnológico angustiado
+authors: [admin]
 wordpress_id: 195
 categories:
 - Privacidad

@@ -4,6 +4,7 @@ date: 2006-01-01 11:08:00
 layout: post
 slug: negroponte-flores-y-ulpn
 title: Negroponte, Flores y ULPN
+authors: [admin]
 wordpress_id: 2044
 categories:
 - Educación

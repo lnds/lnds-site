@@ -4,6 +4,7 @@ date: 2007-09-11 23:56:12
 layout: post
 slug: '%c2%bfgiga-o-gibi-bytes'
 title: ¿giga o gibi bytes?
+authors: [admin]
 wordpress_id: 708
 categories:
 - Ciencia

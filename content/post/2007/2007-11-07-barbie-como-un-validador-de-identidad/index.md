@@ -4,6 +4,7 @@ date: 2007-11-07 09:30:13
 layout: post
 slug: barbie-como-un-validador-de-identidad
 title: Barbie como un validador de Identidad
+authors: [admin]
 wordpress_id: 377
 categories:
 - Identidad Digital

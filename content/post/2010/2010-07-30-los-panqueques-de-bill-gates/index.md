@@ -1,5 +1,6 @@
 ---
 title: "Los panqueques de Bill Gates"
+authors: [admin]
 date: 2010-07-30T08:25:11-03:00
 slug: "los-panqueques-de-bill-gates"
 aliases: [/blog/2010/07/los-panqueques-de-bill-gates.html]

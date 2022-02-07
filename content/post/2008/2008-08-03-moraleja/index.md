@@ -4,6 +4,7 @@ date: 2008-08-03 01:17:24
 layout: post
 slug: moraleja
 title: Moraleja
+authors: [admin]
 wordpress_id: 774
 categories:
 - Humor

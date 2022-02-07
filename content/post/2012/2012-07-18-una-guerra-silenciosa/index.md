@@ -1,5 +1,6 @@
 ---
 title: "Una Guerra Silenciosa"
+authors: [admin]
 date: 2012-07-18T22:25:11-03:00
 slug: "una-guerra-silenciosa"
 tags: ["emprendimiento", "github", "jira", "attlassian"]

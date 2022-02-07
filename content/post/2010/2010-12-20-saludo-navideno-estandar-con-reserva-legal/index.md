@@ -1,5 +1,6 @@
 ---
 title: "Saludo navideño estándar con reserva legal"
+authors: [admin]
 date: 2010-12-25T08:25:11-03:00
 slug: "saludo-navideno-estandar-con-reserva-legal"
 tags: ["navidad", "saludos"]

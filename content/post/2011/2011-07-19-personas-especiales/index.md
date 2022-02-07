@@ -1,5 +1,6 @@
 ---
 title: "Personas especiales"
+authors: [admin]
 date: 2011-07-02T08:25:11-03:00
 slug: "personas-especiales"
 tags: ['libros', 'viralización', 'influencia']

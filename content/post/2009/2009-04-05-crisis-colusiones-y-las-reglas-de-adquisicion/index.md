@@ -4,6 +4,7 @@ date: 2009-04-05 12:08:02
 layout: post
 slug: crisis-colusiones-y-las-reglas-de-adquisicion
 title: Crisis, Colusiones y las Reglas de Adquisición
+authors: [admin]
 wordpress_id: 84
 categories:
 - Credibilidad

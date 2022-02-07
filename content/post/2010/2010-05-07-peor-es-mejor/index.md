@@ -1,5 +1,6 @@
 ---
 title: "Peor es mejor"
+authors: [admin]
 subtitle: "la importancia de entregar"
 date: 2010-05-07T08:25:11-03:00
 slug: "peor-es-mejor"

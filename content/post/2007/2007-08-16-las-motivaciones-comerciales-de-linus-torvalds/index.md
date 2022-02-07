@@ -1,5 +1,6 @@
 ---
 title: "Las Motivaciones Comerciales de Linus Torvalds"
+authors: [admin]
 date: 2007-08-16T08:25:11-03:00
 slug: "las-motivaciones-comerciales-de-linus-torvalds"
 aliases: [/blog/lnds/2007/8/16/las-motivaciones-comerciales-de-linus-torvalds, /2007/08/las-motivaciones-comerciales-de-linus-to.html]

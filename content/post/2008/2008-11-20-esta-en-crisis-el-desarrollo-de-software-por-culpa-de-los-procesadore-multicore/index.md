@@ -1,6 +1,7 @@
 
 ---
 title: "¿Está en crisis el desarrollo de software por culpa de los procesadore multicore?"
+authors: [admin]
 date: 2008-11-20T08:25:11-03:00
 slug: "esta-en-crisis-el-desarrollo-de-software-por-culpa-de-los-procesadores-multicore"
 aliases: [/blog/2008/11/esta-en-crisis-el-desarrollo-de-software.html, /2008/11/esta-en-crisis-el-desarrollo-de-software.html]

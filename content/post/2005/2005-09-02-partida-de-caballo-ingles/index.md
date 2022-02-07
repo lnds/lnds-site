@@ -1,5 +1,6 @@
 ---
 title: "Partida de caballo inglés"
+authors: [admin]
 date: 2005-09-02T23:50:11-03:00
 slug: "partida-de-caballo-ingles"
 tags: ["mppcdv"]

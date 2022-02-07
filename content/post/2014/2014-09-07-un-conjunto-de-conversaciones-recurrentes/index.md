@@ -1,5 +1,6 @@
 ---
 title: "Un conjunto de conversaciones recurrentes"
+authors: [admin]
 date: 2014-09-07T08:25:11-03:00
 slug: "un-conjunto-de-conversaciones-recurrentes"
 tags: ["equipos", "motivación", "liderazgo"]

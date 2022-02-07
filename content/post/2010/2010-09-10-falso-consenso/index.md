@@ -1,5 +1,6 @@
 ---
 title: "Falso consenso"
+authors: [admin]
 date: 2010-09-10T18:25:11-03:00
 slug: "falso-consenso"
 aliases: [/blog/2010/09/falso-consenso.html]

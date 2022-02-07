@@ -5,6 +5,7 @@ layout: post
 slug: accidente
 aliases: [/2006/01/accidente.html]
 title: Accidente
+authors: [admin]
 wordpress_id: 328
 ---
 

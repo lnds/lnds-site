@@ -4,6 +4,7 @@ date: 2008-11-02 19:58:48
 layout: post
 slug: web-2-0-y-cloud-computing
 title: Web 2.0 y Cloud Computing
+authors: [admin]
 subtitle: El debate sobre el negocio del Cloud Computing (III)
 wordpress_id: 358
 categories:

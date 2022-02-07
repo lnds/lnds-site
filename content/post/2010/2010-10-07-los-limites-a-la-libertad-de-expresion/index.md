@@ -1,5 +1,6 @@
 ---
 title: "Los límites a la libertad de expresión"
+authors: [admin]
 date: 2010-10-09T08:25:11-03:00
 slug: "los-limites-a-la-libertad-de-expresion"
 tags: ['libertad de expresión', 'política', 'democracia']

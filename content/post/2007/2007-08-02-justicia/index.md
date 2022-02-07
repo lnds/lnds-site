@@ -4,6 +4,7 @@ date: 2007-08-02 12:29:59
 layout: post
 slug: justicia
 title: Justicia
+authors: [admin]
 wordpress_id: 1806
 ---
 

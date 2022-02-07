@@ -4,6 +4,7 @@ date: 2005-11-08 10:18:40
 layout: post
 slug: aspectos-legales-del-blogging
 title: Aspectos legales del blogging
+authors: [admin]
 wordpress_id: 176
 ---
 

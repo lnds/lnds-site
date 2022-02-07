@@ -1,5 +1,6 @@
 ---
 title: "Linux no es software libre"
+authors: [admin]
 date: 2011-01-22T08:25:11-03:00
 slug: "linux-no-es-software-libre"
 draft: false

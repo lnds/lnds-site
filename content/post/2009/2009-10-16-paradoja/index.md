@@ -4,6 +4,7 @@ date: 2009-10-16 11:05:34
 layout: post
 slug: paradoja
 title: Paradoja
+authors: [admin]
 wordpress_id: 232
 categories:
 - Credibilidad

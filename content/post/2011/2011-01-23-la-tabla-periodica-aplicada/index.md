@@ -1,5 +1,6 @@
 ---
 title: "La Tabla Periódica Aplicada"
+authors: [admin]
 date: 2011-01-23T08:25:11-03:00
 slug: "la-tabla-periodica-aplicada"
 draft: false

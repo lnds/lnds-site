@@ -1,5 +1,6 @@
 ---
 title: "Reflexiones"
+authors: [admin]
 date: 2010-10-17T08:25:11-03:00
 slug: "reflexiones"
 aliases: [/blog/2010/09/reflexiones.html]

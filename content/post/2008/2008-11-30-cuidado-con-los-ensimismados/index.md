@@ -1,5 +1,6 @@
 ---
 title: "Cuidado con los ensimismados"
+authors: [admin]
 date: 2008-11-30T08:25:11-03:00
 slug: "cuidado-con-los-ensimismados"
 aliases: [/blog/2008/11/cuidado-con-los-ensimismados.html, /2008/11/ensimismados.html]

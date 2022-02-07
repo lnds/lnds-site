@@ -5,6 +5,7 @@ layout: post
 slug: los-nombres-de-los-huracanes
 aliases: [/2005/09/los_nombres_de_los_huracanes.html]
 title: Los nombres de los Huracanes
+authors: [admin]
 wordpress_id: 135
 categories:
 - Ciencia

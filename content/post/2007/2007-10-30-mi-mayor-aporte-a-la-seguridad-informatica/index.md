@@ -1,5 +1,6 @@
 ---
 title: "Mi mayor aporte a la seguridad informática"
+authors: [admin]
 date: 2007-10-30T08:25:11-03:00
 slug: "mi-mayor-aporte-a-la-seguridad-informatica"
 aliases: [/blog/2007/10/mi-mayor-aporte-a-la-seguridad-informatica.html]

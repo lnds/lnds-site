@@ -1,5 +1,6 @@
 ---
 title: "Wikileaks y el triunfo de los ideales de internet"
+authors: [admin]
 date: 2010-12-07T08:25:11-03:00
 slug: "wikileaks-y-el-triunfo-de-los-ideales-de-internet"
 draft: false

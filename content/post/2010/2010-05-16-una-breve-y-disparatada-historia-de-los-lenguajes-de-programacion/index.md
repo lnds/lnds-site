@@ -1,5 +1,6 @@
 ---
 title: "Una breve y disparatada historia de los lenguajes de programación"
+authors: [admin]
 date: 2013-11-06T08:25:11-03:00
 slug: "una-breve-y-disparatada-historia-de-los-lenguajes-de-programacion"
 aliases: [/blog/2010/05/una-breve-y-disparatada-historia-de-los-lenguajes-de-programacion.html]

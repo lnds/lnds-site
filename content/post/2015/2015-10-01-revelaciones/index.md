@@ -1,5 +1,6 @@
 ---
 title: "Revelaciones"
+authors: [admin]
 subtitle: "epifanía sobre la programación funcional"
 date: 2015-10-01T08:25:11-03:00
 slug: "revelaciones"

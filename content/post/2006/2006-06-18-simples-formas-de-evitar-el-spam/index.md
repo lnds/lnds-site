@@ -4,6 +4,7 @@ date: 2006-06-18 22:09:57
 layout: post
 slug: simples-formas-de-evitar-el-spam
 title: Simples formas de evitar el SPAM
+authors: [admin]
 wordpress_id: 1744
 categories:
 - Tecnología

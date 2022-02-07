@@ -1,5 +1,6 @@
 ---
 title: "El Indulto a Turing"
+authors: [admin]
 date: 2013-12-24T08:25:11-03:00
 slug: "el-indulto-a-turing"
 tags: ["Alan Turing", "Turing"]

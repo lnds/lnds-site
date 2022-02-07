@@ -4,6 +4,7 @@ date: 2007-11-25 09:19:45
 layout: post
 slug: el-triunfo-del-classmate
 title: El triunfo del ClassMate
+authors: [admin]
 wordpress_id: 381
 categories:
 - Educación

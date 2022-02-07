@@ -4,6 +4,7 @@ date: 2005-12-20 14:39:16
 layout: post
 slug: heredaras-el-viento
 title: Heredarás El Viento
+authors: [admin]
 wordpress_id: 187
 categories:
 - Ciencia

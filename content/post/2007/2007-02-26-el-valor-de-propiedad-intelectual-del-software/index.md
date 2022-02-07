@@ -4,6 +4,7 @@ date: 2007-02-26 20:38:02
 layout: post
 slug: el-valor-de-propiedad-intelectual-del-software
 title: El valor de propiedad intelectual del software
+authors: [admin]
 wordpress_id: 1405
 categories:
 - La Naturaleza del Software

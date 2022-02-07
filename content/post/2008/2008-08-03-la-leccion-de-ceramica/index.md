@@ -4,6 +4,7 @@ date: 2008-08-03 14:20:01
 layout: post
 slug: la-leccion-de-ceramica
 title: La lección de cerámica
+authors: [admin]
 wordpress_id: 781
 categories:
 - Desarrollo

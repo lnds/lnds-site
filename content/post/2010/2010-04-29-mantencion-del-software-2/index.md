@@ -1,5 +1,6 @@
 ---
 title: "Mantención del Software"
+authors: [admin]
 date: 2010-04-29T08:25:11-03:00
 slug: "mantencion-del-software-2"
 tags: ['mantención', 'software', 'desarrollo', 'evolución']

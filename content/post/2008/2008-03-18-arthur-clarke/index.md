@@ -4,6 +4,7 @@ date: 2008-03-18 22:07:40
 layout: post
 slug: arthur-clarke
 title: Arthur Clarke
+authors: [admin]
 wordpress_id: 62
 categories:
 - Paradigmas

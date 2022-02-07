@@ -4,6 +4,7 @@ date: 2006-10-07 11:08:39
 layout: post
 slug: decalogo-para-el-programador-klingon
 title: Decálogo para el Programador Klingon
+authors: [admin]
 wordpress_id: 468
 categories:
 - Humor

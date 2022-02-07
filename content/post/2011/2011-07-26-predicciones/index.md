@@ -1,5 +1,6 @@
 ---
 title: "Predicciones"
+authors: [admin]
 date: 2011-07-26T08:25:11-03:00
 slug: "predicciones"
 aliases: [/blog/2011/07/predicciones.html]

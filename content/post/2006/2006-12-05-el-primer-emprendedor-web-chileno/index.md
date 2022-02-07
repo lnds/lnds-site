@@ -1,5 +1,6 @@
 ---
 title: "El Primer Emprendedor Web Chileno"
+authors: [admin]
 date: 2006-12-05T08:25:11-03:00
 slug: "el-primer-emprendedor-web-chileno"
 aliases: [/blog/2006/12/el-primer-emprendedor-web-chileno.html]

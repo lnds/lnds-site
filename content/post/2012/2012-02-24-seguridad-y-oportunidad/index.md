@@ -1,5 +1,6 @@
 ---
 title: "Seguridad y oportunidad"
+authors: [admin]
 date: 2012-02-24T08:25:11-03:00
 slug: "seguridad-y-oportunidad"
 tags: ["seguridad", "md5", "criptografía"]

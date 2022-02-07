@@ -1,5 +1,6 @@
 ---
 title: "Diálogos anacrónicos"
+authors: [admin]
 date: 2011-01-23T18:25:11-03:00
 slug: "dialogos-anacronicos"
 draft: false

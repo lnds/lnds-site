@@ -1,5 +1,6 @@
 ---
 title: "Sobre los procesos"
+authors: [admin]
 date: 2010-05-27T18:25:11-03:00
 slug: "sobre-los-procesos"
 draft: false

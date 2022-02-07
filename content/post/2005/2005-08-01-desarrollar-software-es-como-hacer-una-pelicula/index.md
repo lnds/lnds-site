@@ -1,5 +1,6 @@
 ---
 title: "Desarrollar software es como hacer una película "
+authors: [admin]
 date: 2005-08-01T08:25:11-03:00
 slug: "desarrollar-software-es-como-hacer-una-pelicula"
 aliases: [/2005/08/desarrollar-software-es-como-hacer-una-pelicula.html, /blog/2005/08/desarrollar-software-es-como-hacer-una-pelicula.html]

@@ -1,5 +1,6 @@
 ---
 title: "¿Dónde estudiaste?"
+authors: [admin]
 date: 2010-10-10T08:25:11-03:00
 slug: "donde-estudiaste"
 tags: ['discriminación', 'historia', 'personal']

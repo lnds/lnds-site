@@ -1,5 +1,6 @@
 ---
 title: "Aprender a programar"
+authors: [admin]
 date: 2012-05-18T08:25:11-03:00
 slug: "aprender-a-programar"
 aliases: [/blog/2012/05/aprender-a-programar.html]

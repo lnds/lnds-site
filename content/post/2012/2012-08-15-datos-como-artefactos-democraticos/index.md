@@ -1,5 +1,6 @@
 ---
 title: "Datos Como Artefactos Democráticos"
+authors: [admin]
 date: 2012-08-15T12:25:11-03:00
 slug: "datos-como-artefactos-democraticos"
 tags: ["datos", "aniversario", "villano invitado"]

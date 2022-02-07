@@ -1,5 +1,6 @@
 ---
 title: "Resistance Is Futile"
+authors: [admin]
 date: 2012-02-09T08:25:11-03:00
 slug: "resistance-is-futile"
 tags: ["mac", "apple", "opensource"]

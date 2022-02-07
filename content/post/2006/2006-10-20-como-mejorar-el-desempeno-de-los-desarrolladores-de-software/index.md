@@ -4,6 +4,7 @@ date: 2006-10-20 12:15:15
 layout: post
 slug: como-mejorar-el-desempeno-de-los-desarrolladores-de-software
 title: Como mejorar el desempeño de los desarrolladores de software
+authors: [admin]
 wordpress_id: 2093
 categories:
 - Humor

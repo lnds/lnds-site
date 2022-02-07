@@ -4,6 +4,7 @@ date: 2008-06-01 20:38:22
 layout: post
 slug: la-informacion-de-los-senadores
 title: La Información de los Senadores
+authors: [admin]
 wordpress_id: 17
 categories:
 - Privacidad

@@ -1,5 +1,6 @@
 ---
 title: "El extraño caso de Ettore Majorana"
+authors: [admin]
 date: 2012-04-10T22:25:11-03:00
 slug: "el-extrano-caso-de-ettore-majorana"
 tags: ["historia", "física", "Majorana"]

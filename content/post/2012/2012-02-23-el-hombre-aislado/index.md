@@ -1,5 +1,6 @@
 ---
 title: "El hombre aislado"
+authors: [admin]
 date: 2012-02-23T08:25:11-03:00
 slug: "el-hombre-aislado"
 tags: ["ciencia", "Alan Turing", "citas"]

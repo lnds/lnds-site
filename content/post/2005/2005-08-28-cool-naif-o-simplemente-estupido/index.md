@@ -1,5 +1,6 @@
 ---
 title: "¿Cool, Naif o simplemente, estúpido?"
+authors: [admin]
 date: 2005-08-28T08:25:11-03:00
 slug: "cool-naif-o-simplemente-estupido"
 tags: ["herramientas"]

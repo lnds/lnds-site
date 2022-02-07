@@ -4,6 +4,7 @@ date: 2005-11-04 20:21:18
 layout: post
 slug: ulpn-3
 title: ULPN 3
+authors: [admin]
 wordpress_id: 179
 categories:
 - Educación

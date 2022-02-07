@@ -5,6 +5,7 @@ layout: post
 slug: error-de-razonamiento
 aliases: [/2005/10/error_de_razona.html]
 title: Error de Razonamiento
+authors: [admin]
 wordpress_id: 156
 categories:
 - Credibilidad

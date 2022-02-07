@@ -1,5 +1,6 @@
 ---
 title: "Glee, losers y copyrights"
+authors: [admin]
 date: 2010-08-08T18:25:11-03:00
 slug: "glee-losers-y-copyrights"
 tags: ['tv', 'copyright', 'humor']

@@ -1,5 +1,6 @@
 ---
 title: "33 Mineros"
+authors: [admin]
 date: 2010-08-22T18:25:11-03:00
 slug: "33-mineros"
 tags: ['sociedad']

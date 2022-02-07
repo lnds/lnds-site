@@ -1,5 +1,6 @@
 ---
 title: "Lo legítimo"
+authors: [admin]
 date: 2011-06-20T08:25:11-03:00
 slug: "lo-legitimo"
 aliases: [/blog/2011/06/lo-legitimo.html]

@@ -1,5 +1,6 @@
 ---
 title: "Diferencia"
+authors: [admin]
 date: 2013-01-31T08:25:11-03:00
 slug: "diferencia"
 tags: ["diferencia", "inspiración", "motivación"]

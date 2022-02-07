@@ -5,6 +5,7 @@ layout: post
 slug: ulpn-2
 aliases: [/2005/11/ulpn_2.html]
 title: ULPN 2
+authors: [admin]
 wordpress_id: 2020
 categories:
 - Educación

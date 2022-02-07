@@ -4,6 +4,7 @@ date: 2005-12-06 19:54:02
 layout: post
 slug: verba-publica
 title: Verba Pública
+authors: [admin]
 wordpress_id: 1490
 ---
 

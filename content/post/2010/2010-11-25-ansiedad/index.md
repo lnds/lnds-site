@@ -1,5 +1,6 @@
 ---
 title: "Ansiedad"
+authors: [admin]
 date: 2010-11-30T08:25:11-03:00
 slug: "ansiedad"
 tags: ['ansiedad', 'stress']

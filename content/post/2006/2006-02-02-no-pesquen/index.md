@@ -4,6 +4,7 @@ date: 2006-02-02 21:26:48
 layout: post
 slug: no-pesquen
 title: No pesquen
+authors: [admin]
 wordpress_id: 2064
 categories:
 - Tecnología

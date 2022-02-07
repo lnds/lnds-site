@@ -1,5 +1,6 @@
 ---
 title: "Internet en Chile ante la contingencia"
+authors: [admin]
 date: 2010-03-11T08:25:11-03:00
 slug: "internet-en-chile-ante-la-contingencia"
 tags: ['internet', 'Chile', 'contingencias']

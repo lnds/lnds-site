@@ -1,5 +1,6 @@
 ---
 title: "La expansión de la brecha digital 1"
+authors: [admin]
 date: 2005-08-20T10:25:11-03:00
 slug: "la-expansion-de-la-brecha-digital-1"
 tags: ["brecha digital", "internet", "tecnología"]

@@ -1,5 +1,6 @@
 ---
 title: "El analfabetismo digital del ministro"
+authors: [admin]
 date: 2008-05-11T08:25:11-03:00
 slug: "el-analfabetismo-digital-del-ministro"
 aliases: [/2008/05/el_analfabetismo_del_ministro.html]

@@ -1,5 +1,6 @@
 ---
 title: "Prosa"
+authors: [admin]
 date: 2014-07-16T08:25:11-03:00
 slug: "prosa"
 draft: false

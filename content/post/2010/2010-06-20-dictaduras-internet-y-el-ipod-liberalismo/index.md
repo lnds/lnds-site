@@ -1,5 +1,6 @@
 ---
 title: "Dictaduras, internet y el iPod-Liberalismo"
+authors: [admin]
 date: 2010-06-20T08:25:11-03:00
 slug: "dictaduras-internet-y-el-ipod-liberalismo"
 tags: ['hacktivismo', 'política']

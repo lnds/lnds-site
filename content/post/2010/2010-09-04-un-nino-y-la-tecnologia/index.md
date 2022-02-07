@@ -1,5 +1,6 @@
 ---
 title: "Un niño y la tecnología"
+authors: [admin]
 date: 2010-09-04T08:25:11-03:00
 slug: "un-nino-y-la-tecnologia"
 draft: false

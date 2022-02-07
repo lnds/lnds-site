@@ -1,5 +1,6 @@
 ---
 title: "Antología"
+authors: [admin]
 date: 2011-05-01T08:25:11-03:00
 slug: "antologia"
 aliases: [/blog/2011/05/antologia.html]

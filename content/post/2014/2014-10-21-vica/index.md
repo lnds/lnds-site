@@ -1,5 +1,6 @@
 ---
 title: "V.I.C.A."
+authors: [admin]
 date: 2014-10-21T08:25:11-03:00
 slug: "vica"
 aliases: [/blog/lnds/2014/3/24/diversidad]

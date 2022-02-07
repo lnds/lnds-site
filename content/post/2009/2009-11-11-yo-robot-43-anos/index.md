@@ -4,6 +4,7 @@ date: 2009-11-11 00:32:45
 layout: post
 slug: yo-robot-43-anos
 title: Yo Robot (43 años)
+authors: [admin]
 wordpress_id: 228
 categories:
 - General

@@ -1,5 +1,6 @@
 ---
 title: "Adios Chuquicamata"
+authors: [admin]
 date: 2007-09-02T08:25:11-03:00
 slug: "adios-chuquicamata"
 aliases: [/blog/2007/09/adios-chuquicamata-2.html]

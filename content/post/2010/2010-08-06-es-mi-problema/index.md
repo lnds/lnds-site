@@ -1,5 +1,6 @@
 ---
 title: "Es mi problema"
+authors: [admin]
 date: 2010-08-06T08:25:11-03:00
 slug: "es-mi-problema"
 tags: ['educación']

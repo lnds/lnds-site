@@ -1,5 +1,6 @@
 ---
 title: "P versus NP"
+authors: [admin]
 date: 2010-08-22T18:25:11-03:00
 slug: "p-versus-np"
 tags: ['p vs np', 'algoritmos', 'ciencia de la computación', 'matemáticas']

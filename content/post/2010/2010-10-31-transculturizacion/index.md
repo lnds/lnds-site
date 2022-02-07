@@ -1,5 +1,6 @@
 ---
 title: "Transculturización"
+authors: [admin]
 date: 2010-10-31T18:25:11-03:00
 slug: "transculturizacion"
 tags: ['cultura', 'halloween']

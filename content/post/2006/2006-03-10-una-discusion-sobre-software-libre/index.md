@@ -4,6 +4,7 @@ date: 2006-03-10 09:50:55
 layout: post
 slug: una-discusion-sobre-software-libre
 title: Una discusión sobre Software Libre
+authors: [admin]
 wordpress_id: 1364
 categories:
 - Software libre

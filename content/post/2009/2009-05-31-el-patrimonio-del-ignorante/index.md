@@ -4,6 +4,7 @@ date: 2009-05-31 13:34:28
 layout: post
 slug: el-patrimonio-del-ignorante
 title: El Patrimonio del Ignorante
+authors: [admin]
 wordpress_id: 188
 categories:
 - General

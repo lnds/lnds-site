@@ -4,6 +4,7 @@ date: 2006-01-13 13:35:34
 layout: post
 slug: las-especificaciones-del-ulpn
 title: Las especificaciones del ULPN
+authors: [admin]
 wordpress_id: 2052
 categories:
 - Educación

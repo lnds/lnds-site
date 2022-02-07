@@ -4,6 +4,7 @@ date: 2006-01-19 15:10:19
 layout: post
 slug: influencia-popularidad-y-relevancia
 title: Influencia, Popularidad y Relevancia
+authors: [admin]
 wordpress_id: 2040
 categories:
 - Emprendimiento

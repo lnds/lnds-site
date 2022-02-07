@@ -4,6 +4,7 @@ date: 2007-02-09 21:40:06
 layout: post
 slug: apuntes-sobre-ciber-socialismo-i
 title: Apuntes sobre Ciber Socialismo I
+authors: [admin]
 wordpress_id: 1787
 categories:
 - Cultura

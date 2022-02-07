@@ -4,6 +4,7 @@ date: 2009-02-03 08:49:39
 layout: post
 slug: la-creatividad-cambia-el-juego
 title: La Creatividad cambia el juego
+authors: [admin]
 wordpress_id: 303
 categories:
 - Emprendimiento

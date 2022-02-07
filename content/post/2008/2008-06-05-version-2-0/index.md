@@ -4,6 +4,7 @@ date: 2008-06-05 21:41:00
 layout: post
 slug: version-2-0
 title: Versión 2.0
+authors: [admin]
 wordpress_id: 14
 categories:
 - Humor

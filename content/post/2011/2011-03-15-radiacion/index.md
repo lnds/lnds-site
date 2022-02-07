@@ -1,5 +1,6 @@
 ---
 title: "Radiación"
+authors: [admin]
 date: 2011-03-15T08:25:11-03:00
 slug: "radiacion"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Confianza y Anarquía"
+authors: [admin]
 date: 2011-03-26T08:25:11-03:00
 slug: "confianza-y-anarquia"
 draft: false

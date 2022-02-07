@@ -1,5 +1,6 @@
 ---
 title: "Resultados vs Procesos"
+authors: [admin]
 date: 2015-06-13T08:25:11-03:00
 slug: "resultados-vs-procesos"
 tags: ['procesos', 'metas', 'objetivos']

@@ -1,5 +1,6 @@
 ---
 title: "El problema de paralelizar"
+authors: [admin]
 date: 2009-09-13T08:25:11-03:00
 slug: "el-problema-de-paralelizar"
 aliases: [/blog/lnds/2009/9/13/el-problema-de-paralelizar, /blog/2009/09/el-problema-de-paralelizar.html, /2009/09/el-problema-de-paralelizar.html]

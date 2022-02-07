@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Tres Buenas Prácticas para gestionar tu Código"
+authors: [admin]
 subtitle: "Y cómo automatizarlas"
 summary: ""
 authors: [admin]

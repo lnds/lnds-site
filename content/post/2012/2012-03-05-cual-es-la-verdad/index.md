@@ -1,5 +1,6 @@
 ---
 title: "¿Cuál es la verdad?"
+authors: [admin]
 date: 2012-03-05T22:25:11-03:00
 slug: "cual-es-la-verdad"
 tags: ["verdad", "noticias falsas", "greepeace"]

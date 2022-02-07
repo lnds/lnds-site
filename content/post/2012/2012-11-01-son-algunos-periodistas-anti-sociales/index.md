@@ -1,5 +1,6 @@
 ---
 title: "¿Son Algunos Periodistas Anti Sociales?"
+authors: [admin]
 date: 2012-11-01T12:25:11-03:00
 slug: "son-algunos-periodistas-anti-sociales"
 tags: ["periodismo", "prejuicios"]

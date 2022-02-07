@@ -1,5 +1,6 @@
 ---
 title: "blogmemes y meneame, dos sistemas distintos"
+authors: [admin]
 date: 2006-02-01T08:25:11-03:00
 slug: "blogmemes-y-meneame-dos-sistemas-distintos"
 aliases: [/2006/02/blogmemes_y_meneame_dos_sistemas_distint.html]

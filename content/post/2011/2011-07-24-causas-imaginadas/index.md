@@ -1,5 +1,6 @@
 ---
 title: "Causas Imaginadas"
+authors: [admin]
 date: 2011-10-22T08:25:11-03:00
 slug: "causas-imaginadas"
 aliases: [/blog/2011/07/causas-imaginadas.html]

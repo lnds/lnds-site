@@ -4,6 +4,7 @@ date: 2008-02-25 21:03:15
 layout: post
 slug: '%c2%bfjava-o-net'
 title: ¿Java o .Net?
+authors: [admin]
 wordpress_id: 48
 categories:
 - Desarrollo

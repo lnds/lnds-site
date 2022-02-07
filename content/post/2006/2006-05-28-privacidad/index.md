@@ -4,6 +4,7 @@ date: 2006-05-28 22:55:12
 layout: post
 slug: privacidad
 title: Privacidad
+authors: [admin]
 wordpress_id: 2073
 ---
 

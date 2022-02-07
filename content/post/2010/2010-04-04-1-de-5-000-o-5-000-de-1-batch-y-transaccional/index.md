@@ -1,5 +1,6 @@
 ---
 title: "1 de 5.000 ó 5.000 de 1 (batch y transaccional) "
+authors: [admin]
 date: 2010-04-04T08:25:11-03:00
 slug: "1-de-5-000-o-5-000-de-1-batch-y-transaccional"
 tags: ['procesos', 'algoritmos', 'programación']

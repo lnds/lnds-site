@@ -4,6 +4,7 @@ date: 2008-04-09 00:15:39
 layout: post
 slug: iveo-realidad-aumentada-desde-valparaiso
 title: 'IVEO: Realidad aumentada (desde Valparaiso)'
+authors: [admin]
 wordpress_id: 73
 categories:
 - Desarrollo

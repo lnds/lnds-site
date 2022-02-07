@@ -1,5 +1,6 @@
 ---
 title: "Dos hombres y una máquina universal"
+authors: [admin]
 subtitle: "Turing, Von Neumann y el origen de las computadoras"
 date: 2011-04-17T08:25:11-03:00
 slug: "dos-hombres-y-una-maquina-universal"

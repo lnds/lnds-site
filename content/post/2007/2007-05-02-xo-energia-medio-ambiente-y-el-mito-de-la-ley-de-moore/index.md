@@ -4,6 +4,7 @@ date: 2007-05-02 22:11:16
 layout: post
 slug: xo-energia-medio-ambiente-y-el-mito-de-la-ley-de-moore
 title: XO, Energía, Medio Ambiente y el Mito de la Ley de Moore
+authors: [admin]
 wordpress_id: 392
 ---
 

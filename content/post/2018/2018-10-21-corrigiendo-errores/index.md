@@ -1,6 +1,7 @@
 
 ---
 title: "Corrigiendo errores"
+authors: [admin]
 date: 2018-10-21T08:25:11-03:00
 slug: "corrigiendo-errores"
 tags: ["computador", "computadora", "ordenador"]

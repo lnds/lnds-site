@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Libros Del Mes: abril y mayo"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

@@ -1,5 +1,6 @@
 ---
 title: "¡Programa CTM!"
+authors: [admin]
 date: 2012-04-29T08:25:11-03:00
 slug: "programa-ctm"
 aliases: [/blog/2012/04/programa-ctm.html]

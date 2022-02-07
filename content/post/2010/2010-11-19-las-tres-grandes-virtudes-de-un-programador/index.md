@@ -1,5 +1,6 @@
 ---
 title: "Las tres grandes virtudes de un programador "
+authors: [admin]
 date: 2010-11-19T08:25:11-03:00
 slug: "las-tres-grandes-virtudes-de-un-programador"
 aliases: [/blog/2010/11/las-tres-grandes-virtudes-de-un-programador.html]

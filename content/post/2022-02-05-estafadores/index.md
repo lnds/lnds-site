@@ -1,5 +1,6 @@
 ---
 title: "Estafadores"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

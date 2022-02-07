@@ -1,5 +1,6 @@
 ---
 title: "La hora como un parámetro "
+authors: [admin]
 date: 2011-03-30T08:25:11-03:00
 slug: "la-hora-como-un-parametro"
 aliases: [/blog/2011/03/la-hora-como-un-parametro.html]

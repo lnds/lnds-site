@@ -1,5 +1,6 @@
 ---
 title: "Fake Plastic Rock"
+authors: [admin]
 date: 2010-08-08T18:25:11-03:00
 slug: "fake-plastic-rock"
 aliases: [/blog/2010/02/fake-plastic-rock.html]

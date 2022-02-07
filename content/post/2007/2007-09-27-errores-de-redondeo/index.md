@@ -5,6 +5,7 @@ layout: post
 slug: errores-de-redondeo
 aliases: [/2007/09/errores_de_redondeo.html]
 title: Errores de Redondeo
+authors: [admin]
 wordpress_id: 703
 categories:
 - La Naturaleza del Software

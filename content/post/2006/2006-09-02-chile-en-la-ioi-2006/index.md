@@ -5,6 +5,7 @@ layout: post
 slug: chile-en-la-ioi-2006
 aliases: [/2006/09/chile_en_la_ioi_2006.html]
 title: Chile en la IOI 2006
+authors: [admin]
 wordpress_id: 1766
 tags:
 - IOI

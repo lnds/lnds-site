@@ -4,6 +4,7 @@ date: 2008-03-31 21:19:19
 layout: post
 slug: popurri
 title: Popurrí
+authors: [admin]
 wordpress_id: 56
 categories:
 - General

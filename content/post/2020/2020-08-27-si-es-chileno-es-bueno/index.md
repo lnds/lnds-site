@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Si es chileno, ¿es bueno?"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

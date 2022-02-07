@@ -4,6 +4,7 @@ date: 2007-08-21 21:12:45
 layout: post
 slug: 'codigo-libre'
 title: ¿Código Libre?
+authors: [admin]
 wordpress_id: 1830
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Lecciones de RataTouille"
+authors: [admin]
 subtitle: "(aplicadas a la ingeniería de software)"
 date: 2007-07-01T08:25:11-03:00
 slug: "lecciones-de-ratatouille"

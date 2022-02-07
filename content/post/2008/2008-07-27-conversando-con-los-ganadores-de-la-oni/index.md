@@ -4,6 +4,7 @@ date: 2008-07-27 20:00:42
 layout: post
 slug: conversando-con-los-ganadores-de-la-oni
 title: Conversando con los ganadores de la ONI
+authors: [admin]
 wordpress_id: 697
 ---
 

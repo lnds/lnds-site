@@ -1,5 +1,6 @@
 ---
 title: "No es el código, estúpido!"
+authors: [admin]
 date: 2010-09-08T18:25:11-03:00
 slug: "no-es-el-codigo-estupido"
 tags: ['código', 'software', 'sesgos']

@@ -1,5 +1,6 @@
 ---
 title: "Frustración"
+authors: [admin]
 date: 2012-01-08T08:25:11-03:00
 slug: "frustracion"
 tags: ["reflexión", "frustración", "sentimientos"]

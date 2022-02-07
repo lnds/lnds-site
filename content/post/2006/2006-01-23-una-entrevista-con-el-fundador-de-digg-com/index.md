@@ -4,6 +4,7 @@ date: 2006-01-23 19:26:52
 layout: post
 slug: una-entrevista-con-el-fundador-de-digg-com
 title: Una entrevista con el fundador de Digg.com
+authors: [admin]
 wordpress_id: 324
 ---
 

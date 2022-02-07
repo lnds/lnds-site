@@ -1,5 +1,6 @@
 ---
 title: "Popups y pagos por internet en Chile"
+authors: [admin]
 date: 2011-03-23T08:25:11-03:00
 slug: "popups-y-pagos-por-internet-en-chile"
 draft: false

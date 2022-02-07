@@ -1,5 +1,6 @@
 ---
 title: "New Style"
+authors: [admin]
 date: 2013-01-15T08:25:11-03:00
 slug: "new-style"
 draft: false

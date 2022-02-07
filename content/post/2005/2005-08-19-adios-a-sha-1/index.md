@@ -1,5 +1,6 @@
 ---
 title: "Adios a SHA-1"
+authors: [admin]
 date: 2005-08-19T22:25:11-03:00
 slug: "adios-a-sha-1"
 tags: ["sha-1", "seguridad", "criptografía"]

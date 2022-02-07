@@ -4,6 +4,7 @@ date: 2006-09-19 13:03:39
 layout: post
 slug: el-papel-aguanta-todo
 title: El papel aguanta todo
+authors: [admin]
 wordpress_id: 1761
 categories:
 - Credibilidad

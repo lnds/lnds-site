@@ -1,5 +1,6 @@
 ---
 title: "Séptimo Aniversario"
+authors: [admin]
 date: 2012-08-01T22:25:11-03:00
 slug: "septimo-aniversario"
 tags: ["aniversario", "blogging"]

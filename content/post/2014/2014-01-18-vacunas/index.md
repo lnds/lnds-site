@@ -1,5 +1,6 @@
 ---
 title: "Vacunas"
+authors: [admin]
 date: 2014-01-18T08:25:11-03:00
 slug: "vacunas"
 tags: ["vacunas", "ciencia", "anti vacunas"]

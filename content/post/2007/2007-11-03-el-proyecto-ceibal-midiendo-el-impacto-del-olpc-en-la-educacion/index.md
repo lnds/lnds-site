@@ -4,6 +4,7 @@ date: 2007-11-03 21:55:32
 layout: post
 slug: el-proyecto-ceibal-midiendo-el-impacto-del-olpc-en-la-educacion
 title: El Proyecto CEIBAL - Midiendo el Impacto del OLPC en la educación
+authors: [admin]
 wordpress_id: 375
 categories:
 - Educación

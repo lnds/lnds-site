@@ -4,6 +4,7 @@ date: 2006-02-14 19:54:27
 layout: post
 slug: wifi_en_chile_crecio_en_un_120_el_2005
 title: Wifi en Chile, creció en un 120% el 2005
+authors: [admin]
 wordpress_id: 2060
 categories:
 - Internet

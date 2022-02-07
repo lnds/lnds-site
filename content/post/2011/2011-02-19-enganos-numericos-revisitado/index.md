@@ -1,5 +1,6 @@
 ---
 title: "Engaños numéricos (revisitado)"
+authors: [admin]
 date: 2011-02-19T08:25:11-03:00
 slug: "enganos-numericos-revisitado"
 draft: false

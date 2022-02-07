@@ -1,5 +1,6 @@
 ---
 title: "Cardumen"
+authors: [admin]
 date: 2012-03-22T22:25:11-03:00
 slug: "cardumen"
 tags: ["política", "frases"]

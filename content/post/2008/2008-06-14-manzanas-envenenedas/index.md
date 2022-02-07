@@ -4,6 +4,7 @@ date: 2008-06-14 10:51:41
 layout: post
 slug: manzanas-envenenedas
 title: manzanas envenenedas
+authors: [admin]
 wordpress_id: 11
 ---
 

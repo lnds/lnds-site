@@ -1,5 +1,6 @@
 ---
 title: "Empatía y el desktop linux"
+authors: [admin]
 date: 2012-08-30T08:25:11-03:00
 slug: "empatia-y-el-desktop-linux"
 tags: ["linux", "empatía", "usabilidad", "software libre"]

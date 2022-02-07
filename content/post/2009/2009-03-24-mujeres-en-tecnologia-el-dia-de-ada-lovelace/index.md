@@ -1,5 +1,6 @@
 ---
 title: "Mujeres en Tecnología, el Día de Ada Lovelace"
+authors: [admin]
 date: 2009-03-24T08:25:11-03:00
 slug: "mujeres-en-tecnología-el-día-de-ada-lovelace"
 aliases: [/blog/2009/03/mujeres-en-tecnologia-el-dia-de-ada-lovelace.html]

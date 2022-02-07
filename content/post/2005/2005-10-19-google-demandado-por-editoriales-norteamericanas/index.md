@@ -4,6 +4,7 @@ date: 2005-10-19 23:46:07
 layout: post
 slug: google-demandado-por-editoriales-norteamericanas
 title: Google demandado por editoriales norteamericanas
+authors: [admin]
 wordpress_id: 149
 categories:
 - Sin categoría

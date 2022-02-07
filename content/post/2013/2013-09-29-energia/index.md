@@ -1,5 +1,6 @@
 ---
 title: "Energía"
+authors: [admin]
 date: 2013-09-29T08:25:11-03:00
 slug: "energia"
 tags: ["charlas", "startechconf"]

@@ -4,6 +4,7 @@ date: 2008-08-26 19:08:51
 layout: post
 slug: impresentable
 title: Impresentable
+authors: [admin]
 wordpress_id: 789
 ---
 

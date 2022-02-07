@@ -1,5 +1,6 @@
 ---
 title: "Parece que están dejando de reirse..."
+authors: [admin]
 date: 2005-08-22T18:25:11-03:00
 slug: "parece-que-estan-dejando-de-reirse"
 tags: ["ciencia", "tecnología"]

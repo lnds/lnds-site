@@ -1,5 +1,6 @@
 ---
 title: "El free software es una ideología"
+authors: [admin]
 date: 2006-01-27T12:25:11-03:00
 slug: "el-free-software-es-una-ideologia"
 aliases: [/2006/01/el_free_software_es_una_ideologia.html]

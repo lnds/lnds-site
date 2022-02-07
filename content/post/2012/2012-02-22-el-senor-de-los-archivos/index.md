@@ -1,5 +1,6 @@
 ---
 title: "El Señor de los Archivos"
+authors: [admin]
 date: 2012-02-22T08:25:11-03:00
 slug: "el-senor-de-los-archivos"
 tags: ["github", "historia"]

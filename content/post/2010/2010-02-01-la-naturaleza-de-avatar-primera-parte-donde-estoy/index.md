@@ -1,5 +1,6 @@
 ---
 title: "La Naturaleza de Avatar, primera parte, ¿donde estoy?"
+authors: [admin]
 date: 2010-02-01T08:25:11-03:00
 slug: "la-naturaleza-de-avatar-primera-parte-donde-estoy"
 tags: ['arte', 'cine', 'tecnología']

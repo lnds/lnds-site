@@ -4,6 +4,7 @@ date: 2007-08-19 03:54:45
 layout: post
 slug: los-nombres-de-los-huracanes-2007
 title: Los Nombres de los Huracanes 2007
+authors: [admin]
 wordpress_id: 1822
 ---
 

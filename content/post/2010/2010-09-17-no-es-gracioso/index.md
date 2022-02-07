@@ -1,5 +1,6 @@
 ---
 title: "¿No es gracioso?"
+authors: [admin]
 date: 2010-09-17T18:25:11-03:00
 slug: "no-es-gracioso"
 tags: ['software libre', 'correlaciones', 'sesgos']

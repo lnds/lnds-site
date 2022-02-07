@@ -4,6 +4,7 @@ date: 2008-04-06 11:01:59
 layout: post
 slug: charlton-heston
 title: Charlton Heston
+authors: [admin]
 wordpress_id: 67
 categories:
 - Personajes

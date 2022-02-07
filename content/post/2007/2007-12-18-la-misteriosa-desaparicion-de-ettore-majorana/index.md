@@ -1,5 +1,6 @@
 ---
 title: "La misteriosa desaparición de Ettore Majorana"
+authors: [admin]
 date: 2007-12-18T08:25:11-03:00
 slug: "la-misteriosa-desaparicion-de-ettore-majorana"
 aliases: [/blog/2007/12/la-misteriosa-desaparicion-de-ettore-majorana.html]

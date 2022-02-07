@@ -1,5 +1,6 @@
 ---
 title: "¿Necesitas un ratón transgénico?"
+authors: [admin]
 date: 2005-08-08T10:25:11-03:00
 slug: "necesitas-un-raton-transgénico"
 tags: ["noticias falsas", "humor"]

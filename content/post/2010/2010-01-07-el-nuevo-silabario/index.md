@@ -1,5 +1,6 @@
 ---
 title: "El nuevo silabario"
+authors: [admin]
 date: 2010-01-07T18:25:11-03:00
 slug: "el-nuevo-silabario"
 tags: ['sociedad', 'educación']

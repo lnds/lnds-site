@@ -4,6 +4,7 @@ date: 2008-11-28 18:47:08
 layout: post
 slug: 'tiene-sentido-hablar-de-arquitectura-del-software'
 title: ¿Tiene sentido hablar de arquitectura del software?
+authors: [admin]
 wordpress_id: 353
 categories:
 - La Naturaleza del Software

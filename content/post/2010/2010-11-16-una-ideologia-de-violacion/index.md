@@ -1,5 +1,6 @@
 ---
 title: "Una Ideología de Violación"
+authors: [admin]
 date: 2010-11-16T08:25:11-03:00
 slug: "una-ideologia-de-violacion"
 tags: ["seguridad", "críticas", "controversias"]

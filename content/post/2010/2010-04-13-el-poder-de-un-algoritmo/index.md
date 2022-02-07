@@ -1,5 +1,6 @@
 ---
 title: "El poder de un algoritmo"
+authors: [admin]
 date: 2010-04-13T08:25:11-03:00
 slug: "el-poder-de-un-algoritmo"
 tags: ['algoritmos']

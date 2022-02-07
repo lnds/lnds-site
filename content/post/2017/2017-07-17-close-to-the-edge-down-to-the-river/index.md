@@ -1,5 +1,6 @@
 ---
 title: "Close to the Edge, down by the river"
+authors: [admin]
 subtitle: "9 desafíos en 9 lenguajes (4 de 9) parte 2"
 date: 2017-07-17T08:25:11-03:00
 slug: "close-to-the-edge-down-to-the-river"

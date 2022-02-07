@@ -4,6 +4,7 @@ date: 2008-06-19 23:30:00
 layout: post
 slug: visualizando-la-evolucion-del-software
 title: Visualizando la evolución del software
+authors: [admin]
 wordpress_id: 9
 categories:
 - Desarrollo

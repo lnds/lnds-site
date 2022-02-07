@@ -4,6 +4,7 @@ date: 2006-12-11 08:01:29
 layout: post
 slug: maneras-de-disminuir-el-tiempo-de-arranque-de-un-computador
 title: Maneras de disminuir el tiempo de arranque de un computador
+authors: [admin]
 wordpress_id: 1387
 ---
 

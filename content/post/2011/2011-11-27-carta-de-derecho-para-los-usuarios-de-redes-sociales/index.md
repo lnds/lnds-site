@@ -1,5 +1,6 @@
 ---
 title: "Carta de Derecho para los Usuarios de Redes Sociales"
+authors: [admin]
 date: 2011-11-23T08:25:11-03:00
 slug: "carta-de-derecho-para-los-usuarios-de-redes-sociales"
 tags: ['redes sociales', 'internet', 'derechos']

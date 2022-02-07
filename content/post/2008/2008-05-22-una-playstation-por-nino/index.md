@@ -4,6 +4,7 @@ date: 2008-05-22 11:59:41
 layout: post
 slug: una-playstation-por-nino
 title: Una PlayStation por niño
+authors: [admin]
 wordpress_id: 96
 categories:
 - Desarrollo

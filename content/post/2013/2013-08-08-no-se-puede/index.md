@@ -1,5 +1,6 @@
 ---
 title: "¡No se puede!"
+authors: [admin]
 date: 2013-08-08T08:25:11-03:00
 slug: "no-se-puede"
 aliases: [/blog/2013/08/no-se-puede.html]

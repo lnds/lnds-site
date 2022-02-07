@@ -4,6 +4,7 @@ date: 2007-02-05 21:07:23
 layout: post
 slug: el-nobel-de-informatica
 title: El Nobel de Informática
+authors: [admin]
 wordpress_id: 1409
 categories:
 - Ciencia

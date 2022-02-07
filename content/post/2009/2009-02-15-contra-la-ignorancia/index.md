@@ -1,5 +1,6 @@
 ---
 title: "Contra la Ignorancia"
+authors: [admin]
 subtitle: "**La ignorancia solo sabe perpetuarse**"
 date: 2009-02-15T08:25:11-03:00
 slug: "contra-la-ignorancia"

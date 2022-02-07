@@ -1,5 +1,6 @@
 ---
 title: "El mejor regalo para nuestros niños"
+authors: [admin]
 date: 2010-08-08T08:25:11-03:00
 slug: "el-mejor-regalo-para-nuestros-ninos"
 tags: ['niñez', 'regalos', 'educación']

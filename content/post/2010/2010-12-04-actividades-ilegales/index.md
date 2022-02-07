@@ -1,5 +1,6 @@
 ---
 title: "Actividades ilegales"
+authors: [admin]
 date: 2010-12-04T18:25:11-03:00
 slug: "actividades-ilegales"
 aliases: [/blog/2010/12/las-vulnerabilidades-de-wikileaks.html]

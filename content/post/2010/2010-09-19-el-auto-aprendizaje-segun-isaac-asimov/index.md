@@ -1,5 +1,6 @@
 ---
 title: "El auto aprendizaje, según Isaac Asimov"
+authors: [admin]
 date: 2010-09-19T18:25:11-03:00
 slug: "el-auto-aprendizaje-segun-isaac-asimov"
 tags: ['auto aprendizaje', 'Isaac Asimov', 'tecnología', 'internet']

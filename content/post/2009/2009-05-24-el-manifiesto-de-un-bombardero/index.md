@@ -1,5 +1,6 @@
 ---
 title: "El manifiesto de un bombardero"
+authors: [admin]
 date: 2009-05-24T08:25:11-03:00
 slug: "el-manifiesto-de-un-bombardero"
 aliases: [/blog/2009/05/el-manifiesto-de-un-bombardero.html]

@@ -4,6 +4,7 @@ date: 2006-03-04 12:14:25
 layout: post
 slug: email-de-ricardo-galli
 title: Email de Ricardo Galli
+authors: [admin]
 wordpress_id: 1357
 categories:
 - Sin categoría

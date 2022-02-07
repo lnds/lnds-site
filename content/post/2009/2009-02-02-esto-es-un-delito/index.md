@@ -4,6 +4,7 @@ date: 2009-02-02 20:08:04
 layout: post
 slug: esto-es-un-delito
 title: Esto es un delito
+authors: [admin]
 wordpress_id: 304
 ---
 

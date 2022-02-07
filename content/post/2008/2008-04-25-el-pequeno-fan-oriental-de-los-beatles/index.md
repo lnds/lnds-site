@@ -4,6 +4,7 @@ date: 2008-04-25 22:31:53
 layout: post
 slug: el-pequeno-fan-oriental-de-los-beatles
 title: El pequeño fan oriental de los Beatles
+authors: [admin]
 wordpress_id: 69
 categories:
 - Humor

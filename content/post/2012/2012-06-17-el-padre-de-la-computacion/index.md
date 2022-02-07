@@ -1,5 +1,6 @@
 ---
 title: "El Padre de la Computación"
+authors: [admin]
 date: 2012-06-17T08:25:11-03:00
 slug: "el-padre-de-la-computacion"
 aliases: [/blog/2012/06/el-padre-de-a-computacion.html]

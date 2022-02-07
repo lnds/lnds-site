@@ -1,5 +1,6 @@
 ---
 title: "Dulce venganza"
+authors: [admin]
 date: 2010-11-29T08:25:11-03:00
 slug: "dulce-venganza"
 tags: ['ansiedad', 'stress']

@@ -4,6 +4,7 @@ date: 2007-08-22 09:20:42
 layout: post
 slug: estandares-estandares
 title: Estándares, estándares...
+authors: [admin]
 wordpress_id: 1833
 ---
 

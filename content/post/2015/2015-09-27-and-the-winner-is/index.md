@@ -1,5 +1,6 @@
 ---
 title: "And the winner is ..."
+authors: [admin]
 date: 2015-09-27T08:25:11-03:00
 slug: "and-the-winner-is"
 aliases: [/blog/lnds/2015/9/27/and-the-winner-is]

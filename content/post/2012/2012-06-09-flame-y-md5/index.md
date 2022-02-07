@@ -1,5 +1,6 @@
 ---
 title: "Flame y MD5"
+authors: [admin]
 date: 2012-06-29T08:25:11-03:00
 slug: "flame-y-md5"
 tags: ["computación", "basic", "lenguajes de programación", "historia"]

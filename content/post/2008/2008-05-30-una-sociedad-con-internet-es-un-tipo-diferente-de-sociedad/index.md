@@ -4,6 +4,7 @@ date: 2008-05-30 00:20:15
 layout: post
 slug: una-sociedad-con-internet-es-un-tipo-diferente-de-sociedad
 title: Una sociedad con internet es un tipo diferente de sociedad
+authors: [admin]
 wordpress_id: 91
 categories:
 - Internet

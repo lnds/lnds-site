@@ -1,5 +1,6 @@
 ---
 title: "Filoctetes"
+authors: [admin]
 date: 2012-03-15T08:25:11-03:00
 slug: "filoctetes"
 aliases: [/blog/2012/03/filoctetes.html, /blog/2012/03/14/filoctetes/]

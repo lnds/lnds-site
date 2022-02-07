@@ -4,6 +4,7 @@ date: 2006-02-19 15:50:58
 layout: post
 slug: la-vida-sexual-del-calamar-gigante
 title: La vida sexual del Calamar Gigante
+authors: [admin]
 wordpress_id: 2058
 ---
 

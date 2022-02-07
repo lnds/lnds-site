@@ -1,5 +1,6 @@
 ---
 title: "Los Grandes Principios de la Computación"
+authors: [admin]
 date: 2010-06-28T08:25:11-03:00
 slug: "los-grandes-principios-de-la-computacion"
 tags: ['computación', 'principios']

@@ -4,6 +4,7 @@ date: 2005-09-20 18:06:47
 layout: post
 slug: 'firefox-mas-inseguro-que-internet-explorer'
 title: ¿Firefox mas inseguro que Internet Explorer?
+authors: [admin]
 wordpress_id: 1988
 categories:
 - Seguridad

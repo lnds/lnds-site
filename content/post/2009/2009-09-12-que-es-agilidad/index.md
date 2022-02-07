@@ -1,5 +1,6 @@
 ---
 title: "¿Qué es Agilidad?"
+authors: [admin]
 date: 2009-09-12T08:25:11-03:00
 slug: "que-es-agilidad"
 aliases: [/blog/2009/09/que-es-agilidad.html]

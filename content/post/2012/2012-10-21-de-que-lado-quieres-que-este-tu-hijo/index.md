@@ -1,5 +1,6 @@
 ---
 title: "¿De qué lado quieres que esté tu hijo?"
+authors: [admin]
 date: 2012-10-21T08:25:11-03:00
 slug: "de-que-lado-quieres-que-este-tu-hijo"
 tags: ["reflexión", "educación", "antivacunas"]

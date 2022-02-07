@@ -1,5 +1,6 @@
 ---
 title: "Cómo obtener el reporte del clima"
+authors: [admin]
 subtile: "9 desafíos en 9 lenguajes  (2 de 9, tercera parte)"
 date: 2016-06-21T08:25:11-03:00
 slug: "como-obtener-el-reporte-del-clima"

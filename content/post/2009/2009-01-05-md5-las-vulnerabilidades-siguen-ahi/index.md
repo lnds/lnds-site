@@ -1,5 +1,6 @@
 ---
 title: "MD5: las vulnerabilidades siguen ahí"
+authors: [admin]
 date: 2009-01-05T08:25:11-03:00
 slug: "md5-las-vulnerabilidades-siguen-ahi"
 aliases: [/blog/2009/01/md5-las-vulnerabilidades-siguen-ahi.html]

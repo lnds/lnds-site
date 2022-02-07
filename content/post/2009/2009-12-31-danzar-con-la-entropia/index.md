@@ -1,5 +1,6 @@
 ---
 title: "Danzar con la Entropía"
+authors: [admin]
 date: 2009-12-31T08:25:11-03:00
 slug: "danzar-con-la-entropia"
 tags: ['entropía']

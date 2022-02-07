@@ -4,6 +4,7 @@ date: 2009-06-26 20:53:34
 layout: post
 slug: la-cultura-es-la-tecnologia
 title: La cultura es la tecnología
+authors: [admin]
 wordpress_id: 265
 categories:
 - Cultura

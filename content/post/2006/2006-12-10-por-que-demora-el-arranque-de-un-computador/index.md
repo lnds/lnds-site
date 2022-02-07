@@ -4,6 +4,7 @@ date: 2006-12-10 02:50:50
 layout: post
 slug: '%c2%bfpor-que-demora-el-arranque-de-un-computador'
 title: ¿Por qué demora el arranque de un computador?
+authors: [admin]
 wordpress_id: 1384
 ---
 

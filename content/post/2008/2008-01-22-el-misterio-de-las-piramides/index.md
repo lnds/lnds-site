@@ -5,6 +5,7 @@ layout: post
 slug: el-misterio-de-las-piramides
 aliases: [/2008/01/el_misterio_de_las_piramides.html]
 title: El Misterio de las Pirámides
+authors: [admin]
 wordpress_id: 38
 categories:
 - Desarrollo

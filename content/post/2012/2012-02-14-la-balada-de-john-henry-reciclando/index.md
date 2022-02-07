@@ -1,5 +1,6 @@
 ---
 title: "La Balada de John Henry (reciclando)"
+authors: [admin]
 date: 2012-02-14T08:25:11-03:00
 slug: "la-balada-de-john-henry-reciclando"
 tags: ["máquinas", "leyendas", "historia"]

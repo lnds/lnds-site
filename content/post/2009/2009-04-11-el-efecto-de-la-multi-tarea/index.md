@@ -4,6 +4,7 @@ date: 2009-04-11 18:48:15
 layout: post
 slug: el-efecto-de-la-multi-tarea
 title: El efecto de la multi tarea
+authors: [admin]
 wordpress_id: 82
 categories:
 - La Brecha Intelectual

@@ -4,6 +4,7 @@ date: 2005-10-12 01:41:54
 layout: post
 slug: una-seria-falla-en-el-registro-de-windows
 title: Una seria falla en el registro de Windows
+authors: [admin]
 wordpress_id: 154
 ---
 

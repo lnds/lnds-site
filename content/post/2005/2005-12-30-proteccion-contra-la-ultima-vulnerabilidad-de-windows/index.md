@@ -4,6 +4,7 @@ date: 2005-12-30 10:47:19
 layout: post
 slug: proteccion-contra-la-ultima-vulnerabilidad-de-windows
 title: Proteccion contra la ultima vulnerabilidad de Windows
+authors: [admin]
 wordpress_id: 2034
 categories:
 - Seguridad

@@ -4,6 +4,7 @@ date: 2008-05-01 20:40:04
 layout: post
 slug: 30-anos-de-spam
 title: 30 Años de SPAM
+authors: [admin]
 wordpress_id: 200
 categories:
 - Humor

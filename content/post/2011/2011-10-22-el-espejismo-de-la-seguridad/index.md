@@ -1,5 +1,6 @@
 ---
 title: "El Espejismo de la Seguridad"
+authors: [admin]
 date: 2011-10-22T08:25:11-03:00
 slug: "el-espejismo-de-la-seguridad"
 aliases: [/blog/2011/10/el-espejismo-de-la-seguridad.html]

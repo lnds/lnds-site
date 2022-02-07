@@ -1,5 +1,6 @@
 ---
 title: "Vint Cerf"
+authors: [admin]
 date: 2011-11-21T08:25:11-03:00
 slug: "vint-cerf"
 tags: ['próceres', 'Vint Cerf', 'internet']

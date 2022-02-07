@@ -1,5 +1,6 @@
 ---
 title: "Las programadoras del ENIAC"
+authors: [admin]
 date: 2010-08-03T08:25:11-03:00
 slug: "las-programadoras-del-eniac"
 aliases: [/blog/lnds/2010/8/3/diversidad, /blog/2010/08/las-programadoras-del-eniac.html]

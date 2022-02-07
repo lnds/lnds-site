@@ -4,6 +4,7 @@ date: 2006-02-08 15:57:39
 layout: post
 slug: una-entrevista-a-los-creadores-de-blogalaxia
 title: Una entrevista a los creadores de BloGalaxia
+authors: [admin]
 wordpress_id: 1353
 categories:
 - Emprendimiento

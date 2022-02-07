@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Libros del Mes: Agosto y Septiembre"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

@@ -1,5 +1,6 @@
 ---
 title: "Linux en retroceso"
+authors: [admin]
 date: 2005-09-06T08:50:11-03:00
 slug: "linux-en-retroceso"
 tags: ["linux"]

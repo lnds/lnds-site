@@ -4,6 +4,7 @@ date: 2006-08-21 21:37:38
 layout: post
 slug: motivacion
 title: Motivación
+authors: [admin]
 wordpress_id: 331
 ---
 

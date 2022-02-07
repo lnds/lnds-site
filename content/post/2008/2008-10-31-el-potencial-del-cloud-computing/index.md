@@ -6,6 +6,7 @@ slug: el-potencial-del-cloud-computing
 aliases:
     - /2008/10/el_potencial_del_cloud_computing.html
 title: El potencial del Cloud Computing
+authors: [admin]
 subtitle: El debate sobre el negocio del Cloud Computing (II)
 wordpress_id: 359
 categories:

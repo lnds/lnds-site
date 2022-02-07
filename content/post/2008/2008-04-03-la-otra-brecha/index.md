@@ -4,6 +4,7 @@ date: 2008-04-03 22:28:35
 layout: post
 slug: la-otra-brecha
 title: La otra brecha
+authors: [admin]
 wordpress_id: 66
 categories:
 - General

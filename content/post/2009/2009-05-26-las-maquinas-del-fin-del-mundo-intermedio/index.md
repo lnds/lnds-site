@@ -4,6 +4,7 @@ date: 2009-05-26 20:53:24
 layout: post
 slug: las-maquinas-del-fin-del-mundo-intermedio
 title: Las máquinas del fin del mundo (intermedio)
+authors: [admin]
 wordpress_id: 191
 categories:
 - General

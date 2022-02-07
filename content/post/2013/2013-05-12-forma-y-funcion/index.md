@@ -1,5 +1,6 @@
 ---
 title: "Forma y Función"
+authors: [admin]
 date: 2013-05-12T08:25:11-03:00
 slug: "forma-y-funcion"
 aliases: [/blog/2013/05/forma-y-funcion.html]

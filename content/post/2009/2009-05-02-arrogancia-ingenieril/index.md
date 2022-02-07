@@ -4,6 +4,7 @@ date: 2009-05-02 12:38:42
 layout: post
 slug: arrogancia-ingenieril
 title: Arrogancia Ingenieril
+authors: [admin]
 wordpress_id: 274
 categories:
 - Credibilidad

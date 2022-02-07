@@ -4,6 +4,7 @@ date: 2005-10-19 21:14:17
 layout: post
 slug: wilma
 title: Wilma!!
+authors: [admin]
 wordpress_id: 2000
 categories:
 - Ciencia

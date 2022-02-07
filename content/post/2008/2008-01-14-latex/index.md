@@ -4,6 +4,7 @@ date: 2008-01-14 21:23:10
 layout: post
 slug: latex
 title: LaTeX
+authors: [admin]
 wordpress_id: 43
 categories:
 - Tecnología

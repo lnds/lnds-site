@@ -1,5 +1,6 @@
 ---
 title: "Deme su RUT"
+authors: [admin]
 date: 2009-05-19T08:25:11-03:00
 slug: "deme-su-rut"
 aliases: [/blog/2009/05/deme-su-rut.html]

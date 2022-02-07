@@ -1,5 +1,6 @@
 ---
 title: "Aprende a programar"
+authors: [admin]
 date: 2011-03-21T08:25:11-03:00
 slug: "aprende-a-programar"
 draft: false

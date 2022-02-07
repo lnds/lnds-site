@@ -1,5 +1,6 @@
 ---
 title: "El camino de Google"
+authors: [admin]
 date: 2005-10-15T08:25:11-03:00
 slug: "el-camino-de-google"
 aliases: [/2005/10/el-camino-de-google.html]

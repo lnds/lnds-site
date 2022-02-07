@@ -1,5 +1,6 @@
 ---
 title: "¿Qué es una arquitectura?"
+authors: [admin]
 date: 2011-07-02T08:25:11-03:00
 slug: "que-es-una-arquitectura"
 tags: ['charlas', 'arquitectura']

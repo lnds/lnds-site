@@ -1,5 +1,6 @@
 ---
 title: "Rock and Roll is a Risk"
+authors: [admin]
 date: 2017-06-17T08:25:11-03:00
 slug: "rock-and-roll-is-a-risk"
 aliases: [/blog/lnds/2017/6/17/rock-and-roll-is-a-risk]

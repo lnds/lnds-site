@@ -4,6 +4,7 @@ date: 2006-11-13 00:22:57
 layout: post
 slug: la-carta-de-jefferson-1
 title: La Carta de Jefferson (1)
+authors: [admin]
 wordpress_id: 1232
 categories:
 - Cultura

@@ -4,6 +4,7 @@ date: 2009-07-12 20:19:13
 layout: post
 slug: fuerza-bruta
 title: Fuerza bruta
+authors: [admin]
 wordpress_id: 252
 categories:
 - Seguridad

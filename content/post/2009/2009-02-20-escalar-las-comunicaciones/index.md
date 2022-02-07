@@ -4,6 +4,7 @@ date: 2009-02-20 07:44:06
 layout: post
 slug: escalar-las-comunicaciones
 title: Escalar las comunicaciones
+authors: [admin]
 wordpress_id: 293
 categories:
 - Paradigmas

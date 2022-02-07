@@ -1,5 +1,6 @@
 ---
 title: "Cambios"
+authors: [admin]
 date: 2007-07-27T08:25:11-03:00
 slug: "cambios"
 tags: ['blogging', 'cambios']

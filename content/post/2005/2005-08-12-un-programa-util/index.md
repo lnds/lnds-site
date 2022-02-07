@@ -1,5 +1,6 @@
 ---
 title: "Un programa útil"
+authors: [admin]
 date: 2005-08-12T08:25:11-03:00
 slug: "un-programa-util"
 tags: ["utiles", "programas"]

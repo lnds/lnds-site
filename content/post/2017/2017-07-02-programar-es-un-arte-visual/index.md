@@ -1,5 +1,6 @@
 ---
 title: "Programar es un Arte Visual"
+authors: [admin]
 date: 2017-07-02T08:25:11-03:00
 slug: "programar-es-un-arte-visual"
 aliases: [/blog/lnds/2017/7/2/programar-es-un-arte-visual]

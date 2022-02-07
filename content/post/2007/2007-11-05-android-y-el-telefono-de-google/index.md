@@ -4,6 +4,7 @@ date: 2007-11-05 16:45:29
 layout: post
 slug: android-y-el-telefono-de-google
 title: ANDROID y el teléfono de Google
+authors: [admin]
 wordpress_id: 376
 categories:
 - Tecnología

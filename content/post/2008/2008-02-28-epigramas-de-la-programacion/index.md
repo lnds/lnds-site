@@ -1,5 +1,6 @@
 ---
 title: "Epigramas de la Programación"
+authors: [admin]
 date: 2008-02-28T18:25:11-03:00
 slug: "epigramas-de-la-programacion"
 aliases: [/blog/2008/02/epigramas-de-la-programacion.html]

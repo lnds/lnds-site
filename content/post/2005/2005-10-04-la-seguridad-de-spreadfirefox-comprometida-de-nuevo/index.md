@@ -4,6 +4,7 @@ date: 2005-10-04 17:47:33
 layout: post
 slug: la-seguridad-de-spreadfirefox-comprometida-de-nuevo
 title: La seguridad de SpreadFirefox comprometida de nuevo
+authors: [admin]
 wordpress_id: 2005
 categories:
 - Seguridad

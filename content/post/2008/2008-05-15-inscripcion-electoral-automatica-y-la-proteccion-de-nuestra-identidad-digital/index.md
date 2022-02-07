@@ -4,6 +4,7 @@ date: 2008-05-15 20:07:11
 layout: post
 slug: inscripcion-electoral-automatica-y-la-proteccion-de-nuestra-identidad-digital
 title: Inscripción Electoral Automática, y la protección de nuestra identidad digital
+authors: [admin]
 wordpress_id: 194
 categories:
 - Identidad Digital

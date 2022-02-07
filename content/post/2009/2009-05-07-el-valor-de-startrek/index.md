@@ -4,6 +4,7 @@ date: 2009-05-07 21:38:30
 layout: post
 slug: el-valor-de-startrek
 title: El valor de StarTrek
+authors: [admin]
 wordpress_id: 272
 categories:
 - Cultura

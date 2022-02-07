@@ -1,5 +1,6 @@
 ---
 title: "El fin de la conversación"
+authors: [admin]
 date: 2010-10-25T08:25:11-03:00
 slug: "el-fin-de-la-conversacion"
 tags: ['lenguajes de programación', 'java', 'python']

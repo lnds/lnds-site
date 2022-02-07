@@ -4,6 +4,7 @@ date: 2005-12-06 14:33:46
 layout: post
 slug: la-reglas-de-oro-de-la-administracion-en-google
 title: La reglas de oro de la administración en Google
+authors: [admin]
 wordpress_id: 1494
 categories:
 - Emprendimiento

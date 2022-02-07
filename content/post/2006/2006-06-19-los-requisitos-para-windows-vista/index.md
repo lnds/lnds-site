@@ -4,6 +4,7 @@ date: 2006-06-19 15:43:41
 layout: post
 slug: los-requisitos-para-windows-vista
 title: Los requisitos para Windows Vista
+authors: [admin]
 wordpress_id: 2077
 ---
 

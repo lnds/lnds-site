@@ -1,5 +1,6 @@
 ---
 title: "Fin de Año"
+authors: [admin]
 date: 2011-12-31T08:25:11-03:00
 slug: "fin-de-ano"
 tags: ["tiempo", "reflexiones", "antología"]

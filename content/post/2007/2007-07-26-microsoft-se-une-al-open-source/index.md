@@ -4,6 +4,7 @@ date: 2007-07-26 21:24:18
 layout: post
 slug: microsoft-se-une-al-open-source
 title: Microsoft se une al Open Source
+authors: [admin]
 wordpress_id: 1318
 categories:
 - Desarrollo

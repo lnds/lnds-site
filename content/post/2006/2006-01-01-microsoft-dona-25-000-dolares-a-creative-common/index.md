@@ -4,6 +4,7 @@ date: 2006-01-01 10:56:51
 layout: post
 slug: microsoft-dona-25-000-dolares-a-creative-common
 title: Microsoft dona 25.000 dolares a Creative Common
+authors: [admin]
 wordpress_id: 2042
 tags:
 - creative commons

@@ -1,5 +1,6 @@
 ---
 title: "Los problemas de un plebiscito"
+authors: [admin]
 date: 2011-10-08T08:25:11-03:00
 slug: "los-problemas-de-un-plebiscito"
 tags: ['política']

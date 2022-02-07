@@ -4,6 +4,7 @@ date: 2009-01-03 17:39:11
 layout: post
 slug: el-plagio-de-fernando-ubiergo
 title: El Plagio de Fernando Ubiergo
+authors: [admin]
 wordpress_id: 318
 ---
 

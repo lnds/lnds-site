@@ -5,6 +5,7 @@ layout: post
 slug: perdoname-san-ignucius
 aliases: [/2006/03/perdoname_san_ignucius.html]
 title: Perdóname San Ignucius!!!!
+authors: [admin]
 wordpress_id: 1359
 categories:
 - Sin categoría

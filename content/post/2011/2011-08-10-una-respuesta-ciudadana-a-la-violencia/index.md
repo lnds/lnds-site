@@ -1,5 +1,6 @@
 ---
 title: "Una respuesta ciudadana a la violencia"
+authors: [admin]
 date: 2011-08-10T08:25:11-03:00
 slug: "una-respuesta-ciudadana-a-la-violencia"
 tags: ['violencia', 'política']

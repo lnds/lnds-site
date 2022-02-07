@@ -1,5 +1,6 @@
 ---
 title: "Todo está en tu cabeza"
+authors: [admin]
 date: 2010-12-11T08:25:11-03:00
 slug: "todo-esta-en-tu-cabeza"
 aliases: [/blog/2010/12/todo-esta-en-tu-cabeza.html]

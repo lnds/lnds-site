@@ -1,5 +1,6 @@
 ---
 title: "Quién es responsable por la calidad?"
+authors: [admin]
 date: 2018-05-06T08:25:11-03:00
 slug: "quien-es-responsable-por-la-calidad"
 aliases: [/blog/lnds/2018/5/6/quien-es-responsable-por-la-calidad]

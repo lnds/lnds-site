@@ -1,5 +1,6 @@
 ---
 title: "Condiciones necesarias"
+authors: [admin]
 date: 2011-07-20T08:25:11-03:00
 slug: "condiciones-necesarias"
 aliases: [/blog/lnds/2011/7/20/condiciones-necesarias, /blog/2011/07/condiciones-necesarias.html]

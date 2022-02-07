@@ -4,6 +4,7 @@ date: 2008-09-15 21:59:27
 layout: post
 slug: el-principio-de-robustez
 title: El Principio de Robustez
+authors: [admin]
 wordpress_id: 1306
 categories:
 - General

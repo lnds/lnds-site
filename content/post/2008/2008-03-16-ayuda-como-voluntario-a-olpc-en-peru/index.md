@@ -4,6 +4,7 @@ date: 2008-03-16 21:30:08
 layout: post
 slug: ayuda-como-voluntario-a-olpc-en-peru
 title: Ayuda como voluntario a OLPC en Perú
+authors: [admin]
 wordpress_id: 63
 categories:
 - Educación

@@ -4,6 +4,7 @@ date: 2007-12-24 08:15:42
 layout: post
 slug: la-magia-de-innovar
 title: La magia de innovar
+authors: [admin]
 wordpress_id: 386
 categories:
 - Tecnología

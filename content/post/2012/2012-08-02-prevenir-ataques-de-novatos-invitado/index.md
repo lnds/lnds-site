@@ -1,5 +1,6 @@
 ---
 title: "Prevenir Ataques de Novatos (invitado)"
+authors: [admin]
 date: 2012-08-02T22:25:11-03:00
 slug: "prevenir-ataques-de-novatos-invitado"
 tags: ["seguridad", "blogging", "villano invitado"]

@@ -1,5 +1,6 @@
 ---
 title: "Campamento de Verano Ateo"
+authors: [admin]
 date: 2009-07-01T12:25:11-03:00
 slug: "campamento-de-verano-ateo"
 aliases: [/blog/2009/07/campamento-de-verano-ateo.html]

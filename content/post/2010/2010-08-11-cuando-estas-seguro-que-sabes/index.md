@@ -1,5 +1,6 @@
 ---
 title: "Cuándo estás seguro que sabes"
+authors: [admin]
 date: 2010-08-22T18:25:11-03:00
 slug: "cuando-estás-seguro-que-sabes"
 tags: ['sabiduría', 'aprendizaje', 'citas']

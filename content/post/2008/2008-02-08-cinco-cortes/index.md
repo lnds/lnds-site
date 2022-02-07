@@ -4,6 +4,7 @@ date: 2008-02-08 16:25:57
 layout: post
 slug: '%c2%a1cinco-cortes'
 title: ¡Cinco cortes!
+authors: [admin]
 wordpress_id: 52
 categories:
 - Seguridad

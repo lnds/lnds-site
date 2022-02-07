@@ -5,6 +5,7 @@ layout: post
 slug: 'fracaso'
 aliases: [/2005/09/fracaso.html]
 title: ¿Fracaso?
+authors: [admin]
 wordpress_id: 133
 categories:
 - Desarrollo

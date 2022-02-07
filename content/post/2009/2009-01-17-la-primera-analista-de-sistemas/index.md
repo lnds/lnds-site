@@ -1,5 +1,6 @@
 ---
 title: "La primera analista de sistemas"
+authors: [admin]
 date: 2009-01-17T08:25:11-03:00
 slug: "la-primera-analista-de-sistemas"
 aliases: [/2009/01/la-primera-analista-de-sistemas.html]

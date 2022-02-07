@@ -1,5 +1,6 @@
 ---
 title: "Lars Armstrong acusado de dopping despues de 6 años!"
+authors: [admin]
 date: 2005-09-07T18:50:11-03:00
 slug: "lars-armstrong-acusado-de-dopping-despues-de-6-anos-ilegal"
 tags: ["privacidad"]

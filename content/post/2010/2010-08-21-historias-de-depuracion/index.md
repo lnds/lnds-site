@@ -1,5 +1,6 @@
 ---
 title: "Historias de Depuración"
+authors: [admin]
 slug: "historias-de-depuracion"
 date: 2010-08-21T08:25:11-03:00
 tags: ['depuración', 'anécdotas', 'trabajo']

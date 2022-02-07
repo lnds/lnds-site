@@ -1,5 +1,6 @@
 ---
 title: "Red Hat JBoss Summit 2011"
+authors: [admin]
 date: 2011-05-04T08:25:11-03:00
 slug: "red-hat-jboss-summit-2011"
 aliases: [/blog/2011/05/red-hat-jboss-summit-2011.html]

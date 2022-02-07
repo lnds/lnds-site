@@ -1,5 +1,6 @@
 ---
 title: "El proyecto cacho"
+authors: [admin]
 date: 2014-06-10T08:25:11-03:00
 slug: "el-proyecto-cacho"
 aliases: [/blog/lnds/2014/6/10/el-proyecto-cacho]

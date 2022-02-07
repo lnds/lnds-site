@@ -6,6 +6,7 @@ slug: por-que-no-uso-productos-apple
 aliases:
 - /blog/2009/03/por-que-no-uso-productos-apple.html
 title: Por qué no uso productos Apple
+authors: [admin]
 wordpress_id: 276
 categories:
 - Humor

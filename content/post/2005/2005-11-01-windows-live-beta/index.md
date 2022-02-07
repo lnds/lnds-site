@@ -4,6 +4,7 @@ date: 2005-11-01 20:30:25
 layout: post
 slug: windows-live-beta
 title: Windows Live Beta
+authors: [admin]
 wordpress_id: 2032
 categories:
 - Internet

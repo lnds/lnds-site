@@ -4,6 +4,7 @@ date: 2009-06-05 21:42:49
 layout: post
 slug: la-libertad-es-el-derecho-a-elegir
 title: La libertad es el derecho a elegir
+authors: [admin]
 wordpress_id: 259
 categories:
 - Educación

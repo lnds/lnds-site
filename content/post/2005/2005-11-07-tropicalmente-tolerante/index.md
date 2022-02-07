@@ -4,6 +4,7 @@ date: 2005-11-07 07:27:11
 layout: post
 slug: tropicalmente-tolerante
 title: Tropicalmente tolerante
+authors: [admin]
 wordpress_id: 177
 ---
 

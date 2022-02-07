@@ -4,6 +4,7 @@ date: 2009-04-19 12:24:18
 layout: post
 slug: '%c2%a1no-voy-a-arreglar-tu-pc'
 title: ¡No voy a arreglar tu PC!
+authors: [admin]
 wordpress_id: 79
 categories:
 - Humor

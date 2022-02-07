@@ -4,6 +4,7 @@ date: 2009-04-27 22:07:10
 layout: post
 slug: el-desafio-del-codigo-morse
 title: El desafío del código morse
+authors: [admin]
 wordpress_id: 75
 categories:
 - Programación

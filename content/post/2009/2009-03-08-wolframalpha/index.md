@@ -4,6 +4,7 @@ date: 2009-03-08 13:08:16
 layout: post
 slug: wolframalpha
 title: WolframAlpha ?
+authors: [admin]
 wordpress_id: 286
 ---
 

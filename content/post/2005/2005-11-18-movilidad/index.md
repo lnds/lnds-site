@@ -4,6 +4,7 @@ date: 2005-11-18 08:11:28
 layout: post
 slug: movilidad
 title: Movilidad
+authors: [admin]
 wordpress_id: 2010
 categories:
 - La Brecha Tecnológica

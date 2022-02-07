@@ -4,6 +4,7 @@ date: 2005-11-28 17:41:32
 layout: post
 slug: adios-john-vlissides
 title: Adiós John Vlissides
+authors: [admin]
 wordpress_id: 164
 categories:
 - Paradigmas

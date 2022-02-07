@@ -4,6 +4,7 @@ date: 2007-04-01 09:58:48
 layout: post
 slug: las-leyes-de-la-identidad-1
 title: Las Leyes de la Identidad 1
+authors: [admin]
 wordpress_id: 335
 categories:
 - Identidad Digital

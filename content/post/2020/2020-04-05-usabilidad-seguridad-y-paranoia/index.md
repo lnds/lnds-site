@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Usabilidad, Seguridad Y Paranoia"
+authors: [admin]
 subtitle: ""
 summary: "Zoom y la gestión de riesgos en tiempos de pandemia"
 authors: [admin]

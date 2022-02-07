@@ -4,6 +4,7 @@ date: 2005-11-04 18:46:47
 layout: post
 slug: ulpn
 title: ULPN
+authors: [admin]
 wordpress_id: 2018
 categories:
 - Educación

@@ -4,6 +4,7 @@ date: 2005-11-16 18:15:10
 layout: post
 slug: ya-tenemos-prototipo
 title: Ya tenemos prototipo
+authors: [admin]
 wordpress_id: 170
 ---
 

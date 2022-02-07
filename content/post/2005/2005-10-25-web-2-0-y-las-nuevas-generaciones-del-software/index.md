@@ -4,6 +4,7 @@ date: 2005-10-25 15:30:32
 layout: post
 slug: web-2-0-y-las-nuevas-generaciones-del-software
 title: Web 2.0 y las nuevas generaciones del software
+authors: [admin]
 wordpress_id: 1472
 categories:
 - Sin categoría

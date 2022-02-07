@@ -1,5 +1,6 @@
 ---
 title: "Robots Auto replicantes"
+authors: [admin]
 date: 2005-08-25T10:25:11-03:00
 slug: "robots-auto-replicantes"
 aliases: [/2005/08/robots_auto_rep.html]

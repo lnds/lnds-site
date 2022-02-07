@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Goodbye Stranger"
+authors: [admin]
 subtitle: "lo único constante es el cambio"
 summary: ""
 authors: [admin]

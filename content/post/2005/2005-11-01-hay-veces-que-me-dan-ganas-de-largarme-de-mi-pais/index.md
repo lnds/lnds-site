@@ -4,6 +4,7 @@ date: 2005-11-01 21:33:02
 layout: post
 slug: hay-veces-que-me-dan-ganas-de-largarme-de-mi-pais
 title: Hay veces que me dan ganas de largarme de mi país
+authors: [admin]
 wordpress_id: 2028
 categories:
 - Educación

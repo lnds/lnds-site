@@ -4,6 +4,7 @@ date: 2007-06-29 20:42:26
 layout: post
 slug: 'puede-cuba-tener-acceso-al-olpc-posicion-oficial-de-la-olpc'
 title: ¿Puede Cuba tener acceso al OLPC? Posición oficial de la OLPC
+authors: [admin]
 wordpress_id: 390
 ---
 

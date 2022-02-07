@@ -1,5 +1,6 @@
 ---
 title: "Vectores"
+authors: [admin]
 subtitle: "9 desafíos en 9 lenguajes (3 de 9)"
 date: 2017-01-02T08:25:11-03:00
 slug: "vectores"

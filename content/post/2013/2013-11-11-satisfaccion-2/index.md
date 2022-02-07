@@ -1,5 +1,6 @@
 ---
 title: "Satisfacción"
+authors: [admin]
 date: 2013-11-11T08:25:11-03:00
 slug: "satisfaccion-2"
 aliases: [/blog/2013/11/satisfaccion.html]

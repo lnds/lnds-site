@@ -1,5 +1,6 @@
 ---
 title: "¿Importa si el software es abierto?"
+authors: [admin]
 date: 2005-11-03T08:25:11-03:00
 slug: "importa-si-el-software-es-abierto"
 tags: ["software libre", "open source"]

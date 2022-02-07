@@ -1,5 +1,6 @@
 ---
 title: "Un mísero detalle técnico"
+authors: [admin]
 date: 2010-11-07T08:25:11-03:00
 slug: "un-misero-detalle-tecnico"
 tags: ['política', 'voto electrónico']

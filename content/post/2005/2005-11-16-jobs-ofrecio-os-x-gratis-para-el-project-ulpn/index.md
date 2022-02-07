@@ -4,6 +4,7 @@ date: 2005-11-16 11:49:04
 layout: post
 slug: jobs-ofrecio-os-x-gratis-para-el-project-ulpn
 title: Jobs ofrecio OS X gratis para el project ULPN
+authors: [admin]
 wordpress_id: 2012
 categories:
 - Educación

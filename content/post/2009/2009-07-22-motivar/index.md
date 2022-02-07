@@ -4,6 +4,7 @@ date: 2009-07-22 22:19:37
 layout: post
 slug: motivar
 title: Motivar
+authors: [admin]
 wordpress_id: 249
 categories:
 - Cultura

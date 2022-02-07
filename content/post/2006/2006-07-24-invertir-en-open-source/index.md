@@ -4,6 +4,7 @@ date: 2006-07-24 13:41:03
 layout: post
 slug: invertir-en-open-source
 title: Invertir en Open Source
+authors: [admin]
 wordpress_id: 330
 ---
 

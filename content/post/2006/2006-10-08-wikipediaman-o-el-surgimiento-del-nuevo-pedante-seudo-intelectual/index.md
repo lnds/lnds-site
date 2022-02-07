@@ -1,5 +1,6 @@
 ---
 title: "WikiPediaMan, o el surgimiento del Nuevo Pedante Seudo Intelectual "
+authors: [admin]
 date: 2006-10-08T08:25:11-03:00
 slug: "wikipediaman-o-el-surgimiento-del-nuevo-pedante-seudo-intelectual"
 aliases: [/blog/2006/10/wikipediaman-o-el-surgimiento-del-nuevo-pedante-seudo-intelectual.html, /2006/10/wikipediaman_o_el_surgimiento_del_nuevo.html]

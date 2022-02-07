@@ -1,5 +1,6 @@
 ---
 title: "Un nuevo blog"
+authors: [admin]
 date: 2010-04-05T08:25:11-03:00
 slug: "un-nuevo-blog"
 tags: ['blogging']

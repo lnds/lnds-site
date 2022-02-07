@@ -4,6 +4,7 @@ date: 2009-11-18 20:00:41
 layout: post
 slug: uruguay-uruguay
 title: Uruguay, Uruguay
+authors: [admin]
 wordpress_id: 226
 categories:
 - Educación

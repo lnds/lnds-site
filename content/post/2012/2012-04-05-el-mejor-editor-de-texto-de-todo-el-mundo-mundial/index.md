@@ -1,5 +1,6 @@
 ---
 title: "El mejor editor de texto de todo el mundo mundial"
+authors: [admin]
 date: 2012-04-05T08:25:11-03:00
 slug: "el-mejor-editor-de-texto-de-todo-el-mundo-mundial"
 aliases: [/blog/2012/04/el-mejor-editor-de-texto-de-todo-el-mundo-mundial.html]

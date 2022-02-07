@@ -1,5 +1,6 @@
 ---
 title: "¡Factura CTM!"
+authors: [admin]
 date: 2014-11-16T08:25:11-03:00
 slug: "factura-ctm"
 tags: ["emprendimiento"]

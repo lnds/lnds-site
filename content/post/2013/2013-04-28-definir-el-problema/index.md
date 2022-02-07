@@ -1,5 +1,6 @@
 ---
 title: "Definir El Problema"
+authors: [admin]
 date: 2013-04-28T08:25:11-03:00
 slug: "definir-el-problema"
 aliases: [/blog/2013/04/definir-el-problema.html]

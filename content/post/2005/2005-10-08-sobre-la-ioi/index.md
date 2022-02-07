@@ -4,6 +4,7 @@ date: 2005-10-08 17:05:09
 layout: post
 slug: sobre-la-ioi
 title: Sobre la IOI
+authors: [admin]
 wordpress_id: 157
 categories:
 - Educación

@@ -4,6 +4,7 @@ date: 2007-10-10 18:43:11
 layout: post
 slug: precision
 title: Precisión
+authors: [admin]
 wordpress_id: 1110
 categories:
 - Programación

@@ -4,6 +4,7 @@ date: 2005-11-14 17:49:35
 layout: post
 slug: cripto-biometria
 title: Cripto Biometria
+authors: [admin]
 wordpress_id: 2015
 categories:
 - Biometría

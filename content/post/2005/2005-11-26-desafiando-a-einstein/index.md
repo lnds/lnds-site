@@ -4,6 +4,7 @@ date: 2005-11-26 11:01:55
 layout: post
 slug: desafiando-a-einstein
 title: Desafiando a Einstein
+authors: [admin]
 wordpress_id: 165
 categories:
 - Ciencia

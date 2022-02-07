@@ -6,6 +6,7 @@ slug: bob_metcalfe_es_uno_de
 aliases:
 - /2008/01/bob_metcalfe_es_uno_de.html
 title: Efecto Red
+authors: [admin]
 wordpress_id: 42
 categories:
 - General

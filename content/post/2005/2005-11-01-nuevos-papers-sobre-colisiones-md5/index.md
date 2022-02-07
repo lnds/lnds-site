@@ -4,6 +4,7 @@ date: 2005-11-01 20:40:25
 layout: post
 slug: nuevos-papers-sobre-colisiones-md5
 title: Nuevos papers sobre colisiones MD5
+authors: [admin]
 wordpress_id: 181
 categories:
 - Seguridad

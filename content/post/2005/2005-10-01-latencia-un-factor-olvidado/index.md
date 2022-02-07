@@ -4,6 +4,7 @@ date: 2005-10-01 17:28:53
 layout: post
 slug: latencia-un-factor-olvidado
 title: Latencia, un factor olvidado
+authors: [admin]
 wordpress_id: 162
 categories:
 - Internet

@@ -1,5 +1,6 @@
 ---
 title: "Desde siempre..."
+authors: [admin]
 date: 2011-10-18T08:25:11-03:00
 slug: "desde-siempre"
 tags: ['citas', 'Charles Babbage']

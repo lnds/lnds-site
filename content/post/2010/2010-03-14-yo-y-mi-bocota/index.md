@@ -1,5 +1,6 @@
 ---
 title: "Yo y mi bocota..."
+authors: [admin]
 date: 2010-03-14T08:25:11-03:00
 slug: "yo-y-mi-bocota"
 aliases: [/blog/2010/03/yo-y-mi-bocota.html]

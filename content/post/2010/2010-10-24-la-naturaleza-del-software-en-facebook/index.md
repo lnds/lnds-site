@@ -1,5 +1,6 @@
 ---
 title: "La Naturaleza del Software en Facebook"
+authors: [admin]
 date: 2010-10-24T08:25:11-03:00
 slug: "la-naturaleza-del-software-en-facebook"
 tags: ['facebook', 'redes sociales']

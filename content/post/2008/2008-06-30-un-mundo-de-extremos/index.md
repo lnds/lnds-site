@@ -1,5 +1,6 @@
 ---
 title: "Un Mundo de Extremos"
+authors: [admin]
 date: 2008-06-30T08:25:11-03:00
 slug: "un-mundo-de-extremos"
 aliases: [/2008/06/un-mundo-de-extremos.html]

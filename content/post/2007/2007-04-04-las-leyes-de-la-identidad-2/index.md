@@ -5,6 +5,7 @@ layout: post
 slug: las-leyes-de-la-identidad-2
 aliases: [/2007/04/las_leyes_de_la_identidad_2.html]
 title: Las Leyes de la Identidad 2
+authors: [admin]
 wordpress_id: 336
 categories:
 - Identidad Digital

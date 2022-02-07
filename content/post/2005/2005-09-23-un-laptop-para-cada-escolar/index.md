@@ -4,6 +4,7 @@ date: 2005-09-23 16:16:22
 layout: post
 slug: un-laptop-para-cada-escolar
 title: UN LAPTOP PARA CADA ESCOLAR
+authors: [admin]
 wordpress_id: 134
 categories:
 - Educación

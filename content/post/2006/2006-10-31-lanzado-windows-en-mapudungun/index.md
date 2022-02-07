@@ -4,6 +4,7 @@ date: 2006-10-31 13:44:17
 layout: post
 slug: lanzado_windows_en_mapudungun
 title: Lanzado Windows en Mapudungun
+authors: [admin]
 wordpress_id: 1577
 categories:
 - La Brecha Tecnológica

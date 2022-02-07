@@ -4,6 +4,7 @@ date: 2006-08-31 21:45:23
 layout: post
 slug: tiempo
 title: Tiempo
+authors: [admin]
 wordpress_id: 2089
 categories:
 - Sin categoría

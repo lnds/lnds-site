@@ -4,6 +4,7 @@ date: 2008-03-13 09:44:11
 layout: post
 slug: los-principios-inmutables-del-desarrollo-de-software
 title: Los principios inmutables del desarrollo de software
+authors: [admin]
 wordpress_id: 64
 categories:
 - Personajes

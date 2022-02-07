@@ -1,5 +1,6 @@
 ---
 title: "Las leyes fundamentales de la estupidez humana"
+authors: [admin]
 date: 2017-11-26T08:25:11-03:00
 slug: "las-leyes-fundamentales-de-la-estupidez-humana"
 draft: false

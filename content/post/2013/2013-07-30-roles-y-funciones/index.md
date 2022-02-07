@@ -1,5 +1,6 @@
 ---
 title: "Roles y Funciones"
+authors: [admin]
 date: 2013-07-30T08:25:11-03:00
 slug: "roles-y-funciones"
 aliases: [/blog/2013/07/roles-y-funciones.html]

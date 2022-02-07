@@ -1,5 +1,6 @@
 ---
 title: "A propósito de NO, la película"
+authors: [admin]
 date: 2012-08-02T22:25:11-03:00
 slug: "a-propósito-de-no-la-película"
 tags: ["historia", "política"]

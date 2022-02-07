@@ -1,5 +1,6 @@
 ---
 title: "La programación como un Arte (Parte I)"
+authors: [admin]
 date: 2009-12-01T08:25:11-03:00
 slug: "la-programacion-como-un-arte-parte-i"
 aliases: [/2009/12/la-programacion-como-un-arte-parte-i.html]

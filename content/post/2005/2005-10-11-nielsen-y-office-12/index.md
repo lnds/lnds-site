@@ -4,6 +4,7 @@ date: 2005-10-11 13:18:25
 layout: post
 slug: nielsen-y-office-12
 title: Nielsen y Office 12
+authors: [admin]
 wordpress_id: 155
 categories:
 - Usabilidad

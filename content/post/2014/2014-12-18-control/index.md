@@ -1,5 +1,6 @@
 ---
 title: "Control"
+authors: [admin]
 subtitle: "mejora paso a paso"
 date: 2014-12-18T08:25:11-03:00
 slug: "control"

@@ -1,5 +1,6 @@
 ---
 title: "Vida Plena"
+authors: [admin]
 date: 2011-09-04T08:25:11-03:00
 slug: "vida-plena"
 tags: ["reflexión", "muerte", "Felipe Camiroaga"]

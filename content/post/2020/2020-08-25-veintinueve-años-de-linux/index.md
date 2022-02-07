@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Veintinueve Años De Linux"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

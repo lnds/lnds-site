@@ -1,5 +1,6 @@
 ---
 title: "Tortugas y Ranas"
+authors: [admin]
 date: 2012-11-19T08:25:11-03:00
 slug: "tortugas-y-ranas"
 aliases: [/blog/2012/11/tortugas-y-ranas.html]

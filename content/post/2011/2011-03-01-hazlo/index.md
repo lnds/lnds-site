@@ -1,5 +1,6 @@
 ---
 title: "Hazlo"
+authors: [admin]
 date: 2011-03-01T18:25:11-03:00
 slug: "hazlo"
 aliases: [/blog/lnds/2011/3/1/hazlo, /blog/2011/03/hazlo.html]

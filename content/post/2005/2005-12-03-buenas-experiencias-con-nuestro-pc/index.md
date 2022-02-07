@@ -4,6 +4,7 @@ date: 2005-12-03 12:07:37
 layout: post
 slug: buenas-experiencias-con-nuestro-pc
 title: Buenas experiencias con Nuestro PC
+authors: [admin]
 wordpress_id: 186
 ---
 

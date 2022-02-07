@@ -4,6 +4,7 @@ date: 2008-02-12 10:31:57
 layout: post
 slug: bloguear-con-los-pies
 title: Bloguear con los pies
+authors: [admin]
 wordpress_id: 50
 categories:
 - General

@@ -4,6 +4,7 @@ date: 2009-10-14 13:23:44
 layout: post
 slug: convenciones-de-codificacion
 title: Convenciones de codificación
+authors: [admin]
 wordpress_id: 233
 categories:
 - Humor

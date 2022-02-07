@@ -1,5 +1,6 @@
 ---
 title: "Inactivismo digital"
+authors: [admin]
 date: 2010-08-24T08:25:11-03:00
 slug: "inactivismo-digital-2"
 aliases: [/blog/2010/08/inactivismo-digital-2.html]

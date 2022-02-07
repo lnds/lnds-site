@@ -4,6 +4,7 @@ date: 2009-08-28 13:51:39
 layout: post
 slug: ti-transparencia-e-informacion-hacia-el-gobierno-abierto
 title: 'TI: Transparencia e Información, hacia el gobierno abierto'
+authors: [admin]
 wordpress_id: 239
 categories:
 - Desarrollo

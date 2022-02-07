@@ -4,6 +4,7 @@ date: 2006-01-27 13:40:39
 layout: post
 slug: la-raiz-de-todos-los-males
 title: La raiz de todos los males
+authors: [admin]
 wordpress_id: 327
 categories:
 - Software libre

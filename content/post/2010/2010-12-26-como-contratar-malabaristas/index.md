@@ -1,5 +1,6 @@
 ---
 title: "Cómo contratar malabaristas"
+authors: [admin]
 date: 2010-12-26T08:25:11-03:00
 slug: "como-contratar-malabaristas"
 aliases: [/blog/2010/12/como-contratar-malabaristas.html]

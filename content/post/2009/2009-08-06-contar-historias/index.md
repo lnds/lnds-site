@@ -4,6 +4,7 @@ date: 2009-08-06 10:49:20
 layout: post
 slug: contar-historias
 title: Contar Historias
+authors: [admin]
 wordpress_id: 242
 categories:
 - Arte

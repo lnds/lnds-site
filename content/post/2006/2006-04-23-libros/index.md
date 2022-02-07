@@ -4,6 +4,7 @@ date: 2006-04-23 22:02:57
 layout: post
 slug: libros
 title: Libros
+authors: [admin]
 wordpress_id: 1371
 categories:
 - Cultura

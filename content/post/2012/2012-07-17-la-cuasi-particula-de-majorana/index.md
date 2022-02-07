@@ -1,5 +1,6 @@
 ---
 title: "La (cuasi) Partícula de Majorana"
+authors: [admin]
 date: 2012-07-17T22:25:11-03:00
 slug: "la-cuasiparticula-de-majorana"
 tags: ["Majorana", "física"]

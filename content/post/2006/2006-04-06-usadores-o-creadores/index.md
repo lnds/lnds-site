@@ -4,6 +4,7 @@ date: 2006-04-06 11:09:20
 layout: post
 slug: 'usadores-o-creadores'
 title: ¿Usadores o Creadores?
+authors: [admin]
 wordpress_id: 1738
 categories:
 - Sin categoría

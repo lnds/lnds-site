@@ -4,6 +4,7 @@ date: 2009-01-29 15:52:50
 layout: post
 slug: inactivismo-digital
 title: Inactivismo digital
+authors: [admin]
 ---
 
 > La segunda ley de la termodinámica establece que para todo sistema cerrado, el "caos interno" (o las interacciones de las componentes internas del sistema), indefectiblemente llegarán a un punto de "equilibrio", donde el sistema se transforma en una "masa tibia", al no existir transferencias de calor (energía).

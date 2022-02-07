@@ -4,6 +4,7 @@ date: 2009-07-10 11:50:53
 layout: post
 slug: la-interfaz-estupida-es-la-mas-usable
 title: La interfaz estúpida es la más usable
+authors: [admin]
 wordpress_id: 253
 categories:
 - Usabilidad

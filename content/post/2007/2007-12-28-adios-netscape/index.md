@@ -4,6 +4,7 @@ date: 2007-12-28 09:32:39
 layout: post
 slug: adios-netscape
 title: Adios Netscape
+authors: [admin]
 wordpress_id: 388
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "Una máquina de Turing hecha con legos"
+authors: [admin]
 date: 2012-06-19T22:25:11-03:00
 slug: "una-maquina-de-turing-hecha-con-legos"
 tags: ["computación", "máquina de Turing", "Alan Turing"]

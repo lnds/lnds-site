@@ -4,6 +4,7 @@ date: 2005-11-21 11:53:12
 layout: post
 slug: 'prioridades-o-pereza'
 title: ¿Prioridades o Pereza?
+authors: [admin]
 wordpress_id: 169
 ---
 

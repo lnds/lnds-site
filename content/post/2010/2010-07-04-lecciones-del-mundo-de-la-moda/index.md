@@ -1,5 +1,6 @@
 ---
 title: "Lecciones del mundo de la moda"
+authors: [admin]
 date: 2010-07-04T08:25:11-03:00
 slug: "lecciones-del-mundo-de-la-moda"
 tags: ['industria', 'copyright']

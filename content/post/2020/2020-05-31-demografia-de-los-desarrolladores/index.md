@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Diversidad en el Desarrollo de Software: ¡estamos muy mal!"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

@@ -4,6 +4,7 @@ date: 2008-02-29 17:54:48
 layout: post
 slug: laptops-para-escolares-peruanos-se-distribuiran-a-partir-del-10-de-marzo
 title: Laptops para escolares peruanos se distribuirán a partir del 10 de marzo
+authors: [admin]
 wordpress_id: 44
 categories:
 - Educación

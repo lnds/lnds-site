@@ -1,5 +1,6 @@
 ---
 title: "¡no insistáis tanto en el inglés!"
+authors: [admin]
 date: 2011-05-29T08:25:11-03:00
 slug: "no-insistais-tanto-en-el-ingles"
 draft: false

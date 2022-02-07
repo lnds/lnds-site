@@ -1,5 +1,6 @@
 ---
 title: "Detén el reloj, aplasta al \"bicho\""
+authors: [admin]
 date: 2010-05-27T08:25:11-03:00
 slug: "deten-el-reloj-aplasta-al-bicho"
 tags: ['bugs', 'programación']

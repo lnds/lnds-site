@@ -1,5 +1,6 @@
 ---
 title: "Uhura"
+authors: [admin]
 date: 2012-02-26T08:25:11-03:00
 slug: "uhura"
 aliases: [/blog/2012/02/uhura.html]

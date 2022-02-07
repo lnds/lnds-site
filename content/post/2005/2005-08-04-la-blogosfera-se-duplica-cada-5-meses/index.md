@@ -1,5 +1,6 @@
 ---
 title: "La Blogosfera se duplica cada 5 meses"
+authors: [admin]
 date: 2005-08-04T18:25:11-03:00
 slug: "la-blogosfera-se-duplica-cada-5-meses"
 tags: ["blogging", "blogosfera"]

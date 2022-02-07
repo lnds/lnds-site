@@ -4,6 +4,7 @@ date: 2007-03-10 15:18:28
 layout: post
 slug: 23-medidas-para-el-transantiago
 title: 23 medidas para el Transantiago
+authors: [admin]
 wordpress_id: 1789
 ---
 

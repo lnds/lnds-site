@@ -1,5 +1,6 @@
 ---
 title: "Cuatro cosas mínimas"
+authors: [admin]
 date: 2013-01-19T08:25:11-03:00
 slug: "cuatro-cosas-minimas"
 aliases: [/blog/2013/01/cuatro-cosas-minimas.html]

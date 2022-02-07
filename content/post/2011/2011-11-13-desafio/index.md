@@ -1,5 +1,6 @@
 ---
 title: "Desafío"
+authors: [admin]
 date: 2011-11-13T08:25:11-03:00
 slug: "desafio"
 tags: ['desafios', 'probabilidades']

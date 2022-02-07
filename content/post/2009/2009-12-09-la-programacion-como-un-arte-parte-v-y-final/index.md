@@ -1,5 +1,6 @@
 ---
 title: "La programación como un Arte (Parte V y final)"
+authors: [admin]
 date: 2009-12-09T08:25:11-03:00
 slug: "la-programacion-como-un-arte-parte-v-y-final"
 tags: ['arte', 'programación']

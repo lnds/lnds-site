@@ -1,5 +1,6 @@
 ---
 title: "Feliz Día de los Programadores"
+authors: [admin]
 subtitle: "(y un mini desafío)" 
 date: 2015-09-13T08:25:11-03:00
 slug: "feliz-dia-de-los-programadores"

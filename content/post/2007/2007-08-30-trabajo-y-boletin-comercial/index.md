@@ -4,6 +4,7 @@ date: 2007-08-30 15:09:06
 layout: post
 slug: trabajo-y-boletin-comercial
 title: Trabajo y Boletín Comercial
+authors: [admin]
 wordpress_id: 1171
 ---
 

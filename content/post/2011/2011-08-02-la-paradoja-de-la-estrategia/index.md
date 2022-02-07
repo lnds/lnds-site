@@ -1,5 +1,6 @@
 ---
 title: "La Paradoja de la Estrategia"
+authors: [admin]
 date: 2011-08-02T08:25:11-03:00
 slug: "la-paradoja-de-la-estrategia"
 aliases: [/blog/2011/08/la-paradoja-de-la-estrategia.html]

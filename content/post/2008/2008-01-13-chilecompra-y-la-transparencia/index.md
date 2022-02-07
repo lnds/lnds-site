@@ -4,6 +4,7 @@ date: 2008-01-13 13:46:06
 layout: post
 slug: chilecompra-y-la-transparencia
 title: ChileCompra y la transparencia
+authors: [admin]
 wordpress_id: 1515
 categories:
 - Credibilidad

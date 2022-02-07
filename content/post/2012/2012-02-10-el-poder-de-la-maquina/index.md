@@ -1,5 +1,6 @@
 ---
 title: "El poder de la máquina"
+authors: [admin]
 date: 2012-02-10T08:25:11-03:00
 slug: "el-poder-de-la-maquina"
 tags: ["máquinas", "tecnología", "historia"]

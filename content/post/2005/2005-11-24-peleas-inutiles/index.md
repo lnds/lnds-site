@@ -4,6 +4,7 @@ date: 2005-11-24 10:37:59
 layout: post
 slug: peleas-inutiles
 title: Peleas inútiles
+authors: [admin]
 wordpress_id: 166
 categories:
 - Educación

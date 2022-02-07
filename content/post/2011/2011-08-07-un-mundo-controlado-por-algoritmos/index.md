@@ -1,5 +1,6 @@
 ---
 title: "Un mundo controlado por algoritmos"
+authors: [admin]
 date: 2011-08-07T08:25:11-03:00
 slug: "un-mundo-controlado-por-algoritmos"
 tags: ['algoritmos', 'tecnología', 'amenazas']

@@ -1,5 +1,6 @@
 ---
 title: "Aforismos"
+authors: [admin]
 date: 2011-02-25T08:25:11-03:00
 slug: "aforismos"
 draft: false

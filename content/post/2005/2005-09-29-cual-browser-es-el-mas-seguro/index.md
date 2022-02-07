@@ -4,6 +4,7 @@ date: 2005-09-29 19:32:59
 layout: post
 slug: cual-browser-es-el-mas-seguro
 title: Cual Browser es el más seguro?
+authors: [admin]
 wordpress_id: 1457
 categories:
 - Internet

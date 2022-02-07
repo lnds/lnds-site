@@ -1,5 +1,6 @@
 ---
 title: "¿Cómo somos los chilenos?"
+authors: [admin]
 date: 2010-09-15T18:25:11-03:00
 slug: "como-somos-los-chilenos"
 tags: ['software libre', 'correlaciones', 'sesgos']

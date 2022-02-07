@@ -1,5 +1,6 @@
 ---
 title: "Todo aquello que está mal"
+authors: [admin]
 date: 2015-05-31T08:25:11-03:00
 slug: "todo-aquello-que-está-mal"
 aliases: [/blog/lnds/2015/5/31/todo-aquello-que-está-mal]

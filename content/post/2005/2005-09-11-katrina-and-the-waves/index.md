@@ -1,5 +1,6 @@
 ---
 title: "Katrina and the waves"
+authors: [admin]
 date: 2005-09-09T08:50:11-03:00
 slug: "katrina-and-the-waves"
 tags: ["clima", "huracanes", "desastres"]

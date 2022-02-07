@@ -1,5 +1,6 @@
 ---
 title: "Escuchar"
+authors: [admin]
 date: 2011-08-06T08:25:11-03:00
 slug: "escuchar"
 aliases: [/blog/2011/08/escuchar.html]

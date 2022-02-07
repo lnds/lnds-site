@@ -4,6 +4,7 @@ date: 2005-11-01 09:55:31
 layout: post
 slug: reflexion
 title: Reflexión
+authors: [admin]
 wordpress_id: 182
 ---
 

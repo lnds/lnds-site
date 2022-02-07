@@ -1,5 +1,6 @@
 ---
 title: "Utilidad, Belleza y Firmeza"
+authors: [admin]
 date: 2013-06-08T08:25:11-03:00
 slug: "utilidad-belleza-y-firmeza"
 aliases: [/blog/2013/06/utilidad-belleza-firmeza.html]

@@ -1,5 +1,6 @@
 ---
 title: "Todo por un condensador variable"
+authors: [admin]
 date: 2008-01-18T08:25:11-03:00
 slug: "todo-por-un-condensador-variable"
 aliases: [/blog/2008/04/todo-por-un-condensador-variable.html, /2008/04/todo-por-un-condensador-variable.html]

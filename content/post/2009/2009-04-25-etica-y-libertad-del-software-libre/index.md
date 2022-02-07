@@ -4,6 +4,7 @@ date: 2009-04-25 13:00:47
 layout: post
 slug: etica-y-libertad-del-software-libre
 title: Ética y libertad del software libre
+authors: [admin]
 wordpress_id: 77
 categories:
 - Software libre

@@ -1,5 +1,6 @@
 ---
 title: "¿Y qué pasó con facebook?"
+authors: [admin]
 date: 2010-12-28T08:25:11-03:00
 slug: "y-que-paso-con-facebook"
 tags: ["facebook"]

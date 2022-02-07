@@ -4,6 +4,7 @@ date: 2006-09-26 20:24:38
 layout: post
 slug: not-so-smarty
 title: Not so Smarty
+authors: [admin]
 wordpress_id: 2091
 ---
 

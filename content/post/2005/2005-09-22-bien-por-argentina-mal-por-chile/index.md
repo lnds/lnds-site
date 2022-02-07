@@ -4,6 +4,7 @@ date: 2005-09-22 14:40:30
 layout: post
 slug: bien-por-argentina-mal-por-chile
 title: Bien por Argentina, Mal por Chile
+authors: [admin]
 wordpress_id: 136
 ---
 

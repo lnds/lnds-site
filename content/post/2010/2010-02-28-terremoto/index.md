@@ -2,6 +2,7 @@
 date: 2010-02-28 18:06:47
 layout: post
 title: "Terremoto"
+authors: [admin]
 comments: true
 ---
 La madrugada del sábado 27 de **febrero** de 2010 fue uno de los

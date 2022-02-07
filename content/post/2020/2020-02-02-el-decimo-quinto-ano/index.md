@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "El Decimo Quinto Año"
+authors: [admin]
 subtitle: "re inicio"
 summary: ""
 authors: [admin]

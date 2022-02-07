@@ -1,5 +1,6 @@
 ---
 title: "La leyenda del bolígrafo espacial"
+authors: [admin]
 date: 2005-08-04T20:25:11-03:00
 slug: "la-leyenda-del-bolígrafo-espacial"
 aliases: [/blog/2005/08/la-leyenda-del-boligrafo-espacial.html]

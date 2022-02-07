@@ -1,5 +1,6 @@
 ---
 title: "Una dualidad fundamental en ingeniería de software"
+authors: [admin]
 date: 2012-10-16T12:25:11-03:00
 slug: "una-dualidad-fundamental-en-ingenieria-de-software"
 tags: ["ingeniería de software", "incerteza"]

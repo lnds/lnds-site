@@ -1,5 +1,6 @@
 ---
 title: "Linus Torvalds on GIT"
+authors: [admin]
 date: 2010-06-22T08:25:11-03:00
 slug: "linus-torvalds-on-git"
 tags: ['supersticiones', 'política']

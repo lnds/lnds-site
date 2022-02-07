@@ -1,5 +1,6 @@
 ---
 title: "El Efecto Elop"
+authors: [admin]
 date: 2013-01-08T08:25:11-03:00
 slug: "el-efecto-elop"
 aliases: [/blog/2013/01/el-efecto-elop.html]

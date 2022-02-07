@@ -1,5 +1,6 @@
 ---
 title: "Las ruinas de Troya y otros errores periodísticos"
+authors: [admin]
 date: 2012-11-18T12:25:11-03:00
 slug: "las-ruinas-de-troya-y-otros-errores-periodisticos"
 tags: ["periodismo", "medida"]

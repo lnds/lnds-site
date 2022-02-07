@@ -1,5 +1,6 @@
 ---
 title: "El mundo es concurrente..."
+authors: [admin]
 date: 2012-06-15T22:25:11-03:00
 slug: "el-mundo-es-concurrente"
 tags: ["concurrencia", "Joe Armstrong", "citas", "próceres"]

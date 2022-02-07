@@ -1,5 +1,6 @@
 ---
 title: "Sindicar"
+authors: [admin]
 date: 2005-08-04T08:25:11-03:00
 slug: "sindicar"
 tags: ["programar", "agilidad", "rant"]

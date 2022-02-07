@@ -4,6 +4,7 @@ date: 2008-11-11 00:02:34
 layout: post
 slug: 42-anos
 title: 42 Años
+authors: [admin]
 wordpress_id: 356
 tags:
 - celebración

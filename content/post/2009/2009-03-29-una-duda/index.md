@@ -4,6 +4,7 @@ date: 2009-03-29 22:54:56
 layout: post
 slug: una-duda
 title: Una duda
+authors: [admin]
 wordpress_id: 87
 categories:
 - Humor

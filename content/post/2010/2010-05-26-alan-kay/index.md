@@ -1,5 +1,6 @@
 ---
 title: "Alan Kay"
+authors: [admin]
 date: 2010-05-26T08:25:11-03:00
 slug: "alan-kay"
 aliases: [/blog/2010/05/alan-kay.html]

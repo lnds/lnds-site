@@ -1,5 +1,6 @@
 ---
 title: "El problema del \"powered by\""
+authors: [admin]
 date: 2005-08-26T08:25:11-03:00
 slug: "el-problema-del-powered-by"
 tags: ["seguridad"]

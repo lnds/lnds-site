@@ -4,6 +4,7 @@ date: 2005-11-10 12:47:22
 layout: post
 slug: todos-pueden-ganar
 title: Todos pueden ganar
+authors: [admin]
 wordpress_id: 174
 categories:
 - Internet

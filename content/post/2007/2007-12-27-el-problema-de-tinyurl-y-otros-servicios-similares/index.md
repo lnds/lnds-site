@@ -1,5 +1,6 @@
 ---
 title: "El problema de tinyurl y otros servicios similares"
+authors: [admin]
 date: 2007-12-27T08:25:11-03:00
 slug: "el-problema-de-tinyurl-y-otros-servicios-similares"
 aliases: [/2007/12/el-problema-de-tinyurl-y-otros-servicios.html]

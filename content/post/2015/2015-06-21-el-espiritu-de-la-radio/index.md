@@ -1,5 +1,6 @@
 ---
 title: "El Espíritu de la Radio"
+authors: [admin]
 date: 2015-06-21T08:25:11-03:00
 slug: "el-espiritu-de-la-radio"
 tags: ['familia', 'rush', 'radio', 'rock', 'recuerdos']

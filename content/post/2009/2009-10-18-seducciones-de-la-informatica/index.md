@@ -4,6 +4,7 @@ date: 2009-10-18 13:05:44
 layout: post
 slug: seducciones-de-la-informatica
 title: Seducciones de la Informática
+authors: [admin]
 wordpress_id: 231
 categories:
 - Ciencia

@@ -1,5 +1,6 @@
 ---
 title: "¿Humanware?"
+authors: [admin]
 date: 2006-11-02T08:25:11-03:00
 slug: "humanware"
 aliases: [/2006/11/humanware.html]

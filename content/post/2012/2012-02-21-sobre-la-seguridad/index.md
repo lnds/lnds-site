@@ -1,5 +1,6 @@
 ---
 title: "Sobre la Seguridad"
+authors: [admin]
 date: 2012-02-21T08:25:11-03:00
 slug: "sobre-la-seguridad"
 aliases: [/blog/2012/02/sobre-la-seguridad.html]

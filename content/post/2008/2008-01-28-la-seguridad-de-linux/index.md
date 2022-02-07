@@ -4,6 +4,7 @@ date: 2008-01-28 12:47:01
 layout: post
 slug: la-seguridad-de-linux
 title: La Seguridad de Linux
+authors: [admin]
 wordpress_id: 33
 categories:
 - Credibilidad

@@ -4,6 +4,7 @@ date: 2006-11-30 20:14:29
 layout: post
 slug: linus-torvalds-el-pragmatico
 title: Linus Torvalds el Pragmático
+authors: [admin]
 wordpress_id: 1227
 categories:
 - Software libre

@@ -1,5 +1,6 @@
 ---
 title: "Pero con todo, fallamos"
+authors: [admin]
 date: 2010-10-17T08:25:11-03:00
 slug: "pero-con-todo-fallamos"
 tags: ['fallos', 'entendimiento']

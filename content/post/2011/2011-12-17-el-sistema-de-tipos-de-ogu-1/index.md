@@ -1,5 +1,6 @@
 ---
 title: "El sistema de tipos de Ogu (1)"
+authors: [admin]
 date: 2011-12-17T08:25:11-03:00
 slug: "El sistema de tipos de Ogu (1)"
 tags: ['compiladores', 'ogú', 'lenguajes']

@@ -1,5 +1,6 @@
 ---
 title: "Influencias"
+authors: [admin]
 date: 2011-07-13T08:25:11-03:00
 slug: "influencias"
 aliases: [/blog/2011/07/influencias.html]

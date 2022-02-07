@@ -1,5 +1,6 @@
 ---
 title: "El camino de la innovación"
+authors: [admin]
 date: 2013-02-15T08:25:11-03:00
 slug: "el-camino-de-la-innovacion"
 aliases: [/blog/2013/02/el-camino-de-la-innovacion.html]

@@ -1,5 +1,6 @@
 ---
 title: "No Soy Spock"
+authors: [admin]
 date: 2015-03-02T08:25:11-03:00
 slug: "no-soy-spock"
 aliases: [/blog/lnds/2015/3/2/no-soy-spock]

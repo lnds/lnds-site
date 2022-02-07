@@ -4,6 +4,7 @@ date: 2005-12-02 13:18:26
 layout: post
 slug: diez-razones-para-amar-a-microsoft
 title: Diez razones para amar a Microsoft
+authors: [admin]
 wordpress_id: 183
 categories:
 - Humor

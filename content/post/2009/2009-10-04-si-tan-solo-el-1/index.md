@@ -4,6 +4,7 @@ date: 2009-10-04 21:45:32
 layout: post
 slug: si-tan-solo-el-1
 title: Si tan sólo el 1%...
+authors: [admin]
 wordpress_id: 237
 categories:
 - Anumerismo

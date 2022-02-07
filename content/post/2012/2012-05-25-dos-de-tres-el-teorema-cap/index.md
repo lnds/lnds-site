@@ -1,5 +1,6 @@
 ---
 title: "Dos de Tres: El Teorema CAP"
+authors: [admin]
 date: 2012-05-25T08:25:11-03:00
 slug: "dos-de-tres-el-teorema-cap"
 aliases: [/blog/lnds/2012/5/25/dos-de-tres-el-teorema-cap, /blog/2012/05/dos-de-tres.html]

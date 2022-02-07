@@ -4,6 +4,7 @@ date: 2008-03-28 19:29:55
 layout: post
 slug: los-laboratorios-open-source-de-microsoft
 title: Los Laboratorios Open Source de Microsoft
+authors: [admin]
 wordpress_id: 58
 categories:
 - Opensource

@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Esa Complejidad que tu jefe ignora"
+authors: [admin]
 subtitle: "O prefiere ignorar"
 summary: ""
 authors: [admin]

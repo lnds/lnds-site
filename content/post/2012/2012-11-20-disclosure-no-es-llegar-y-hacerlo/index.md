@@ -1,5 +1,6 @@
 ---
 title: "Disclosure no es llegar y hacerlo"
+authors: [admin]
 date: 2012-11-20T08:25:11-03:00
 slug: "disclosure-no-es-llegar-y-hacerlo"
 draft: false

@@ -4,6 +4,7 @@ date: 2009-01-11 15:21:41
 layout: post
 slug: el-programador-y-el-calentamiento-global
 title: El programador y el calentamiento global
+authors: [admin]
 wordpress_id: 313
 categories:
 - La Naturaleza del Software

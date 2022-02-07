@@ -4,6 +4,7 @@ date: 2005-10-30 18:15:33
 layout: post
 slug: folksonomias-2
 title: Folksonomias
+authors: [admin]
 wordpress_id: 1994
 categories:
 - Internet

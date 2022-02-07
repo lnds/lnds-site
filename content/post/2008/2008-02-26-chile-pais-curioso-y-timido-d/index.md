@@ -5,6 +5,7 @@ layout: post
 slug: chile-pais-curioso-y-timido-d
 aliases: [/2008/02/chile-pais-curioso-y-timido-d-te-quedas-.html]
 title: '"Chile País Curioso y Tímido" ( :D )'
+authors: [admin]
 wordpress_id: 47
 categories:
 - Sociedad

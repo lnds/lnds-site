@@ -1,5 +1,6 @@
 ---
 title: "Un video imperdible"
+authors: [admin]
 date: 2010-03-28T08:25:11-03:00
 slug: "un-video-imperdible"
 tags: ['cultura', 'arte']

@@ -1,5 +1,6 @@
 ---
 title: "Usa la Fuente Luke"
+authors: [admin]
 date: 2010-05-04T08:25:11-03:00
 slug: "usa-la-fuente-luke"
 tags: ['software libre', 'open source']

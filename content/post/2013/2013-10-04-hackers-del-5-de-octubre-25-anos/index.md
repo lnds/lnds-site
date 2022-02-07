@@ -1,5 +1,6 @@
 ---
 title: "Hackers del 5 de octubre - 25 años"
+authors: [admin]
 date: 2013-10-04T08:25:11-03:00
 slug: "hackers-del-5-de-octubre--25-anos"
 tags: ["charlas", "historia", "hackers", "política"]

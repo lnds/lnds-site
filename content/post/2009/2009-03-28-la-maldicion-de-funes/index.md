@@ -4,6 +4,7 @@ date: 2009-03-28 21:26:34
 layout: post
 slug: la-maldicion-de-funes
 title: La Maldición de Funes
+authors: [admin]
 wordpress_id: 88
 categories:
 - Credibilidad

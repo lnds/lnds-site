@@ -1,5 +1,6 @@
 ---
 title: "Satisfacción"
+authors: [admin]
 date: 2010-12-17T08:25:11-03:00
 slug: "satisfaccion"
 tags: ["mente", "apple", "percepción"]

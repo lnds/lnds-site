@@ -1,5 +1,6 @@
 ---
 title: "¿Debemos disfrazarnos para acercarnos más? "
+authors: [admin]
 date: 2011-06-11T08:25:11-03:00
 slug: "debemos-disfrazarnos-para-acercarnos-mas"
 draft: false

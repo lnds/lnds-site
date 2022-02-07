@@ -1,5 +1,6 @@
 ---
 title: "Conversión de Monedas"
+authors: [admin]
 date: 2005-08-17T08:25:11-03:00
 slug: "conversion-de-monedas"
 tags: ["utilitarios"]

@@ -1,5 +1,6 @@
 ---
 title: "Respeto"
+authors: [admin]
 date: 2014-03-20T08:25:11-03:00
 slug: "respeto"
 draft: false

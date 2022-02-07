@@ -4,6 +4,7 @@ date: 2007-08-16 23:59:29
 layout: post
 slug: vivimos-revolcaos-en-un-merengue
 title: Vivimos revolcaos en un merengue...
+authors: [admin]
 wordpress_id: 1820
 ---
 

@@ -4,6 +4,7 @@ date: 2007-08-08 09:17:01
 layout: post
 slug: razonamiento-impulsivo
 title: Razonamiento Impulsivo
+authors: [admin]
 wordpress_id: 1811
 ---
 

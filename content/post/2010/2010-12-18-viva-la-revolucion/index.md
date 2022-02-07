@@ -1,5 +1,6 @@
 ---
 title: "Viva La Revolución"
+authors: [admin]
 date: 2010-12-18T08:25:11-03:00
 slug: "viva-la-revolucion"
 tags: ["wikileaks", "redes sociales", "política"]

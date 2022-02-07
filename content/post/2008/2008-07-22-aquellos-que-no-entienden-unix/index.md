@@ -4,6 +4,7 @@ date: 2008-07-22 01:54:37
 layout: post
 slug: aquellos-que-no-entienden-unix
 title: Aquellos que no entienden Unix...
+authors: [admin]
 wordpress_id: 693
 categories:
 - La Naturaleza del Software

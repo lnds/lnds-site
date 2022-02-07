@@ -4,6 +4,7 @@ date: 2006-10-24 17:32:54
 layout: post
 slug: maoismo-digital
 title: Maoismo Digital
+authors: [admin]
 wordpress_id: 334
 categories:
 - La Brecha Intelectual

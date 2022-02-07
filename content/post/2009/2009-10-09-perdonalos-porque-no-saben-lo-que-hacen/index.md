@@ -4,6 +4,7 @@ date: 2009-10-09 22:55:44
 layout: post
 slug: perdonalos-porque-no-saben-lo-que-hacen
 title: Perdónalos porque no saben lo que hacen...
+authors: [admin]
 wordpress_id: 235
 ---
 

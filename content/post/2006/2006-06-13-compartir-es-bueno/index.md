@@ -4,6 +4,7 @@ date: 2006-06-13 19:46:32
 layout: post
 slug: compartir-es-bueno
 title: Compartir es bueno
+authors: [admin]
 wordpress_id: 2079
 categories:
 - Emprendimiento

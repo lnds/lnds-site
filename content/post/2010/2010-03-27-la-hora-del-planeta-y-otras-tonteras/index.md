@@ -1,5 +1,6 @@
 ---
 title: "La hora del planeta y otras tonteras"
+authors: [admin]
 date: 2010-03-27T08:25:11-03:00
 slug: "la-hora-del-planeta-y-otras-tonteras"
 tags: ['ecología', 'ciencia']

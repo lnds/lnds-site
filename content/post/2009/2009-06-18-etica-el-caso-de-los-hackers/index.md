@@ -1,5 +1,6 @@
 ---
 title: "Etica, \"El caso de los hackers\""
+authors: [admin]
 date: 2009-06-18T08:25:11-03:00
 slug: "etica-el-caso-de-los-hackers"
 aliases: [/2009/06/como-ensenar-etica-del-software-libre.html]

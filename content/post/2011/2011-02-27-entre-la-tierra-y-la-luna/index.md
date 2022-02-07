@@ -1,5 +1,6 @@
 ---
 title: "Entre la Tierra y la Luna"
+authors: [admin]
 date: 2011-02-27T08:25:11-03:00
 slug: "entre-la-tierra-y-la-luna"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Gödel"
+authors: [admin]
 date: 2011-11-23T08:25:11-03:00
 slug: "goedel"
 tags: ['Gödel', 'cultura', 'cine']

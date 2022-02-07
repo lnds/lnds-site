@@ -1,5 +1,6 @@
 ---
 title: "Pensamiento Crítico"
+authors: [admin]
 date: 2012-08-28T08:25:11-03:00
 slug: "pensamiento-critico"
 tags: ["noticias falsas", "pensamiento crítico", "redes sociales"]

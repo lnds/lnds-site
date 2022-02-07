@@ -1,5 +1,6 @@
 ---
 title: "La Naturaleza de Avatar, segunda parte, ¿hacia donde vamos?"
+authors: [admin]
 date: 2010-02-06T08:25:11-03:00
 slug: "la-naturaleza-de-avatar-segunda-parte-hacia-donde-vamos"
 tags: ['arte', 'cine', 'tecnología']

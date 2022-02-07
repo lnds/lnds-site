@@ -1,5 +1,6 @@
 ---
 title: "Be Awesome"
+authors: [admin]
 date: 2012-08-18T22:25:11-03:00
 slug: "be-awesome"
 tags: ["NASA", "ingeniería", "villano invitado", "riesgo", "innovación"]

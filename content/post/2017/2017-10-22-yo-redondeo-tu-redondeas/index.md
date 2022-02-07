@@ -1,5 +1,6 @@
 ---
 title: "Yo redondeo, tú redondeas"
+authors: [admin]
 date: 2017-10-22T08:25:11-03:00
 slug: "yo-redondeo-tu-redondeas"
 draft: false

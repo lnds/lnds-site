@@ -1,5 +1,6 @@
 ---
 title: "El zombi como dispositivo"
+authors: [admin]
 date: 2010-11-14T08:25:11-03:00
 slug: "el-zombi-como-dispositivo"
 tags: ["internet", "redes sociales", "zombis"]

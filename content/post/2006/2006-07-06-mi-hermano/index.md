@@ -4,6 +4,7 @@ date: 2006-07-06 13:45:30
 layout: post
 slug: mi-hermano
 title: Mi hermano
+authors: [admin]
 wordpress_id: 2083
 ---
 

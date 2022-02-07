@@ -1,5 +1,6 @@
 ---
 title: "Gripe porcina, eso es todo, eso es todo amigos"
+authors: [admin]
 date: 2009-05-01T08:25:11-03:00
 slug: "gripe-porcina-eso-es-todo-eso-es-todo-amigos"
 aliases: [/blog/2009/05/gripe-porcina-eso-es-todo-eso-es-todo-amigos.html]

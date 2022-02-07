@@ -1,5 +1,6 @@
 ---
 title: "Novedades"
+authors: [admin]
 date: 2013-11-16T08:25:11-03:00
 slug: "novedades"
 tags: ["libros", "blogging"]

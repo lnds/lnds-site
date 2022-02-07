@@ -4,6 +4,7 @@ date: 2008-05-08 17:40:57
 layout: post
 slug: recuperan-datos-del-disco-duro-del-columbia
 title: Recuperan Datos del Disco Duro del Columbia
+authors: [admin]
 wordpress_id: 197
 categories:
 - Ciencia

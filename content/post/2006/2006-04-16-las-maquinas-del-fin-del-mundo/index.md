@@ -1,5 +1,6 @@
 ---
 title: "Las máquinas del fin del mundo"
+authors: [admin]
 date: 2006-04-16T08:25:11-03:00
 slug: "las-maquinas-del-fin-del-mundo"
 aliases: [/blog/2006/04/las-maquinas-del-fin-del-mundo.html, /2006/04/las-maquinas-del-fin-del-mundo.html, /2006/04/las_maquinas_del_fin_del_mundo.html]

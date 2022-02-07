@@ -1,5 +1,6 @@
 ---
 title: "Orígenes"
+authors: [admin]
 date: 2012-03-03T22:25:11-03:00
 slug: "origenes"
 tags: ["computación", "basic", "lenguajes de programación", "historia"]

@@ -4,6 +4,7 @@ date: 2009-03-17 10:09:37
 layout: post
 slug: se-trata-de-educacion-%c2%a1estupido
 title: Se trata de educación, ¡estúpido! (*)
+authors: [admin]
 wordpress_id: 280
 categories:
 - Educación

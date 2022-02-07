@@ -4,6 +4,7 @@ date: 2008-02-01 10:12:55
 layout: post
 slug: microsoft-con-ganas-de-comprar-yahoo
 title: Microsoft con ganas de comprar Yahoo
+authors: [admin]
 wordpress_id: 55
 categories:
 - General

@@ -1,5 +1,6 @@
 ---
 title: "El problema con la Razón"
+authors: [admin]
 date: 2011-08-22T08:25:11-03:00
 slug: "el-problema-con-la-razon"
 aliases: [/blog/2011/08/el-problema-con-la-razon.html]

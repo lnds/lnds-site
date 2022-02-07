@@ -1,5 +1,6 @@
 ---
 title: "Eppur si muove"
+authors: [admin]
 date: 2006-08-27T08:25:11-03:00
 slug: "eppur-si-muove"
 aliases: [/blog/2006/08/eppur-si-muove.html]

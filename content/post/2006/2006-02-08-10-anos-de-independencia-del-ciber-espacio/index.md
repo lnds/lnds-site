@@ -4,6 +4,7 @@ date: 2006-02-08 12:43:29
 layout: post
 slug: 10-anos-de-independencia-del-ciber-espacio
 title: 10 años de independencia del ciber espacio
+authors: [admin]
 wordpress_id: 1222
 categories:
 - Cultura

@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Los Principios de la Agilidad"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

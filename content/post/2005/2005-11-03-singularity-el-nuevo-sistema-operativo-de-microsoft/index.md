@@ -4,6 +4,7 @@ date: 2005-11-03 12:00:56
 layout: post
 slug: singularity-el-nuevo-sistema-operativo-de-microsoft
 title: Singularity el nuevo sistema operativo de Microsoft
+authors: [admin]
 wordpress_id: 2023
 categories:
 - Tecnología

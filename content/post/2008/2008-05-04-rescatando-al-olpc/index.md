@@ -4,6 +4,7 @@ date: 2008-05-04 11:52:36
 layout: post
 slug: rescatando-al-olpc
 title: Rescatando al OLPC
+authors: [admin]
 wordpress_id: 199
 categories:
 - Educación

@@ -4,6 +4,7 @@ date: 2005-11-15 18:12:28
 layout: post
 slug: guia-legal-para-los-blogger-chilenos
 title: Guia Legal para los Blogger Chilenos
+authors: [admin]
 wordpress_id: 171
 categories:
 - General

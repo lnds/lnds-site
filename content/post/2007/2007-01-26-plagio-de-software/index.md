@@ -1,5 +1,6 @@
 ---
 title: "Plagio de Software"
+authors: [admin]
 date: 2007-01-26T08:25:11-03:00
 slug: "plagio-de-software"
 aliases: [/2007/01/plagio-de-software.html]

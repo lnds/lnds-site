@@ -1,5 +1,6 @@
 ---
 title: "Ser profesional"
+authors: [admin]
 date: 2010-06-16T08:25:11-03:00
 slug: "ser-profesional"
 tags: ['profesionalismo', 'sociedad']

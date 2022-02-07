@@ -4,6 +4,7 @@ date: 2008-05-07 22:18:45
 layout: post
 slug: desarrollando-en-las-nubes
 title: Desarrollando en las nubes
+authors: [admin]
 wordpress_id: 198
 categories:
 - Internet

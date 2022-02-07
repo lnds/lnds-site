@@ -1,5 +1,6 @@
 ---
 title: "El costo de un dominio en Latino América"
+authors: [admin]
 date: 2005-08-09T08:25:11-03:00
 slug: "el-costo-de-un-dominio-en-latino-america"
 tags: ["internet"]

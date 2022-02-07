@@ -1,5 +1,6 @@
 ---
 title: "Qué es Cloud Computing"
+authors: [admin]
 date: 2010-07-03T08:25:11-03:00
 slug: "que-es-cloud-computing"
 tags: ['cloud computing', 'nube']

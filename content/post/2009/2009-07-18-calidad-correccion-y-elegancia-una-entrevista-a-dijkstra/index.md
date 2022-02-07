@@ -1,5 +1,6 @@
 ---
 title: "Calidad, Corrección y Elegancia una entrevista a Dijkstra"
+authors: [admin]
 date: 2012-03-03T22:25:11-03:00
 slug: "calidad-correccion-y-elegancia-una-entrevista-a-dijkstra"
 aliases: [/blog/2009/07/calidad-correccion-y-elegancia-una-entrevista-a-dijkstra.html]

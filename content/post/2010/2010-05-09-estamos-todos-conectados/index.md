@@ -1,5 +1,6 @@
 ---
 title: "Estamos todos conectados"
+authors: [admin]
 date: 2010-05-09T08:25:11-03:00
 slug: "estamos-todos-conectados"
 tags: ['ciencia', 'tecnología']

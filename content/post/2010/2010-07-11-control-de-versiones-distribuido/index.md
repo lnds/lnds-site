@@ -1,5 +1,6 @@
 ---
 title: "Control de Versiones Distribuido"
+authors: [admin]
 date: 2010-07-11T08:25:11-03:00
 slug: "control-de-versiones-distribuido"
 aliases: [/blog/lnds/2010/7/11/control-de-versiones-distribuido]

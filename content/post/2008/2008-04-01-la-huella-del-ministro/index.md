@@ -5,6 +5,7 @@ layout: post
 slug: la-huella-del-ministro
 aliases: [/2008/04/la_huella_del_ministro.html]
 title: La Huella del Ministro
+authors: [admin]
 wordpress_id: 65
 ---
 

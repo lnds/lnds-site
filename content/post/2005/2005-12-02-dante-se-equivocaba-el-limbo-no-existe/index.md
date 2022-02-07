@@ -1,5 +1,6 @@
 ---
 title: "Dante se equivocaba, el Limbo no existe"
+authors: [admin]
 date: 2006-08-27T08:25:11-03:00
 slug: "dante-se-equivocaba-el-limbo-no-existe"
 aliases: [/blog/2005/12/dante-se-equivocaba-el-limbo-no-existe.html]

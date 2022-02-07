@@ -4,6 +4,7 @@ date: 2005-09-15 15:03:20
 layout: post
 slug: explotando_las
 title: Explotando las colisiones de MD5
+authors: [admin]
 wordpress_id: 1419
 ---
 

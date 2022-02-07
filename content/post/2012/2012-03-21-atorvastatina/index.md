@@ -1,5 +1,6 @@
 ---
 title: "Atorvastatina"
+authors: [admin]
 date: 2012-03-21T22:25:11-03:00
 slug: "atorvastatina"
 tags: ["personal", "salud"]

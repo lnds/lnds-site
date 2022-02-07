@@ -1,5 +1,6 @@
 ---
 title: "La fuente de energía perfecta"
+authors: [admin]
 date: 2011-03-03T08:25:11-03:00
 slug: "la-fuente-de-energia-perfecta"
 draft: false

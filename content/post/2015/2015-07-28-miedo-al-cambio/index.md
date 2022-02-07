@@ -1,5 +1,6 @@
 ---
 title: "Miedo al Cambio"
+authors: [admin]
 date: 2015-07-28T08:25:11-03:00
 slug: "miedo-al-cambio"
 aliases: [/blog/lnds/2015/7/28/miedo-al-cambio]

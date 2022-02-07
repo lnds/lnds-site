@@ -1,5 +1,6 @@
 ---
 title: "El Fin de la Agilidad (IV)"
+authors: [admin]
 subtitle: "Parte 4: AOR"
 date: 2019-03-23T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

@@ -4,6 +4,7 @@ date: 2005-09-29 20:30:57
 layout: post
 slug: una-interfaz-flash-para-google-earth-y-ms-virtual-earth
 title: Una interfaz Flash para Google Earth y MS Virtual Earth
+authors: [admin]
 wordpress_id: 131
 categories:
 - Internet

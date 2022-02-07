@@ -1,5 +1,6 @@
 ---
 title: "Agilidad y Complejidad"
+authors: [admin]
 date: 2018-07-08T08:25:11-03:00
 slug: "agilidad-y-complejidad"
 aliases: [/blog/lnds/2018/7/8/agilidad-y-complejidad]

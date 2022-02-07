@@ -1,5 +1,6 @@
 ---
 title: "Matemáticas y Verdad"
+authors: [admin]
 date: 2011-04-06T08:25:11-03:00
 slug: "matematicas-y-verdad"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Jugar bien sus cartas"
+authors: [admin]
 date: 2013-02-13T08:25:11-03:00
 slug: "jugar-bien-sus-cartas"
 tags: ["Netflix", "series", "innovación"]

@@ -1,5 +1,6 @@
 ---
 title: "Locura"
+authors: [admin]
 date: 2011-03-09T08:25:11-03:00
 slug: "locura"
 aliases: [/blog/2011/03/locura.html]

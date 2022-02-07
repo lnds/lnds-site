@@ -1,5 +1,6 @@
 ---
 title: "Las pulseras mágicas de los ministros"
+authors: [admin]
 date: 2010-06-24T08:25:11-03:00
 slug: "las-pulseras-magicas-de-los-ministros"
 tags: ['supersticiones', 'política']

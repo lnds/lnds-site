@@ -4,6 +4,7 @@ date: 2006-11-26 08:47:51
 layout: post
 slug: ser-libre
 title: Ser Libre
+authors: [admin]
 wordpress_id: 1229
 categories:
 - Desarrollo

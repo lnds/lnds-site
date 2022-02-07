@@ -1,5 +1,6 @@
 ---
 title: "Turing... Alan Turing"
+authors: [admin]
 date: 2013-11-06T08:25:11-03:00
 slug: "turing-alan-turing"
 aliases: [/blog/2012/06/mi-nombre-es-turing-alan-turing.html]

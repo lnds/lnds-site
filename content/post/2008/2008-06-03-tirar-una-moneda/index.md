@@ -4,6 +4,7 @@ date: 2008-06-03 22:24:18
 layout: post
 slug: tirar-una-moneda
 title: Tirar una moneda
+authors: [admin]
 wordpress_id: 15
 categories:
 - Sociedad

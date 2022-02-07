@@ -4,6 +4,7 @@ date: 2009-06-10 22:51:32
 layout: post
 slug: proyecto-natal-realidad-artificial-iii
 title: 'Proyecto natal: Realidad Artificial III'
+authors: [admin]
 wordpress_id: 261
 categories:
 - Arte

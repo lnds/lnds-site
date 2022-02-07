@@ -5,6 +5,7 @@ layout: post
 slug: me-leeran-en-redmond
 aliases: [/2005/09/me_leeran_en_redmond.html]
 title: Me leerán en Redmond? :)
+authors: [admin]
 wordpress_id: 140
 categories:
 - Seguridad

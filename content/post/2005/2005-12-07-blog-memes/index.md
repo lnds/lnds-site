@@ -4,6 +4,7 @@ date: 2005-12-07 14:03:49
 layout: post
 slug: blog-memes
 title: Blog memes
+authors: [admin]
 wordpress_id: 1488
 ---
 

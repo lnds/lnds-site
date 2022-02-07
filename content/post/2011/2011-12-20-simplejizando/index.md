@@ -1,5 +1,6 @@
 ---
 title: "Simplejizando"
+authors: [admin]
 date: 2011-12-20T08:25:11-03:00
 slug: "simplejizando"
 tags: ['compiladores', 'ogú', 'lenguajes']

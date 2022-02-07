@@ -1,5 +1,6 @@
 ---
 title: "Charla: El Tao de NoSQL"
+authors: [admin]
 date: 2011-11-10T08:25:11-03:00
 slug: "charla-el-tao-de-nosql"
 tags: ['charlas', 'nosql']

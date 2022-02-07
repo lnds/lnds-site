@@ -1,5 +1,6 @@
 ---
 title: "La Lucha Que Importa Ahora"
+authors: [admin]
 date: 2012-09-15T12:25:11-03:00
 slug: "la-lucha-que-importa-ahora"
 tags: ["ciencia", "ignorancia", "antivacunas"]

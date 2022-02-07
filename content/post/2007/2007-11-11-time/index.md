@@ -5,6 +5,7 @@ layout: post
 slug: time
 aliases: [/2007/11/time.html]
 title: Time
+authors: [admin]
 wordpress_id: 379
 ---
 Estoy de cumpleaños, 41 años, ufff...

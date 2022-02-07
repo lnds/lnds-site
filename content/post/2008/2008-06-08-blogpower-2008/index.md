@@ -4,6 +4,7 @@ date: 2008-06-08 22:47:00
 layout: post
 slug: blogpower-2008
 title: BlogPower 2008
+authors: [admin]
 wordpress_id: 13
 categories:
 - General

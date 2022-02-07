@@ -1,5 +1,6 @@
 ---
 title: "Razonamiento circular"
+authors: [admin]
 date: 2011-07-12T08:25:11-03:00
 slug: "razonamiento-circular"
 aliases: [/blog/2011/07/razonamiento-circular.html]

@@ -1,5 +1,6 @@
 ---
 title: "La Academia"
+authors: [admin]
 date: 2009-08-01T08:25:11-03:00
 slug: "la-academia"
 aliases: [/blog/2009/08/la-academia.html]

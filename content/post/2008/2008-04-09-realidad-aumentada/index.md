@@ -4,6 +4,7 @@ date: 2008-04-09 21:24:27
 layout: post
 slug: realidad-aumentada
 title: Realidad Aumentada
+authors: [admin]
 wordpress_id: 72
 categories:
 - Tecnología

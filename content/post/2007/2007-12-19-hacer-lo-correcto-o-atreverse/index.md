@@ -4,6 +4,7 @@ date: 2007-12-19 19:58:44
 layout: post
 slug: hacer-lo-correcto-o-atreverse
 title: Hacer lo Correcto o Atreverse
+authors: [admin]
 wordpress_id: 384
 categories:
 - Cultura

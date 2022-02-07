@@ -4,6 +4,7 @@ date: 2006-01-24 06:06:27
 layout: post
 slug: mil-trescientos-millones-de-bocas-que-alimentar
 title: Mil trescientos millones de bocas que alimentar
+authors: [admin]
 wordpress_id: 323
 categories:
 - Cultura

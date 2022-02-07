@@ -4,6 +4,7 @@ date: 2006-12-06 18:15:10
 layout: post
 slug: maputhungun-la-tradicion-oral-mapuche
 title: Maputhungun, la tradición oral mapuche
+authors: [admin]
 wordpress_id: 1382
 categories:
 - Cultura

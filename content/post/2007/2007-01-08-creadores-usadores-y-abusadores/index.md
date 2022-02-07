@@ -4,6 +4,7 @@ date: 2007-01-08 21:23:41
 layout: post
 slug: creadores-usadores-y-abusadores
 title: Creadores, usadores y abusadores
+authors: [admin]
 wordpress_id: 1395
 ---
 

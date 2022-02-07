@@ -4,6 +4,7 @@ date: 2005-11-23 22:12:45
 layout: post
 slug: aclarando-las-cosas
 title: Aclarando las cosas
+authors: [admin]
 wordpress_id: 167
 ---
 

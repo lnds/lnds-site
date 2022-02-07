@@ -1,5 +1,6 @@
 ---
 title: "Ajedrecistas"
+authors: [admin]
 date: 2012-06-19T22:25:11-03:00
 slug: "ajedrecistas"
 tags: ["Alan Turing", "ajedrez", "historia"]

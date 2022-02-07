@@ -5,6 +5,7 @@ layout: post
 slug: 'menos-papel'
 aliases: [/2006/09/menos_papel.html]
 title: ¿Menos papel?
+authors: [admin]
 wordpress_id: 1764
 categories:
 - Ciencia

@@ -4,6 +4,7 @@ date: 2005-10-21 13:25:51
 layout: post
 slug: el-primer-nano-carro
 title: El primer Nano Carro
+authors: [admin]
 wordpress_id: 148
 categories:
 - Tecnología

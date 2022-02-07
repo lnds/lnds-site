@@ -4,6 +4,7 @@ date: 2006-06-27 20:00:46
 layout: post
 slug: por-que-no-me-gusta-ser-victima
 title: Por qué no me gusta ser víctima
+authors: [admin]
 wordpress_id: 1746
 categories:
 - Seguridad

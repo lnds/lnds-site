@@ -1,5 +1,6 @@
 ---
 title: "Dios no quiere estándares"
+authors: [admin]
 date: 2008-03-20T08:25:11-03:00
 slug: "dios-no-quiere-estandares"
 aliases: [/2008/03/dios-no-quiere-estandares.html]

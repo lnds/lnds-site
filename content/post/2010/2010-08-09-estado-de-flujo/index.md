@@ -1,5 +1,6 @@
 ---
 title: "Estado de Flujo"
+authors: [admin]
 date: 2010-08-09T08:25:11-03:00
 slug: "estado-de-flujo"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Steve Jobs"
+authors: [admin]
 date: 2011-10-06T08:25:11-03:00
 slug: "steve-jobs"
 tags: ['Steve Jobs', 'citas']

@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Equilibrio y Entropía de Software"
+authors: [admin]
 subtitle: "Hablemos de entropía de software (parte 2)"
 summary: ""
 authors: [admin]

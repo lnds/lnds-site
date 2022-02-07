@@ -4,6 +4,7 @@ date: 2007-11-08 20:26:17
 layout: post
 slug: simcity-para-el-olpc
 title: SimCity para el OLPC
+authors: [admin]
 wordpress_id: 378
 categories:
 - Educación

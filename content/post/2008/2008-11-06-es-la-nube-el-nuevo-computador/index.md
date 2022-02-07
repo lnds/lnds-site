@@ -4,6 +4,7 @@ date: 2008-11-06 19:12:55
 layout: post
 slug: '%c2%bfes-la-nube-el-nuevo-computador'
 title: ¿Es la nube el nuevo computador?
+authors: [admin]
 subtitle: El debate sobre el negocio del Cloud Computing (IV)
 
 wordpress_id: 357

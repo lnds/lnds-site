@@ -4,6 +4,7 @@ date: 2005-11-14 20:09:30
 layout: post
 slug: cuanto-vale-nuestra-democracia
 title: Cuanto vale nuestra democracia?
+authors: [admin]
 wordpress_id: 172
 ---
 

@@ -4,6 +4,7 @@ date: 2005-09-27 17:23:37
 layout: post
 slug: el-futuro-de-las-video-conferencias
 title: El futuro de las video conferencias.
+authors: [admin]
 wordpress_id: 1462
 ---
 

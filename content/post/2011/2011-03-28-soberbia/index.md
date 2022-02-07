@@ -1,5 +1,6 @@
 ---
 title: "Soberbia"
+authors: [admin]
 date: 2011-03-28T08:25:11-03:00
 slug: "soberbia"
 aliases: [/blog/2011/03/soberbia.html]

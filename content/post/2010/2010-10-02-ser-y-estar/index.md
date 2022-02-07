@@ -1,5 +1,6 @@
 ---
 title: "Ser y estar"
+authors: [admin]
 date: 2010-10-02T08:25:11-03:00
 slug: "ser-y-estar"
 draft: false

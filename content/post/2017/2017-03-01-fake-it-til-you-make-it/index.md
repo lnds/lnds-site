@@ -1,5 +1,6 @@
 ---
 title: "Fake it till you make it"
+authors: [admin]
 subtitle: "(O como construir un lenguaje en 60 horas)"
 date: 2017-03-01T08:25:11-03:00
 slug: "fake-it-till-you-make-it"

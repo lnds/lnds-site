@@ -4,6 +4,7 @@ date: 2009-01-24 14:24:49
 layout: post
 slug: el-obamometro
 title: El Obamómetro
+authors: [admin]
 wordpress_id: 308
 ---
 

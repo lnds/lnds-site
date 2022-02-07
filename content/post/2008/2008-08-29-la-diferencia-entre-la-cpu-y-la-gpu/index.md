@@ -4,6 +4,7 @@ date: 2008-08-29 12:05:40
 layout: post
 slug: la-diferencia-entre-la-cpu-y-la-gpu
 title: La diferencia entre la CPU y la GPU
+authors: [admin]
 wordpress_id: 1156
 ---
 

@@ -4,6 +4,7 @@ date: 2007-08-22 23:35:16
 layout: post
 slug: 'importa-el-sistema-operativo'
 title: ¿Importa el Sistema Operativo?
+authors: [admin]
 wordpress_id: 1836
 ---
 

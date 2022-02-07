@@ -1,5 +1,6 @@
 ---
 title: "El estado de la internet"
+authors: [admin]
 date: 2010-03-09T08:25:11-03:00
 slug: "el-estado-de-la-internet"
 tags: ['internet']

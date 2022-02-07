@@ -4,6 +4,7 @@ date: 2005-12-27 18:55:04
 layout: post
 slug: regalos
 title: Regalos
+authors: [admin]
 wordpress_id: 1482
 ---
 

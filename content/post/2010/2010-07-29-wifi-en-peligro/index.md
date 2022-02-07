@@ -1,5 +1,6 @@
 ---
 title: "¿WiFi en Peligro?"
+authors: [admin]
 date: 2007-07-29T08:25:11-03:00
 slug: "wifi-en-peligro"
 tags: ['wifi', 'tecnología']

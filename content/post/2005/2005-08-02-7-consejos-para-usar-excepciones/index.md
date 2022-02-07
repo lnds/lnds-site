@@ -1,5 +1,6 @@
 ---
 title: "7 Consejos para usar excepciones"
+authors: [admin]
 date: 2005-08-02T08:25:11-03:00
 slug: "7-consejos-para-usar-excepciones"
 tags: ["programación", "excepciones", "csharp"]

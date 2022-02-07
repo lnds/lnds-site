@@ -1,5 +1,6 @@
 ---
 title: "46"
+authors: [admin]
 date: 2012-11-11T08:25:11-03:00
 slug: "46"
 tags: ["cumpleaños", "reflexiones"]

@@ -1,5 +1,6 @@
 ---
 title: "Compiladores"
+authors: [admin]
 date: 2011-12-15T08:25:11-03:00
 slug: "compiladores"
 aliases: [/blog/2011/12/compiladores.html]

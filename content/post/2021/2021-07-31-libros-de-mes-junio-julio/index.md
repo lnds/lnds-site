@@ -2,6 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Libros del mes: junio y julio"
+authors: [admin]
 subtitle: ""
 summary: ""
 authors: [admin]

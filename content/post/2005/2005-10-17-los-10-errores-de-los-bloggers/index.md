@@ -4,6 +4,7 @@ date: 2005-10-17 15:04:43
 layout: post
 slug: los-10-errores-de-los-bloggers
 title: Los 10 errores de los bloggers
+authors: [admin]
 wordpress_id: 1474
 tags:
 - blog

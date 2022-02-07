@@ -4,6 +4,7 @@ date: 2008-02-27 20:43:14
 layout: post
 slug: el-hombre-razonable
 title: El hombre razonable
+authors: [admin]
 wordpress_id: 46
 categories:
 - Personajes

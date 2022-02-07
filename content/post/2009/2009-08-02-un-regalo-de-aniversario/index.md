@@ -4,6 +4,7 @@ date: 2009-08-02 01:53:28
 layout: post
 slug: un-regalo-de-aniversario
 title: Un regalo de aniversario
+authors: [admin]
 wordpress_id: 243
 categories:
 - Emprendimiento

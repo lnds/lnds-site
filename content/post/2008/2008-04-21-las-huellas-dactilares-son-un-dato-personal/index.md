@@ -4,6 +4,7 @@ date: 2008-04-21 13:26:47
 layout: post
 slug: las-huellas-dactilares-son-un-dato-personal
 title: Las huellas dactilares son un dato personal
+authors: [admin]
 wordpress_id: 71
 categories:
 - Seguridad

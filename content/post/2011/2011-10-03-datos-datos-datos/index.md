@@ -1,5 +1,6 @@
 ---
 title: "Datos, datos, datos..."
+authors: [admin]
 date: 2011-10-03T08:25:11-03:00
 slug: "datos-datos-datos"
 aliases: [/blog/2011/10/datos-datos-datos.html]

@@ -4,6 +4,7 @@ date: 2006-11-24 16:57:01
 layout: post
 slug: el-software-como-herramienta
 title: El Software como herramienta
+authors: [admin]
 wordpress_id: 1301
 categories:
 - Evolución

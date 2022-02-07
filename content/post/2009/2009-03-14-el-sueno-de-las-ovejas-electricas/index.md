@@ -4,6 +4,7 @@ date: 2009-03-14 19:37:50
 layout: post
 slug: el-sueno-de-las-ovejas-electricas
 title: El sueño de las ovejas eléctricas
+authors: [admin]
 wordpress_id: 283
 categories:
 - Arte

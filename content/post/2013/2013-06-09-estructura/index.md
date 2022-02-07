@@ -1,5 +1,6 @@
 ---
 title: "Estructura"
+authors: [admin]
 date: 2013-06-09T08:25:11-03:00
 slug: "estructura"
 aliases: [/2013/06/estructura.html, /blog/2013/06/estructura.html]

@@ -1,5 +1,6 @@
 ---
 title: "Galeano sobre Alan Turing"
+authors: [admin]
 subtitle: "**El papá de las computadoras**"
 date: 2011-03-01T08:25:11-03:00
 slug: "galeano-sobre-alan-turing"

@@ -4,6 +4,7 @@ date: 2009-06-24 22:31:04
 layout: post
 slug: el-sembrador
 title: El sembrador
+authors: [admin]
 wordpress_id: 264
 categories:
 - Cultura

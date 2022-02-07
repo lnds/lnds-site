@@ -4,6 +4,7 @@ date: 2008-05-26 23:05:53
 layout: post
 slug: la-ley-de-linus
 title: La Ley de Linus
+authors: [admin]
 wordpress_id: 94
 categories:
 - La Naturaleza del Software

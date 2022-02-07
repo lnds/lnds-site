@@ -1,5 +1,6 @@
 ---
 title: "Martin Gardner"
+authors: [admin]
 date: 2010-05-23T18:25:11-03:00
 slug: "martin-gardner"
 tags: ['próceres', 'matemáticas']

@@ -1,5 +1,6 @@
 ---
 title: "Desastres Naturales"
+authors: [admin]
 date: 2005-09-09T08:50:11-03:00
 slug: "desastres-naturales"
 aliases: [/archives/2005/09/desastres_natur.html]

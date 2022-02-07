@@ -4,6 +4,7 @@ date: 2006-02-18 02:14:04
 layout: post
 slug: la-inteligencia-como-capital
 title: La inteligencia como capital
+authors: [admin]
 wordpress_id: 1355
 tags:
 - copyleft

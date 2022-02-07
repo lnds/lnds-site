@@ -1,5 +1,6 @@
 ---
 title: "Virtudes y defectos"
+authors: [admin]
 date: 2010-11-21T08:25:11-03:00
 slug: "virtudes-y-defectos"
 tags: ["virtudes", "defectos", "programación"]

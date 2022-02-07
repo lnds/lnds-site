@@ -1,5 +1,6 @@
 ---
 title: "Gin, Televisión y Superavit Social"
+authors: [admin]
 date: 2008-05-28T08:25:11-03:00
 slug: "gin-television-y-superavit-social"
 aliases: [/2008/05/gin-television-y-superavit-social.html, /blog/2008/05/gin-television-y-superavit-social.html, /2008/05/gin_television_y_superavit_social.html]

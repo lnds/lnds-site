@@ -4,6 +4,7 @@ date: 2009-09-06 13:50:07
 layout: post
 slug: administrar-el-momentum
 title: Administrar el momentum
+authors: [admin]
 wordpress_id: 209
 categories:
 - Desarrollo

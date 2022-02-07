@@ -1,5 +1,6 @@
 ---
 title: "Fortran"
+authors: [admin]
 date: 2007-12-29T08:25:11-03:00
 slug: "fortran"
 aliases: [/blog/2007/12/fortran.html]

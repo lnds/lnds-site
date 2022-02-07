@@ -1,5 +1,6 @@
 ---
 title: "¿Es tu jefe un programador funcional?"
+authors: [admin]
 date: 2012-11-21T12:25:11-03:00
 slug: "es-tu-jefe-un-programador-funcional"
 tags: ["programación funcional", "excel"]

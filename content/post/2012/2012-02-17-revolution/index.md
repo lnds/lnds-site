@@ -1,5 +1,6 @@
 ---
 title: "Revolution!"
+authors: [admin]
 date: 2012-02-14T08:25:11-03:00
 slug: "revolution"
 tags: ["revolución", "música"]

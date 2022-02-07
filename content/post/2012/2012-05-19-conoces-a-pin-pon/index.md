@@ -1,5 +1,6 @@
 ---
 title: "¿Conoces a Pin Pon?"
+authors: [admin]
 subtitle: "la importancia del método"
 date: 2012-05-19T08:25:11-03:00
 slug: "conoces-a-pin-pon"

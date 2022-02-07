@@ -1,5 +1,6 @@
 ---
 title: "Las 3 R"
+authors: [admin]
 slug: "las-3-r"
 aliases: [/blog/2012/10/las-3-r.html]
 date: 2012-10-28T08:25:11-03:00

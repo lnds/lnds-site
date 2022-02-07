@@ -1,5 +1,6 @@
 ---
 title: "El Fin de la Agilidad (VII)"
+authors: [admin]
 subtitle: "Parte 7 - Jam Bands"
 date: 2019-04-14T08:25:11-03:00
 slug: "el-fin-de-la-agilidad"

@@ -1,5 +1,6 @@
 ---
 title: "Ancho de Banda????"
+authors: [admin]
 date: 2005-09-02T18:25:11-03:00
 slug: "ancho-de-banda"
 aliases: [/archives/2005/09/conexion_con_an.html]

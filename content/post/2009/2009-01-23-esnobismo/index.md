@@ -5,6 +5,7 @@ layout: post
 slug: esnobismo
 aliases: [/2009/01/esnobismo.html]
 title: Esnobismo
+authors: [admin]
 wordpress_id: 309
 categories:
 - Credibilidad

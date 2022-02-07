@@ -4,6 +4,7 @@ date: 2009-03-18 21:35:41
 layout: post
 slug: '%c2%bfy-que-vamos-a-hacer-cuando-pase-en-chile'
 title: ¿Y qué vamos a hacer cuando pase en Chile?
+authors: [admin]
 wordpress_id: 279
 ---
 

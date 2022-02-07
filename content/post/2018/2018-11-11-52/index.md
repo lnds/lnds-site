@@ -1,5 +1,6 @@
 ---
 title: "52"
+authors: [admin]
 date: 2018-11-11T08:25:11-03:00
 slug: "52"
 tags: ["cumpleaños", "reflexiones"]

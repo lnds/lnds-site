@@ -1,5 +1,6 @@
 ---
 title: "La Paradoja de Teseo y otras ideas sobre los cambios"
+authors: [admin]
 date: 2012-12-01T12:25:11-03:00
 slug: "la-paradoja-de-teseo-y-otras-ideas-sobre-los-cambios"
 tags: ["causas", "filosofía"]

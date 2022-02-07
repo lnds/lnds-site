@@ -1,5 +1,6 @@
 ---
 title: "Sobre la inteligencia del coyote"
+authors: [admin]
 date: 2012-04-17T08:25:11-03:00
 slug: "sobre-la-inteligencia-del-coyote"
 aliases: [/blog/2012/04/sobre-la-inteligencia-del-coyote.html]

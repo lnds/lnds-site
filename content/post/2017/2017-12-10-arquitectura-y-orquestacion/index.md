@@ -1,5 +1,6 @@
 ---
 title: "Arquitectura y Orquestación"
+authors: [admin]
 date: 2017-12-10T08:25:11-03:00
 slug: "arquitectura-y-orquestacion"
 draft: false

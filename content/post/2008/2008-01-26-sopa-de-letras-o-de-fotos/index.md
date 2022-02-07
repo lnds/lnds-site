@@ -4,6 +4,7 @@ date: 2008-01-26 12:39:31
 layout: post
 slug: sopa-de-letras-o-de-fotos
 title: Sopa de Letras (o de fotos)
+authors: [admin]
 wordpress_id: 34
 categories:
 - Desarrollo

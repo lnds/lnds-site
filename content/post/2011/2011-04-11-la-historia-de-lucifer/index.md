@@ -1,5 +1,6 @@
 ---
 title: "La historia de Lucifer"
+authors: [admin]
 date: 2011-04-12T08:25:11-03:00
 slug: "la-historia-de-lucifer"
 draft: false

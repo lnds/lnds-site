@@ -1,5 +1,6 @@
 ---
 title: "La magnitud de los problemas (a propósito de #librossiniva)"
+authors: [admin]
 date: 2012-07-16T08:25:11-03:00
 slug: "la-magnitud-de-los-problemas-a-propósito-de-librossiniva"
 tags: ["libros", "charlas"]

@@ -4,6 +4,7 @@ date: 2007-12-14 14:29:06
 layout: post
 slug: error-monumental
 title: Error Monumental (o cuando MCMXXLLI = 1980)
+authors: [admin]
 wordpress_id: 838
 categories:
 - Cultura

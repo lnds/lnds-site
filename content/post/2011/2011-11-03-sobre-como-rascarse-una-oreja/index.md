@@ -1,5 +1,6 @@
 ---
 title: "Sobre cómo rascarse una oreja"
+authors: [admin]
 date: 2011-07-13T08:25:11-03:00
 slug: "sobre-como-rascarse-una-oreja"
 aliases: [/blog/2011/11/sobre-cmo-rascarse-una-oreja.html]

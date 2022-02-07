@@ -1,5 +1,6 @@
 ---
 title: "Creadores de Universos"
+authors: [admin]
 date: 2011-10-11T08:25:11-03:00
 slug: "creadores-de-universos"
 tags: ["creadores de universos", "programadores"]

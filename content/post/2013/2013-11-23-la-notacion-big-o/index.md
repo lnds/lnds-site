@@ -1,5 +1,6 @@
 ---
 title: "La Notación Big O"
+authors: [admin]
 subtitle: "Cómo estimar la complejidad algorítmica"
 date: 2013-11-23T08:25:11-03:00
 slug: "la-notacion-big-o"

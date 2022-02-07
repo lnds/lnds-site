@@ -1,5 +1,6 @@
 ---
 title: "¿Transparencia o desatino?"
+authors: [admin]
 date: 2010-06-09T08:25:11-03:00
 slug: "transparencia-o-desatino"
 tags: ['transparencia', 'privacidad']

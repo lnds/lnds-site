@@ -1,5 +1,6 @@
 ---
 title: "Los Hackers del 5 de Octubre"
+authors: [admin]
 slug: "los-hackers-del-5-de-octubre"
 aliases: [/blog/2008/10/los-hackers-del-5-de-octubre.html]
 date: 2008-10-05T08:25:11-03:00

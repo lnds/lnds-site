@@ -1,5 +1,6 @@
 ---
 title: "Tecnología y la edad"
+authors: [admin]
 date: 2014-05-19T08:25:11-03:00
 slug: "tecnologia-y-la-edad"
 aliases: [/blog/lnds/2014/5/19/tecnologia-y-la-edad]

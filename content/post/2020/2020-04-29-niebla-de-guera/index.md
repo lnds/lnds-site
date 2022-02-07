@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Niebla De Guerra"
+authors: [admin]
 subtitle: "decisiones en medio de la confusión"
 summary: ""
 authors: [admin]

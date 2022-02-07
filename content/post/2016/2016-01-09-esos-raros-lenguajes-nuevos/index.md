@@ -1,5 +1,6 @@
 ---
 title: "Esos Raros Lenguajes Nuevos"
+authors: [admin]
 date: 2016-01-09T08:25:11-03:00
 slug: "esos-raros-lenguajes-nuevos"
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Antología twittera 2009"
+authors: [admin]
 date: 2009-12-24T08:25:11-03:00
 slug: "antologia-twittera-2009"
 tags: ['antologías', 'twittter', 'redes sociales']

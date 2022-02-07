@@ -1,5 +1,6 @@
 ---
 title: "Semana de Turing"
+authors: [admin]
 date: 2012-06-16T22:25:11-03:00
 slug: "semana-de-turing"
 tags: ["computación", "basic", "lenguajes de programación", "historia"]

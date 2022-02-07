@@ -1,5 +1,6 @@
 ---
 title: "Formular un proyecto"
+authors: [admin]
 date: 2010-10-19T08:25:11-03:00
 slug: "formular-un-proyecto"
 tags: ['proyectos', 'entendimiento']

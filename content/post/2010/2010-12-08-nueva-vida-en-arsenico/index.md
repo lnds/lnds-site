@@ -1,5 +1,6 @@
 ---
 title: "¿Nueva vida en arsénico?"
+authors: [admin]
 date: 2010-12-08T08:25:11-03:00
 slug: "nueva-vida-en-arsenico"
 tags: ['ciencia']
