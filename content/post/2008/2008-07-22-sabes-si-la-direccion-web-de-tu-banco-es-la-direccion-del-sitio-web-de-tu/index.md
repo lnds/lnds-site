@@ -3,9 +3,8 @@ comments: true
 date: 2008-07-22 22:08:43
 layout: post
 slug: '%c2%bfsabes-si-la-direccion-web-de-tu-banco-es-la-direccion-del-sitio-web-de-tu-banco'
-title: ¿Sabes si la dirección web de tu banco es la dirección del sitio web de tu
+title: ¿Sabes si la dirección web de tu banco es la dirección del sitio web de tu banco?
 authors: [admin]
-  banco?
 wordpress_id: 695
 categories:
 - Seguridad
