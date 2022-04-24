@@ -5,15 +5,17 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: "#about"
     weight: 10
   - name: Libros
-    url: '/books'
+    url: "/books"
     weight: 15
   - name: Posts
-    url: '#posts'
+    url: "#posts"
     weight: 20
-
+  - name: Charlas
+    url: "/talks"
+    weight: 30
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
