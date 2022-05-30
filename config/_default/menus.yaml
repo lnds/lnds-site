@@ -13,6 +13,9 @@ main:
   - name: Posts
     url: "#posts"
     weight: 20
+  - name: Podcast
+    url: "/podcast"
+    weight: 25
   - name: Charlas
     url: "/talks"
     weight: 30
