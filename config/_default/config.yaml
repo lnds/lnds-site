@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: La Naturaleza del Software # Website name
-baseurl: 'https://lnds.net/' # Website URL
-copyright: '&copy; Eduardo Díaz Cortés' # Footer text, e.g. '© {year} Me'
+baseurl: "https://lnds.net/" # Website URL
+copyright: "&copy; Eduardo Díaz Cortés" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -38,11 +38,11 @@ enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
 ignoreFiles: [\.ipynb$, .ipynb_checkpoints$, \.Rmd$, \.Rmarkdown$, _cache$]
 permalinks:
-  post: '/blog/lnds/:year/:month/:day/:slug'
-  event: '/talk/:slug/'
-  tags: '/tag/:slug/'
-  categories: '/category/:slug/'
-  publication_types: '/publication-type/:slug/'
+  post: "/blog/lnds/:year/:month/:day/:slug"
+  event: "/talk/:slug/"
+  tags: "/tag/:slug/"
+  categories: "/category/:slug/"
+  publication_types: "/publication-type/:slug/"
 disableAliases: false
 outputs:
   home: [] #[HTML, RSS, JSON, ATOM, WebAppManifest, headers, redirects]
@@ -70,3 +70,5 @@ related:
       weight: 70
 security:
   _merge: deep
+ignoreErrors:
+  - error-remote-getjson
