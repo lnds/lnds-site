@@ -231,9 +231,10 @@ En ese texto los autores dicen que hay tres reglas básicas de internet que le d
 
 Y eso se nos ha olvidado, por desgracia.
 
+    $ git add content resources
+    $ git commit -m "lo que hemos olvidado sobre internet"
+    $ git push
 
-  $ git commit -am "lo que hemos olvidado sobre internet"
-  $ git push
 
 
 
