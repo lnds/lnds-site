@@ -18,7 +18,6 @@ Puedes escuchar mi Podcast en las siguientes plataformas:
 
 - {{< icon name="spotify" pack="fab" >}} Spotify: https://open.spotify.com/show/5L3G550t0yTqAtKwu7hjSd
 - {{< icon name="podcast" pack="fas" >}} Apple Podcasts: https://podcasts.apple.com/us/podcast/la-naturaleza-del-software/id1626720166
-- Y BuzzSprout para otras plataformas: https://lnds.buzzsprout.com
 
 
 
